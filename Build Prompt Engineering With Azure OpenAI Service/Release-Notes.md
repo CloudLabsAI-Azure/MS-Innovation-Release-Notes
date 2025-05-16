@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-05-13</summary>
+
+## Release Notes
+
+In this section, we will track and list each change introduced in the latest release:
+
+  ### Release Date : 13 May 2025
+
+   - Major updates
+       - Updated OpenAI UI screenshots with new UI format including the other openai module to enchance the user experience.
+       - Have highlighted the action items in the labguides in creation of cloudshell.
+       - Task 5: Configure your application > Under step 3-> Update the configuration updated the screenshots to add the creds
+         
+   - Minor Updates
+       - Have highlighted the action items for the necessary sentences.
+
+     ## Screenshot Updates
+
+    - Change: Updated the screenshots as per the latest UI changes.
+    
+    ## Infrastructure Changes
+
+     NA
+
+    ## Testing Notes
+
+  - **Testing Date**: 2025-05-13
+
+
+# Release Notes
+
+<details>
   <summary>2025-02-17</summary>
 
 ## Release Notes
@@ -62,14 +94,6 @@ In this section, we will track and list each change introduced in the latest rel
 - Minor Updates
     - Refreshed Azure Cloudshell UI, introducing a modernized interface for better user experience and navigation.
  
-  ### 13 May 2024
 
-   - Major updates
-       - Updated OpenAI UI screenshots with new UI format including the other openai module to enchance the user experience.
-       - Have highlighted the action items in the labguides in creation of cloudshell.
-       - Task 5: Configure your application > Under step 3-> Update the configuration updated the screenshots to add the creds
-         
-   - Minor Updates
-       - Have highlighted the action items for the necessary sentences.
        
 
