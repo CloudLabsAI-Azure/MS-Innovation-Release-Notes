@@ -46,4 +46,28 @@ Updated screenshot with new UI changes.
 - **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 - **Resolved Issues**: NA
 
+### 25th April 2025
+
+- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab, updated those as well, and shared the PR with Srikanth.
+- **Testing Date**: 2025-04-25
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Updated the Getting started page as there were UI updates. Minor grammatical errors were there in the lab.
+
+## Screenshot Updates
+
+Updated the Getting started page as there were UI updates.
+
+## Testing Notes
+
+- **Testing Date**: 2025-04-25
+- **Tester**: [Riya Singh]
+- **Issues Found**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
+- **Resolved Issues**: NA
+
 ---
