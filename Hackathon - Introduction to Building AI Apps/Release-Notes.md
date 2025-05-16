@@ -31,3 +31,12 @@
   
   - Updated **screenshots** according to new updates in the lab guide for better user experience. 
 
+
+### 15th May 2025
+
+-  No Major Updates
+  
+- Minor Updates
+  
+  - Updated **screenshots** according to new UI updates in **Azure Open AI Service** for the  English, Spanish, and Portuguese solution guide for better experience. 
+
