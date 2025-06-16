@@ -1,6 +1,6 @@
 # Automate document processing by using Azure AI & OpenAI
 
-Welcome to the **Automate document processing by using Azure AI & OpenAI** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Automate document processing by using Azure AI & OpenAI** Release notes page. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -16,7 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>9 May 2025</summary>
+  <summary>9 June 2025</summary>
 
 ## Infrastructure Changes
 
