@@ -16,6 +16,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-11</summary>
+  
+### Release Date: 2025-07-11
+- **Change** : Updated **.NET SDK** from **version 8** to **9**, screenshots, commands
+- **Testing Date**: 2025-07-11
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+- Updated the .NET SDK version to latest compatible **version 9**
+- Update the commands in below tasks: 
+	- Task 3: step 9
+  	- Subtask 4.1 : step 3, step 4, step 9
+	- Subtask 4.2 : step 3
+	- Task 5
+- Corrected the file name test-openai-model to application.py as **application.py** was the file name in the lab
+- Few minor changes in lab guide 
+## Screenshot Updates 
+- Updated the screenshots in Task 1
+
+</details>
+
+<details>
   <summary>2025-06-03</summary>
 
 ### Release Date: 2025-06-03
@@ -69,7 +94,9 @@ NA
 ---
 </details>
 
-### 29 April 2025
+<details>
+  <summary>2025-04-29</summary>
+29 April 2025
 
 - No Major Updates  
 
@@ -77,8 +104,11 @@ NA
 
     - Update **Screenshots** for the **Storage Account Service** and made minor changes to instructions in Task 4, Step 5.
 
+</details>
 
-### 31 December 2024
+<details>
+  <summary>2024-12-31</summary>
+31 December 2024
 
 - Major Updates  
 
@@ -94,7 +124,7 @@ NA
     - In **PowerShell**, while running Python scripts, the **OpenAI package** version has been upgraded from **1.0.0** to **1.56.2**.  
     - Updated **.NET SDK** from **version 7** to **8**, ensuring compatibility with the latest features and improvements.  
     - The **gpt-35-turbo version** has been updated from **0314** to **0125** in the **Lunch and Learn** module.
- 
+</details>
 
 
 
