@@ -30,6 +30,7 @@ NA
 ## Screenshot Updates 
 
 - Few screenshots were updated and new screenshot was being added in challenge 1 regarding WSL update.
+- In challenge 2 Powershell screenshot was changed with new UI so updated it
 
 ## Testing Notes
 
