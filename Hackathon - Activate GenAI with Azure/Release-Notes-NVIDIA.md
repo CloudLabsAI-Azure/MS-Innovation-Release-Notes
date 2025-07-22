@@ -26,6 +26,7 @@ NA
 - Made changes in lab guide Challenge 1 task 1 where the content of generating a new API key was compressed and redirected to a link.
 - Updated the lab guide which had few typo mistakes and added inject key where ever suggested.
 - Changed the powershell command in challenge 1 task 4.
+- Created a new getting started page (MFA included)
 
 ## Screenshot Updates 
 
