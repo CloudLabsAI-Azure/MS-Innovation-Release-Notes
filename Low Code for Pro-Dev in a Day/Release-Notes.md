@@ -15,6 +15,9 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+<details>
+  <summary>2025-07-22</summary>
+
 ### Release Date : 2025-07-22
 
 - **Change**: Updated logon script to fix dev test environement deployment in power apps portal.
@@ -81,5 +84,4 @@ N/A
 ---
 </details>
 
-<details>
-  <summary>2025-07-22</summary>
+
