@@ -15,6 +15,34 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+### Release Date : 2025-07-22
+
+- **Change**: Updated logon script to fix dev test environement deployment in power apps portal.
+- **Testing Date**: 2025-07-22
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+ 
+- Enhanced the Instructions for users to navigate to correct development environment.
+
+## Screenshot Updates
+
+- Screenshots have been updated as per new UI changes and updated instructions.
+- Added multiple screenshots for better understanding.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-22
+- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
+- **Issues Found**: As per Lab Guide there were no issues, Enhanced the screenshots for user understanding.
+---
+
+</details>
+
+
 <details>
   <summary>2025-06-04</summary>
 
@@ -55,31 +83,3 @@ This repository contains detailed notes about the latest updates and modificatio
 
 <details>
   <summary>2025-07-22</summary>
-
-###Release Date : 2025-07-22
-
-- **Testing Date**: 2025-07-22
-## Infrastructure Changes
-
-**Details:**
-- The deployment is getting failed the reason is we have to assign power app license.
-- Then again we have to rerun the logon task.
-- After marking as success then we can open the environment link.
-
-## Content Changes
- 
-- Added clear instructions for users to navigate to correct development environment.
-
-## Screenshot Updates
-
-- Screenshots have been updated as per new UI changes and updated instructions.
-- Added multiple screenshots for better understanding.
-
-## Testing Notes
-
-- **Testing Date**: 2025-07-22
-- **Tested Features**: Inline validations, latest UI changes, functionality of the lab.
-- **Issues Found**: As per Lab Guide there were no issues. We are facing issue in deployment failed because of powerapps License.
-- **Resolved Issues**: Once power apps license is updated we have to rerun the log on task.
-
-</details>
