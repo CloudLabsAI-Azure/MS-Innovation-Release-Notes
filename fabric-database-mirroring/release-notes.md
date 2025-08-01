@@ -16,6 +16,30 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-07-31</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+ 
+  - Instructions are enhanced for user better understanding.
+
+## Screenshot Updates
+
+  - Updated Enhanced screenshots with clear instructions.
+  - Added numbers in the screenshots to follow step by step.
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-31
+
+---
+</details>
+
+
+<details>
   <summary>2025-05-16</summary>
 
 ## Infrastructure Changes
