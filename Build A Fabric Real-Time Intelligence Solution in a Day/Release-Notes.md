@@ -16,7 +16,30 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 <details>
   <summary>2025-07-28</summary>
-Internal testing and feedback incorporation are currently in progress. The release notes will be updated once this is complete.
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: Revised certain instructions to enhance clarity and improve overall comprehension.
+
+## Screenshot Updates
+
+- **Change**: 
+  1. Screenshots have been updated as per new UI changes and added the numberings in few images.
+  2. Getting started page has been updated as per the new UI changes in the CloudLabs
+
+## Validation
+
+- **Change**: NA
+
+## Testing Notes
+
+- **Testing Date**: 2025-07-28
+
+---
 </details>
 <details>
   <summary>2025-06-12</summary>
