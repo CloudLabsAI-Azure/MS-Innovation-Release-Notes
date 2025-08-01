@@ -17,6 +17,29 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Testing Notes
 <details>
+  <summary>2025-07-31</summary>
+
+## Infrastructure Changes
+
+Updated the public IP SKU from Dynamic to Standard Static.
+
+## Content Changes
+
+Instructions were updated to be more precise and clear.
+
+## Screenshot Update
+
+- **Change**:
+
+  1. Updated few screenshots to make the instructions clearer and improve the overall experience.
+  
+## Testing Notes
+
+- **Testing Date**: 2025-07-31
+
+</details>
+
+<details>
   <summary>2025-07-10</summary>
 
 ## Infrastructure Changes
