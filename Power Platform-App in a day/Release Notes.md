@@ -20,7 +20,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-08-07
 
-- **Change**: The lab was originally tested a year ago, so this involved a complete re-onboarding. While the core content remained unchanged, extensive updates were made to reflect the latest UI enhancements, including revising nearly all screenshots to align with the current user experience.
+- **Change**: Minor instruction change and screenshot update for UI change.
   
 - **Testing Date**: 2025-08-06
 
