@@ -16,30 +16,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>21 July 2025</summary>
-
-## Infrastructure Changes
-
-NA
-
-## Content Changes
-- Made changes in lab guide Challenge 1 task 1 where the content of generating a new API key was compressed and redirected to a link.
-- Updated the lab guide which had few typo mistakes and added inject key where ever suggested.
-- Changed the powershell command in challenge 1 task 4.
-- Created a new getting started page (MFA included)
-
-## Screenshot Updates 
-
-- Few screenshots were updated and new screenshot was being added in challenge 1 regarding WSL update.
-- In challenge 2 Powershell screenshot was changed with new UI so updated it
-
-## Testing Notes
-
-- **Testing Date**: 2025-07-22
-  
-</details>
-
-<details>
   <summary>19th June 2025</summary>
 
 ## Infrastructure Changes
