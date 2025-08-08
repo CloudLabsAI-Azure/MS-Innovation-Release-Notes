@@ -13,6 +13,28 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+<details>
+<summary>2025-08-08</summary>
+
+## Infrastructure Changes
+
+- Changed OS disk SKU from Standard_LRS to Premium_LRS.
+
+## Content Changes
+
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+## Screenshot Updates
+
+- Included multiple screenshots to enhance clarity.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-01
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+
+</details>
 
 <details>
 <summary>2025-07-15</summary>
