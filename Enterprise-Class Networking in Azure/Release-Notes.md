@@ -16,6 +16,35 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2025-07-31</summary>
+
+### Release Date: 2025-08-08
+
+- **Testing Date**: 2025-08-08
+
+## Infrastructure Changes
+
+**Details:**
+- No infrastructure changes were required in this update.
+
+## Content Changes
+ 
+- Refined lab instructions to improve clarity.
+
+## Screenshot Updates
+
+- Replaced outdated screenshots with new ones reflecting the current UI.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-08
+- **Tested Features**: Full lab flow including all sections and tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
+<details>
   <summary>2025-06-11</summary>
 
 ### Release Date: 2025-06-11
@@ -45,3 +74,4 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ---
 </details>
+
