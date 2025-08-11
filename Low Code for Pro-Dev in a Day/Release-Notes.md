@@ -14,17 +14,48 @@ This repository contains detailed notes about the latest updates and modificatio
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2025-07-31</summary>
+
+### Release Date: 2025-08-11
+
+- **Testing Date**: 2025-08-11
+
+## Infrastructure Changes
+
+**Details:**
+- Updated public IP address configuration from Dynamic to Static.
+- Changed OS disk SKU from Standard_LRS to Premium_LRS.
+
+## Content Changes
+ 
+- Included explicit navigation steps to ensure users reach the correct development environment.
+
+## Screenshot Updates
+
+- Included multiple screenshots to enhance clarity.
+
+## Testing Notes
+
+- **Testing Date**: 2025-08-11
+- **Tested Features**: Full lab flow including all sections and tasks.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+</details>
+
 <details>
   <summary>2025-07-22</summary>
 
-### Release Date : 2025-07-22
+### Release Date: 2025-07-22
 
 - **Testing Date**: 2025-07-22
 
 ## Infrastructure Changes
 
 **Details:**
-- Updated automation script to fix *dev test* environment deployment in power apps portal.
+- Updated automation script to fix *dev test* environment deployment in Power Apps portal.
 - Resolved the license issue.
 
 ## Content Changes
@@ -81,3 +112,4 @@ This repository contains detailed notes about the latest updates and modificatio
 - **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the logon script starts.
 ---
 </details>
+
