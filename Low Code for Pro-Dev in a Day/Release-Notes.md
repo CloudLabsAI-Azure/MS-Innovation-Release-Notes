@@ -16,7 +16,7 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
-  <summary>2025-07-31</summary>
+  <summary>2025-08-11</summary>
 
 ### Release Date: 2025-08-11
 
@@ -112,4 +112,5 @@ This repository contains detailed notes about the latest updates and modificatio
 - **Resolved Issues**: Updated logon script to fix the issues mentioned and need to assign **Powerapps Premium** and **Microsoft 365 E3(no teams)** license before the logon script starts.
 ---
 </details>
+
 
