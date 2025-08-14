@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  
+  <summary>2025-08-14</summary>
+
+## Release Date: 2025-08-14
+
+### Summary of Changes
+
+Updated the RBAC, fixed issues with the C# and Python Code in Lab 5, and enhanced a few of the instructions.   
+
+### Infrastructure Changes
+
+- Updated the ARM template to change the OS Disk type from HDD to SSD, and adjusted the cost estimation accordingly.
+- Updated the RBAC - removed the write permission on RG. 
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Instruction Refinements**: Enhanced the instructions to improve clarity, and fixed the numbering and rendering issues in the steps. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-08-14
+
+### Testing Scope 
+
+Conducted end-to-end testing and validation, fixed the issues in C# and Python code in Lab 5, removed the write permission on RG from the custom RBAC as it was not required, and updated the cost estimation accordingly.
+
+---
+</details>
+
 
 <details>
    <summary>2025-08-12</summary>
@@ -161,6 +197,7 @@ NA
 
 ---
 </details>
+
 
 
 
