@@ -11,28 +11,38 @@ This page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 <details>
   <summary>21 July 2025</summary>
 
-## Infrastructure Changes
+### Summary of Changes
+Streamlined API key generation steps in Challenge 1 Task 1 and added a link to external guidance. Updated the PowerShell command in Challenge 1 Task 4 for greater accuracy and consistency. Refreshed several screenshots and added a new image to support the revised instructions.
+
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
   - Refined content in Challenge 1 Task 1 by streamlining the API key generation steps and linking to external guidance.
   - Updated the PowerShell command in Challenge 1 Task 4 for improved accuracy and consistency.
 
-## Screenshot Updates 
+### Screenshot Updates 
 
 - Several screenshots were refreshed, and an additional image was included to support updated instructions in Challenge 1.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-21
 - **Testing Scope**: Functional Flow, UI Instructions/ screenshots, command accuracy, provisioning time, edge case handling
+
+### Testing scope
+
+Validated the complete workflow for Challenge 1, ensuring the streamlined API key generation steps function as intended and the external guidance link is accessible. Verified the updated PowerShell command for accuracy and consistency, and confirmed that refreshed and newly added screenshots align with the revised instructions.
 
 </details>
 <details>

@@ -1,6 +1,6 @@
 # Get Started With OpenAI And Build Natural Language Solution 
 
-Welcome to the **Get Started With OpenAI And Build Natural Language Solution** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started With OpenAI And Build Natural Language Solution** release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -16,26 +16,32 @@ This repository contains detailed notes about the latest updates and modificatio
 <details>
   <summary>16 July 2025</summary>
 
-## Infrastructure Changes
+### Summary of Changes
+
+Updated Lab 02 content and code to match the latest repository changes, and refreshed unclear screenshots to align with the new Cloudlabs UI.
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 - In Lab 02, updates to the cloned repository led to changes in both content and code. These updates have been incorporated to ensure consistency across the lab.
   
-## Screenshot Updates
+### Screenshot Updates
 
  - Minor Updates
    
     1. Screenshots have been updated as per the new Cloudlabs UI in the Getting started page. 
     2. Updated some of the images which were not clear. 
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-14
-- **Issues Found**: NA
-- **Resolved Issues**: NA
+  
+### Testing Scope 
+
+-  Lab content, code functionality, UI alignment, and clarity of revised screenshots.
 
 ---
 </details>
@@ -111,3 +117,4 @@ Updated VM size from b2s to D2sV3 and ip address of VM to Static with Standard s
 
 ---
 </details>
+

@@ -19,22 +19,30 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Release Date: 2025-07-09
 
-## Infrastructure Changes
+### Summary of Changes
+
+Infrastructure updated to a supported Azure VM image, content validated with error-free testing, and all screenshots refreshed for accuracy.
+
+### Infrastructure Changes
 
 The infrastructure has been updated to use a current and supported image, ensuring alignment with the overall lab flow.
 
-
-## Content Changes
+### Content Changes
 
 - **Change**: The most recent testing phase was completed without any issues or complications. All systems performed as expected, and there were no errors or failures encountered during the process.
 
-## Screenshot Updates
+### Screenshot Updates
 
 - **Change**: Screenshots are up-to-date.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-09
+
+### Testing Scope 
+
+Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
 </details>
 
 <details>

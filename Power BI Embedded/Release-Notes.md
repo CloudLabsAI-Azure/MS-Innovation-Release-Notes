@@ -25,8 +25,8 @@ NA
 
 ## Content Changes
 
-    - Improved lab guide instructions for better clarity and ease of use.
-    - Updated screenshots throughout the guide to reflect recent UI changes, ensuring a consistent and user-friendly experience.
+   - Improved lab guide instructions for better clarity and ease of use.
+   - Updated screenshots throughout the guide to reflect recent UI changes, ensuring a consistent and user-friendly experience.
   
 ## Screenshot Updates
 

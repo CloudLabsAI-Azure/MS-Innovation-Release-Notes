@@ -16,31 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-07-14</summary>
+  <summary>2025-07-30</summary>
 
-## Infrastructure Changes
+## Release Date : 2025-07-30
+
+### Summary of Changes
+
+Completed end-to-end testing incorporating updated UI changes, enhanced lab guide content, and revised resource naming conventions; all screenshots were refreshed for clarity and alignment, and the lab was verified to ensure a consistent, improved user experience with no issues identified.
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
-The latest round of testing has been successfully completed, incorporating both the updated UI changes and the enhancements made to the lab guide content. All modifications have been verified to ensure a consistent and improved user experience throughout the lab.
+- The latest round of testing has been successfully completed, incorporating both the updated UI changes and the enhancements made to the lab guide content. All modifications have been verified to ensure a consistent and improved user experience throughout the lab.
   
-## Screenshot Updates
+### Screenshot Updates
 
-The screenshots have been updated to align with the latest content, adhere to the revised resource naming conventions, and improve overall clarity and navigation.
+- The screenshots have been updated to align with the latest content, adhere to the revised resource naming conventions, and improve overall clarity and navigation.
 
-## Testing Notes
+### Testing Notes
 
-The lab has been thoroughly tested with all updated screenshots and content revisions, and no issues were identified during the testing process.
+- The lab has been thoroughly tested with all updated screenshots and content revisions, and no issues were identified during the testing process.
 
-- **Testing Date**: 2025-07-14
+- **Testing Date**: 2025-07-30
+
+### Testing Scope 
+
+- Scope of testing included end-to-end lab execution, verification of updated UI elements, accuracy of revised screenshots, and validation of resource naming conventions.
+
+------------
 
 </details>
 
-
 <details>
   <summary>2025-06-20</summary>
+  
+## Release Date : 2025-06-20
+
+### Summary of Changes
+
+- Successfully completed comprehensive testing of updated UI, lab content, and screenshots, confirming accuracy and a seamless user experience.
 
 ## Infrastructure Changes
 
@@ -61,7 +78,6 @@ The lab has been thoroughly tested with all updated screenshots and content revi
 - **Testing Date**: 2025-06-20
 
 </details>
-
 
 <details>
   <summary>2025-06-10</summary>

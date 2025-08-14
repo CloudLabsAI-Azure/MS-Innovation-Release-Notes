@@ -14,6 +14,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-08-12</summary>
+
+- **Testing Date**: In- Progress
 
 </details>
 <details>
@@ -29,7 +33,6 @@ NA
     - Relevant content sections have been reviewed and updated for accuracy and clarity.
 
 - **Minor Changes**: Updated instructions and UI elements to reflect recent changes in the Azure portal.
-
   
 ## Screenshot Updates
 
@@ -126,3 +129,4 @@ NA
 
 
   
+

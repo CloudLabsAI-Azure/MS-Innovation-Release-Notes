@@ -11,32 +11,41 @@ This page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
   <summary>2025-07-17</summary>
 
-## Infrastructure Changes
+### Summary of Changes
+
+No changes were made to the lab infrastructure or content, ensuring configurations, and files remain unchanged. Updated screenshots to improve clarity.
+
+### Infrastructure Changes
 
 There have been no infrastructure modifications or changes applied to the lab environment, ensuring that its configuration and setup remain same. 
 
-## Content Changes
+### Content Changes
 
-- **Change**: The content of the lab environment has not been changed or modified. All datasets, configurations, and files remain the same.
+- **Change**: The content of the lab environment has not been changed or modified. All configurations, and files remain the same.
   
-## Screenshot Updates
+### Screenshot Updates
 
 - **Change**: Screenshots have been updated with clarity.
   
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-17
 - **Issues Found**: The latest testing phase was completed smoothly, with all systems operating as expected and no errors or issues encountered throughout the process.
 - **Resolved Issues**: NA
 
----
+### Testing scope
+
+Validated the complete lab workflow, confirmed no infrastructure or content changes, verified configuration integrity, and reviewed updated screenshots for clarity and accuracy.
+
 </details>
 
 <details>

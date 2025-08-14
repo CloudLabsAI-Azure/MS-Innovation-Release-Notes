@@ -19,6 +19,8 @@ This Page contains detailed notes about the latest updates and modifications mad
   <summary>09 July 2025</summary>
 
 ### Release Date: 2025-07-09
+
+### Summary of Changes
   
   - Lab testing was carried out end-to-end with no issues observed.
   - Enhanced lab guide instructions and updated screenshots to improve clarity and user understanding.
@@ -38,6 +40,10 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Testing Notes
 
 - **Testing Date**: 2025-07-09
+
+### Testing Scope 
+
+Scope included full lab execution, review of revised instructions, and validation of updated screenshots for accuracy and clarity.
 
 ---
 </details>
@@ -128,3 +134,4 @@ This Page contains detailed notes about the latest updates and modifications mad
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience.  
 
 </details>
+

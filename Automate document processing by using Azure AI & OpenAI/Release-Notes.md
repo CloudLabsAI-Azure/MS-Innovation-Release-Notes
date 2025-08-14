@@ -15,27 +15,36 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
-## Testing Notes
 <details>
   <summary>2025-07-31</summary>
 
-## Infrastructure Changes
+## Release Date : 2025-07-31
 
-Updated the public IP SKU from Dynamic to Standard Static.
+### Summary of Changes 
 
-## Content Changes
+-  Updated the Public IP SKU from Dynamic to Standard Static, refined instructional content for precision and clarity, and refreshed selected screenshots to better align with the updated guidance and enhance user experience.
 
-Instructions were updated to be more precise and clear.
+### Infrastructure Changes
 
-## Screenshot Update
+- Updated the public IP SKU from Dynamic to Standard Static.
 
-- **Change**:
+### Content Changes
 
-  1. Updated few screenshots to make the instructions clearer and improve the overall experience.
+- Instructions were updated to be more precise and clear.
+
+### Screenshot Update
+
+- Updated few screenshots to make the instructions clearer and improve the overall experience.
   
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-31
+
+### Testing Scope 
+
+- Verified the deployment process with the updated Public IP SKU configuration, ensured instructions matched the actual portal flow, and confirmed that updated screenshots accurately reflected the latest UI and steps.
+
+-------------
 
 </details>
 
@@ -154,3 +163,4 @@ NA
 - **Testing Date**: 2025-03-18
 
 </details>
+

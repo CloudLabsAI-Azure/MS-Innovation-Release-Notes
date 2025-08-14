@@ -1,7 +1,7 @@
 
 # Azure AI Foundry + Agents + GitHub
 
-Welcome to the **Azure AI Foundry + Agents + GitHub** . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Azure AI Foundry + Agents + GitHub**. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -12,40 +12,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
 
-# Release Notes
+ `Email Support: cloudlabs-support@spektrasystems.com`
+
+## Release Notes
 
 <details>
   <summary>2025-08-05</summary>
 
-### Release Date: 2025-08-05
+## Release Date: 2025-08-05
 
-- **Change**: This is a newly onboarded lab. We have revised some content in Day 1, specifically in Exercise 1 and Exercise 3.
+### Summary of Changes
+
+This is a newly onboarded lab. We have revised the content in Day 1, Day 2, Day 3, and Day 4 to improve clarity, accuracy, and overall flow. Instructions have been refined, steps have been reorganized for better readability, and consistency has been ensured across all days. Additionally, relevant screenshots have been added throughout the lab to provide visual guidance and make the instructions easier to follow.
+
+### Infrastructure Changes
+
+Implemented automation for Exercise 3 of Day 1 in the Azure AI Foundry + Agents + GitHub lab. This enhancement replaces the previous manual steps for creating required folders and files with an automated process. 
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Major updates**: 
+
+    - **Updated UI Screenshots**: Added new and updated screenshots.
+    - **Instruction Refinements**: Fixed numbering and rendering issues, and added clear instructions.
+
+
+### Testing Notes
 
 - **Testing Date**: 2025-08-05
 
-## Infrastructure Changes
+### Testing Scope 
 
-NA
+ Conducted end-to-end lab validation, updated cost estimation, ensured prerequisites were met, and updated content to reflect the latest UI changes.
 
-## Content Changes
-
-Have added content in Day 1 Lab, in Exercise 1 and Exercise 3.
-
-## Screenshot Updates
-
-Have added the screenshots in Day 1 Lab, in Exercise 1 and Exercise 3.
-
-## Validation
-
-Have added the validation in all 4 Labs.
-
-## Testing Notes
-
-- **Test Validation Summary**: Validated the lab guide steps, incorporated the latest approach to perform the tasks, and updated the content .
-
-
----
 </details>
 

@@ -11,42 +11,86 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.` 
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+   <summary>2025-08-12</summary>
+
+### Release Date: 2025-08-12
+
+### Summary of Changes
+
+Removed the Completion Chat task and GPT-3.5-Turbo-Instruct model from Lab-01 due to their unavailability and irrelevance in the updated AI Foundry setup.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes: 
+
+- **Change**:
+
+1. **Removed Completion Chat Task**: In line with the recent update in AI Foundry, the Completion Chat feature is no longer visible. As a result, the associated task has been removed from Lab-01.
+
+1. **Removed GPT-3.5-Turbo-Instruct**: Since the GPT-3.5-Turbo-Instruct model is no longer returning results and has no relevant application in the lab due to the absence of the Completion Chat, it has been removed.
+
+### Screenshot Updates
+
+- **Change**: 
+
+   NA
+
+### Testing Notes
+
+- **Testing Date**: NA
+- **Tested Features**: NA
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite verification, and optimizations to reduce provisioning time.
+
+---
+</details>
 
 <details>
    <summary>2025-07-18</summary>
 
 ### Release Date: 2025-07-18
 
-- **Change**:
-     - Updated all labs to reflect the transition from using the MS Learn OpenAI repository to the CloudLabs repository for application code, with revised steps accordingly in Labs 3, 4, and 5.
-     - Refined and updated the C# and Python code across all labs to ensure consistency and alignment with the latest implementation.
+### Summary of Changes
+
+Updated all labs to reflect the transition from using the MS Learn OpenAI repository to the CloudLabs repository for application code, with revised steps accordingly in Labs 3, 4, and 5. Refined and updated the C# and Python code across all labs to ensure consistency and alignment with the latest implementation.
  
 - **Testing Date**: 2025-07-16
 
-## Infrastructure Changes
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 - **Change**:
     1. Updated instructions and images reflecting the changes with cloning the Cloudlabs repo. 
 
-## Screenshot Updates
+### Screenshot Updates
 
 - **Change**: 
 
    - Screenshots have been updated with instructions.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-16
 - **Tested Features**: Inline validations, latest UI and instruction changes, functionality of the lab.
 
----
+### Testing Scope 
+
+Conducted end-to-end architecture validation, RBAC/policy checks, cost estimation updates, prerequisite verification, and optimizations to reduce provisioning time.
+
 </details>
 
 
@@ -117,3 +161,6 @@ NA
 
 ---
 </details>
+
+
+

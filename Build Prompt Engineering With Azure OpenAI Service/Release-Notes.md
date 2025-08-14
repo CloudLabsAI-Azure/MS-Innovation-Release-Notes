@@ -11,32 +11,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
   <summary>2025-07-11</summary>
+  
+### Summary of Changes
 
-## Infrastructure Changes
+- Conducted updates to lab instructions and screenshots to align with the latest Azure AI Foundry portal UI changes, ensuring clarity, consistency, and accurate navigation guidance.
+
+### Infrastructure Changes
 
   N/A
 
-## Content Changes
+### Content Changes
 
   1. Revised select instructions to align with the updated UI of the Azure AI Foundry portal.
 
-## Screenshot Updates
+### Screenshot Updates
 
 - **Change**: 
 
     1. Refreshed several images to reflect the new navigation and UI updates in the Azure AI Foundry portal.
     
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-10
 
----
+### Testing scope
+
+- Validated the updated Azure AI Foundry portal UI, reviewed instructional clarity, and refreshed screenshots to ensure accuracy and alignment with the latest navigation changes.
 </details>
 
 

@@ -19,30 +19,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 
   <summary>2025-07-15</summary>
 
-### Release Date: 2025-07-15
+## Release Date: 2025-07-15
 
-- **Testing Date**: 2025-07-15
+### Summary of Changes
 
-## Infrastructure Changes
+Lab guide and associated screenshots updated to reflect recent CloudLabs and Azure portal UI changes, ensuring technical accuracy and improved visual clarity.
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 - Updated lab guide. Getting started page has been updated as per the new UI changes in the CloudLabs.
 
 
-## Screenshot Updates
+### Screenshot Updates
 
 - Screenshots have been updated with clarity.
 - Updated lab guide with more screenshots wherever required and with latest UI present in azure portal.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-07-15
 - **Tested Features**: Inline validations, latest UI changes, functionality of the lab, Cloudlabs VM shadow.
 
-  
+### Testing Scope
+
+Lab guide accuracy, screenshot alignment with updated CloudLabs and Azure portal UI, and end-to-end lab execution without functional or navigational issues.
+
+</details>
+
+<details> 
 <summary>2025-06-21</summary>
 
 ### Release Date: 2025-06-21
@@ -96,3 +104,4 @@ NA
 - **Resolved Issues**: NA
 ---
 </details>
+

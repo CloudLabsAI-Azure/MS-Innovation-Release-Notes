@@ -11,34 +11,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 <details>
   
-  <summary>29 July 2025</summary>
+  <summary>2025-07-29</summary>
 
-## Infrastructure Changes
+### Summary of Changes
+No infrastructure changes were made. The lab guide was revised to reflect the latest UI updates, and new screenshots were added accordingly. Testing confirmed that the content is accurate and the lab functions as expected.
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
 Revised the lab guide to incorporate the latest UI changes. 
   
-## Screenshot Updates
+### Screenshot Updates
 
 Updated the lab guide with new screenshots to reflect the latest UI changes.
 
-## Testing Notes
+### Testing Notes
 
 The existing content is good, and the lab is working as expected.
+
+### Testing scope
+
+Validated the complete lab workflow, confirmed the implementation of latest UI updates in instructions and screenshots, and ensured all steps function as expected without impacting existing configurations or lab performance.
 
 </details>
 
 <details>
   
-  <summary>18 July 2025</summary>
+  <summary>-2025-07-18</summary>
 
 ## Infrastructure Changes
 

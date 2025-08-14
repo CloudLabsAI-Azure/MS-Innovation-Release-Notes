@@ -10,8 +10,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
 
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
@@ -20,9 +21,9 @@ In this section, we will track and list each change introduced in the latest rel
 
 <details>
 
-  <summary>18 July 2025</summary>   
+  <summary>2025-07-18</summary>   
 
-### 18 July 2025
+### 2025-07-18
 - Infrastructure Changes:
   NA
 
@@ -33,16 +34,15 @@ In this section, we will track and list each change introduced in the latest rel
   Replaced and updated several screenshots to reflect the current UI.  
   Additional screenshots were also added where needed to support new or modified instructions.
 
-- Testing done: 18th July 2025
-
+- Testing done: 2025-07-18
 </details>
 
 <details>
   
-  <summary>12 May 2025</summary>   
+  <summary>2025-05-12</summary>   
 
 
-### 12 May 2025
+### 2025-05-12
 - Infrastructure Changes:
   NA
 
@@ -52,15 +52,15 @@ In this section, we will track and list each change introduced in the latest rel
 - Screenshot Updates:
   Added screenshots for the new added steps.
 
-- Testing done: 12th May 2025
+- Testing done: 2025-05-12
 
 </details>
 
 <details>
   
-  <summary>31 December 2024</summary>
+  <summary>2024-12-31</summary>
 
-### 31 December 2024
+### 2024-12-31
 
 - Major Updates
 

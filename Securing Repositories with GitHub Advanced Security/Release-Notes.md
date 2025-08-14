@@ -13,40 +13,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
-<details>
-  
+# Release Notes
 
 <details>
   <summary>28-July-2025</summary>
 
-## Infrastructure Changes
+## Release Date : 28-July-2025
 
-## Content Changes
+### Summary of Changes
+
+Added explicit navigation steps in the lab guide and incorporated multiple screenshots to improve clarity and ensure correct environment access.
+
+### Infrastructure Changes
+
+### Content Changes
 
 - Included explicit navigation steps to ensure users reach the correct development environment.
 
-## Screenshot Updates
+### Screenshot Updates
 
 - Included multiple screenshots to enhance clarity.
 
-</details>
+### Testing Notes
 
+- **Testing Date**: 2025-07-28
+
+### Testing Scope 
+
+Conducted validation to ensure that the revised navigation steps reliably direct users to the correct development environment and that the newly added screenshots accurately reflect the current UI for improved clarity.
+
+------------
+</details>
 
 <details>
   <summary>09-July-2025</summary>
 
-## Infrastructure Changes
+## Release Date : 09-July-2025
+
+### Infrastructure Changes
 
 - No major changes
 
-## Content Changes
+### Content Changes
 
 - The instructions have been updated to reflect the revised naming convention of the **GitHub Organization**
   
-## Screenshot Updates
+### Screenshot Updates
 
 - Updated the screenshot and instructions to reflect the UI changes based on the Content Change.
 
+------------
 </details>
 
   
@@ -55,7 +71,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Infrastructure Changes
 
+- NA
+
 ## Content Changes
+
+- NA
 
 ## Screenshot Updates
 
@@ -111,3 +131,4 @@ This Page contains detailed notes about the latest updates and modifications mad
 - **Testing Date**: 31 December 2024
 
 </details>
+

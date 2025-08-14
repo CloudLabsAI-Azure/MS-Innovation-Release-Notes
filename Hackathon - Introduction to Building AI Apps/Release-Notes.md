@@ -11,27 +11,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 <details>
   <summary>2025-05-15</summary>
 
-## Infrastructure Changes
+### Summary of Changes
+- Updated the lab guide with revised instructions and refreshed screenshots to enhance clarity and improve the overall user experience.
+
+### Infrastructure Changes
 
   - N/A
 
-## Content Changes
+### Content Changes
 
   - Updated the lab guide with screenshots and instructions wherever needed.  
 
-## Screenshot Updates
+### Screenshot Updates
 
  - **Change**: Updated the screenshots for a clearer and more intuitive user experience.
 
-## Testing Notes
+### Testing Notes
 
 - **Testing Date**: 2025-05-15
+
+### Testing scope
+- Validated the complete lab workflow, verified Azure UI updates, assessed application dependencies and framework validity, and reviewed instructional clarity and screenshot accuracy.
 </details>
 
 

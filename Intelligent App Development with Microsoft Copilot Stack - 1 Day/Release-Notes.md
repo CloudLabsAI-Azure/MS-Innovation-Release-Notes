@@ -16,7 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+
+  <summary>2025-07-15</summary>
+
+### Release Date: 2025-07-16
+
+- **Change**: Revised certain screenshots and instructions as needed.
+- **Testing Date**: 2025-07-15
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- **Change**: NA
+  
+## Screenshot Updates
+
+- **Change**: Screenshots were updated to enhance the overall user experience.
+  
+## Testing Notes
+
+- **Test Validation Summary**: Tested lab end to end to check the functionalility and validated it.
+
+---
+
+</details>
+
+<details>
   <summary>2025-06-16</summary>
+
 
 ### Release Date: 2025-06-16
 
@@ -28,7 +58,7 @@ NA
 
 ## Content Changes
 
-- **Change**: Minor UI Changes and instructions updated.
+- **Change**: NA
 
 ## Screenshot Updates
 
@@ -39,4 +69,7 @@ NA
 - **Test Date**: 2025-06-16
 
 ---
+
 </details>
+
+

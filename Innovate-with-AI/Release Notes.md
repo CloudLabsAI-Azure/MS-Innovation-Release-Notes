@@ -11,29 +11,37 @@ This repository contains detailed notes about the latest updates and modificatio
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
 <details>
   
   <summary>2025-07-30</summary>
 
-## Infrastructure Changes
+Removed dataset registration from Data_Preparation.ipynb to improve task clarity and added new screenshots to enhance the overall user experience.
+
+### Infrastructure Changes
 
 NA
 
-## Content Changes
+### Content Changes
 
   - **Change**: Updated 1. Data_Preparation.ipynb_ by removing dataset registration to improve task clarity.
   
-## Screenshot Updates
+### Screenshot Updates
 
  - **Change**: Screenshots were added to enhance the overall user experience.
 
-## Testing Notes
+### Testing Notes
 
    - **Testing Date**: 2025-07-30
    - **Testing Scope**: Functional Flow, UI Instructions/ screenshots, command accuracy, provisioning time, edge case handling
+
+### Testing scope
+
+Validated the updated Data_Preparation.ipynb workflow to ensure removal of dataset registration does not impact subsequent tasks. Verified that newly added screenshots accurately reflect the current UI and improve instructional clarity.
 
 </details>
 
