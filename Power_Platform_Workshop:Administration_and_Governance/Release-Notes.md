@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-09-03</summary>
+
+### Release Date: 2025-09-03
+
+- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power Platform Admin Centre and Microsoft forms.
+  
+- **Testing Date**: 2025-09-02
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+  
+
+## Screenshot Updates
+
+- **Change**: Enhanced the labguide with new latest screenshots according to the new UI Updates in Power Power Platform Admin Centre and Microsoft forms .
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-02
+- **Resolved Issues**: NA
+
+## Testng Scope
+
+- Performed end-to-end testing, lab validation is working fine. Updated the lab guide content to thr latest UI changes in Power Platform Admin Centre and Microsoft forms.
+---
+</details>
+
+<details>
   <summary>2025-06-14</summary>
 
 ### Release Date: 2025-05-26
