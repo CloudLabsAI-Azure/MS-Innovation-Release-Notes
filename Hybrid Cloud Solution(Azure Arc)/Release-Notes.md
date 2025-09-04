@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-08-29</summary>
+
+### Release Date: 2025-08-19
+
+## Summary of Changes
+
+updates including new task steps for SQL server onboard to azure arc and removed 2 task in Enable GitOps Configuration on connected K8s Cluster to clear kubernetes image issue.
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+  
+Instructions where improved and added conclusion 
+
+## Screenshot Updates
+
+  - UI Screenshots: Refreshed screenshots to align with updated steps (e.g., SQL Server onboarding to Azure Arc).
+  - Instruction Refinements: Improved clarity in task steps and added a concluding section for better flow.
+## Validation
+
+  - Exercise 5 (GitOps Configuration on Connected Kubernetes Cluster): Removed a few tasks (3, 5, and 6) due to dependency issues with unavailable Kubernetes images.
+  - Exercise 3 (Onboard SQL Server to Arc): Revised Task 2 (Register Azure Arc-enabled SQL Server) with clearer instructions following script updates.
+## Testing Notes
+
+- **Test Date**: 2025-08-28
+
+## **Testing Scope**
+
+Tested to udpated few task where instructor and uses where facing issue
+
+---
+</details>
+
+
+<details>
   <summary>2025-08-19</summary>
 
 ### Release Date: 2025-08-19
@@ -85,3 +122,5 @@ NA
 
 ---
 </details>
+
+
