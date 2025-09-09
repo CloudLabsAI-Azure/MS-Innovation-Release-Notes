@@ -34,7 +34,7 @@ N/A
 
 ## Screenshot Updates
 
-- ** Newer Updates**: 
+- **Newer Updates**: 
 
     - Replaced outdated screenshots with new ones reflecting the current UI.
 
