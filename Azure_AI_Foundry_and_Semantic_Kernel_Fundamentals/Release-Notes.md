@@ -11,12 +11,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
-  <summary>2025-07-11</summary>
+  <summary>2025-09-10</summary>
+
+## Summary of Changes
+
+Minor updates, including clearer screenshots and refined instructions for improved clarity and accuracy. 
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+NA
+   
+## Screenshot Updates
+
+- **Minor updates:**
+  
+  - **Updated Screenshots:** Enhanced screenshots have been updated for better understanding.
+  - **Instruction Refinements:** Updated numbering and formatting for better clarity and understanding.
+
+## Testing Notes  
+
+- Testing Date: 2025-09-10
+
+## Testing Scope
+
+Conducted end-to-end validation. RBAC/Policy checks, cost estimation updates.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
 
 ### Release Date: 2025-07-11
 
