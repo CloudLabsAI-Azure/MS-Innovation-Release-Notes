@@ -12,6 +12,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Changes to screenshots and visuals used in the lab
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
@@ -49,7 +50,7 @@ Conducted end-to-end validation. RBAC/Policy checks, cost estimation updates.
 </details>
 
 <details>
-  <summary>2025-09-10</summary>
+  <summary>2025-07-11</summary>
 
 ### Release Date: 2025-07-11
 
