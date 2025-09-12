@@ -24,16 +24,32 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Instruction Refinements**: Fixed rendering issues and added clear instructions.
+      
 ### Testing Notes
 
-- **Testing Date**: 2025-09-10
+- **Testing Date**: 2025-09-01
 
 ### Testing Scope 
 
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+- Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
 
+---
 </details>
 
 <details>
@@ -42,6 +58,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Release Date: In-Progress
   
 </details>
+
 <details>
   <summary>2025-07-10</summary>
 
@@ -73,7 +90,6 @@ NA
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest changes.
 ---
 
-
 <details>
   <summary>2025-06-20</summary>
 
@@ -90,7 +106,7 @@ NA
 
 ## Screenshot Updates
 
-- **Change**: nhanced the instructions by aligning the naming convention with the visuals for improved clarity and consistency.
+- **Change**: enhanced the instructions by aligning the naming convention with the visuals for improved clarity and consistency.
 
 ## Validation
 
@@ -101,6 +117,7 @@ NA
 - **Test Validation Summary**: Validated the lab guide steps, updated the content to reflect the latest UI changes.
  
 </details>
+
 <details>
   <summary>2025-06-06</summary>
 
@@ -194,3 +211,5 @@ NA
 - **Resolved Issues**: NA
 
 </details>
+
+
