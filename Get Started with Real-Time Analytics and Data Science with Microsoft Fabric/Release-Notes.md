@@ -12,10 +12,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+ `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
+<details>
+  <summary>2025-09-11</summary>
+
+## Release Date: 2025-09-11
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content have been reviewed and updated.
+
+## Infrastructure Changes
+
+  NA
+  
+## Content Changes
+
+  Getting Started Page: Updated to replace the Azure Portal login flow with the new Microsoft Fabric portal login instructions.
+
+## Screenshot Updates
+
+- Replaced and updated lab guide screenshots that were previously unclear as per latest UI changes.
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-11
+
+### Testing Scope 
+
+Performed end to end lab testing and updated lab guide for better clarity.
+
+---
 </details>
 
 <details>
