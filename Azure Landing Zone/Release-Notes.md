@@ -18,7 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 
-**This is a newly onboarded lab.**
+<details>
+  
+  <summary>2025-09-19</summary>
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+  - **Change**:
+
+    1. Updated and added instructions wherever required.
+  
+## Screenshot Updates
+
+ - **Change**:
+
+   1. Added screeshots according to new changes and UI updates.
+
+## Validation
+
+NA
+
+## Testing Notes
+
+- **Test Validation Summary**: Validated the lab guide steps, enhanced the labguide with new latest screenshots.
+
+</details>
+
+
+
 <details>
   
   <summary>2025-07-14</summary>
@@ -44,6 +75,8 @@ NA
    - **Testing Date**: 2025-07-14
 
 </details>
+
+**This is a newly onboarded lab.**
 
 <details>
   
