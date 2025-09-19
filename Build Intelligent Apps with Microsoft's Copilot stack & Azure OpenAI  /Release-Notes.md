@@ -18,17 +18,25 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-09-10</summary>
+  <summary>2025-09-18</summary>
 
-## Release Date: 2025-09-10
+## Release Date: 2025-09-18
 
 ### Summary of Changes
 
 - The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
 
+### Infrastructure Changes
+
+  - Custom image used for the virtual machine has been updated on 2025-09-16.
+
+## Screenshot Updates
+
+ - **Change**: Updated the screenshots for a clearer and more intuitive user experience.
+
 ### Testing Notes
 
-- **Testing Date**: 2025-09-10
+- **Testing Date**: 2025-09-18
 
 ### Testing Scope 
 
@@ -169,6 +177,7 @@ NA
     - Renamed **Cognitive Search** to **AI Search** across relevant sections to reflect the updated terminology.  
 
 </details>
+
 
 
 
