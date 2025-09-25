@@ -18,6 +18,41 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2025-09-24</summary>
+
+## Release Date: 2025-09-24
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+
+### Infrastructure Changes
+
+Installed Python 3.12 through the Logon Task script and updated summarization.py to use the stable SDK.
+
+### Content Changes
+
+Included commands that upgrade the Azure AI Text Analytics Python SDK to the latest version using Python 3.12 and explicitly executed the script with Python 3.12 to ensure it doesn’t run in the older Python 3.6 environment.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-09-24
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites.
+
+---
+</details>
+
+
+<details>
   <summary>2025-09-10</summary>
 
 ## Release Date: 2025-09-10
