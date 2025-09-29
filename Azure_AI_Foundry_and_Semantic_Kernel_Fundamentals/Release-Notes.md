@@ -3,7 +3,6 @@
 Welcome to the **AI Developer -  Azure AI Foundry and Semantic Kernel Fundamentals** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
-
 This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
@@ -51,12 +50,13 @@ Conducted end-to-end validation. RBAC/Policy checks.
 </details>
 
 <details>
-  <summary>2025-07-25</summary>
+  <summary>2025-08-08</summary>
 
 ### Release Date: 2025-07-25
 
-- **Change**: The lab has been tested up to Exercise 7. An issue related to the Weather plugin in Exercise 5, Task 2: Semantic Search Plugin has been resolved. The necessary code updates have been made in Exercise 7, Task 2: DALL·E (Python).
+## Summary of Changes
 
+- Issue related to the Weather plugin in Exercise 5, Task 2: Semantic Search Plugin has been resolved. The necessary code updates have been made in Exercise 7, Task 2: DALL·E (Python).
   
 - **Testing Date**: 2025-07-25
 
@@ -68,7 +68,6 @@ NA
 
 - Updated the chat.py and .env files in Exercise 5, Task 2, and verified the functionality. The chat now returns the expected outputs.
 - Modified the code for the DALL·E model, resolved the existing issues, and confirmed that it is now functioning as expected.
-  
 
 ## Screenshot Updates
 
