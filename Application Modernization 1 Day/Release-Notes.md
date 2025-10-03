@@ -16,6 +16,27 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2025-09-30</summary>
+  
+## Release Date: 2025-09-18
+
+### Summary of Changes
+
+- Instructions and Images have been updated to accomodate the newer changes in Azure AI Search
+- Additional enhancements in images and instructions in the Solution guide for easier navigation and understanding
+
+## Testing Notes
+
+- **Testing Date**: 2025-09-30
+
+### Testing Scope 
+
+- End to End testing has been performed and Validations are Succeded 
+
+---
+</details>
+
+<details>
   <summary>2025-08-26</summary>
   
 ## Release Date: 2025-09-18
