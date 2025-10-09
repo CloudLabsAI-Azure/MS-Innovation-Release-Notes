@@ -17,33 +17,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-10-09</summary>
 
-### [Release Date: 2025-10-09]
+## Release Date: 2025-10-09
 
-- **Change**: Tested lab no issues.
-- **Testing Date**: 2025-10-09
-- **Notes**: NA
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
 
 ## Infrastructure Changes
 
-- **Change**: NA (No changes, lab is working as expected).
-- **Details**: NA
+NA
 
 ## Content Changes
 
-- **Change**: NA (No changes, lab is working as expected).
-- **Details**: No content changes made.
+NA
 
 ## Screenshot Updates
 
-- **Change**: NA
-- **Details**: No UI screenshot updates required.
+NA
 
 ## Testing Notes
 
 - **Testing Date**: 2025-10-09
-- **Tested Features**: Dependency Scanning, Secret Scanning, Code Scanning, Security Campaigns and Azure Function App.
-- **Issues Found**: NA
-- **Resolved Issues**: NA
+
+### Testing Scope
+ 
+Conducted validation to ensure that the revised navigation steps reliably direct users to the correct development environment and that the newly added screenshots accurately reflect the current UI for improved clarity.
   
   </details>
   
@@ -182,6 +180,7 @@ Conducted validation to ensure that the revised navigation steps reliably direct
 - **Testing Date**: 31 December 2024
 
 </details>
+
 
 
 
