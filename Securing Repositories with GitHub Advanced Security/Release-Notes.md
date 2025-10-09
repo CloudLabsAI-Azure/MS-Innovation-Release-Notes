@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+- Tested the lab end to end with UI up to date and smooth performance of the lab. 
 
 ## Infrastructure Changes
 
@@ -41,7 +41,7 @@ NA
 
 ### Testing Scope
  
-Conducted validation to ensure that the revised navigation steps reliably direct users to the correct development environment and that the newly added screenshots accurately reflect the current UI for improved clarity.
+- Conducted validation to ensure that the revised navigation steps reliably direct users to the correct development environment and that the newly added screenshots accurately reflect the current UI for improved clarity.
   
   </details>
   
@@ -180,6 +180,7 @@ Conducted validation to ensure that the revised navigation steps reliably direct
 - **Testing Date**: 31 December 2024
 
 </details>
+
 
 
 
