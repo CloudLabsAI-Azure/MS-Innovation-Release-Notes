@@ -14,7 +14,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-10-09</summary>
 
+### [Release Date: 2025-10-09]
+
+- **Change**: Tested lab no issues.
+- **Testing Date**: 2025-10-09
+- **Notes**: NA
+
+## Infrastructure Changes
+
+- **Change**: NA (No changes, lab is working as expected).
+- **Details**: NA
+
+## Content Changes
+
+- **Change**: NA (No changes, lab is working as expected).
+- **Details**: No content changes made.
+
+## Screenshot Updates
+
+- **Change**: NA
+- **Details**: No UI screenshot updates required.
+
+## Testing Notes
+
+- **Testing Date**: 2025-10-09
+- **Tested Features**: Dependency Scanning, Secret Scanning, Code Scanning, Security Campaigns and Azure Function App.
+- **Issues Found**: NA
+- **Resolved Issues**: NA
+  
+  </details>
+  
 <details>
   <summary>2025-09-10</summary>
 
@@ -150,5 +182,6 @@ Conducted validation to ensure that the revised navigation steps reliably direct
 - **Testing Date**: 31 December 2024
 
 </details>
+
 
 
