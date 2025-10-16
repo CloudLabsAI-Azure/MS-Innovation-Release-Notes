@@ -20,35 +20,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2025-10-16</summary>
 
-## Release Date: 2025-10-16
+## Release Date: 2025-16-11
 
-### Summary of Changes
+### Summary of Changes 
 
-Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+-  Added explicit navigation steps in the lab guide and incorporated multiple screenshots to improve clarity and ensure correct environment access.
 
 ### Infrastructure Changes
 
-N/A
+- NA
 
 ### Content Changes
 
-N/A
+- Included detailed navigation instructions to ensure users access the appropriate development environment.
 
-### Screenshot Updates
+### Screenshot Update
 
-- **Minor updates**: 
-
-    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
-      
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
 ### Testing Notes
 
 - **Testing Date**: 2025-10-16
 
 ### Testing Scope 
 
- Conducted end-to-end architecture validation, cost estimation checks, and prerequisite verification.
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
 
----
+-------------
+
 </details>
 
 <details>
