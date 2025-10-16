@@ -32,11 +32,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
-- Included detailed navigation instructions to ensure users access the appropriate development environment.
+- NA
 
 ### Screenshot Update
 
-- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience. Included navigation instructions to ensure users access the appropriate development environment.
   
 ### Testing Notes
 
@@ -200,6 +200,7 @@ NA
 - 
 ---
 </details>
+
 
 
 
