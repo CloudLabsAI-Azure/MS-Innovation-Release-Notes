@@ -16,6 +16,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-17</summary>
+
+## Release Date: 2025-10-17
+
+Internal testing is currently in progress, and the final pointers will be shared once it is completed.
+---
+</details>
+
+<details>
   <summary>2025-09-17</summary>
 
 ## Release Date: 2025-09-17

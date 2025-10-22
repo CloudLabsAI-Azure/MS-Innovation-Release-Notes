@@ -17,6 +17,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-16</summary>
+
+## Release Date: 2025-10-16
+
+### Summary of Changes 
+
+-  Minor updates have been made, including clearer UI screenshots and refined instructions to improve clarity and accuracy. The validation for the Governance rule has been removed due to an authentication method issue. 
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Included detailed navigation instructions to enable Defender CSPM Plan.  
+
+### Screenshot Update
+
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-10-16
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
+
+<details>
   <summary>2025-09-19</summary>
 
 ## Release Date: 2025-09-19
