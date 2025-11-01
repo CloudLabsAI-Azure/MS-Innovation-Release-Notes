@@ -17,6 +17,37 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ## Release Notes
 
 <details>
+  <summary>2025-10-29</summary>
+
+## Release Date: 2025-10-29
+
+### Summary of Changes 
+
+-  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- Screenshots have been updated to provide clearer instructions and enhance the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-10-29
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+<details>
   <summary>2025-09-30</summary>
 
 ## Release Date: 2025-09-30

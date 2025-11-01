@@ -18,6 +18,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-10-28</summary>
+
+## Release Date: 2025-10-28
+
+### Summary of Changes 
+
+-  Made minor updates with clearer screenshots and refined instructions to enhance clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- There was an issue in Challenge 4 hence made the changes in lab guide according to it
+
+### Screenshot Update
+
+- Screenshots have been updated to provide clearer instructions and enhance the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-10-28
+
+### Testing Scope 
+
+- Validation included checks for infrastructure compatibility, lab flow continuity, content accuracy, and alignment of screenshots with the latest UI.
+
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
