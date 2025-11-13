@@ -18,6 +18,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-14</summary>
+
+## Release Date: 2025-11-14
+
+### Summary of Changes
+
+Content updated, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- As gpt-4o and gpt-35-turbo OpenAI models are retired, replaced them with gpt-4.1 and gpt-4.1-mini. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-13
+
+### Testing Scope 
+
+- Content updated, screenshots updated as per the new content for clarity, and enhanced the instructions. 
+
+---
+</details>
+
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
