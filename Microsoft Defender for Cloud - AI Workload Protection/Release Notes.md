@@ -21,7 +21,31 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Date: 2025-11-17
 
-The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+### Summary of Changes
+
+Minor instructions were updated for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Minor updates in the lab guide for better clearity for instructions. 
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-17
+  
+### Testing Scope 
+
+Performed end to end lab testing, updated lab guide for better clarity.
+
+---
 
 </details>
 
