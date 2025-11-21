@@ -1,5 +1,5 @@
-# Developing a Custom RAG App Using Azure AI Foundry
-Welcome to the  **Developing a Custom RAG App Using Azure AI Foundry** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+# Developing a Custom RAG App Using Microsoft Foundry
+Welcome to the  **Developing a Custom RAG App Using Microsoft Foundry** Release-Notes.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -13,6 +13,41 @@ This Page contains detailed notes about the latest updates and modifications mad
  `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+
+<details>
+  <summary>2025-11-21</summary>
+
+## Release Date: 2025-11-21
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per the new UI. 
+      
+### Testing Notes
+
+- **Testing Date**: 2025-11-20
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+---
+</details>
 
 <details>
   <summary>2025-10-23</summary>
