@@ -17,6 +17,40 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+## Release Date : 2025-11-22
+
+### Summary of Changes
+
+The lab has been successfully tested, updated few screenshots with latest ones according to the updates. Lab content along with validations have been reviewed. 
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated few screenshots with latest ones.
+    - **Instruction Refinements**: NA
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-22
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots.
+
+---
+</details>
+
+
+
 <details>
   <summary>2025-10-10</summary>
 
