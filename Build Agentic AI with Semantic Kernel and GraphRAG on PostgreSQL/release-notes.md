@@ -18,12 +18,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
-  <summary>2025-11-17</summary>
+  <summary>2025-11-27</summary>
 
-## Release Date: 2025-11-17
+## Release Date: 2025-11-27
 
-The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+### Summary of Changes
 
+Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refined lab instructions to improve clarity.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-27
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
+
+---
 </details>
 
 <details>
