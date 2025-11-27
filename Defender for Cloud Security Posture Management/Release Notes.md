@@ -21,7 +21,32 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Date: 2025-11-17
 
-The internal testing is currently in progress, and the final pointers will be updated upon its completion.
+
+### Summary of Changes 
+
+-  Minor updates have been made, including clearer UI screenshots and refined instructions to improve clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Included detailed navigation instructions in each lab.  
+
+### Screenshot Update
+
+- Updated few screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-11-17
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
 
 </details>
 
