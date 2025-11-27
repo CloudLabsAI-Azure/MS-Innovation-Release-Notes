@@ -18,40 +18,21 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2025-11-10</summary>
+  <summary>2025-11-20</summary>
 
-## Release Date: 2025-11-10
-
-### Summary of Changes
-
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
-
-### Testing Notes
-
-- **Testing Date**: 2025-11-10
-
-### Testing Scope 
-
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
-
-</details>
-
-<details>
-  <summary>2025-10-10</summary>
-
-## Release Date: 2025-10-10
+## Release Date: 2025-11-20
 
 ### Summary of Changes
 
-- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+- All assigned UI enhancements have been completed, including the major updates for AI Foundry. The corresponding lab content has also been reviewed and updated.
 
 ### Testing Notes
 
-- **Testing Date**: 2025-10-10
+- **Testing Date**: 2025-11-20
 
 ### Testing Scope 
 
-- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+- Only UI updates were assigned; therefore, no testing was performed.
 
 </details>
 
@@ -234,7 +215,6 @@ In this section, we will track and list each change introduced in the latest rel
     - Refreshed Azure Cloudshell UI, introducing a modernized interface for better user experience and navigation.
  
        
-
 
 
 
