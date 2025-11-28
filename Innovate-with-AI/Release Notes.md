@@ -17,6 +17,9 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+<details>
+  <summary>2025-11-22</summary>
+
 ## Release Date : 2025-11-22
 
 ### Summary of Changes
@@ -48,7 +51,6 @@ Conducted end-to-end testing, validated the lab guide steps, enhanced the labgui
 
 ---
 </details>
-
 
 
 <details>

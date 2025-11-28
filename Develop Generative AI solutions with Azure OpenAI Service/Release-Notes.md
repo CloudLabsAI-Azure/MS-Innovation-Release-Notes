@@ -18,6 +18,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-11-27</summary>
+
+## Release Date : 2025-11-27
+
+### Summary of Changes
+
+The lab has been successfully tested, updated screenshots. Most of all related to update of AI foundry to Microsoft Foundry, added instructions for better clarity. Lab content along with validations have been reviewed. 
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: UI changes related to Microsoft Foundry.
+    - **Instruction Refinements**: NA
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-27
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, enhanced the labguide with new latest screenshots and added instructions for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2025-11-10</summary>
 
 ## Release Date: 2025-11-10
@@ -305,6 +340,7 @@ NA
 
 ---
 </details>
+
 
 
 
