@@ -20,6 +20,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2025-12-01</summary>
+
+## Release Date: 2025-12-01
+
+### Summary of Changes
+
+Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots as per the new UI. 
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-01
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+</details>
+
+<details>
   <summary>2025-11-07</summary>
 
 ## Release Date: 2025-11-07
