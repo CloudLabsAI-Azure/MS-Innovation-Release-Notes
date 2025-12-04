@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>3 December 2025</summary>
+
+## Summary of Changes
+
+Minor update to reflect updated Azure OpenAI portal interface— UI screenshots refreshed for better alignment with the latest layout. No functional or instructional changes made.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Change**: Added a few **Notes** and **Instructions** for better user understandability.
+  
+## Screenshot Updates
+
+- **Change**: 
+
+    1. Screenshots have been updated as per new UI changes and updated instructions.
+  
+## Testing Notes
+
+- **Testing Date**: 2025-12-03
+
+## Testing Scope 
+
+- Performed full validation of all lab tasks with the new UI. Verified that all steps, prompts, and validation checks work as expected.
+
+---
+</details>
+
+<details>
   <summary>12 May 2025</summary>
 
 ## Infrastructure Changes
@@ -39,3 +71,4 @@ NA
 
 ---
 </details>
+
