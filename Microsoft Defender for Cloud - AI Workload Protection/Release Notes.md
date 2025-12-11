@@ -15,6 +15,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-12-11</summary>
+
+## Release Date: 2025-12-11
+
+### Summary of Changes
+
+Instructions and screenshots were updated for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Minor updates in the lab guide for better clearity for instructions and latest UI updates related to foundary portal.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2025-12-11
+  
+### Testing Scope 
+
+Performed end to end lab testing, updated lab guide for better clarity, latest updates.
+
+---
+
+</details>
 
 <details>
   <summary>2025-11-17</summary>
