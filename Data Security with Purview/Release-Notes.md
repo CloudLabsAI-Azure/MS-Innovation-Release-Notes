@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2025-12-12</summary>
+
+## Release Date: 2025-12-12
+
+### Summary of Changes
+
+Updated the lab guide with clearer and more accurate UI screenshots to improve clarity, precision, and provide a seamless learning experience.
+
+### Infrastructure Changes
+
+- Updated the Public IP SKU from Dynamic to Standard Static.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced low-quality screenshots with updated versions and enhanced instructions to ensure a clearer and more seamless learning experience.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-12-12
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, and prerequisite verification.
+
+---
+</details>
+
+<details>
   <summary>2025-11-13</summary>
 
 ## Release Date: 2025-11-13
