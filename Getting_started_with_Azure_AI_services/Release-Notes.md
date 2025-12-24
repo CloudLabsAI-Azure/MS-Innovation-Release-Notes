@@ -50,6 +50,41 @@ N/A
 </details>
 
 <details>
+  <summary>2025-12-24</summary>
+
+## Release Date: 2025-12-24
+
+### Summary of Changes
+
+This update includes major instruction flow changes based on the new updates on the AI services. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Change**:
+    - Updated lab guide with multiple screenshots and content based on the changes from Microsoft.
+    - **Getting started page** updated with new CloudLabs UI changes.
+
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+    
+### Testing Notes
+
+- **Testing Date**: 2025-12-23
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all - validations covered with infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+---
+
+# Release Notes
+<details>
   <summary>2025-11-07</summary>
 
 ## Release Date: 2025-11-07
