@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-02</summary>
+
+## Release Date: 2065-01-02
+
+### Summary of Changes 
+
+- Screenshots and instructions updates.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- **Minor updates**:
+ 
+    - **Updated UI Screenshots**: Updated screenshots that were unclear with new ones.
+    - **Instruction Refinements**: Enhanced the instructions to improve clarity, and fixed the numbering and rendering issues in the steps.
+  
+### Testing Notes
+
+- **Testing Date**: 2025-12-31
+
+### Testing Scope 
+
+- Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
+
+</details>
+
+
+<details>
   <summary>2025-09-22</summary>
 
 ## Release Date: 2025-09-23
@@ -49,3 +84,4 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
 
 </details>
+
