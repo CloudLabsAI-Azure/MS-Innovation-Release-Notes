@@ -15,6 +15,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+## Release Date: 2026-01-02
+
+### Summary of Changes 
+
+-  Added explicit navigation steps in the lab guide and incorporated multiple screenshots to improve clarity and ensure correct environment access.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Included detailed navigation instructions to ensure users access the appropriate development environment as per the recent product updates.
+
+### Screenshot Update
+
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-01-01
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+---------------
+</details>
 
 <details>
   <summary>2025-10-29</summary>
