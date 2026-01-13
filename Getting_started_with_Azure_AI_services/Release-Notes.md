@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-09</summary>
+
+## Release Date: 2026-01-09
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+Updated inject keys which were not configured properly.
+
+### Content Changes
+
+Updated the instructions and content for the lab as per the latest UI.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots as per the latest UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-09
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the latest UI.
+
+---
+</details>
+
+<details>
   <summary>2025-12-30</summary>
 
 ## Release Date: 2025-12-30
