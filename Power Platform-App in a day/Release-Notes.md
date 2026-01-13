@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-13</summary>
+
+### Release Date: 2026-01-13
+
+## Summary of Changes
+
+Minor updates, including clearer screenshots and refined instructions for improved clarity and accuracy. 
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+ 
+NA
+
+## Screenshot Updates
+
+  - **Screenshots:** Updated the screenshots to the latest UI and updated few images according to the instruction for better understanding.
+  - **Instruction:** Improved lab guide instructions for better clarity and ease of use.
+
+## Validation
+
+No Validation
+
+## Testing Scope
+
+ - Conducted end-to-end testing successfully.verified the lab guide steps, Updated the lab guide for better clarity and updated the cost estimation.
+
+</details>
+
+
+<details>
   <summary>2025-09-26</summary>
 
 ### Release Date: 2025-09-29

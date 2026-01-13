@@ -19,6 +19,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-01-02</summary>
+  
+## Release Date: 2026-01-02
+
+### Summary of Changes
+
+Minor updates of screenshots and instructions
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+ N/A 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    -Updated a architecture screenshot.
+    
+    -Improved instructions for better understanding
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-02
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, Updated the lab guide for better clarity
+---
+</details>
+
+</details>
+
+<details>
  <summary>2025-12-18</summary>
 
 ## Release Date: 2025-12-18
@@ -85,42 +122,6 @@ N/A
 - Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
 
 ---
-</details>
-
-<details>
-  <summary>2026-01-02</summary>
-  
-## Release Date: 2026-01-02
-
-### Summary of Changes
-
-Minor updates of screenshots and instructions
-
-### Infrastructure Changes
-
-  N/A
-
-### Content Changes
-
- N/A 
-
-### Screenshot Updates
-
-- **Minor updates**: 
-
-    -Updated a architecture screenshot.
-    -Added a note in the instruction for better understanding
-
-### Testing Notes
-
-- **Testing Date**: 2026-01-02
-
-### Testing Scope 
-
-Conducted end-to-end testing, validated the lab guide steps, Updated the lab guide for better clarity
----
-</details>
-
 </details>
 
 <details>
