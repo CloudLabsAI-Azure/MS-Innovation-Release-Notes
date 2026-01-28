@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-29</summary>
+
+## Release Date: 2026-01-29
+
+### Summary of Changes
+
+Custom script updated to deploy Docker Desktop in the VM, and Ex 6 steps updated accordingly.
+
+### Infrastructure Changes
+
+We have updated the Custom script extension to deploy the Docker desktop application in the VM, as it is now required to perform Ex 6. 
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated Screenshots**: Enhanced the user experience by updating screenshots and improving instructional clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-28
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+
+<details>
   <summary>2026-01-08</summary>
 
 ## Release Date: 2026-01-08
@@ -82,4 +117,5 @@ N/A
 
 ---
 </details>
+
 
