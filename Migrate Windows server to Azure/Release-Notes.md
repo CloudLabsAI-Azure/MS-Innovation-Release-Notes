@@ -18,6 +18,39 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-01-28</summary>
+
+## Release Date: 2026-01-28
+
+### Summary of Changes
+
+Updated the lab by including the latest UI screenshots and fix the rendering issue. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Minor Screenshot updates are done as most of the UI updates are upto date.
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-28
+
+### Testing Scope 
+
+Conducted end-to-end validation and prerequisite verification.
+
+---
+
+</details>
+
+<details>
   <summary>2026-01-08</summary>
 
 ## Release Date: 2026-01-08
