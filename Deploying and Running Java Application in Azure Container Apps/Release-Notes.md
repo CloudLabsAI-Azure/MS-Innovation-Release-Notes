@@ -14,6 +14,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-01-30</summary>
+
+## Release Date : 2026-01-30
+
+### Summary of Changes
+
+- Lab VM SKU upgraded, lab guide content updated as per latest UI updates.
+
+### Infrastructure Changes
+
+- Lab VM SKU upgraded form B2s to D2s_v3
+
+### Content Changes
+
+- **Change**: Updates required in Instructions steps, Screenshots, Codes  & commands.
+
+### Screenshot Updates
+
+- As per UI change screenshots updated.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-30
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab functionality, workflow, content, and architecture diagram.
+
+---
+</details>
+
 <details>
   <summary>2025-12-11</summary>
 

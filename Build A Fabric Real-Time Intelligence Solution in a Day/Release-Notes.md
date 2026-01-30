@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-30</summary>
+
+## Release Date : 2026-01-30
+
+### Summary of Changes
+
+No Change Required.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Change**: All instructions and screenshots are updated as per latest UI.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-30
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab functionality, Fabric trial capacity license features, lab workflow, content, and architecture diagram.
+
+---
+</details>
+
+<details>
   <summary>2026-01-05</summary>
  
 ## Release Date: 2026-01-05
