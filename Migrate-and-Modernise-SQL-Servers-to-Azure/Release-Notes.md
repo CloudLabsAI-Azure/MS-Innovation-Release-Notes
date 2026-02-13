@@ -35,7 +35,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Validation
 
-   NA
+   We have validation issue in Exercise 2 due to recent UI changes, after checking with engineering team we have removed the validation in Exercise 2 for time being as we are working with MS support team and engineering team to fix it. Once fixed the validation will be re-added.
 
 ## Testing Notes
 
