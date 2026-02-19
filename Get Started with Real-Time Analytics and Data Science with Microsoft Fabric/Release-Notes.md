@@ -19,6 +19,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-16</summary>
+
+## Release Date: 2026-02-16
+
+### Summary of Changes
+
+Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: I have updated the screenshots in Lab 1 and Lab 2 wherever the images were blurred. I have also updated Lab 2 > Task 3: Load data into a dataframe, Step 2, as there is a new UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-13
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, including RBAC and policy compliance checks, and verification of prerequisites. 
+
+---
+</details>
+
+<details>
   <summary>2026-01-29</summary>
 
 ## Release Date: 2026-01-29

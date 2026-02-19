@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-19</summary>
+
+## Release Date: 2026-02-19
+
+### Summary of Changes
+
+The lab instructions and screenshots have been updated to align with the new Microsoft Fabric UI. The steps have been simplified for better clarity and numbering has been added to the screenshots wherever required to improve user navigation.
+
+### Infrastructure Changes
+
+- Updated the OS Disk SKU from StandardHDD to StandardSSD. 
+
+### Content Changes
+
+- Exercise 1 Task 2:
+  Updated the UI steps while creating a workspace. The License mode option is now shown as Fabric Trial instead of Trial.
+
+- Exercise 4 Task 1:
+  Previously, the RTI dashboard was created from the Fabric Workspace, and the KQL Database was added later as a data source. This approach resulted in an error while saving the dashboard due to an unidentified ScopeId.
+  The steps have now been updated to create the RTI Dashboard directly from the KQL Database, which resolves the issue and allows the dashboard to be saved successfully.
+
+### Screenshot Updates
+
+- Updated screenshots across all exercises based on the new Fabric UI.
+- Added numbering to screenshots wherever necessary for better understanding. 
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-18
+
+### Testing Scope 
+
+Performed end-to-end testing of the lab to validate functionality. Updated the content, improved the lab flow for better clarity, and refreshed the screenshots based on the latest UI changes.  
+
+---
+</details>
+
+
+<details>
   <summary>2026-01-30</summary>
 
 ## Release Date : 2026-01-30
