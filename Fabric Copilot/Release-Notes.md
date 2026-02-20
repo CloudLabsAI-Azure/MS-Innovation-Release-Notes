@@ -14,6 +14,41 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+
+<details>
+  <summary>2026-02-20</summary>
+
+## Release Date: 2026-02-20
+
+### Summary of Changes
+
+- Performed end to end lab testing, and all validations were successful. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Workspace, Fabric Capacity is depricated, Updated with Fabric.
+
+### Screenshot Updates
+
+- Getting Started, updated ‘VM & Lab Guide’ Screenshot
+- Ex 1, Task 2, Step 5 Workspace capacity screenshot updated.
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-20
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest updates.
+
+</details>
+
+
 <details>
   <summary>2026-01-19</summary>
 
