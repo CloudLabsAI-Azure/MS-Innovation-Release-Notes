@@ -16,6 +16,39 @@ This repository contains detailed notes about the latest updates and modificatio
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2025-10-24</summary>
+
+## Release Date: 2026-02-19
+
+### Summary of Changes
+
+Implemented minor updates such as improved UI screenshots and revised instructions to ensure greater clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Revised and updated few screenshots to align with the recent updates in the Visual Studio code user interface/CloudLabs UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2025-10-24
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab and revised the guide to incorporate the most recent UI updates.Verified the functionality of the validations.
+
+---
+</details>
 
 <details>
   <summary>2025-11-17</summary>
