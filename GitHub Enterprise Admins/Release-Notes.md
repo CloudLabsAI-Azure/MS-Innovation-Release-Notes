@@ -23,11 +23,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
--  Accommodated major updates related to GitHub UI.
--  Added injected keys to fetch real-time lab-specific values.
--  Updated url's that are being used in the tasks.
--  Created support handover document.
--  Created cost estimation for the lab.
+- Incorporated recent updates reflecting the latest GitHub UI enhancements.
+- Added injected keys to fetch real-time lab-specific values.
+- Updated and validated relevant URLs.
 
 ### Infrastructure Changes
 
