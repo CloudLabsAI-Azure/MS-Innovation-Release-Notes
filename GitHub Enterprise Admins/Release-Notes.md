@@ -23,11 +23,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
--  Major updates related to GitHub UI.
--  Inject keys were not configured properly updated all inject keys for the lab.
--  Issues in the url's that are being used in the tasks updated those as well.
--  Created support handover doc.
--  Created cost estiation for the lab.
+-  Accommodated major updates related to GitHub UI.
+-  Added injected keys to fetch real-time lab-specific values.
+-  Updated url's that are being used in the tasks.
+-  Created support handover document.
+-  Created cost estimation for the lab.
 
 ### Infrastructure Changes
 
@@ -35,7 +35,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
-- The content is updated as per the new UI of the GitHub.
+- Updated the content as per the new UI of the GitHub.
 
 ### Screenshot Update
 
