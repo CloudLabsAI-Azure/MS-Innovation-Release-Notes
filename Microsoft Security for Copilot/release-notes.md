@@ -1,6 +1,6 @@
-# Microsoft Security for Copilot
+# Microsoft Copilot for Security
 
-Welcome to the **Microsoft Security for Copilot** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Copilot for Security** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -15,6 +15,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-02-19</summary>
+
+## Release Date: 2026-02-19
+
+### Summary of Changes 
+
+- Made updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- Updated screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-02-19
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+---------------
+</details>
+
+<details>
+  <summary>2026-01-02</summary>
+
 ## Release Date: 2026-01-02
 
 ### Summary of Changes 
