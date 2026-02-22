@@ -16,6 +16,30 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>22 Feb 2026</summary>
+
+  ## Release Date: 2026-02-22
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+1. Improve the overall quality of the guide by correcting formatting issues and fixing/aligning image references so the step-by-step instructions read more clearly and consistently.
+2. Added Troubleshooting steps for each challanges 
+
+### Screenshot Updates
+   
+   1. GitHub and Azure portal screenshots have been updated to reflect the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-22
+   
+</details>
+
+<details>
   <summary>23 Jan 2026</summary>
 
   ## Release Date: 2026-01-23
