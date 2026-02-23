@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-23</summary>
+
+## Release Date: 2026-02-23
+
+### Summary of Changes
+
+Screenshots and instructions updated as per the UI updates in the Fabric portal. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated screenshots on the Getting Started page.
+- Reflected Fabric UI updates, including the license mode name change to Fabric Trial and minor updates in the Lakehouse UI; corresponding screenshots and instructions have been updated.
+- In Lab 2, updated the steps and UI in Task 1 related to creating a Connection.
+
+### Screenshot Updates
+
+**Updated UI Screenshots**: 
+  - Lab 1: Task 1 Step 1, Task 1 Step 8, Task 1 Step 9, Task 1 Step 11, Task 1 Step 13, Task 2 Step 2, Task 2 Step 7, Task 2 Step 9, Task 3 Step 1, Task 3 Step 7, Task 4 Step 1, Task 4 Step 3, Task 4 Step 4, Task 6 Step 6
+  - Lab 2: Task 1 Step 1, Task 1 Step 7, Task 1 Step 8, Task 1 Step 12, Task 1 Step 13, Task 2 Step 1, Task 2 Step 7, Task 2 Step 8, Task 3 Step 2, Task 3 Step 4, Task 3 Step 4, Task 3 Step 8, Task 3 Step 9
+    
+### Testing Notes
+
+- **Testing Date**: 2026-02-23
+
+### Testing Scope 
+
+- Completed end-to-end lab testing with all validations passing successfully. Improved the lab flow for better clarity and refreshed the screenshots based on the latest UI changes.
+---
+</details>
+
+<details>
   <summary>2026-01-16</summary>
 
 ## Release Date: 2026-01-16
@@ -162,6 +197,7 @@ N/A
 
 ---
 </details>
+
 
 
 
