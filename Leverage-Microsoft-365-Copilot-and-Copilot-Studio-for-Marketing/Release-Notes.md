@@ -38,7 +38,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated the screenshots to align with the latest VS Code GitHub Copilot user interface.
+    - **Updated UI Screenshots**: Updated the screenshots to align with the latest UI.
 
 ### Testing Notes
 
