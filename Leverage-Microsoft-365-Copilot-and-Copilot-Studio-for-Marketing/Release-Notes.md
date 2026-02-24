@@ -25,7 +25,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes 
 
-- Incorporated recent updates reflecting the latest Microsoft Copilot UI enhancements.
+- Incorporated recent updates reflecting the latest Microsoft Copilot Studio UI enhancements.
 - Updated and validated relevant URLs.
 
 ### Infrastructure Changes
