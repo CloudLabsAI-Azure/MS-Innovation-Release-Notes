@@ -18,6 +18,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-02-21</summary>
+ 
+## Release Date: 2026-02-21
+ 
+### Summary of Changes
+ 
+-  Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+ 
+### Infrastructure Changes
+ 
+- NA
+ 
+### Content Changes
+ 
+- NA
+ 
+### Screenshot Update
+ 
+- Updated several screenshots with latest UI as well as also added few instructions and improve the overall experience.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-02-21
+ 
+### Testing Scope
+ 
+- Performed end-to-end validatio, and updated the lab guide to the latest UI changes
+-------------
+ 
+</details>
+
+
+<details>
   <summary>2026-01-21</summary>
  
 ## Release Date: 2026-01-21
@@ -266,6 +299,7 @@ NA
 - 
 ---
 </details>
+
 
 
 
