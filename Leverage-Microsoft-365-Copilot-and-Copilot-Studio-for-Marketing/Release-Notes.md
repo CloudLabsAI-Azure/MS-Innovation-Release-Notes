@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
+
+<details>
+  <summary>2026-02-24</summary>
+
+## Release Date: 2026-02-24
+
+### Summary of Changes 
+
+- Incorporated recent updates reflecting the latest Microsoft Copilot UI enhancements.
+- Updated and validated relevant URLs.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Improved instructions for better understanding.
+
+### Screenshot Update
+
+- Updated multiple screenshots to make the instructions clearer and improve the overall experience.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-02-24
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
+
 <details>
   <summary>2026-02-03</summary>
 
