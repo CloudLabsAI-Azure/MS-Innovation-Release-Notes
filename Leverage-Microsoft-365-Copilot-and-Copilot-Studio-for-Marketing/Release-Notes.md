@@ -46,7 +46,7 @@ N/A
 
 ### Testing Scope 
 
-- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+- End-to-end lab testing was completed successfully, and the lab guide was updated to improve clarity and reflect the latest UI changes.
 
 ---
 </details>
