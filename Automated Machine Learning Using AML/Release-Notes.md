@@ -15,6 +15,37 @@ This repository contains detailed notes about the latest updates and modificatio
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-02-26</summary>
+
+## Release Date: 2026-02-26
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+In Task 2, we have sample data location change from MS end have incorporated those changes, refined the instructions for better clarity and understandable with cleared UI screenshots.
+
+### Screenshot Updates
+
+- **Major updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots as per the latest UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-25
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the latest UI.
+</details>
 
 <details>
   <summary>2026-01-12</summary>
