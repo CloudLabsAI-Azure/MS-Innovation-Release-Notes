@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-02-25</summary>
+
+## Release Date: 2026-02-25
+
+### Summary of Changes
+
+Accommodated minor UI updates and refined instructions to improve understanding and clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Minor instructional updates to align the steps with the current Fabric portal UI.
+
+### Screenshot Updates
+
+- **Minor updates**: Minor screenshot updates to align with Fabric portal UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-25
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab with all validations successfull, updated the lab guide with clear instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-02-03</summary>
 
 ## Release Date: 2026-02-03
