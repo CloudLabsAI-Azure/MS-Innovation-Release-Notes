@@ -22,7 +22,9 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+- Updated the sample data location in Task 2 ("Use Automated Machine Learning to Train a Model") to align with changes from the Microsoft parent repository.
+- Refined lab instructions for improved clarity and better learner experience.
+- Updated UI screenshots to reflect the latest interface and ensure accurate step-by-step guidance.  
 
 ### Infrastructure Changes
 
@@ -30,7 +32,7 @@ N/A
 
 ### Content Changes
 
-In Task 2, we have sample data location change from MS end have incorporated those changes, refined the instructions for better clarity and understandable with cleared UI screenshots.
+Task 2 updated to reflect changes in the sample data location from Microsoft, with revised instructions and refreshed UI screenshots.
 
 ### Screenshot Updates
 
