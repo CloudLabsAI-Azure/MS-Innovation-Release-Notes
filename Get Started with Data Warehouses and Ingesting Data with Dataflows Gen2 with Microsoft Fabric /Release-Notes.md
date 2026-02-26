@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Made minor updates by adding clearer, up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.  
+Implemented minor updates by incorporating updated UI screenshots for Workspace creation and the Semantic Model launch option, along with refining instructional content to improve clarity, accuracy, and overall user experience.
 
 ### Infrastructure Changes
 
@@ -36,7 +36,7 @@ N/A
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+    - **Updated UI Screenshots**: Replaced screenshots to align with the latest user interface for Workspace creation and the Semantic Model launch option, ensuring visual accuracy and consistency with the current platform experience.
       
 ### Testing Notes
 
