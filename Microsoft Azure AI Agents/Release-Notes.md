@@ -14,6 +14,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-02-27</summary>
+
+### Release Date: 2026-02-27
+
+## Summary of Changes
+
+Updated the documentation with latest screenshots and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
+
+## Infrastructure Changes
+
+NA 
+
+## Content Changes
+ 
+  - Lab 3, Task 1, Step 14:
+    - Updated the instructions for 'Create the Azure AI Search Index' as per the UI change.
+
+## Screenshot Updates
+
+  - Lab 3, Task 1, Step 14:
+    - Updated the screenshots for 'Create the Azure AI Search Index' as per the UI change.
+
+## Validation
+
+  - All Validation Succeeded.
+
+## Testing Scope
+
+ - Executed thorough end-to-end validation of the lab environment, systematically verifying lab validations.
+
+</details>
+
 <details>
   <summary>2026-02-03</summary>
 
