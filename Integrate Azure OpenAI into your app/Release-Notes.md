@@ -15,6 +15,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-02-24</summary>
+
+## Release Date: 2026-02-24
+
+### Summary of Changes
+
+Updated the guide with clearer, up-to-date UI screenshots and refined instructions for improved clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-02-24
+
+### Testing Scope 
+
+Performed end-to-end lab testing and validations, updating instructions and screenshots. 
+
+</details>
+
  <details>
   <summary>2026-01-15</summary>
 
@@ -195,6 +226,7 @@ NA
     - Updated **.NET SDK** from **version 7** to **8**, ensuring compatibility with the latest features and improvements.  
     - The **gpt-35-turbo version** has been updated from **0314** to **0125** in the **Lunch and Learn** module.
 </details>
+
 
 
 
