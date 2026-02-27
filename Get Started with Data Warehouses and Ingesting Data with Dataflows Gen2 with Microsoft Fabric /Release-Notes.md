@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-25</summary>
+
+## Release Date: 2026-02-25
+
+### Summary of Changes
+
+Implemented minor updates by incorporating updated UI screenshots for Workspace creation and the Semantic Model launch option, along with refining instructional content to improve clarity, accuracy, and overall user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to align with the latest user interface for Workspace creation and the Semantic Model launch option, ensuring visual accuracy and consistency with the current platform experience.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-25
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, and enhanced the lab guide with the latest screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-01-23</summary>
   
 ## Release Date: 2026-01-23
