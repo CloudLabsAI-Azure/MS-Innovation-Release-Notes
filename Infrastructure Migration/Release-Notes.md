@@ -17,6 +17,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-01-23</summary>
+
+## Release Date: 2026-01-23
+
+### Summary of Changes 
+
+- Successfully tested the first three exercises in HOL 1 to validate the workflow and ensure the steps are functioning as expected as per Pax8
+
+### Infrastructure Changes
+
+- Updated the PowerShell script to incorporate the new VM image along with necessary configuration changes to align with the latest environment requirements.
+- Reviewed and modified the RBAC policy to resolve permission issues that were preventing key generation for Azure Migrate appliances, ensuring the required access is now properly configured.
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-01-23
+
+### Testing Scope 
+
+- Conducted end-to-end testing, RBAC/policy, updated screenshots, and enhanced the instructions for clarity.
+
+</details>
+
+<details>
   <summary>2026-01-02</summary>
 
 ## Release Date: 2065-01-02
