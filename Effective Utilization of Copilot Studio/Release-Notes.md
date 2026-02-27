@@ -18,6 +18,38 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-02-27</summary>
+
+## Release Date: 2026-02-27
+
+### Summary of Changes
+
+Accommodated major Copilot Studio UI updates and refined instructions to improve understanding and clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Minor instructional updates to align the steps with the current Copilot Studio UI.
+
+### Screenshot Updates
+
+- **Major updates**: Major screenshot updates to align with Copilot Studio UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-27
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab with all validations successfull, updated the lab guide with clear instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-02-03</summary>
 
 ## Release Date: 2026-02-03
@@ -154,4 +186,5 @@ Conducted end-to-end validation and prerequisite verification.
 ---
 
 </details>
+
 

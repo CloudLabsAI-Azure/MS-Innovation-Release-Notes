@@ -16,10 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-02-26</summary>
+
+  ## Release Date: 2026-02-26
+
+### Summary of Changes 
+
+- Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated several screenshots with latest UI as well as also added few instructions and improve the overall experience.
   
-  <summary>31-January-2026</summary>
+### Testing Notes
+
+- **Testing Date**: 2026-02-26
+
+### Testing Scope 
+
+- Performed end-to-end validation, and updated the lab guide to the latest UI changes.
   
-## Release Date: 31-January-2026
+</details>
+
+<details>
+  
+  <summary>2026-01-31</summary>
+  
+## Release Date: 2026-01-31
 
 ### Summary of Changes 
 -  The content has been refreshed with Microsoft Foundry, and the instructions have been updated to utilize the latest Foundry portal features and workflows.
@@ -39,7 +66,7 @@ N/A
   
 ### Testing Notes
 
-- **Testing Date**: 31-January-2026
+- **Testing Date**: 2026-01-31
 
 ### Testing Scope 
 
@@ -52,9 +79,9 @@ N/A
 
 <details>
   
-  <summary> 23-December-2025</summary>
+  <summary>2025-12-23</summary>
 
-## Release Date: 23-December-2025
+## Release Date: 2025-12-23
 
 ### Summary of Changes 
 
@@ -94,7 +121,7 @@ N/A
   
 ### Testing Notes
 
-- **Testing Date**: 23-December-2025
+- **Testing Date**: 2025-12-23
 
 ### Testing Scope 
 
@@ -115,7 +142,7 @@ N/A
 
 ### Summary of Changes 
 
--  Updated post-Ignite content in Microsoft Foundry and the Foundry portal, including revised instructions and new screenshots.
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
 
 ### Infrastructure Changes
 
@@ -262,7 +289,7 @@ Scope included full lab execution, review of revised instructions, and validatio
 </details>
 
 <details>
-  <summary>16 June 2025</summary>
+  <summary>2025-06-16</summary>
 
 ### Release Date: 2025-06-16
   
@@ -288,7 +315,7 @@ Scope included full lab execution, review of revised instructions, and validatio
 </details>
 
 <details>
-  <summary>27 May 2025</summary>
+  <summary>2025-05-27</summary>
 
 ### Release Date: 2025-05-27
 
@@ -308,26 +335,23 @@ Scope included full lab execution, review of revised instructions, and validatio
 
 ## Testing Notes
 
-- **Testing Date**: 2025-05-26
+- **Testing Date**: 2025-05-27
 
----
 </details>
 
-
 <details>
-  <summary>14 May 2025</summary>
+  <summary>2025-04-14</summary>
 
 - Minor Updates
 
   - Enhanced **lab guide instructions** and **updated screenshots** for a clearer and more intuitive user experience with latest UI. 
 
-- **Testing Date**: 14-may-2025
+- **Testing Date**:2025-04-14
 
 </details>
 
 <details>
-  <summary>31 December 2024</summary>
-
+  <summary>2024-12-31</summary>
 
 - Major Updates 
 

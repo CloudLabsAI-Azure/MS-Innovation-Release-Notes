@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 <details>
   
+  <summary>2026-02-25</summary>
+
+## Release Date: 2026-02-25
+
+### Summary of Changes 
+
+- This update includes minor improvements such as enhanced UI screenshots and revised instructions for better clarity and precision.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+
+### Screenshot Update
+
+- Completed end-to-end lab testing with all validations passing successfully. The lab guide was subsequently updated to enhance clarity and usability.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-02-25
+
+### Testing Scope 
+
+- Comprehensive testing of Azure AI Search indexing, Prompt Flow connections, and end-to-end chatbot functionality with latest Azure AI Foundry updates.
+  
+</details>
+
+<details>
+  
   <summary>2026-01-31</summary>
 
 ## Release Date: 2026-01-31
