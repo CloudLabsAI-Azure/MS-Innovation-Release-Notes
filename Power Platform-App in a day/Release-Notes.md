@@ -26,16 +26,25 @@ Updated the screenshots and instructions at multiple places for better clarity a
 
 ## Infrastructure Changes
 
-NA
+NA 
 
 ## Content Changes
  
-NA
+  - Module 2, Exercise 3, Task 8: Updated the instructions for 'Configure the requested date Field'.
+  - Module 2: Added Conclusion summary for the Hands-on Lab.
 
 ## Screenshot Updates
 
-  -  **Screenshots:** updated screenshots at multiple places with latest UI changes and added few images for better understanding.
-  -  **Instruction:** Improved and also added few instructions at multiple places for better clarity and understanding.
+  -  Getting Started:
+     -  Updated the screenshot for ‘Exploring Your Lab Resources’.
+  -  Module 2, Exercise 3, Task 3:
+     -  Updated the instructions and screenshots for 'Configure the title column' as per the UI change.
+  -  Module 2, Exercise 3, Task 5:
+     -  Updated the instructions and screenshots for 'Configure the Approval Field' as per the UI change.
+  -  Module 2, Exercise 3, Task 6:
+     -  Updated the instructions and screenshots for 'Configure the Comment Field' as per the UI change.
+  -  Module 2, Exercise 3, Task 7:
+     -  Updated the instructions and screenshots for 'Configure the Requested By Field' and modified the configuration steps for the Requested By field as per the UI change.
 
 ## Validation
 
@@ -43,7 +52,7 @@ No Validation
 
 ## Testing Scope
 
- - End-to-end lab testing was completed successfully, and the lab guide was updated to improve clarity and reflect the latest updates.
+ - End-to-end lab testing was completed successfully, and the Guide was updated to improve clarity to reflect the latest updates.
 
 </details>
 
