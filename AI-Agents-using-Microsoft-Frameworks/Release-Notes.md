@@ -22,21 +22,22 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-The lab has been successfully tested, and the lab content along with validations have been reviewed and updated. UI has been updated and now matches with the latest platform. Content has been updated to reflect the current state of the platform.
-
+The lab has been successfully tested, and the lab content along with validations have been reviewed and updated. UI and content has been updated to reflect the latest version of foundry portal, Azure and Visual Studio.
 ### Infrastructure Changes
 
 N/A
 
 ### Content Changes
 
-Updated the lab content to align with the latest platform updates and current standards.
+- Added detailed instructions verifying and updating the UI to match the latest Foundry portal, Visual Studio, and Azure portal.
+- Enhanced navigation instructions within the portals to ease user experience while performing the lab.
+- Replaced the model reference to align with currently available modles with tokens.
 
 ### Screenshot Updates
 
 - **Minor updates**: 
 
-    - **Updated UI Screenshots**: Updated screenshots to align with the latest platform and testing requirements.
+    - **Updated UI Screenshots**: Updated screenshots to align with latest version of Foundry portal, Visual Studio and Azure portal.
       
 ### Testing Notes
 
