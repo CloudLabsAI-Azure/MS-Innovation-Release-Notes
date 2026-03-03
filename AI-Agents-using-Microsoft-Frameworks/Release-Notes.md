@@ -16,6 +16,44 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-02-26</summary>
+
+## Release Date: 2026-02-26
+
+### Summary of Changes
+
+The lab has been successfully tested, and the lab content along with validations have been reviewed and updated. UI and content has been updated to reflect the latest version of foundry portal, Azure and Visual Studio.
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added detailed instructions verifying and updating the UI to match the latest Foundry portal, Visual Studio, and Azure portal.
+- Enhanced navigation instructions within the portals to ease user experience while performing the lab.
+- Replaced the model reference to align with currently available modles with tokens.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshots to align with latest version of Foundry portal, Visual Studio and Azure portal.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-02-26
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab and validated all functionality.
+- Verified that the UI is updated and matches with the latest platform.
+- Reviewed and confirmed that all content is updated and accurate.
+- Validated all lab guide steps and ensured proper functionality across all modules.
+
+---
+</details>
+
+<details>
   <summary>2026-02-02</summary>
 
 ## Release Date: 2026-02-02
