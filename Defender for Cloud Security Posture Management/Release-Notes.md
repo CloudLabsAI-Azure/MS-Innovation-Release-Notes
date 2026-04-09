@@ -17,6 +17,72 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-03</summary>
+
+## Release Date: 2026-04-03
+
+### Summary of Changes 
+
+-  Minor updates have been made, including UI updates, refreshed screenshots, and refined instructions to improve clarity and accuracy.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated the lab guide with refined instructions to improve clarity and accuracy.
+
+### Screenshot Update
+
+- Updated the screenshot for Attack Path Analysis to reflect only the settings for READ-ONLY task.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-03
+
+### Testing Scope 
+
+- Validation covered infrastructure compatibility, lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+-------------
+
+</details>
+
+<details>
+  <summary>2026-03-06</summary>
+
+## Release Date: 2026-03-06
+
+### Summary of Changes 
+
+- Introduced a **Temporary Access Password (TAP) authentication mechanism** to optimize the user authentication workflow. This enhancement minimizes repeated Multi-Factor Authentication (MFA) prompts in controlled scenarios, enabling users to access resources more efficiently while maintaining security standards.
+
+### Infrastructure Changes
+
+- Enabled support for **Temporary Access Password-based authentication flows**, allowing users to authenticate using a time-bound credential that temporarily bypasses standard MFA verification where applicable.
+
+### Content Changes
+
+- Updated authentication-related documentation and instructions to incorporate the **Temporary Access Password workflow**, ensuring users can easily follow the updated login process.
+
+### Screenshot Update
+
+- Added and updated screenshots reflecting the **Temporary Access Password sign-in process**, aligning the visuals with the current authentication interface and improving instructional clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-06
+
+### Testing Scope 
+
+- Conducted end to end testing of contenvalidation of the Temporary Access Password authentication flow, including verification of MFA bypass behavior, user login success scenarios, documentation accuracy, and alignment between screenshots and the latest UI.
+
+-------------
+
+</details>
+
+<details>
   <summary>2026-01-31</summary>
 
 ## Release Date: 2026-01-31

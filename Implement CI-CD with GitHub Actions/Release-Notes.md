@@ -16,7 +16,51 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-03-11</summary>
 
+## Release Date: 2026-03-11
+
+### Summary of Changes
+
+Improved the clarity and reliability of the lab documentation related to running the local application and accessing the service endpoint. Additional troubleshooting guidance has been introduced to help learners resolve common dependency and environment-related issues during application startup.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+The documentation has been updated to improve the learner experience during the application setup and execution phase.
+
+Key improvements include:
+
+- Clarified instructions explaining how learners can access the running application through the localhost endpoint generated during execution.
+- Added guidance explaining that the application must continue running in the terminal session for the service to remain accessible.
+- Provided clearer explanation of how learners should identify and use the dynamically generated local port when accessing the application.
+- Introduced a troubleshooting section addressing common frontend dependency issues that may occur during the initial setup.
+- Added guidance to help learners resolve issues related to missing dependencies and outdated browser compatibility data that can prevent the application from starting correctly.
+
+These updates reduce setup friction, improve troubleshooting guidance, and ensure learners can successfully access the application interface during the lab.
+
+### Screenshot Updates
+
+- **Minor updates**:
+
+  - No screenshot updates were required.
+  - Existing screenshots remain valid and aligned with the updated instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-11
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab workflow after updating the instructions.
+- Verified that the updated guidance enables successful application access through the local endpoint.
+
+---
+</details>
 <details>
   <summary>2026-01-06</summary>
 

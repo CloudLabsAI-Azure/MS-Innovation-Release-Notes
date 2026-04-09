@@ -17,6 +17,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-23</summary>
+
+## Release Date: 2026-03-23
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Screen 1 (Login to GitHub), Step 4: Sign-in steps have been added to the screenshot.
+* Exercise 1 – Task 3, Step 5: Updated with the new GitHub UI screenshot and revised text.
+* Exercise 1 – Task 4 (Use Agent Mode): Step numbering corrected as per the screenshot.
+* Exercise 1 – Task 4 (Other Available Features), Step 1: Text updated to match the current UI.
+* Exercise 1 – Task 4 (Other Available Features), Step 4.3: Added in both screenshot and text for better clarity.
+* Exercise 2 – Task 1, Step 1: Copilot icon text updated to “Toggle Chat” to align with the current UI.
+* Exercise 2 – Task 1, Step 10: Added a screenshot to enhance user experience.
+* Exercise 2 – Task 2, Step 4: Added clear guidance to use Microsoft Edge for opening the Azure portal.
+* Exercise 2 – Task 2, Step 6: Updated Copilot icon text as per the current UI.
+* Exercise 4 – Task 1, Step 12: Added guidance to use Microsoft Edge for opening the Azure portal.
+* Exercise 4 – Task 3, Step 7: Sensitive lab details have been blurred in the screenshot.
+* Exercise 4 – Task 4, Step 1: Added clear instruction to navigate to the chat section and click the gear icon.
+* Exercises 5, 6, 7: Updated Copilot icon text across all steps to match the current UI.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-23
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-02-27</summary>
   
 ## Release Date: 2026-02-27

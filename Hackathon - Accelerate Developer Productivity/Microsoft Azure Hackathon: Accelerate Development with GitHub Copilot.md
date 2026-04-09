@@ -16,6 +16,31 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>26 Mar 2026</summary>
+
+  ## Release Date: 2026-03-26
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+1.  Added a few additional commands in Challenge 01 to address the 403 error encountered while pushing files to GitHub.
+
+2. Added notes wherever necessary for better clarity and also fixed the rendering issue
+
+### Screenshot Updates
+   
+   1. GitHub and Azure portal screenshots have been updated to reflect the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-26
+   
+</details>
+
+<details>
   <summary>22 Feb 2026</summary>
 
   ## Release Date: 2026-02-22
@@ -27,7 +52,7 @@ NA
 ### Content Changes
 
 1. Improve the overall quality of the guide by correcting formatting issues and fixing/aligning image references so the step-by-step instructions read more clearly and consistently.
-2. Added Troubleshooting steps for each challanges 
+2. Added Troubleshooting steps for each challenges 
 
 ### Screenshot Updates
    

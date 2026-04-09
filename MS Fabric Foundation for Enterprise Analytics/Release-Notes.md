@@ -18,6 +18,74 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-30</summary>
+
+## Release Date: 2026-03-30
+
+### Summary of Changes
+
+Made lab guide updates by adding clearer with up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+In all the exercises, updated all possible screenshots which are aliging with the New UI/terms.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-30
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, and verification of prerequisites.
+
+---
+</details>
+
+<details>
+  <summary>2026-03-14</summary>
+
+## Release Date: 2026-03-14
+
+### Summary of Changes
+
+Made lab guide updates by adding clearer with up-to-date UI screenshots and refining instructions to enhance clarity, improve accuracy, and ensure a smoother learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+In all the exercises including getting started page, updated all possible screenshots which are aliging with the New UI/terms.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to match the latest user interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-14
+
+### Testing Scope 
+
+Performed end-to-end architecture validation, and verification of prerequisites.
+
+---
+</details>
+
+<details>
   <summary>2026-02-16</summary>
 
 ## Release Date: 2026-01-28

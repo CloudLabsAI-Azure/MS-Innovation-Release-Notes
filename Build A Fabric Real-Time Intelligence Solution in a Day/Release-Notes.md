@@ -18,6 +18,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-12</summary>
+
+## Release Date: 2026-03-12
+
+### Summary of Changes
+
+The lab instructions and screenshots have been updated to align with the new Microsoft Fabric UI.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Exercise 1 – Task 1, Task 2  
+- Exercise 2 – Task 4  
+- Exercise 3 – Task 3  
+- Exercise 4 – Task 2  
+
+  Screenshots for the above tasks have been updated to reflect the new UI.
+
+### Screenshot Updates
+
+- Updated screenshots across all exercises based on the new Fabric UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-12
+
+### Testing Scope 
+
+Performed end-to-end testing of the lab to validate functionality. Updated the content, improved the lab flow for better clarity, and refreshed the screenshots based on the latest UI changes.  
+
+---
+</details>
+
+<details>
   <summary>2026-02-19</summary>
 
 ## Release Date: 2026-02-19

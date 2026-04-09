@@ -16,6 +16,73 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-03-29</summary>
+
+## Release Date: 2026-03-29
+
+### Summary of Changes
+
+- Implemented minor updates to enhance the clarity, accuracy, and overall usability of the lab instructions.
+- 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Updated the screenshot for Exercise 2 – Task 2, Step 2 to reflect the UI change for the "Open notebook" option.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-29
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing. The lab guide has also been updated to improve clarity and align with the latest Fabric UI changes.
+
+---
+</details>
+
+
+<details>
+  <summary>2026-03-12</summary>
+
+## Release Date: 2026-03-12
+
+### Summary of Changes
+
+- Updates include clearer headings, better step-by-step instructions, improved notes, and summaries, updated Task overviews to match the Task steps and for easier understanding. Also updated screenshots to match the new UI of the Fabric portal.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- Updated few of the screenshots to match with the updated Fabric UI, and for clarity. 
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-11
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing. The lab guide has also been updated to improve clarity and align with the latest Fabric UI changes.
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-20</summary>
 
 ## Release Date: 2026-02-20
@@ -46,6 +113,7 @@ N/A
 
 - End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest updates.
 
+---
 </details>
 
 
@@ -78,6 +146,7 @@ N/A
 
 - Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
 
+---
 </details>
 
 <details>
@@ -109,6 +178,7 @@ N/A
 
 - Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
 
+---
 </details>
 
 <details>
@@ -140,6 +210,7 @@ N/A
 
 - Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
 
+---
 </details>
 
 <details>
@@ -171,6 +242,7 @@ N/A
 
 - Performed end to end lab testing, and all validations were successful. Updated lab guide for better clarity.
 
+---
 </details>
 
 <details>
@@ -180,6 +252,7 @@ N/A
 
 The internal testing is currently in progress, and the final pointers will be updated upon its completion.
 
+---
 </details>
 
 <details>

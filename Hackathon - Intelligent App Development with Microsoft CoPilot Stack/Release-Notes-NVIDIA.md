@@ -16,6 +16,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-03</summary>
+
+  ## Release Date: 2026-03-03
+
+### Summary of Changes 
+
+- Minor updates, including clearer UI screenshots and refined instructions for improved clarity and accuracy.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated the Challenge 2 lab .ipynb file to configure service settings and model versions within the notebook.
+- Updated the Challenge 3 YAML file to include cloning of the NIM image configuration into AKS.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-03-03
+
+### Testing Scope 
+
+- Performed end-to-end validation, and updated the lab guide to the latest UI changes.
+
+</details>
+
+<details>
   <summary>2026-02-26</summary>
 
   ## Release Date: 2026-02-26

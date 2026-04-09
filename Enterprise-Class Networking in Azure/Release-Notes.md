@@ -17,6 +17,44 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 <details>
+  <summary>2026-03-24</summary>
+
+## Release Date: 2026-03-24
+
+### Summary of Changes
+
+Minor enhancements were applied, such as incorporating the latest UI screenshots and refining instructions for better clarity and accuracy. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots to align with the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-24
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+<details>
+  <summary>2025-12-11</summary>
+
+
+# Release Notes
+<details>
   <summary>2026-02-03</summary>
 
 ## Release Date: 2026-02-03

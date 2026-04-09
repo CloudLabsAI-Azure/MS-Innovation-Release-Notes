@@ -13,6 +13,42 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 <details>
+  <summary>2026-03-12</summary>
+
+### Summary of Changes
+
+Minor updates were made across the lab to improve clarity, align with the latest UI changes in the Microsoft Foundry portal, and enhance the overall learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated navigation steps to reflect the latest Microsoft Foundry portal experience.
+- Refined instructions for creating the Azure OpenAI resource, including region-specific guidance (East US).
+- Improved model deployment steps with clearer actions for selecting and deploying base models.
+- Enhanced guidance in Chat playground tasks, including prompt structure and parameter configuration.
+- Updated explanation content and examples for better understanding of AI concepts and responses.
+- Added clarification for exiting the code environment and updated instructions for C# project configuration.
+  
+### Screenshot Updates
+ - Minor Updates
+   
+    1. Refreshed screenshots to align with the updated UI in Azure portal and Microsoft Foundry portal.
+    2. Adjusted corresponding instruction text to maintain consistency with updated visuals.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-11
+  
+### Testing Scope 
+
+-  End-to-end validation of resource provisioning, model deployment, portal navigation, and lab instructions to ensure accuracy and usability.
+---
+</details>
+
+<details>
   <summary>2025-10-27</summary>
 
 ### Summary of Changes

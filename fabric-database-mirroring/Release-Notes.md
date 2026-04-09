@@ -16,6 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-04</summary>
+
+## Release Date: 2026-04-04
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues and enhanced the instructions wherever needed.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+In all the lab tasks updated with Fabric UI screenshots to reflect the latest UI and improve clarity.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-01-24
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+<details>
   <summary>2026-03-06</summary>
 
 ## Release Date: 2026-03-06

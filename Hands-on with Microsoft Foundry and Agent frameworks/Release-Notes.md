@@ -16,6 +16,73 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-08</summary>
+
+## Release Date: 2026-04-08
+
+### Summary of Changes 
+
+The lab has been tested, and minor updates have been made to the instructions to provide clearer steps and better alignment within the integrated environment.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- NA
+
+### Screenshot Update
+
+- NA
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-08
+
+### Testing Scope 
+
+- Validation was conducted across RBAC permission updates, lab flow continuity, content accuracy, and ensuring screenshots are aligned with the latest UI.
+
+---
+</details>
+
+
+<details>
+  <summary>2026-03-13</summary>
+
+## Release Date: 2026-03-13
+
+### Summary of Changes 
+
+Tested the lab using the Custom RBAC role without requiring the Owner role and confirmed the lab runs successfully. The custom RBAC was updated to include permissions for role assignment management and additional read and monitoring access (similar to Reader and Monitoring Reader roles) to support Application Insights tracing in Microsoft Foundry. Minor updates were also made to the lab instructions and screenshots, including clearer steps for Azure sign-in authentication from VS Code.
+
+### Infrastructure Changes
+
+- Updated the Custom RBAC role to support lab execution without requiring the Owner role.
+
+### Content Changes
+
+- Updated lab instructions to provide clearer steps for Azure sign-in authentication from VS Code.
+
+### Screenshot Update
+
+- **Updated UI Screenshots:** Refreshed screenshots to align with the latest Microsoft Foundry portal UI and improve clarity.
+  - **Screenshots updated are:** Ex1 Task 1 - Step 22, Step 41, Ex2 Task 1 - Step 6, Step 7, Step 8, Step 9, Ex6 - Task 1 Step 1, Task 2 Step 9.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-03-12
+
+### Testing Scope 
+
+- Validation covered RBAC permission updates, lab flow continuity, content accuracy, and screenshot alignment with the latest UI
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-20</summary>
 
 ## Release Date: 2026-02-20
@@ -412,6 +479,7 @@ NA
 - **Resolved Issues**: Downgraded Python packages that were causing issues for the Jupyter notebooks used in this lab.
 ---
 </details>
+
 
 
 

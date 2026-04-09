@@ -16,6 +16,60 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-03-16</summary>
+
+## Release Date : 2026-03-16
+
+### Summary of Changes
+
+- Updated lab instructions and screenshots to improve clarity and align with the latest Azure portal UI.
+
+- Added missing configuration steps required to successfully execute kubectl commands.
+
+- Included additional notes to address validation and VM image download timing observed during testing.
+
+- Refined navigation instructions and updated images across multiple exercises to improve the learner experience.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 2 – Task 2: Added a note explaining the prerequisite command required before running the Azure Local cluster validation script.
+
+- Exercise 3 – Task 2: Added a note indicating that the VM image download may take longer than expected depending on network conditions.
+
+- Exercise 4 – Task 2: Added a step to include the user as a member of the required group to enable successful execution of kubectl commands.
+
+- Exercise 3 – Task 1: Added a note to clarify the popup behavior encountered during the process.
+
+- Refined instructions across the exercises to improve clarity and help users navigate to Azure Local resources more easily.
+
+### Screenshot Updates
+
+- Getting Started Page: Updated screenshots for lab access and environment view.
+
+- Exercise 2 – Task 1 (Step 6) and Task 2 (Steps 5–7): Updated screenshots to provide clearer navigation to the Azure Local page.
+
+- Exercise 4 – Task 3 (Steps 1–3 and Step 12): Added screenshots to highlight key configuration steps.
+
+- Exercise 5 – Task 1 (Steps 4–6): Updated screenshots to align with the latest Azure portal UI.
+
+- Made minor adjustments to screenshots for better clarity and consistency.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-16
+
+### Testing Scope
+
+- End-to-end validation of the lab deployment and exercises was performed, including verification of the Azure Local deployment and cluster validation scripts. The kubectl commands were executed after updating the user group membership instructions to ensure successful access. The VM image download process and timing were also validated, and the Azure portal UI changes were reviewed to confirm that the lab instructions align with the latest interface.
+---
+</details>
+
 <details>
   <summary>2025-09-18</summary>
 

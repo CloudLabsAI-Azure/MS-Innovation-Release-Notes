@@ -16,7 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2026-02-03</summary>
+  <summary>2026-03-18</summary>
+
+## Release Date: 2026-03-18
+
+### Summary of Changes
+
+Updated the lab guide to improve accuracy and usability. Fixed the image rendering issue in Lab 6, Step 11, and corrected the note in Lab 7, Task 1.2, Step 8 by updating the reference from Step 14 to Step 4.
+### Infrastructure Changes
+
+- Updated the Public IP SKU from Dynamic to Standard Static and updated the VM SKU.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: No new UI screenshots added.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-18
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation, and prerequisite verification.
+
+---
+</details>
+
+<details>
+  <summary>2026-03-18</summary>
+  
 
 ## Release Date: 2026-02-03
 

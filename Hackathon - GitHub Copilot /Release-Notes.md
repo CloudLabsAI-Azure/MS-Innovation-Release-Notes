@@ -18,6 +18,39 @@ This page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-31</summary>
+
+## Release Date: 2026-03-31
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content have been updated and also  validations have been reviewed and updated.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+- The deprecated "GitHub Copilot" extension has been replaced with the "GitHub Copilot Chat" extension in VS Code, and the guide has been updated accordingly.
+- Removed unsupported or unavailable shortcuts to avoid confusion.
+- Added improved validation notes under each validation step for better clarity.
+- Replaced the unavailable “Start in Editor” option with the "Inline Chat" feature for improved clarity and usability in the guide.
+  
+### Screenshot Updates
+
+NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-31
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10

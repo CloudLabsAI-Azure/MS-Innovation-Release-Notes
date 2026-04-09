@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-03-28</summary>
+
+## Release Date: 2026-03-28
+
+### Summary of Changes
+
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* **Lab 1 – Managing roles and governance via enterprise teams:** Corrected spelling from “governence” to “governance.”
+* **Lab 1 – Creating your Repository – Instruction 3:** Repositioned “Create repository (5)” to the correct place.
+* **Lab 1 – Creating your Repository – Instruction 4:** Added a step to copy the repository URL after creation and updated the screenshot.
+* **Lab 1 – Setting up IDE – Instruction 4:** Clarified that the URL can be copied either from the browser or from the saved Notepad.
+* **Lab 1 – Setting up IDE – Instruction 12:** Corrected spelling from “propmted” to “prompted.”
+* **Lab 2 – Experimenting with Different Models:** Corrected the model name to “Sonnet.”
+* **Lab 6 – Step 1 – Instruction 1:** Corrected spelling from “corener” to “corner.”
+* **Lab 6 – Step 1 – Instruction 3:** Updated the description to better match the UI.
+* **Lab 6 – Step 1 – Instruction 4:** Added an additional UI screenshot for clarity.
+* **Lab 6 – Step 1 – GitHub MCP Server Setup – Instruction 1:** Added the MCP Registry link for easy copy-paste access.
+* **Lab 7 – Step 2 – Instruction 2:** Corrected spelling from “instrutcions” to “instructions.”
+* **Lab 7 – Step 3 – Instructions 1 & 2:** Reordered prompts to improve clarity and reduce errors.
+* **Lab 7 – Custom Agents – Instruction 3:** Updated the UI screenshot to match the latest interface.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-28  
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-03-06</summary>
 
 ## Release Date: 2026-03-06

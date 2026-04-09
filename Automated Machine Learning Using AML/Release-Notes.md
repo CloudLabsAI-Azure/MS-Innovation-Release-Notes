@@ -15,6 +15,40 @@ This repository contains detailed notes about the latest updates and modificatio
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-03-11</summary>
+
+## Release Date: 2026-03-11
+
+### Summary of Changes
+
+- Minor update to standardize the experiment name and description for better clarity and consistency.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated experiment name to mslearn-icecream-automl.
+- Refined description for improved understanding of the use case.
+
+### Screenshot Updates
+
+- **Major updates**: 
+
+    - **Updated UI Screenshots**: Updated screenshot to reflect the revised experiment name and description fields for consistency with the instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-03-11
+
+### Testing Scope 
+Validated experiment creation flow with updated naming and description.
+
+</details>
+
 <details>
   <summary>2026-02-26</summary>
 
@@ -36,7 +70,7 @@ Task 2 updated to reflect changes in the sample data location from Microsoft, wi
 
 ### Screenshot Updates
 
-- **Major updates**: 
+- **Minor updates**: 
 
     - **Updated UI Screenshots**: Updated the screenshots as per the latest UI.
       

@@ -14,7 +14,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-04-08</summary>
 
+## Release Date: 2026-04-08
+
+### Summary of Changes
+
+Fixed rendering and did minor instruction updates for better clarity.  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated few instructions to have better understanding. 
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Instruction Refinements**: Fixed rendering and added enhanced instructions.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-04-08
+
+### Testing Scope 
+
+- Performed end-to-end lab testing, and all validations were successful.
+
+---
+</details>
 <details>
   <summary>2026-02-18</summary>
 

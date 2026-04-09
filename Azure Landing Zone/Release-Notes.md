@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 In this section, we will track and list each change introduced in the latest release:
+
+<details>
+  <summary>2026-03-28</summary>
+
+## Release Date: 2026-03-28
+
+### Summary of Changes
+
+Updates were made to improve overall lab clarity and align instructions with the latest UI experience. Enhancements on refining sign-in and MFA steps in the guide, improving readability, and ensuring screenshots accurately reflect the current interface.
+
+### Infrastructure Changes
+
+- Updated the OS Disk from Standard HDD to Standard SSD.
+
+### Content Changes
+
+- Instruction Improvements:
+  - Refined step-by-step instructions for better clarity and usability.
+  - Updated sign-in and MFA steps (in Exercise 4 and Exercise 6) to match the latest UI experience.
+- Section Updates:
+  - Replaced generic "Review" sections with more meaningful "Summary" sections in exercises and added a Conclusion at the end of the lab. 
+  - Fixed typos, improved phrasing, and enhanced overall readability.
+
+### Screenshot Updates
+
+- Replaced blurred and outdated screenshots with clear images
+- Exercise 6 Update: Dashboard creation UI changes have been incorporated with updated screenshots and steps.
+    
+### Testing Notes
+
+- **Testing Date**: 2026-03-26 
+
+### Testing Scope
+
+- Performed full end-to-end validation of all lab tasks using updated instructions.
+- Verified step sequence, accuracy, and alignment with current UI. 
+
+---
+</details>
+
 <details>
   <summary>2026-01-16</summary>
 

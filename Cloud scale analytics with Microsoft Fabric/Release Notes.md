@@ -21,6 +21,48 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Release Date:
 <details>
+  <summary>2026-04-01</summary>
+
+## Release Date: 2026-04-01
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the instructions and content for the lab as per the latest UI in the Microsoft Fabric portal.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+  - **UI and Feature Updates**:
+
+      - **Exercise 1**: Updated pipeline creation window screenshots; aligned Fabric UI instructions; added UI updates for OneLake connection in Notebook explorer.
+      - **Exercise 2**: Updated UI elements; incorporated changes related to Semantic Model deployment in Fabric.
+      - **Exercise 3**: Updated UI and improved screenshot quality; added new screenshots; updated terminology and added navigation notes.
+      - **Exercise 4**: Updated UI and improved screenshot quality; added updates for OneLake connection in Notebook explorer.
+      - **Exercise 5**: Updated UI and improved screenshot quality.
+      - **Exercise 7**: Updated UI and improved screenshot quality; added updates for OneLake connection in Notebook explorer.
+      - **Exercise 8**: Updated pipeline creation window screenshots.
+
+### Testing Notes
+
+- **Testing Date**: 2026-03-31
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the latest UI.
+
+---
+</details>
+
+<details>
   <summary>2026-03-06</summary>
 
 ## Release Date: 2026-03-06
@@ -42,8 +84,8 @@ Updated the instructions and content for the lab as per the latest UI in the Mic
 - **Minor updates**: 
 
     - **Updated UI Screenshots**: Updated the screenshots as per the latest UI in the Microsoft Fabric portal. updated screenshots for these steps:
-    - Exercise 1: Task 2 step 2 , Task 4 step10 , Task 5 step 5, Task 8 step 8
-    - Exercise 3: Task 2 step 1      
+      - Exercise 1: Task 2 Step 2, Task 4 Step 10, Task 5 Step 5, Task 8 Step 8.
+      - Exercise 3: Task 2 Step 1.
 
 ### Testing Notes
 

@@ -4,7 +4,7 @@ Welcome to the **Microsoft Azure AI Agents** Readme.md. In this page, we will do
 
 ## Overview
 
-This Page contains detailed notes about the latest updates and modifications made after each testing cycle. It includes:
+This **page contains** detailed notes about the latest updates and modifications made after each testing cycle. It includes:
 
 - Testing dates
 - Descriptions of changes to lab infrastructure
@@ -14,6 +14,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-03-26</summary>
+
+### Release Date: 2026-03-26
+
+## Summary of Changes
+
+Updated the documentation with latest screenshots in _Microsoft Foundry_ and optimized the instructions to enhance clarity, streamline user flow, and improve overall learning experience.
+
+## Infrastructure Changes
+
+N/A 
+
+## Content Changes
+ 
+- **Lab 1 - Task 1- Step 12/13**: Within the New Foundry portal location/terminology of the API key has changed, and the location of the Project Endpoint has changed. Updated instructions to close the pop-up once transformed to New Foundry UI.
+
+- **Lab 3 - Task 1- Step 10**: Updated screenshot and instruction as per the latest UI of AI search service
+
+## Screenshot Updates
+
+- **Lab 1 - Task 2- Step 1/7/10**: There are other custom blades added to the Model overview page, hence updated screenshot.
+ 
+- **Lab 2 - Task 2- Step 2**: Updated the screenshot to align with standards.
+
+- **Lab 3 - Task 1- Step 22**: The location of the **Add Connection** button is located down UI has changed hence update the screenshot.
+
+## Validation
+
+  - All Validation Succeeded.
+
+## Testing Scope
+
+ - Executed thorough end-to-end validation of the lab environment, systematically verifying lab validations.
+
+</details>
 
 <details>
   <summary>2026-02-27</summary>
@@ -26,7 +63,7 @@ Updated the documentation with latest screenshots and optimized the instructions
 
 ## Infrastructure Changes
 
-NA 
+N/A 
 
 ## Content Changes
  
@@ -63,7 +100,7 @@ N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -305,11 +342,11 @@ N/A
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -337,11 +374,11 @@ NA
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
-NA
+N/A
 
 ### Screenshot Updates
 
@@ -388,7 +425,7 @@ NA
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
@@ -396,7 +433,7 @@ Incorporated two additional notes into the lab guide based on feedback, ensuring
   
 ### Screenshot Updates
 
-NA
+N/A
 
 ### Testing Notes
 
@@ -420,7 +457,7 @@ Completed end-to-end testing incorporating updated UI changes, enhanced lab guid
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
@@ -455,7 +492,7 @@ NA
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
@@ -478,7 +515,7 @@ The lab has been thoroughly tested with all updated screenshots and content revi
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
@@ -501,7 +538,7 @@ The lab has been tested with all the updated screenshots and content changes, an
 
 ## Infrastructure Changes
 
-NA
+N/A
 
 ## Content Changes
 
