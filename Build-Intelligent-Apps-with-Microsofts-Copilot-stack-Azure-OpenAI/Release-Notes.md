@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-29</summary>
+
+## Release Date: 2026-04-29
+
+### Summary of Changes 
+
+Updated the lab by adding the latest, clearer UI screenshots and refining the instructions to enhance clarity, accuracy, and ensure a seamless learning experience.
+
+### Infrastructure Changes
+
+- Updated custom vm image with latest software and packages as the lab was having issues with docker, vscode extensions and require dotnet 10 package.
+
+### Content Changes
+
+- Tested the labs end to end and made updates that have been incorporated to ensure consistency across the lab.
+- Removed **Task 2: Configure Azure AI Search** from **Page 5, Lab 5: Getting Started with Your Own Copilot** as the latest UI changes is not able to complete this task.
+- **Lab 2 and Lab 3:**
+    - Updated with steps, screenshots and notes for improved clarity and understanding. 
+
+### Screenshot Update
+
+- Revised and updated screenshots to align with current UI changes, enhancing instructional accuracy and user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-29
+
+### Testing Scope 
+
+- Performed end-to-end lab validation and verified all exercises, deployments, and instructions successfully.
+
+</details>
+
+<details>
   <summary>2025-11-11</summary>
 
 ## Release Date: 2025-11-11
