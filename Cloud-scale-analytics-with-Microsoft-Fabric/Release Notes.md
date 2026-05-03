@@ -20,14 +20,15 @@ This repository contains detailed notes about the latest updates and modificatio
 In this section, we will track and list each change introduced in the latest release:
 
 ### Release Date:
-<details>
-  <summary>2026-04-01</summary>
 
-## Release Date: 2026-04-01
+<details>
+  <summary>2026-05-03</summary>
+
+## Release Date: 2026-05-03
 
 ### Summary of Changes
 
-Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+Updates to Microsoft Fabric hands-on lab materials with clarifications, instruction improvements, and refreshed screenshots to align with the current Azure UI and enhance learner experience.
 
 ### Infrastructure Changes
 
@@ -35,21 +36,44 @@ N/A
 
 ### Content Changes
 
-Updated the instructions and content for the lab as per the latest UI in the Microsoft Fabric portal.
+Updated the instructions and content for the lab to align with current Microsoft Fabric Portal UI and learner feedback. Key updates include:
+
+- **Navigation workflow**: Updated to two-step process via "Workspaces" → select workspace → "New item"
+- **Button labels**: Corrected UI element names ("Add" button for notebook linking instead of "Connect")
+- **File path formatting**: Updated folder path notation with proper trailing slashes
+- **Pipeline monitoring**: Added explicit step to wait until pipeline run succeeds
+- **Product filtering**: Updated to generic filtering instructions for better clarity
+- **Dataflow publishing**: Simplified workflow using "Save and Run" approach
+- **UI numbering**: Corrected and standardized button reference numbers throughout
 
 ### Screenshot Updates
 
-- **Minor updates**: 
+  - **Exercise 1 - Data Engineering**:
+      - Updated pipeline creation window screenshots 
+      - Updated notebook connection UI showing "Add" button instead of "Connect" 
+      - Updated navigation flow screenshots to match new workspace selection workflow 
+      - Refreshed new item creation visuals and pipeline monitoring interface
 
-  - **UI and Feature Updates**:
+  - **Exercise 2 - Data Warehouse**:
+      - Updated visualization formatting panel screenshots 
+      - Refined General sub-tab button numbering for accuracy
+      - Updated UI elements for data query visualization interface
 
-      - **Exercise 1**: Updated pipeline creation window screenshots; aligned Fabric UI instructions; added UI updates for OneLake connection in Notebook explorer.
-      - **Exercise 2**: Updated UI elements; incorporated changes related to Semantic Model deployment in Fabric.
-      - **Exercise 3**: Updated UI and improved screenshot quality; added new screenshots; updated terminology and added navigation notes.
-      - **Exercise 4**: Updated UI and improved screenshot quality; added updates for OneLake connection in Notebook explorer.
-      - **Exercise 5**: Updated UI and improved screenshot quality.
-      - **Exercise 7**: Updated UI and improved screenshot quality; added updates for OneLake connection in Notebook explorer.
-      - **Exercise 8**: Updated pipeline creation window screenshots.
+  - **Exercise 3 - Real-time Analytics**:
+      - Updated Eventhouse creation screenshots
+      - Refined KQL query to Power BI report conversion visuals
+      - Updated browser resolution-dependent UI elements display
+
+  - **Exercise 4 - Data Science**:
+      - Updated graph visualization and edit functionality screenshots
+      - Refreshed accuracy visualization bar chart interface
+
+  - **Exercise 6 - Dataflows Gen2**:
+      - Updated dataflow publishing workflow screenshots
+      - Refreshed lakehouse deletion interface visuals
+      - Updated "Save and Run" workflow screenshots
+      - Refined pipeline naming and creation UI elements 
+
 
 ### Testing Notes
 
