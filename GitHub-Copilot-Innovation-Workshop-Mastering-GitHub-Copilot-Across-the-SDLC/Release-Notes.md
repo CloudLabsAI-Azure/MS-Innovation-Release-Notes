@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-03</summary>
+
+## Release Date: 2026-05-03
+
+### Summary of Changes
+
+Updated GitHub Copilot hands-on lab materials with model version updates, instruction clarifications, and refreshed screenshots to align with current GitHub Copilot interface (May 2026).
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated AI model references from `GPT-5.3-Codex` to `GPT-5.4` in Lab-2-Understanding-Project.md
+- Added clarity to terminal setup instructions in Lab-5-Agentic-Coding.md (explicitly stating to create a new terminal before running Git configuration commands)
+- Minor formatting improvements (blank line additions for better readability)
+
+### Screenshot Updates
+
+- Updated screenshots across Lab 2, Lab 3, and Lab 4 to reflect current GitHub Copilot UI
+- Refreshed model selector and available models reference screenshots
+- Updated best practices reference screenshots
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-01
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing with all changes
+- Verified all instructions follow correct sequence
+- Validated that screenshots match current GitHub Copilot UI
+- Tested all hyperlinks for accuracy
+- Checked for copy-paste and formatting issues
+- Confirmed updated model references are accurate and accessible to learners
+
+</details>
+
+<details>
   <summary>2026-04-23</summary>
 
 ## Release Date: 2026-04-23

@@ -28,7 +28,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes
 
-Updates to Microsoft Fabric hands-on lab materials with clarifications, instruction improvements, and refreshed screenshots to align with the current Azure UI and enhance learner experience.
+Updates to Microsoft Fabric hands-on lab materials with clarifications, instruction improvements, and refreshed screenshots to align with the current Fabric portal UI and enhance learner experience.
 
 ### Infrastructure Changes
 
