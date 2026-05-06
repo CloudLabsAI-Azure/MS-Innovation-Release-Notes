@@ -33,16 +33,15 @@ N/A
 ### Content Changes
 
 - Exercise 1 Task 1 Step 11 : Note added - expand file format settings
-- Exercise 6 Task 1 Step 3 : Enable Git integration, deployment pipelines, and Public API Scenarios: Uncheck (2) removed due to ui update
-- Exercise 6 Task 2 Step 7 : Publish replaced with save and close as per ui update
+- Exercise 6 Task 1 Step 3 : " Enable Git integration, deployment pipelines, and Public API Scenarios: Uncheck (2)"  removed due to ui update
+- Exercise 6 Task 2 Step 7 : "Publish"  replaced with save and close as per ui update
 
 ### Screenshot Updates
 
 - Exercise 1 Task 1 Step 11 : Screenshot update for better understanding of steps mentioned in the lab guide. 
 - Exercise 1 Task 5 Step 12 : Screenshot update according to latest ui
 - Exercise 1 Task 7 Step 4 : Screenshot update according to latest ui
-- Exercise 4 Task 4 Step 4 : Screenshot update according to latest ui
-- Exercise 4 Task 4 Step 5 : Screenshot update according to latest ui
+- Exercise 4 Task 4 Step 4 & 5: Screenshot update according to latest ui
 - Exercise 4 Task 6 Step 4 : Screenshot update according to latest ui
 - Exercise 4 Task 7 Step 2 : Screenshot update according to latest ui
 - Exercise 5 Task 2 Step 5 : Screenshot update according to latest ui
