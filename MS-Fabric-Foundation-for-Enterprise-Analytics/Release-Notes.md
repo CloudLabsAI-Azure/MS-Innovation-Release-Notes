@@ -18,6 +18,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-05</summary>
+
+## Release Date: 2026-05-05
+
+### Summary of Changes
+
+Enhanced the lab guide by incorporating clear, up-to-date UI screenshots and refining the instructions to improve clarity, increase accuracy, and deliver a more seamless learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 1 Task 1 Step 11 : Note added - expand file format settings
+- Exercise 6 Task 1 Step 3 : Enable Git integration, deployment pipelines, and Public API Scenarios: Uncheck (2) removed due to ui update
+- Exercise 6 Task 2 Step 7 : Publish replaced with save and close as per ui update
+
+### Screenshot Updates
+
+- Exercise 1 Task 1 Step 11 : Screenshot update for better understanding of steps mentioned in the lab guide. 
+- Exercise 1 Task 5 Step 12 : Screenshot update according to latest ui
+- Exercise 1 Task 7 Step 4 : Screenshot update according to latest ui
+- Exercise 4 Task 4 Step 4 : Screenshot update according to latest ui
+- Exercise 4 Task 4 Step 5 : Screenshot update according to latest ui
+- Exercise 4 Task 6 Step 4 : Screenshot update according to latest ui
+- Exercise 4 Task 7 Step 2 : Screenshot update according to latest ui
+- Exercise 5 Task 2 Step 5 : Screenshot update according to latest ui
+- Exercise 6 Task 1 Step 3 : Screenshot update according to latest ui 
+- Exercise 6 Task 2 Step 7 : Screenshot update according to latest ui
+- Exercise 6 Task 3 Step 3 : Screenshot update according to latest ui
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-05
+
+### Testing Scope 
+
+Conducted end-to-end architecture validation and verified all required prerequisites to ensure readiness and consistency.
+
+---
+</details>
+
+<details>
   <summary>2026-03-30</summary>
 
 ## Release Date: 2026-03-30
