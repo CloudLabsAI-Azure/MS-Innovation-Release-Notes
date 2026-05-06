@@ -16,7 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-05-04</summary>
 
+## Release Date : 2026-05-04
+
+### Summary of Changes
+
+- Updated lab instructions and screenshots to improve clarity and align with the latest Copilot Studio and Fabric portal UI.
+
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 1 – Task 2 (Step 4):** Added instructions to proceed with the next steps to retrieve the device verification code.  
+- **Lab 2 – Task 1 (Steps 7–8):** Added instructions to test the agent using sample prompts.  
+- **Lab 2 – Task 2 (Step 3):** Added instructions to select a team from the dropdown to proceed with the Copilot sign-up process.  
+
+
+### Screenshot Updates
+
+- **Lab 2 – Task 1 (Step 3):** Updated screenshots to reflect the latest UI changes in the **Add data to data agent** experience.  
+- **Lab 2 – Task 1 (Step 4):** Corrected screenshots to align with the updated step numbering.  
+- **Lab 2 – Task 1 (Steps 7–8):** Added new instructions and screenshots for testing the agent using sample prompts.  
+
+- **Lab 2 – Task 2 (Step 3):** Updated screenshots to reflect recent UI changes during Copilot sign-up, including the new step to select a team before proceeding.  
+- **Lab 2 – Task 2 (Step 5):** Updated screenshots to align with the latest UI changes when creating and editing an agent.  
+
+- **Lab 2 – Task 2 (Step 17):** Updated screenshots to reflect the latest UI while reviewing the Fabric data agent.  
+- **Lab 2 – Task 2 (Step 19):** Updated screenshots to reflect the latest UI changes when disabling the Knowledge settings for the agent.  
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-04
+
+### Testing Scope
+
+- End-to-end validation of the lab deployment and exercises was performed. The Copilot Studio portal UI changes were reviewed to confirm that the lab instructions align with the latest interface.
+---
+</details>
 <details>
   <summary>2026-03-26</summary>
 
