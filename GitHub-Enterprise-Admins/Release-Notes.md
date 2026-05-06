@@ -17,6 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-04-03</summary>
+
+## Release Date: 2026-04-03
+
+### Summary of Changes
+
+- Minor updates refined instructions for improved clarity and accuracy.   
+The lab has been thoroughly tested, and the content has been reviewed and updated. Minor improvements have been incorporated to ensure greater clarity and accuracy in the instructions.   
+  
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Lab instructions were refined to provide clearer and more understandable guidance.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-04-03
+
+### Testing Scope 
+
+- Performed end to end lab testing, and all validations were successful. Updated the lab guide for better clarity.
+Performed end-to-end lab testing with successful outcomes. Updated the lab guide to improve clarity, ensure smooth flow, enhance content accuracy, and align screenshots with the latest UI.
+
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-19</summary>
 
 ## Release Date: 2026-02-19
