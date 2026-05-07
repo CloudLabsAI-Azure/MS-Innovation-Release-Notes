@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-06</summary>
+
+## Release Date: 2026-05-06
+
+### Summary of Changes
+
+- Minor updates refined instructions for improved clarity and accuracy.  
+The lab has been thoroughly tested, and the content has been reviewed and updated. Minor improvements have been incorporated to ensure greater clarity and accuracy in the instructions.
+
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated step-level instructions across multiple lab tasks for better clarity  
+- Added explanatory notes where required to reduce learner confusion  
+- Removed the cleanup resources section to streamline the lab flow  
+
+### Screenshot Updates
+
+- Refreshed screenshots across Lab 01 and Lab 02 to reflect the latest Microsoft Fabric UI  
+- Corrected screenshot numbering to ensure consistency with step references  
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-06  
+- Verified updated instructions and screenshots against the current Microsoft Fabric interface
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab using the updated content  
+- Confirmed step sequence accuracy and screenshot alignment with the UI  
+
+</details>
+
+<details>
   <summary>2026-04-02</summary>
 
 ## Release Date: 2026-04-02
