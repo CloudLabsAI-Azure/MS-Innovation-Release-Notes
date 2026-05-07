@@ -12,7 +12,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Changes to screenshots and visuals used in the lab
 
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+
 # Release Notes
+
+<details>
+<summary>2026-05-05</summary>
+ 
+## Release Date: 2026-05-05
+ 
+### Summary of Changes
+ 
+Updates have been implemented throughout the guide, incorporating multiple screenshots to enhance clarity and refining instructions to improve overall understanding 
+ 
+### Infrastructure Changes
+ 
+N/A
+ 
+### Content Changes
+ 
+Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
+
+Key improvements include:
+
+- Updated Task and Exercise heading sizes as per the quality checklist recommendations.
+
+- Added architecture diagram and explanation of components to the Getting Started page.
+
+- Removed MFA-related steps from the Getting Started page as they are no longer required.
+
+- Lab 02 – Exercise 4, Task 3: Added steps to update agent configuration, NuGet version, and required .NET dependencies to fix pipeline failures.
+
+- Updated "Review" sections to "Summary" and added a concluding summary at the end of the lab as per the quality checklist.
+
+- Fixed typos, improved phrasing, and enhanced overall readability.
+
+### Screenshot Updates
+ 
+**Major updates**: Updated major screenshots by replacing blurred and outdated images with clear ones and aligning them with the latest GitHub and Azure DevOps UI changes.
+
+### Testing Notes
+ 
+- **Testing Date**: 2026-05-05
+ 
+### Testing Scope
+ 
+- Performed complete end-to-end lab testing. Verified all instructions, and user flows with the latest UI. 
+ 
+</details>
+
 <details>
   <summary>2025-07-01</summary>
 
