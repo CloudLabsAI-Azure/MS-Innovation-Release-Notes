@@ -18,7 +18,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>13 April 2026</summary>
+  <summary>7 May 2026</summary>
+
+## Summary of Changes
+
+Enhanced the Getting Started page by improving the content structure, adding additional guidance and screenshots for better user experience and interaction, and updating screenshots to reflect the latest implementation and UI changes.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Added additional supporting content including Lab Scenarios, Pre-requisites, Architecture Explanation with Architecture Diagram, Components Explanation, and Repository Structure documentation to provide users with a clearer understanding of the lab guide, solution architecture, and overall implementation flow.
+
+## Screenshot Updates
+
+- Exercise 1, Task 2, Step 2 – Added an additional screenshot highlighting the correct Python virtual environment selection in Visual Studio Code to improve user guidance during notebook execution and environment configuration.
+  
+- Exercise 1, Task 2, Step 14 – Masked environment-specific and system-generated identifiers in the screenshots to align with documentation security and data privacy best practices.
+
+  
+## Testing Notes
+
+- **Testing Date**: 2026-05-07
+
+## Testing Scope
+
+- The testing scope for this update includes validation of the enhanced Getting Started experience, newly added instructional content, updated screenshots, and usability improvements across the lab guide. Testing will verify that all added sections—including Lab Scenarios, Pre-requisites, Architecture Explanation and Diagram, Components Explanation, and Repository Structure—are accurate, properly formatted, and improve overall user understanding of the lab environment and workflow.
+
+- Additionally, validation will ensure that newly added screenshots display correctly and that the Visual Studio Code environment selection guidance in Exercise 1 Task 2 Step 2 is accurate and aligned with the lab instructions.
+
+---
+</details>
+
+
+<details>
+  <summary>7 April 2026</summary>
 
 ## Summary of Changes
 
