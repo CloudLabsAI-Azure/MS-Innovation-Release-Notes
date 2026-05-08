@@ -1,6 +1,6 @@
 # Power Platform Workshop: Administration and Governance
 
-Welcome to the **Power Platform Workshop: Administration and Governance** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Power Platform Workshop: Administration and Governance** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-05-08</summary>
+
+### Release Date: 2026-05-08
+
+### Summary of Changes
+
+- Updated UI across multiple services, including Power Apps, Power Automate, Power Platform Admin Center, and Power BI Portal.
+- Replaced blurry screenshots with clearer ones
+- Improved overall lab instruction flow for better clarity and learner experience.
+- Added and refined notes to enhance understanding.
+  
+## Infrastructure Changes
+
+- VM Public IP address updated to use Standard and Static SKU.
+- VM OS Disk SKU updated to StandardSSD_LRS.
+- Lab validations were incorrectly mapped; have updated the correct ones. 
+
+## Content Changes
+
+- General Updates:
+  - Updated screenshots to align with the latest UI changes across all the labs in Power Apps, Power Automate, Power Platform Admin Center and Power BI Portal
+  - Improved step-by-step instructions for clarity and logical flow.
+  - Added guidance notes where required.
+- Lab 1
+  - Exercise 4 Task 1: Updated steps to configure open access to the environment while creating it.
+  - Exercise 4 Task 2: Updated steps and screenshots to reflect the new UI during flow creation.
+  - Exercise 5 Task 3: Updated process for Dataverse connection: Now requires manual creation of the connection and connection reference before flow creation. Updated steps and screenshots accordingly.
+- Lab 3
+  - Exercise 2 Task 2: Updated UI steps for flow creation.
+- Lab 6
+  - Power BI Updates: Improved steps for:
+    - Logging into Power BI Desktop.
+    - Loading reports.
+    - Added clearer instructions and updated screenshots.
+  
+## Screenshot Updates
+
+- Replaced all outdated and blurry screenshots with clear ones.
+- Updated screenshots to match the latest UI across all the labs.
+
+## Testing Notes
+
+- **Testing Date**: 2026-05-07
+
+## Testng Scope
+
+- Performed end-to-end testing, and lab validation is working fine. Updated the lab guide content to the latest UI changes in all labs for Power Apps, Power Platform Admin Center, and Power BI portal. 
+---
+</details>
 
 <details>
   <summary>2025-09-03</summary>

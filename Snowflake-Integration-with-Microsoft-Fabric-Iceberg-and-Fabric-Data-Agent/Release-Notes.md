@@ -17,6 +17,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 <details>
+  <summary>2026-04-30</summary>
+
+## Release Date: 2026-04-30
+
+### Summary of Changes
+
+Enhanced lab content by updating UI screenshots to reflect the latest interface and improving step-by-step instructions for greater clarity. Standardized database names, corrected spelling errors, and fixed rendering issues. Added updated output screenshots to align with the latest results.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved and clarified instructions across various labs
+- Lab 1, Task 4, Step 5 (Fabric Portal) - Change in Database names, and also modified the output window.
+- Lab 2, Task 1, Step 5 and Step 6 (Snowflake Portal) - Blurred out unique IDs.
+- Lab 3, Task 1, Step 17, Task 2, Step 3, Task 4, and Step 13 (Fabric Portal) - Blurred out unique IDs.
+- Lab 4, Task 2, Step 2 (Fabric Portal) - Updated the UI screenshot.
+- Lab 5, Task 1, Step 1 (Snowflake Portal) - Updated spelling mistakes and updated screenshot.
+- Lab 5, Task 2, Step 11 (Snowflake Portal) - Updated screenshot as per the updated name.
+- Lab 5, Task 3, Step 12 (Snowflake Portal) - Added a output screenshot for better clarity.
+
+### Screenshot Updates
+
+Screenshots have been updated to reflect the latest UI and improve user understanding:
+- Updated screenshots in Lab 1 (Fabric Portal) to reflect the changes made in the database names, and also added new output screenshots.
+- Updated screenshots to blurr out user IDs and other unique IDs.
+- In Lab 5 (Snowflake Portal), updated UI screenshots to reflect the latest changes. Also added new screenshot to reflect the latest output.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-30
+
+### Testing Scope 
+
+Revalidated all labs through end-to-end testing to ensure updated instructions are accurate and the user experience is seamless. Verified Lakehouse data loading workflows, tested troubleshooting guidance, and confirmed the correctness of Snowflake-related tasks, including Cortex Agent functionality. Ensured all screenshots are aligned with the latest UI and documented steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-09</summary>
 
 ## Release Date: 2026-04-09

@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-01</summary>
+
+## Release Date: 2026-05-01
+
+### Summary of Changes
+
+Updated lab instructions to align with the latest Fabric Portal UI, and improved the instructions for clarity and understanding. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01**: Multiple minor UI updates in the Fabric portal while creating a new item in the workspace, updated the item creation steps for easy understanding and clarity. 
+- **Lab 02**: Made minor instruction updates for improved clarity and consistency.
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Replaced screenshots to align with the latest Fabric Portal UI.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-01
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, and enhanced the lab guide with the latest screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-04-14</summary>
 
 ## Release Date: 2026-04-14
