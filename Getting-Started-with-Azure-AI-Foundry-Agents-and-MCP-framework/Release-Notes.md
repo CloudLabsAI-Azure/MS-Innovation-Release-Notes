@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-08</summary>
+
+## Release Date: 2026-05-08
+
+### Summary of Changes
+
+Updated multiple lab exercises to align with the latest Azure AI Foundry, VS Code, GitHub Copilot, and Power Automate experiences. Improvements include refreshed screenshots, clearer navigation guidance, updated workflows, and troubleshooting notes to provide a smoother learner experience.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated instructions across Exercises 1, 2, 3, 4, 6, and 7 to match the latest product UI and workflows.
+- Refreshed guidance for accessing Project Connection Strings, model deployments, API keys, and notebook files.
+- Improved VS Code onboarding instructions, including welcome screen, Trust Authors prompt, and authentication guidance.
+- Added troubleshooting steps for scenarios where the `azd` command is not recognized.
+- Updated GitHub Copilot workflow steps and screenshots to reflect the latest VS Code experience.
+- Improved Power Automate and Copilot Studio instructions to align with the latest agent creation workflow.
+- Added clearer navigation guidance and corrected minor inconsistencies identified during validation.
+
+### Screenshot Update
+
+* Refreshed outdated screenshots across multiple exercises to align with the latest UI in following technologies Azure AI Foundry, VS Code, GitHub Copilot, and Power Automate.
+* Standardized screenshots for improved readability and consistency throughout the lab.
+
+### Testing Notes
+
+**Testing Date:** 2026-05-06
+
+### Testing Scope
+
+Completed end-to-end validation of lab exercises, including updated UI workflows, notebook execution steps, authentication flow handling, GitHub Copilot integration, Power Automate agent creation, and troubleshooting guidance. Also ensured there is content accuracy, and screenshot alignment with the current UI experience.
+
+---
+</details>
+<details>
   <summary>2026-03-19</summary>
 
 ## Release Date: 2026-03-19
@@ -50,7 +88,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Testing Scope 
 
 - End-to-end validation of updated navigation, configuration steps, notebook execution, and MCP server setup to ensure consistency and usability across all exercises.
-
+>
 ---
 </details>
 
