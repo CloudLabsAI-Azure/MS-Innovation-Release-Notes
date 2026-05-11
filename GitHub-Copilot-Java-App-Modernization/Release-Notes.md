@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-11</summary>
+
+## Release Date: 2026-05-11
+
+### Summary of Changes
+
+- The lab was thoroughly tested and the content was reviewed and updated, with minor improvements made to the instructions to enhance clarity and accuracy and ensure a smoother learning experience.
+
+### Infrastructure Changes
+
+- Lab instructions were refined to provide clearer and more understandable guidance.
+
+### Content Changes
+
+In the Lab, Task 2 : Following Instructions are  added:
+- If prompted, click Allow to grant the required permissions.
+
+- In the Visual Studio Code prompt, click Allow to sign in with GitHub.
+
+- In the account selection prompt, choose odl-user to proceed with authentication.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-11
+
+### Testing Scope 
+
+- Performed end-to-end lab testing with successful outcomes. Updated the lab guide to improve clarity, ensure smooth flow, enhance content accuracy, and align screenshots with the latest UI.
+
+
+---
+</details>
+
+
+<details>
   <summary>2026-04-02</summary>
 
 ## Release Date: 2026-04-02
