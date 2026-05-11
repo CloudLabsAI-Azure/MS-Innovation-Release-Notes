@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-11</summary>
+
+### Release Date: 2026-05-11
+
+## Summary of Changes
+
+- Minor refinements to lab instructions and formatting to improve clarity and consistency.
+- No functional or flow-impacting changes to the lab outcomes.
+
+## Infrastructure Changes
+
+- NA
+
+## Content Changes
+
+- Added brief timing and clarity notes where required.
+- Reworded and reformatted steps for better readability.
+- Standardized lab headers and step structure.
+- Minor instruction consolidation without altering learner flow.
+
+## Screenshot Updates
+
+- Minor screenshot additions/updates to reflect the current UI.
+- No major visual changes impacting lab behavior.
+
+## Validation
+
+- Lab steps validated post-update to ensure no regressions.
+
+## Testing Scope
+
+- End-to-end lab testing completed successfully.
+- Minor updates verified; no issues or blockers identified.
+
+</details>
+
+<details>
   <summary>2026-03-04</summary>
 
 ### Release Date: 2026-03-04
