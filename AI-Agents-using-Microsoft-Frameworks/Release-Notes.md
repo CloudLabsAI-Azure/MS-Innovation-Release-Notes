@@ -15,6 +15,40 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 <details>
+  <summary>2026-05-11</summary>
+
+## Release Date: 2026-05-11
+ 
+### Summary of Changes
+
+- Updated the lab guide by adding a Lab Scenario section to provide users with a clear understanding of the lab objectives and workflow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Minor updates**: 
+
+    - Updated the lab guide by removing unnecessary characters and correcting grammatical and formatting inconsistencies.
+
+### Screenshot Updates
+
+- No screenshot updates were required, as all screenshots in the lab guide were already up to date and accurately reflected the current environment.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-11
+
+### Testing Scope 
+
+- Executed complete process testing and validation to ensure reliable performance, correct implementation, and seamless operational flow.
+
+---
+</details>
+
+<details>
   <summary>2026-04-23</summary>
 
 ## Release Date: 2026-04-23
