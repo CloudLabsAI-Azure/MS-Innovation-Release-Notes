@@ -22,8 +22,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-- Major lab restructuring and content updates to improve clarity, usability, and alignment with the latest Azure UI.
-- Removed outdated lab content and simplified lab flow for a better learner experience.
+- Major lab restructuring and content updates to improve clarity, usability, and alignment with the latest Dynamics 365 UI.
+- Reduced lab content and simplified lab flow for a better learner experience.
 - Added architecture diagram to improve conceptual understanding.
 
 ## Infrastructure Changes
@@ -32,9 +32,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-- Removed Lab 3 completely from the lab sequence.
-- Removed Task 4 and Task 6 from Lab 6.
-- Updated instructions to align with the latest Azure UI.
+- Excercise 3 content has been consolidated to simplify the lab flow and reduce overall execution time.
+- Task 4 and Task 6 in Excercise 6 content has been consolidated to simplify the lab flow and reduce overall execution time..
+- Updated instructions to align with the latest Dynamics 365 UI.
 - Added timing and provisioning notes where required.
 - Improved step clarity by merging and simplifying instructions.
 - Standardized formatting, headers, and step structure across labs.
@@ -42,15 +42,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Screenshot & Media Updates
 
-- Added and updated screenshots across multiple labs to reflect the latest Azure UI.
+- Added and updated screenshots across multiple labs to reflect the latest Dynamics 365 UI.
 - Introduced an architecture diagram to represent solution flow.
 - Replaced outdated visuals with updated UI-aligned images.
 
 ## Validation
 
 - End-to-end lab validation completed after updates.
-- Verified updated lab flow after removal of Lab 3 and Lab 6 tasks.
-- Confirmed all screenshots align with current Azure UI.
+- Verified updated lab flow after consolidating of Lab 3 and Lab 6 tasks.
+- Confirmed all screenshots align with current Dynamics 365 UI.
 - Ensured no broken references or navigation issues.
 
 ## Testing Scope
