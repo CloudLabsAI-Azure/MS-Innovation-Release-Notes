@@ -17,6 +17,44 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
+  <summary>2026-05-13</summary>
+
+## Release Date: 2026-05-13
+
+### Summary of Changes
+
+Updated the UI screenshots, revised the login steps for the GitHub user account, updated the login method via SSO, and made the necessary changes to the lab guide steps as well.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In the Getting Started Page, added Login to GitHub steps so that users can login to the GitHub before proceeding with the installation of GitHub Co-Pilot Extension.
+- Exercise 1, Task 1, Step 13: Made few updates in the steps to reflect the latest changes. 
+- Exercise 1, Task 1, Step 14: Changed the step to reflect the latest UI.
+- Exercise 1, Task 1, Step 15: Removed the older step since Outlook option is no longer needed now, and replaced it with a new step to sign in to the GitHub.
+- Exercise 1, Task 1, Step 16: Updated this step to follow the workflow in a structured flow.
+
+### Screenshot Updates
+
+- Added few additional screenshots in the Getting Started Page for GitHub Login.
+- Exercise 1, Task 1, Step 12: Updated the screenshot since the older one was not clear.
+- Exercise 1, Task 1, Step 13, 14, 15, 16 and 17: Updated the screenshot to follow the workflow.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-05-13
+
+### Testing Scope 
+
+Changed the login method of GitHub to SSO, and made necessary changes in the lab guide workflow as well.  
+
+---
+</details>
+
+<details>
   <summary>2026-05-04</summary>
 
 ## Release Date: 2026-05-04
