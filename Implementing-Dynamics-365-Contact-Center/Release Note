@@ -16,14 +16,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-05-11</summary>
+  <summary>2026-05-13</summary>
 
-### Release Date: 2026-05-11
+### Release Date: 2026-05-13
 
 ## Summary of Changes
 
-- Minor refinements to lab instructions and formatting to improve clarity and consistency.
-- No functional or flow-impacting changes to the lab outcomes.
+- Major lab restructuring and content updates to improve clarity, usability, and alignment with the latest Azure UI.
+- Removed outdated lab content and simplified lab flow for a better learner experience.
+- Added architecture diagram to improve conceptual understanding.
 
 ## Infrastructure Changes
 
@@ -31,27 +32,32 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Content Changes
 
-- Added brief timing and clarity notes where required.
-- Reworded and reformatted steps for better readability.
-- Standardized lab headers and step structure.
-- Minor instruction consolidation without altering learner flow.
+- Removed Lab 3 completely from the lab sequence.
+- Removed Task 4 and Task 6 from Lab 6.
+- Updated instructions to align with the latest Azure UI.
+- Added timing and provisioning notes where required.
+- Improved step clarity by merging and simplifying instructions.
+- Standardized formatting, headers, and step structure across labs.
+- Enhanced toggle selections, navigation steps, and UI alignment for better readability.
 
-## Screenshot Updates
+## Screenshot & Media Updates
 
-- Minor screenshot additions/updates to reflect the current UI.
-- No major visual changes impacting lab behavior.
+- Added and updated screenshots across multiple labs to reflect the latest Azure UI.
+- Introduced an architecture diagram to represent solution flow.
+- Replaced outdated visuals with updated UI-aligned images.
 
 ## Validation
 
-- Lab steps validated post-update to ensure no regressions.
+- End-to-end lab validation completed after updates.
+- Verified updated lab flow after removal of Lab 3 and Lab 6 tasks.
+- Confirmed all screenshots align with current Azure UI.
+- Ensured no broken references or navigation issues.
 
 ## Testing Scope
 
-- End-to-end lab testing completed successfully.
-- Minor updates verified; no issues or blockers identified.
-
+- Full end-to-end testing completed successfully.
+- Verified improved usability, clarity, and consistency across all updated labs.
 </details>
-
 <details>
   <summary>2026-03-04</summary>
 
