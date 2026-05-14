@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-05-14</summary>
+
+## Release Date: 2026-05-14
+
+### Summary of Changes
+
+Performed end-to-end lab testing and updated content to align with the latest Microsoft 365 Copilot and Copilot Studio UI changes, including workflow updates, revised step sequencing, and refreshed screenshots for an improved learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01 - Task 4**: Added additional guidance for the Keep it option in Outlook Copilot workflow.
+- **Lab 01 - Task 5**: Updated Word Copilot workflow instructions and added guidance for retaining generated output.
+- **Lab 01 - Task 7**: Revised Copilot Studio agent creation and configuration steps to align with the latest setup experience and updated step sequencing.
+- **Lab 02 - Task 3**: Updated PowerPoint Copilot instructions to reflect the latest UI experience and Copilot access location.
+- **Lab 03 - Task 1**: Revised Copilot Studio agent creation and description configuration workflow based on the current UI experience.
+
+### Screenshot Updates
+
+- Refreshed existing screenshots and added new screenshots across **Getting Started page, Lab 01, Lab 02, and Lab 03** to match the latest Microsoft 365 Copilot and Copilot Studio UI.
+- Replaced outdated image references with updated screenshots aligned to the current Microsoft 365 Copilot and Copilot Studio UI experience.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-13
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully, and the lab guide was updated to improve instruction clarity and align with the latest Microsoft 365 Copilot and Copilot Studio UI changes.
+
+
+---
+</details>
+<details>
   <summary>2026-04-23</summary>
 
 ## Release Date: 2026-04-23
