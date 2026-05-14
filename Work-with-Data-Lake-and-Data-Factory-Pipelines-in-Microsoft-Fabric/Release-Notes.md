@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-14</summary>
+
+## Release Date: 2026-05-14
+
+### Summary of Changes
+
+Updated the lab guide with the latest UI screenshots, revised the steps to reflect recent changes, corrected typographical errors, added lab scenarios, updated the summary pointers, and provided detailed explanations for each code snippet.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added lab scenarios, updated the summary pointers, and provided detailed explanations for each code snippet to improve clarity and understanding.
+- **Lab 01, Task 1, Step 7**: Updated the terminology and labels to align with the latest UI changes and ensure consistency with the current application interface.
+- **Lab 01, Task 1, Step 1**: Updated the step to align with the latest UI changes and ensure accuracy with the current interface workflow.
+- **Lab 02, Task 1, Step 1, 2, & 3**: Corrected the step to accurately describe the process for creating and configuring a pipeline.
+
+### Screenshot Updates
+
+**Updated UI Screenshots**: 
+  - **Lab 01, Task 1, Step 7** - Updated the screenshot as per latest UI.
+  - **Lab 02, Task 1, Step 1, 2, & 3** - Updated the screenshots to provide clear guidance for users on creating and configuring a pipeline.
+  - **Lab 01, Task 3, Step 1** - Updated the screenshot to reflect the latest UI changes and ensure consistency with the current application interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-14
+
+### Testing Scope 
+
+- Performed comprehensive end-to-end validation of the lab environment with successful execution across all test scenarios, refined the overall lab workflow to enhance usability and clarity, and updated the screenshots to align with the latest UI enhancements.
+  
+---
+</details>
+
+<details>
   <summary>2026-04-13</summary>
 
 ## Release Date: 2026-04-13
