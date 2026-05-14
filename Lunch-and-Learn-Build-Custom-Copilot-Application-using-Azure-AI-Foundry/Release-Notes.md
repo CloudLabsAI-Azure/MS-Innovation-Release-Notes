@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-05-14</summary>
+
+## Release Date: 2026-05-14
+
+### Summary of Changes
+
+Updated the lab instructions to align with the latest Azure Portal UI and improve overall learner experience. Minor content refinements were implemented for better clarity and understanding. Additionally, the Visual Studio Code screenshot was updated to reflect the current interface.
+
+### Infrastructure Changes
+
+- Updated the OS Disk size to StandardSSD_LRS.
+
+### Content Changes
+
+- Updated lab instructions for improved clarity and readability.
+- Performed minor instruction optimizations to improve learner navigation through the lab.
+
+### Screenshot Updates
+
+- Updated the Visual Studio Code and Azure portal screenshots to reflect the latest UI experience.
+- Screenshots added for:
+   - Exercise 1 Task 1 Step 1
+   - Exercise 1 Task 2 Step 5, Step 6
+   - Exercise Task 4 Step 1 
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-14
+
+### Testing Scope 
+
+- Validated the lab end-to-end after implementing the updates and confirmed all steps are in the correct sequence.
+
+---
+</details>
+
+
+<details>
   <summary>2026-04-13</summary>
 
 ## Release Date: 2026-04-13
