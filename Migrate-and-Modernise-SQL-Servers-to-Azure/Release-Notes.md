@@ -15,6 +15,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-15</summary>
+
+### Release Date: 2026-05-15
+  
+- **Testing Date**: 2026-05-15
+
+## Infrastructure Changes
+- NA
+
+## Content Changes
+- **Getting Started Page**: Added Lab Scenario and updated Task 6 content.
+- **Exercise 1–6**: Refined instructions, improved navigation, fixed numbering, added notes, and aligned steps with latest UI.
+- Reorganized steps and improved task flow for better learner experience.
+- Applied confidentiality adjustments where needed.
+
+## Screenshot Updates
+- Updated screenshots across **Getting Started Page and Exercises 1–6** to match latest UI.
+- Replaced unclear images and added better visual guidance.
+
+## Validation
+- All exercises validated successfully with no blocking issues.
+
+## Testing Notes
+- Completed end-to-end testing and ensured accuracy, consistency, and improved usability.
+
+---
+</details>
+
+<details>
   <summary>2026-01-29</summary>
 
 ### Release Date: 2025-09-08
