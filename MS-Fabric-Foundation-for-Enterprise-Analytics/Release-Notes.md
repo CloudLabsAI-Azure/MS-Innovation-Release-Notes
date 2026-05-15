@@ -18,6 +18,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-15</summary>
+
+## Release Date: 2026-05-15
+
+### Summary of Changes
+
+Improved the lab guide by refining instructions, adding contextual notes, and updating UI screenshots to align with the latest interface, ensuring better clarity and a smoother learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Lab 01 Task 1 Step 01: Updated instruction to reflect **"Start trial"** option.
+- Lab 01 Task 3 Step 05: Added note to **uncheck the checkbox while creating a Lakehouse**.
+- Lab 01 Task 4 Step 03: Added note to **rename default Pipeline_1 as per instructions**.
+- Lab 01 Task 4 Step 04: Added **numbering to the image** for improved guidance.
+- Lab 01 Task 6 Step 01: Updated instruction and added note for better clarity.
+
+### Screenshot Updates
+
+- Lab 01 Task 1 Step 01: Screenshot updated to reflect latest UI ("Start trial").
+- Lab 01 Task 4 Step 04: Screenshot updated with numbering for clarity.
+- Lab 01 Task 4 Step 08: Screenshot updated as per latest UI.
+- Lab 01 Task 4 Step 09: Screenshot updated as per latest UI.
+- Lab 01 Task 4 Step 10: Screenshot updated as per latest UI.
+- Lab 01 Task 6 Step 01: Screenshot updated with numbering and latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-15
+
+### Testing Scope 
+
+Conducted end-to-end validation of the lab to ensure all instructions, notes, and screenshots align with the latest UI and provide a consistent and accurate learner experience.
+
+---
+</details>
+
+<details>
   <summary>2026-05-05</summary>
 
 ## Release Date: 2026-05-05
