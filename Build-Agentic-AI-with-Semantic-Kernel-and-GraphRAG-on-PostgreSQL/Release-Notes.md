@@ -51,6 +51,7 @@ Replaced older PostgreSQL connection popup screenshots that showed the previous 
 - Checked formatting and overall learner experience
 
 </details>
+
 <details>
   <summary>2026-04-06</summary>
 
