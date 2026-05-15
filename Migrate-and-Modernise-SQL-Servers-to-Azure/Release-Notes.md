@@ -15,6 +15,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-15</summary>
+
+### Release Date: 2026-05-15
+  
+- **Testing Date**: 2026-05-15
+
+## Infrastructure Changes
+
+ - NA
+
+## Content Changes
+
+  - Refined lab instructions to improve clarity, usability, and overall user experience.
+  - Fixed issues identified during end-to-end lab testing.
+  - Incorporated feedback and suggested changes into the guide.
+  - Updated steps and configurations to align with latest UI changes observed during testing.
+
+## Screenshot Updates
+
+   - **Updated UI Screenshots**: Screenshots were reviewed and updated wherever necessary to reflect the latest UI accurately and ensure better clarity.
+
+## Validation
+
+   - All exercises were validated successfully after updates.
+   - No blocking issues identified during testing.
+
+## Testing Notes
+
+- Completed comprehensive end-to-end lab testing.
+- Ensured accuracy of all instructions, configurations, and user flow.
+- Lab guide updated to enhance clarity and maintain consistency across all exercises.
+
+---
+</details>
+
+<details>
   <summary>2026-01-29</summary>
 
 ### Release Date: 2025-09-08
