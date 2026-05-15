@@ -17,41 +17,28 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2026-05-15</summary>
 
-## Release Date: 2026-05-15
-
-### Summary of Changes
-
-Enhanced the lab guide by refining instructions, improving task flow and navigation, restructuring content across pages, and updating UI screenshots to align with the latest Azure portal experience, ensuring improved clarity, consistency, and usability.
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-- **Starter Page**: Added a new **Lab Scenario** section to provide real-world migration and modernization context. Updated June-related content in Task 6.
-- **Page 1**: Refined instructions, improved navigation guidance, updated Steps 12 & 13 as per the latest Azure portal UI, and enhanced the note section in Step 20 for better readability.
-- **Page 2**: Modified instructions to improve learner understanding and added explanatory notes for clearer guidance.
-- **Page 3**: Reorganized task flow by moving Step 4 to Step 5, corrected step numbering, added new steps, and enhanced guidance with explanatory notes.
-- **Page 5**: Updated instructions for clarity, improved navigation flow, and applied confidentiality/blur adjustments to sensitive information.
-- **Page 6**: Corrected numbering alignment, improved task flow consistency, and refined naming convention guidance and related instructions.
-
-### Screenshot Updates
-
-- **Starter Page**: Updated starter page banner/image.
-- **Page 1**: Updated screenshots based on the latest Azure portal UI.
-- **Page 2**: Updated screenshots to reflect the latest Azure UI experience.
-- **Page 3**: Updated screenshots and added visuals aligned with the latest UI for better clarity.
-- **Page 5**: Replaced blurry screenshots with clearer versions and updated images to match the latest UI.
-- **Page 6**: Updated screenshots for improved clarity and consistency with the current Azure portal experience.
-
-### Testing Notes
-
+### Release Date: 2026-05-15
+  
 - **Testing Date**: 2026-05-15
 
-### Testing Scope 
+## Infrastructure Changes
+- NA
 
-Conducted end-to-end validation of all updated pages, ensuring correctness of task flow, alignment with the latest UI, accuracy of instructions, and overall consistency in the learner experience.
+## Content Changes
+- **Getting Started Page**: Added Lab Scenario and updated Task 6 content.
+- **Exercise 1–6**: Refined instructions, improved navigation, fixed numbering, added notes, and aligned steps with latest UI.
+- Reorganized steps and improved task flow for better learner experience.
+- Applied confidentiality adjustments where needed.
+
+## Screenshot Updates
+- Updated screenshots across **Getting Started Page and Exercises 1–6** to match latest UI.
+- Replaced unclear images and added better visual guidance.
+
+## Validation
+- All exercises validated successfully with no blocking issues.
+
+## Testing Notes
+- Completed end-to-end testing and ensured accuracy, consistency, and improved usability.
 
 ---
 </details>
