@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-05-15</summary>
+
+## Release Date: 2026-05-15
+
+### Summary of Changes
+
+Minor updates were made to the lab guide by replacing outdated PostgreSQL connection popup screenshots with the latest UI screenshots. The updated screenshots now reflect the current interface and available options to ensure better clarity and consistency for learners during the lab experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated PostgreSQL connection popup screenshots and related references in the lab guide to align with the latest UI changes.
+
+### Screenshot Updates
+
+Replaced older PostgreSQL connection popup screenshots that showed the previous UI with updated screenshots reflecting the current interface and additional available options.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-14  
+  Testing activities were carried out to validate the updated screenshots and ensure the lab instructions matched the latest UI behavior.
+
+### Testing Scope 
+
+- Verified updated PostgreSQL connection popup screenshots  
+- Confirmed screenshots align with the current UI  
+- Validated the related lab steps for clarity and consistency  
+- Checked formatting and overall learner experience
+
+</details>
+<details>
   <summary>2026-04-06</summary>
 
 ## Release Date: 2026-04-06
