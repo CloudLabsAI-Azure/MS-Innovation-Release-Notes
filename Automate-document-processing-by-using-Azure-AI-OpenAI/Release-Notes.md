@@ -26,7 +26,7 @@ The lab has been successfully tested. Some screenshots were updated where the ex
 
 ### Infrastructure Changes
 
-  N/A
+  Added a post deployment script to accomodate the new UI updates. The script gives an Azure AI Search service permission to access a Storage Account in Azure.
 
 ### Content Changes
 
