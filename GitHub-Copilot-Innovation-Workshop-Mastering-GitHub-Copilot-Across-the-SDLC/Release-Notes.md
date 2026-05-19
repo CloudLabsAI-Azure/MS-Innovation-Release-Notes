@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-19</summary>
+
+## Release Date: 2026-05-19
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab after incorporating updates required for the latest VS Code UI changes and revised instruction flow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- E1 - Getting Started page - Corrected a typographical error.
+- In Exercises 2, 3, 4, 5, 6 - Resolved the rendering issue.
+- In E7, S3 - Added the missing word to align with the lab guide.
+- E7, Instructions section - Added step numbering to align with the lab guide.
+
+### Screenshot Updates
+
+- In E7, Instructions section - Updated the screenshot to match the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-19
+
+### Testing Scope 
+
+* Conducted comprehensive validation of the lab environment against the latest platform UI and workflows, ensuring all steps and expected behaviors functioned correctly.
+* Reviewed and refined the lab documentation for accuracy and consistency, including updating outdated screenshots and aligning content with the current user experience.
+
+</details>
+
+
+<details>
   <summary>2026-04-23</summary>
 
 ## Release Date: 2026-04-23
