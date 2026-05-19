@@ -21,13 +21,13 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 ## Release Date: 
 
 ### Summary
-Successfully completed the onboarding for the referenced lab. The lab environment, deployment configuration, automation components, and lab content were reviewed and prepared to ensure smooth provisioning and execution.
+Successfully completed the onboarding for the specified lab. The lab environment, deployment configuration, automation components, and lab content were reviewed and prepared to ensure smooth provisioning and execution.
  
 ### Infrastructure
 
-- Configured the required Azure resources, including ARM templates, VM configurations, supporting scripts, licensing requirements, and custom deployment components needed for the lab environment.
+- Configured the required Azure resources, including infrastructure-as-code templates, VM configurations, supporting scripts, licensing requirements, and custom deployment components required for the lab environment.
 
-- Implemented custom ARM policies, usage policies, and custom RBAC roles as part of the environment configuration and access management setup.
+- Implemented custom policies, RBAC roles, and alerting mechanisms as part of the environment configuration and access management setup.
 
 ### Content 
 
