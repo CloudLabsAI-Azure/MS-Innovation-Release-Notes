@@ -14,6 +14,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-05-20</summary>
+
+## Release Date: 2026-05-20
+
+### Summary of Changes
+
+Performed content refinements and rendering fixes across the lab guide to improve overall readability, consistency, and user experience. Updated screenshots and instructions based on the latest portal/UI experience. Improved step-by-step guidance in selected tasks to reduce ambiguity during lab executio
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**
+Updated the Environment tab screenshot with the latest UI.
+- **Lab 02**
+   - Updated multiple screenshots based on the latest experience.
+   - Refined instructions for better navigation and execution.
+  - Updated Task 4 Data Collection creation steps with the latest workflow and UI changes.
+- **Lab 03**
+Added additional notes in Task 2.
+- **Lab 04**
+Reviewed and corrected step numbering inconsistencies.
+
+Refined instructions and updated screenshots where required.
+
+### Screenshot Updates
+
+- Updated screenshots to reflect the latest UI and workflow changes.
+
+- Improved screenshot alignment with the current lab instructions and expected outputs
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-20
+
+### Testing Scope 
+
+- Completed end-to-end lab testing and validation. Verified updated screenshots, instructions, rendering, and navigation flow. Confirmed all lab tasks and validations were functioning as expected.
+
+---
+</details>
+
 <details>
   <summary>2026-04-08</summary>
 
