@@ -24,11 +24,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor enhancements were made throughout the guide, including updating outdated screenshots, improving learner flow, updating the deployment region to avoid VM quota issues, and adding the conclusion section for improved clarity and accuracy.   
+Minor enhancements were made throughout the guide, including updating outdated screenshots, improving learner flow, updating the deployment region to avoid Foundry quota issues, and adding the conclusion section for improved clarity and accuracy.   
 
 ### Infrastructure Changes
 
-- Updated the deployment region from **South Central US** to **Sweden Central** in **Lab 02 – Task 1 – Point 4** to avoid VM quota issues during compute session provisioning.
+- Updated the deployment region from **South Central US** to **Sweden Central** in **Lab 02 – Task 1 – Point 4** to avoid Foundry quota issues during compute session provisioning.
 
 ### Content Changes
 
