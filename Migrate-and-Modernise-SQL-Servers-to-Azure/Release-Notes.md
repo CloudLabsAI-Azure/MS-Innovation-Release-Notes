@@ -29,11 +29,14 @@ N/A
 
 ### Content Changes
 
-- Updated **Getting Started Page** with new environment screenshots.
-- Improved instructions, added missing task descriptions, and corrected step numbering across **Lab 01 and Lab 02**.
-- Standardized completion messages for consistency across all exercises.
-- Enhanced overall readability by refining steps and improving content clarity.
-- Added conclusion for **Lab 02** and ensured better flow across exercises.
+- **Getting Started Page**: Updated environment screenshots to align with the latest Azure lab UI.  
+- **Lab 01 - Exercise 01 Task 01**: Added task description, refined instructions for clarity, masked sensitive lab code in screenshots, and standardized completion message.  
+- **Lab 01 - Exercise 02 Task 01**: Improved step clarity, corrected numbering inconsistencies, and updated completion messaging.  
+- **Lab 01 - Exercise 03 Tasks**: Fixed image alignment, spacing, and numbering; added missing task descriptions to improve readability.  
+- **Lab 02 - Exercise 01**: Added task descriptions and restructured steps with clear numbering for better flow.  
+- **Lab 02 - Exercise 02**: Enhanced screenshot clarity and masked sensitive details (Tenant ID/DID) across steps.  
+- **Lab 02 - Conclusion**: Added a structured conclusion section and improved overall exercise continuity.  
+- **All Labs**: Standardized completion message across exercises for consistency in learner experience.  
 
 ### Screenshot Updates
 
