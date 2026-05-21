@@ -24,7 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-This update includes minor improvements such as enhanced UI screenshots as per new UI.
+This update includes minor enhancements such as refreshed UI screenshots aligned with the latest interface experience, along with the addition of lab scenarios to improve contextual understanding and learning flow.
 
 ### Infrastructure Changes
 
@@ -32,8 +32,8 @@ N/A
 
 ### Content Changes
 
-N/A
-
+- Added detailed lab scenarios to improve content clarity, contextual understanding, and overall learning experience.
+  
 ### Screenshot Updates
 
 - **Minor updates**: 
