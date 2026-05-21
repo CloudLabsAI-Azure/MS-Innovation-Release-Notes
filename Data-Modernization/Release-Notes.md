@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-05-21</summary>
+
+## Release Date: 2026-05-21
+
+### Summary of Changes
+
+The lab was successfully tested, and the instructions and screenshots were updated accordingly. 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a detailed lab scenario and incorporated the required prerequisites to improve clarity and setup readiness.
+- E2, T2, S2 - Updated the steps to reflect the latest UI changes.
+- E3, T5, S2 - Added an additional note to guide users in case they encounter login issues.
+- E3, T5, S4 - Added step numbering to align with the screenshots.
+- E3, T5, S9 - Added an additional note explaining how to retrieve the Authentication Key from the Azure portal in case users encounter any issues.
+- E4, T1, S9, S10, S11 - Added step numbering to align with the screenshots.
+
+### Screenshot Updates
+
+- Updated the screenshot on the **Getting Started** page for the **Environment** tab to reflect the latest UI changes.
+- E2, T1, S5 - Updated the screenshot to reflect the latest UI changes.
+- E3. T5, S2 - Updated the screenshot to reflect the latest UI changes.
+- E3, T5, S9 - Added screenshots to the additional note to help guide users through the exercise.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-21
+
+### Testing Scope
+
+Conducted end-to-end lab testing and updated the instructions and screenshots accordingly.
+
+---
+</details>
+
+<details>
   <summary>2026-01-21</summary>
 
 ## Release Date: 2026-01-21
