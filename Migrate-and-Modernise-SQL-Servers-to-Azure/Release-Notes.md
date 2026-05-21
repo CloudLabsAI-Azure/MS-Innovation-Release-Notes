@@ -15,6 +15,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-20</summary>
+
+## Release Date: 2026-05-20
+
+### Summary of Changes
+
+Performed end-to-end validation and content updates for the **Migrate and Modernize SQL Servers to Azure** lab to improve clarity, consistency, and learner experience. Updates include refined step instructions, addition of missing task descriptions, standardized completion messaging, and enhanced screenshots aligned with the latest Azure lab environment.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**: Updated environment screenshots to align with the latest Azure lab UI.  
+- **Lab 01 - Exercise 01 Task 01**: Added task description, refined instructions for clarity, masked sensitive lab code in screenshots, and standardized completion message.  
+- **Lab 01 - Exercise 02 Task 01**: Improved step clarity, corrected numbering inconsistencies, and updated completion messaging.  
+- **Lab 01 - Exercise 03 Tasks**: Fixed image alignment, spacing, and numbering; added missing task descriptions to improve readability.  
+- **Lab 02 - Exercise 01**: Added task descriptions and restructured steps with clear numbering for better flow.  
+- **Lab 02 - Exercise 02**: Enhanced screenshot clarity and masked sensitive details (Tenant ID/DID) across steps.  
+- **Lab 02 - Conclusion**: Added a structured conclusion section and improved overall exercise continuity.  
+- **All Labs**: Standardized completion message across exercises for consistency in learner experience.  
+
+### Screenshot Updates
+
+- Updated and improved screenshots across **Getting Started Page, Lab 01, and Lab 02** for clarity and consistency.
+- Added image borders, spacing adjustments, and formatting improvements for better readability.
+- Masked sensitive information (Lab codes, Tenant IDs, DID values) in screenshots.
+
+### Validation
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-20
+
+### Testing Scope 
+
+- Completed full end-to-end testing of the lab.
+- Validated all steps, numbering, and instructions for accuracy.
+- Verified screenshots align with the current Azure lab environment.
+- Ensured improved readability, consistency, and security compliance across the lab guide.
+
+---
+</details>
+
+<details>
   <summary>2026-05-15</summary>
 
 ### Release Date: 2026-05-15
