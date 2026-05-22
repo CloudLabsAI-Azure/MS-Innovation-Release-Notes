@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-22</summary>
+
+## Release Date: 2026-05-22
+
+### Summary of Changes
+
+Upgraded Apache Spark version to 3.5 (latest), added a Lab Scenario in the Getting Started page, updated the Cloud Labs portal interface screenshots as per the latest experience, fixed numbering inconsistencies in a few steps, improved instruction clarity in Page 2 > Ex 1 > Task 2 > Step 5, Page 3 > Task 1.1 > Step 1, Task 2 > step 3 and successfully validated the lab through end-to-end execution.
+
+### Infrastructure Changes
+
+Updated Apache Spark runtime version from 3.4 to 3.5.
+
+### Content Changes
+
+Upgraded Apache Spark version to 3.5.
+Added Lab Scenario in the Getting Started page.
+Updated Cloud Labs portal screenshots to match the latest UI.
+Fixed numbering inconsistencies in a few steps.
+
+### Screenshot Updates
+
+Updated outdated screenshots to align with the latest Cloud Labs portal interface.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-22
+
+### Testing Scope 
+
+- Performed complete end-to-end lab validation, verified flow continuity, validated Apache Spark 3.5 compatibility, checked screenshot accuracy against the latest Cloud Labs portal UI and Azure Portal, confirmed numbering, and updated the cost sheet as per CL standards.
+
+</details>
+
+<details>
   <summary>2026-04-10</summary>
 
 ## Release Date: 2026-04-10
