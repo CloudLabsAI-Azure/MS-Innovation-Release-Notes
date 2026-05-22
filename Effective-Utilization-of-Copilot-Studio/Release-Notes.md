@@ -18,6 +18,43 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-05-22</summary>
+
+## Release Date: 2026-05-22
+
+### Summary of Changes
+
+Updated all labs to align with the latest agent creation experience and improved the overall guide. Added Scenario sections and updated Overview content across labs for better understanding. Also refreshed screenshots and corrected rendering issues.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the agent creation workflow in all labs to reflect the latest Copilot Studio UI, where agent naming is now handled through a direct pop-up window.
+- Added Scenario sections across all labs and updated the Overview sections accordingly.
+- Updated Lab 5, Task 1 with additional steps to create a new connection for the Weather Forecast connector.
+- Replaced blurred screenshots with updated images.
+- Refined wording and instructional clarity in multiple steps throughout the labs.
+
+### Screenshot Updates
+
+- Updated screenshots across all labs to match the latest Copilot Studio experience.
+- Replaced outdated or blurred images with clearer screenshots.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-22
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, ensuring all steps work as expected. Updated the lab guide with clear and accurate instructions.
+
+---
+</details>
+
+<details>
   <summary>2026-04-21</summary>
 
 ## Release Date: 2026-04-21
