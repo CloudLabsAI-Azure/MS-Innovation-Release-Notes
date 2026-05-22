@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-22</summary>
+
+## Release Date: 2026-05-22
+
+### Summary of Changes
+
+Refined the lab instructions and improved overall content clarity for a better learner experience. Updated screenshots based on the latest UI and added additional screenshots where required for better guidance. Performed spell check, formatting fixes, and blurred sensitive information in screenshots as per the validation checklist.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refined command instructions and task guidance for improved readability and learner understanding.
+- Corrected spelling, formatting, and content inconsistencies across the lab guide.
+- Improved overall instruction flow and updated learner-facing guidance for smoother execution.
+
+### Screenshot Updates
+
+- Updated multiple screenshots based on the latest portal/UI experience and added additional screenshots for better clarity.
+- Blurred sensitive information and parameters in screenshots in accordance with the validation checklist.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-22
+
+### Testing Scope 
+
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+
+---
+</details>
+
+<details>
   <summary>2026-04-28</summary>
 
 ## Release Date: 2026-04-28
