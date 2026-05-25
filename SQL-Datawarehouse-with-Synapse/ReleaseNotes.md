@@ -26,7 +26,7 @@ Upgraded Apache Spark version to 3.5 (latest), Added Lab Scenario in the Getting
 
 ### Infrastructure Changes
 
-Updated Apache Spark runtime version from 3.4 to 3.5.
+Updated Apache Spark runtime version from 3.4 to 3.5
 
 ### Content Changes
 
