@@ -14,7 +14,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-05-22</summary>
 
+## Release Date : 2026-05-22
+
+### Summary of Changes
+
+The Azure Virtual Desktop lab has been successfully tested and updated with the latest screenshots, improved instructional clarity, updated login flow instructions, and additional validation notes for preconfigured lab environments to improve overall learner experience and reduce confusion during execution.
+
+### Infrastructure Changes
+
+  N/A
+
+### Content Changes
+
+  - Refined instructions across the lab to provide clearer step-by-step guidance and improved overall instructional flow.
+
+- Added missing steps and updated several outdated or missing screenshots.
+
+- Added missing step markings/highlights in screenshots for better learner navigation.
+
+- Added validation and informational notes for scenarios where resources may already be preconfigured in the environment.
+
+- Added guidance for skipping unnecessary manual steps when Host Pools, users, groups, or memberships are already available.
+
+- Added clarification notes for existing group name conflicts and precreated user/group scenarios.
+
+- Updated the Microsoft Teams login workflow from the outdated flow to the current browser-based sign-in experience using Microsoft Edge.
+
+- Improved formatting and resolved rendering/instruction consistency issues across the lab guide.
+
+### Screenshot Updates
+
+- #### Minor updates:
+
+  - Updated UI Screenshots: Updated screenshots with the latest Azure portal and Microsoft Teams UI experience.
+
+  - Step Marking Improvements: Added and corrected step highlights/annotations in screenshots for improved clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-22
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the updated lab guide flow, verified screenshots and instructional accuracy, tested preconfigured resource scenarios.
+
+---
+</details>
 <details>
   <summary>2026-04-10</summary>
 
