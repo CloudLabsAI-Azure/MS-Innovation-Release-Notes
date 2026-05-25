@@ -29,7 +29,8 @@ Updated the lab guide to improve clarity, align with the latest Azure portal UI,
 NA
 
 ## Content Changes
-  
+
+- **Lab Scenarios:** Updated lab guide scenarios for all lab exercises.
 - **Getting Started Page:** Added Lab Scenario and updated Architecture.  
 - **Exercise 1:** Updated Task 1 → Step 3 with improved instruction, added note, and new screenshot.  
 - **Exercise 2:**  
