@@ -17,33 +17,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-04-22</summary>
+  <summary>2025-05-27 - Onboarding</summary>
 
-## Release Date: 2026-04-22
+### Summary
 
-### Summary of Changes
+- Successfully onboarded the Explore Knowledge Mining lab. The lab environment, Azure AI Search workflow, AI enrichment pipeline, and end-to-end indexing and querying scenarios have been validated.
+ 
+### Infrastructure
 
+- Provisioned and configured the required lab environment, including:
+  - Lab VM pre-configured with all required files and resources for the hands-on lab experience.
 
-### Infrastructure Changes
+- Provisioned and configured the required lab environment, including:
 
-N/A
+  - Microsoft Azure AI Search resource for indexing and querying customer review data.
+  - Azure AI Services resource for AI-powered enrichment and cognitive skills processing.
+  - Azure Storage Account with Blob Containers for storing raw documents and knowledge store outputs.
+  - Knowledge Store containers for storing enriched projections, images, entities, and extracted metadata.
+  - Pre-configured datasets containing customer review documents for indexing scenarios.
 
-### Content Changes
+### Content 
 
+- Integrated the lab guide aligned with the TOC, which includes:
 
+  - Step-by-step instructions for creating Azure AI Search, AI Services, and Storage Account resources.
+  - Hands-on exercises for uploading customer review documents to Azure Blob Storage.
+  - AI enrichment scenarios using OCR, sentiment analysis, key phrase extraction, location extraction, image tagging, and caption generation.
+  - End-to-end indexing workflow using Azure AI Search Import Data Wizard.
+  - Querying and filtering scenarios using Search Explorer with JSON-based search queries.
+  - Knowledge Store exploration scenarios covering projections, entities, image outputs, and table storage validation.
 
-### Screenshot Updates
+### Validation
 
-- **Minor updates**: 
-      
-### Testing Notes
+- Successfully validated the following in the lab:
 
-- **Testing Date**: 
+  - Azure AI Search resource deployment and configuration.
+  - AI Services integration with Azure AI Search enrichment pipeline.
+  - Storage Account and Blob container setup with uploaded review documents.
+  - Successful execution of indexer, skillset, and search index creation workflows.
+  - AI enrichment outputs including OCR, sentiment detection, key phrase extraction, image captions, and location extraction.
+  - Search Explorer queries and filtering scenarios for sentiment and location-based searches.
+  - Knowledge Store outputs including projections, JSON objects, images, and table entities.
 
-### Testing Scope 
+### Testing Scope
 
-
-
-
+- Performed end-to-end testing of all lab tasks to ensure alignment with instructions, successful AI enrichment processing, indexing workflow execution, and query validation scenarios.
 ---
 </details>
