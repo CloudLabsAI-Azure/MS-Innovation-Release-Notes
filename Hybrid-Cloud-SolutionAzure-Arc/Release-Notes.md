@@ -16,6 +16,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-25</summary>
+
+### Release Date: 2026-05-25
+
+## Summary of Changes
+
+Updated the lab guide to improve clarity, align with the latest Azure portal UI, and enhance learner experience by adding instructional notes, read-only markings, additional steps, and supporting screenshots.
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+  
+- **Getting Started Page:** Added Lab Scenario and updated Architecture.  
+- **Exercise 1:** Updated Task 1 → Step 3 with improved instruction, added note, and new screenshot.  
+- **Exercise 2:**  
+  - Task 1 → Step 2: Added note.  
+  - Task 2 → Step 21: Added note and screenshot.  
+- **Exercise 3:** Added notes in Task 2 → Step 1 and Step 8.  
+- **Exercise 4:** Marked as **Read Only**.  
+- **Exercise 5:** Added GitHub email usage note in Step 1.  
+- **Exercise 6:**  
+  - Task 1 → Step 2: Added note and introduced two additional steps.  
+- **Exercise 7:** Marked as **Read Only**.  
+- **Exercise 8:** Marked last two steps as **Read Only**.  
+- **Exercise 9:** Marked as **Read Only**.  
+
+## Screenshot Updates
+
+  - Added new screenshots for updated steps (Exercise 1 and Exercise 2).  
+  - Ensured screenshots align with the latest Azure portal UI.  
+
+## Validation
+
+NA 
+
+## Testing Notes
+
+- **Test Date**: 2026-05-25
+
+## **Testing Scope**
+
+Conducted end-to-end testing, validated updated instructions, notes, and screenshots, and ensured a smooth learner experience.
+
+---
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
