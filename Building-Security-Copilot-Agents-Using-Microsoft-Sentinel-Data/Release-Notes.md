@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-05-12</summary>
+
+## Release Date: 2026-05-12
+
+### Summary of Changes
+
+Minor updates were applied to the lab guide to align with the latest Microsoft Defender portal UI changes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated Microsoft Defender portal screenshots to reflect the latest UI experience and navigation changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-12
+
+### Testing Scope 
+
+- End-to-end lab validation was completed successfully. Verified the updated Defender portal experience and validated all lab steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-15</summary>
 
 ## Release Date: 2026-04-15

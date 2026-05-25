@@ -17,6 +17,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-20</summary>
+
+## Release Date: 2026-05-20
+
+### Summary of Changes
+
+Incorporated minor UI updates and refined instructions to enhance clarity and overall understanding.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Removed Lab 7 since the image generation model being used, DALL·E 3, has been deprecated. We are currently working on identifying an alternative image generation solution that integrates seamlessly with the existing infrastructure.
+
+### Screenshot Updates
+
+- **Minor updates**: Made minor updates to screenshots to align with the latest UI changes.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-20
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab, with all validations successfully passed.
+
+---
+</details>
+
+<details>
   <summary>2026-04-22</summary>
 
 ## Release Date: 2026-04-22
