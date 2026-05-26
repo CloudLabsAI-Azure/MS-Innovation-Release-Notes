@@ -18,6 +18,41 @@ This page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-25</summary>
+
+## Release Date: 2026-05-25
+
+### Summary of Changes
+
+- The lab has been restructured to use GitHub SSO with Azure Entra ID in place of the previous GitHub account sign-in flow that used Outlook MFA verification, along with successful testing.
+
+### Infrastructure Changes
+
+- Restructured the lab to use GitHub SSO with Azure Entra ID in place of the previous GitHub account sign-in flow that used Outlook MFA verification.
+
+### Content Changes
+
+- Updated all lab instructions to align with the new GitHub SSO with Azure Entra ID login experience.
+- Refreshed the lab content to incorporate the latest GitHub Copilot plans and comparison updates.
+- Updated Lab 03 to use a GitHub Actions workflow YAML template for deploying the CRUD application to Azure, replacing the previous Azure App Service Deployment Center approach.
+- Revised the lab guide to reflect the latest GitHub Copilot terminology and user experience updates.
+- Enhanced the lab instructions and guidance for improved clarity and consistency.
+  
+### Screenshot Updates
+
+- Refreshed screenshots across all challenges to reflect the latest UI and updated workflows.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-25
+
+### Testing Scope 
+
+- Successfully tested the lab end-to-end with the latest GitHub SSO updates integrated with Azure Entra ID authentication.
+
+</details>
+
+<details>
   <summary>2026-03-31</summary>
 
 ## Release Date: 2026-03-31
