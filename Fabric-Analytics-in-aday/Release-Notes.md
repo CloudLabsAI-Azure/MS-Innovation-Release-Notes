@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-26</summary>
+
+## Release Date: 2026-05-26
+
+### Summary of Changes
+
+Updated the lab guide with revised UI screenshots to match the current interface experience. Instructions across multiple sections were adjusted for better readability and consistency, with improvements made to task navigation and step sequencing to help user to follow the lab more smoothly.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Minor updates**:A few screenshots are changed as per the latest experience and according to screenshots the steps are also refreshed with instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-26
+  
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing with the new content. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+</details>
+
+<details>
   <summary>2026-05-06</summary>
 
 ## Release Date: 2026-05-06
