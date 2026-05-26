@@ -15,6 +15,40 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 
+## Release Date: 2026-05-25
+ 
+### Summary of Changes
+
+- Updated the Environment tab screenshot as per the latest UI changes and added a note to close the pop-ups.
+
+### Infrastructure Changes
+
+- npm installation was failing in Exercise 1 Task 1 Step 13 because Node 26 is not supported by better-sqlite3@12.5.0. Updated the ARM template to use Node 22 LTS.
+
+### Content Changes
+
+- **Minor updates**:
+- 
+  - Added notes to cancel the pop-ups.
+
+### Screenshot Updates
+
+ - On the Getting Started page, updated the screenshots for the Environment tab and Split Window function.
+ - In Exercise 1 Task 1 Step 3, updated the screenshot for GitHub sign-in.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-25
+
+### Testing Scope 
+
+- Performed end-to-end testing of all lab tasks to ensure alignment with instructions.
+
+---
+
+<details>
+  <summary>2026-05-25</summary>
+
 ## Release Date: 2026-04-20
  
 ### Summary of Changes
