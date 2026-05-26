@@ -1,5 +1,6 @@
-# Microsoft Defender for Endpoint
-Welcome to the **Microsoft Defender for Endpoint** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+# Implement Microsoft Defender for Endpoint
+
+Welcome to the **Implement Microsoft Defender for Endpoint** lab release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -24,7 +25,7 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Summary of Changes
 
-Onboarded and updated the lab exercises to align with the latest Microsoft Defender for Endpoint features and security workflows.
+Onboarded and updated the lab exercises to align with the latest Implement Microsoft Defender for Endpoint features and security workflows.
 
 ### Infrastructure Changes
 
