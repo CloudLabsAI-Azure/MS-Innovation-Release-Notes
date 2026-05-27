@@ -40,7 +40,7 @@ N/A
 
 ### Screenshot Updates
 
-- Updated screenshots in Lab04 under Setup: Workspace setup for later labs section  Points 4 and 5 with the latest UI and improved step numbering.
+- Updated screenshots in Lab04 pre-requisite Setup for Fabric Workspace.
 
 - Updated the Lab05 Task 1 point 1 screenshot to reflect the current workspace selection UI.
 
