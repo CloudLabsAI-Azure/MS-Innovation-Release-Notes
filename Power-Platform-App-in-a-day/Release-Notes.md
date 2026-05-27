@@ -16,6 +16,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-05-25</summary>
+
+## Release Date: 2026-05-25
+
+### Summary of Changes
+
+Significant updates were implemented throughout the guide to improve usability, accuracy, and alignment with the latest platform experience. Several outdated screenshots were replaced with updated UI captures, and the associated instructional content was revised to ensure consistency with the current interface. Additional refinements were also made to enhance the overall learner experience and improve the clarity of lab guidance.
+
+### Infrastructure Changes
+
+- Added a cloudlabsmanual agent to verify successful environment creation within Power Apps.
+- Updated environment verification checks to reduce setup-related failures during lab execution.
+
+### Content Changes
+
+- Removed the mobile app installation steps for both **Power Apps** and **Power Automate** from the prerequisites section.
+- Simplified the prerequisite instructions to focus only on the required setup steps.
+- Revised multiple instructional sections for better readability and easier navigation through the lab exercises.
+- Updated terminology and navigation references to align with the latest Microsoft interface changes.
+
+### Screenshot Updates
+
+- **Major UI Refresh**:
+  - Replaced multiple outdated screenshots with updated captures reflecting the latest user interface.
+  - Reviewed and updated all corresponding instruction text to maintain consistency with the new visuals.
+  - Improved screenshot clarity and annotation alignment to help learners follow the steps more effectively.
+  - Updated screenshots across prerequisite, setup, and configuration sections.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-24
+
+Comprehensive testing activities were completed to validate all recent updates, including infrastructure changes, revised instructions, and updated screenshots.
+
+### Testing Scope
+
+- Performed complete end-to-end validation of the lab environment.
+- Verified all lab instructions and navigation steps against the latest UI.
+- Validated Power Apps environment creation workflow using the newly added cloudlabsmanual agent.
+- Tested all learner interactions, configuration steps, and expected outputs.
+- Confirmed screenshot accuracy and alignment with the updated interface.
+- Reviewed prerequisite flow and ensured removal of unnecessary mobile app installation steps did not impact lab completion.
+
+</details>
+
+<details>
 <summary>2026-04-17</summary>
 
 ## Release Date: 2026-04-17
