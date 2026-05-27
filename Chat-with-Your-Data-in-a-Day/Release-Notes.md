@@ -40,9 +40,9 @@ N/A
 
 ### Screenshot Updates
 
-- Updated screenshots in Lab04 Points 6 and 7 with the latest UI and improved step numbering.
+- Updated screenshots in Lab04 under Setup: Workspace setup for later labs section  Points 4 and 5 with the latest UI and improved step numbering.
 
-- Updated the Lab05 Task 1 screenshot to reflect the current workspace selection UI.
+- Updated the Lab05 Task 1 point 1 screenshot to reflect the current workspace selection UI.
 
 ### Testing Notes
 
