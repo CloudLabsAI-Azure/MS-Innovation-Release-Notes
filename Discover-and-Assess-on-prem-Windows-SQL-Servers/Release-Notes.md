@@ -16,6 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-28</summary>
+
+## Release Date : 2026-05-28
+
+### Summary of Changes
+
+Updated the lab instructions, screenshots, and workflow to align with the latest Azure portal and Azure Migrate UI experience. Improved learner guidance and updated outdated browser workflow references.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added prerequisite for Azure Active Subscription.
+- Updated instructions for Assessment settings (`Infrastructure`).
+- Added guidance for scenarios where Workspace ID and Key are not visible.
+- Updated workflow from Internet Explorer to Microsoft Edge.
+- Improved instructions for better learner clarity.
+
+### Screenshot Updates
+
+- **Updates**:
+  - Updated the *Exploring Your Lab Resources* screenshot with the latest UI.
+  - Updated Assessment Settings screenshots with the latest Azure UI.
+  - Updated screenshots related to Microsoft Edge workflow.
+  - Added clearer screenshots and improved instructions for better learner understanding.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-28
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab.
+- Verified all updated screenshots and instructions.
+- Validated the updated Microsoft Edge workflow.
+- Confirmed the steps are working as expected with the latest Azure portal UI.
+
+---
+</details>
+
+
+<details>
   <summary>2026-02-16</summary>
 
 ## Release Date : 2026-02-16
