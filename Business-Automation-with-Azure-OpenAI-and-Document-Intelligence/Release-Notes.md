@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+- Lab guides have been thoroughly reviewed and updated for improved clarity, enhanced security practices, and alignment with current Azure portal UI. New comprehensive lab scenario sections added for better context and engagement.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- **Lab Scenarios**: Added comprehensive scenario descriptions to Lab 1, Lab 2, and Getting Started pages for better context and learner engagement.
+- **Lab 1 - Task 1**: Enhanced sign-in instructions with improved clarity, visual callouts, and better image descriptions.
+- **Lab 1 - Task 2**: Updated step numbering and formatting for improved navigation and visual clarity.
+- **Lab 1 - NEW Task 4**: "Configure Managed Identity Access for Azure AI Search" - Comprehensive new task with 6 steps and supporting screenshots. Implements secure RBAC-based access for Azure AI Search managed identity to Azure Storage, replacing insecure connection string authentication.
+- **Lab 1 - Task 5** (formerly Task 4): "Configure Azure AI Search" - Completely refactored with 11 detailed steps and 7 new screenshots. Enhanced field configuration workflow with new `azureblob_index` field setup and expanded Organization field facetable settings.
+- **Lab 1 - Task 6** (formerly Task 5): Renumbered "Use Sample Search Application [Read Only]".
+- **Screenshot Updates**: 16 new images added, 7 existing images updated to reflect current Azure Portal UI.
+- **Lab 2**: Added comprehensive lab scenario for context.
+
+### Screenshot Update
+
+- 16 new screenshots added to capture new Managed Identity configuration workflow.
+- 7 existing screenshots updated to reflect latest Azure portal interface and UI changes.
+
+### Security Improvements
+
+- Implemented Azure Role-Based Access Control (RBAC) for Azure AI Search managed identity instead of connection string-based authentication.
+- Storage Blob Data Reader role assignment provides secure, least-privilege access to storage resources.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+- **Testing Scope**: End-to-end lab testing completed. All tasks validated sequentially. Screenshots verified against current Azure Portal UI. Lab flow and security configurations confirmed.
+-------------
+
+</details>
+
+<details>
   <summary>2026-01-19</summary>
  
 ## Release Date: 2026-01-19
