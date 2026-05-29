@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+- Minor updates refined screenshots for improved clarity and accuracy. The lab has been thoroughly tested, and the content has been reviewed and updated. Minor improvements have been incorporated to ensure greater clarity and accuracy in the instructions.
+
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+- Updated the screenshots for the **Environment** tab and **Split Window** function on the Getting Started page.
+- Updated the **Start Trial** screenshot in Exercise 1, Task 1, Step 7.
+- Updated the **New Item** screenshot in Exercise 1, Task 2, Step 1.
+- Refreshed the **Lakehouse creation** screenshots in Exercise 1, Task 2, Step 3.
+- Refreshed the **Data Warehouse creation** screenshot in Exercise 2, Task 2, Step 3.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29 
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab.
+- Reviewed the lab guide rendering and validated all updated steps.
+
+</details>
+
+<details>
   <summary>2026-05-06</summary>
 
 ## Release Date: 2026-05-06
