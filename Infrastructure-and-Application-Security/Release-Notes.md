@@ -38,7 +38,7 @@ N/A
 
 ### Screenshot Updates
 
-- Updated `images/rlr1.png` to reflect the latest portal UI.
+- **Minor updates**: A few screenshots have been changed as per the latest experience, and according to screenshots, the steps are also refreshed with instructions.
 
 ### Testing Notes
 
