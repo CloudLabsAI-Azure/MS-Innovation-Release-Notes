@@ -34,7 +34,8 @@ N/A
 - Updated the Getting Started page with the latest Environment tab UI screenshots.
 - Updated Lab 4 – Task 1 screenshots to align with the latest Microsoft Purview Information Protection software UI.
 - Updated Lab 7 – Task 1 with the latest Microsoft Defender portal UI screenshots, Azure portal resource selection guidance, and refined RDP connection steps for connecting to the Client VM. Also updated the OneDrive UI in Task 4.
-- Updated Microsoft Purview portal links and refined instructions across Labs 8, 9, 10, and 11 for smoother navigation and usability.
+- Updated lab 9 with latest flow of resolving the alert with new UI
+- Updated Microsoft Purview portal links and refined instructions across Labs 8, 10, and 11 for smoother navigation and usability.
 - Improved the overall instruction flow, formatting consistency, and navigation guidance across multiple lab exercises.
 
 ### Screenshot Updates
