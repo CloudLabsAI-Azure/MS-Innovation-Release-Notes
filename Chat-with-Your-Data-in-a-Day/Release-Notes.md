@@ -16,6 +16,50 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+Updated screenshots with improved step markings and refined instructions to enhance readability and learner guidance throughout the lab. Additional notes were added to clarify Copilot behavior and navigation differences in the latest UI experience
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a clarification note in Lab01 instructing learners to prompt Copilot again if the expected result is not generated on the first attempt.
+
+- Updated instructions in Lab04 to align with the latest UI and screenshot flow.
+
+- Added a note in Lab04 mentioning that the GitHub Copilot icon may appear directly in the navigation pane instead of inside the three-dot menu in some environments.
+
+- Updated Lab05 instructions for improved clarity during workspace selection steps.
+
+### Screenshot Updates
+
+- Updated screenshots in Lab04 pre-requisite Setup for Fabric Workspace.
+
+- Updated the Lab05 Task 1 point 1 screenshot to reflect the current workspace selection UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+  
+  End-to-end validation was performed to verify updated screenshots, instructions, navigation flow, and Copilot-related guidance.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing.
+- Verified all updated screenshots against the current UI.
+- Validated newly added notes and instructions for learner clarity.
+- Confirmed step sequencing and navigation flow throughout the lab.
+
+</details>
+
+<details>
   <summary>2026-05-06</summary>
 
 ## Release Date: 2026-05-06

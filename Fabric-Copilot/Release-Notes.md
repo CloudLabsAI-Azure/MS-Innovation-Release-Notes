@@ -16,6 +16,46 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+- Updated lab instructions to improve clarity and user experience.
+- Reorganized Fabric Copilot trial setup workflow with reordered steps for better learner guidance.
+- Enhanced documentation with additional screenshots and UI terminology updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated button label from "Free trial" to "Start trial" (aligns with current UI terminology)
+- Reordered "Invite teammates" popup handling to appear immediately after trial activation completion
+- Removed duplicate image reference (`fabric-ex1-1.png`) from workspace creation section
+- Added new screenshot (`edge.png`) to illustrate Fabric portal URL entry step
+
+### Screenshot Updates
+
+- Added screenshot for Fabric portal URL entry step
+- Verified all existing screenshots match current Azure UI
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+
+### Testing Scope
+
+- End-to-end lab testing completed successfully with all steps in correct sequence
+- Screenshots verified against current Fabric and power bi UI
+- All links tested and functional
+- No copy-paste or formatting issues identified
+
+</details>
+
+<details>
   <summary>2026-03-29</summary>
 
 ## Release Date: 2026-03-29

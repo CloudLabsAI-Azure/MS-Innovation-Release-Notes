@@ -17,6 +17,44 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 <details>
+  <summary>2026-05-26</summary>
+
+## Release Date: 2026-05-26
+
+### Summary of Changes
+
+Updated the lab content to align with the latest Azure portal UI updates. Added scenario sections for the lab and all exercises to improve learner understanding. Updated multiple task instructions, resource creation flows, and screenshots for clarity and consistency with the latest Azure UI.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added Scenario sections for the lab and all exercises to better explain the use case.
+- Updated Virtual Network creation steps to reflect the latest Azure portal UI changes, where the IP Addresses tab is now labeled as Address Space.
+- Updated resource creation workflows for multiple Azure services to match the current Azure portal experience.
+- Updated Flow Logs creation steps, where the workflow now requires adding the Virtual Network instead of selecting it directly.
+- Updated multiple screenshots to reflect the latest Azure portal UI and recent interface changes.
+- Corrected minor formatting inconsistencies and improved overall readability.
+
+### Screenshot Updates
+
+- Refreshed screenshots across the lab to match the latest Azure portal UI.
+- Updated screenshots for Virtual Network creation and Flow Logs configuration.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-25
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+
+<details>
   <summary>2026-03-24</summary>
 
 ## Release Date: 2026-03-24

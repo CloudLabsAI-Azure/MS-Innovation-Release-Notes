@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+Updated the workshop with enhanced lab instructions and refreshed screenshots for a smoother and more consistent hands-on learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refined and updated lab instructions to improve clarity, consistency, and overall workshop experience.
+
+### Screenshot Updates
+
+- Updated lab screenshots to align with the latest UI experience and improve visual guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-05-19</summary>
 
 ## Release Date: 2026-05-19

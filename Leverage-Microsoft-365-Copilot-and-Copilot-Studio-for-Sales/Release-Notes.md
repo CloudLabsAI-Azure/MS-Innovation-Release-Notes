@@ -19,6 +19,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-05-25</summary>
+
+## Release Date: 2026-05-25
+
+### Summary of Changes
+
+Content enhancements and fixes to improve clarity, usability, and lab experience, along with updates to address missing elements and usability issues reported during testing.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the **company research prompt** to include a real company name example and clearer instructions for better usability.  
+- Fixed the **Page 3 PowerPoint/Copilot launch behavior** to ensure consistent and expected functionality.  
+- Added guidance for **restoring VM copy-paste functionality** to address intermittent usability issues.  
+
+### Screenshot Updates
+
+- **Added missing screenshots**:
+  - Included the missing screenshots in the **Agent Creation lab** to ensure complete step-by-step guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-25
+
+### Testing Scope
+
+Performed end-to-end validation of updated prompts, PowerPoint/Copilot launch flow, VM usability guidance, and completeness of the Agent Creation lab screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-02-04</summary>
 
 ## Release Date: 2026-02-04

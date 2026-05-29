@@ -17,6 +17,55 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
+  <summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+Resolved multiple learner-reported issues for the upcoming workshop. Fixed VPN-related access disruption guidance, GitHub identity-provider sign-in instructions, and rewrote the Git/SSO workflow in Exercise 5 for consistency. Corrected Markdown rendering issues in Exercises 3 and 4, standardized completion notes across all exercises, and added a support contact closing in Exercise 6.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**: Added an Important callout at the top of "Accessing Your Lab Environment" advising learners to disconnect VPN before launching the lab to avoid disconnections and authentication failures.
+- **Getting Started Page, Sign in to GitHub**: Added an Important callout instructing learners to click **Sign in with your identity provider** instead of entering a password, as CloudLabs GitHub accounts are provisioned via the organization's identity provider.
+- **Exercise 1, Task 1**: Added a new step for "Continue without signing in" on the VS Code welcome screen.
+- **Exercise 1, Task 1**: Merged the "Copilot icon" step with the new "Use AI Feature" button step into a single step with (1)/(2) annotations.
+- **Exercise 1, Task 1**: Added the same identity-provider Important callout after the GitHub sign-in step.
+- **Exercise 1, Task 1**: Consolidated the Command Palette + Split Editor + Chat-icon-drag steps into a single "Click on Toggle Chat" step to reduce confusion.
+- **Exercise 1, Task 1**: Added a new step to click **Keep** to retain the AI-generated response.
+- **Exercise 3, Task 3, Step 1**: Fixed the broken nested "Or" sub-bullet that escaped the numbered list. Inlined the alternate prompt inside Step 1 and corrected the hardcoded `2.` to `1.` to match the auto-numbering pattern.
+- **Exercise 4 (title)**: Renamed from "Test" to **"Test and Validate"** for clarity and parallelism with other exercise titles.
+- **Exercise 4, Task 2**: Fixed typo `resposnes` → `responses`. Normalized image indentation from 5 spaces to 4 spaces and removed an extra blank line that was breaking list flow.
+- **Exercise 5, Task 1, Step 6**: Standardized the GitHub repository name to **`bookbuddy-mvp`** (hyphen) to match the local folder created in Exercise 1 and the remote URL. Set the **Add a README file** toggle to **Off** and added an Important callout explaining that initializing the remote with a README creates a separate commit history that conflicts with the local repository on push.
+- **Exercise 5, Task 1**: Added a new step to create a `.gitignore` file (with `node_modules/` and `.env`) before staging any changes, preventing accidental commits of dependencies and secrets.
+- **Exercise 5, Task 1**: Split the Git identity configuration into two clearly-labelled commands (`git config --global user.name "<Your GitHub username>"` and `git config --global user.email "<Your GitHub email>"`) with a Note showing example values from the Licenses tab. Removed the previous single, ambiguous placeholder that caused SSO learners to paste the wrong value.
+- **Exercise 5, Task 1**: Reordered the terminal commands into logical groups: init → gitignore → identity → add/commit → remote → branch/push.
+- **Exercise 6, Summary**: Added a support contact line (`cloudlabs-support@spektrasystems.com`) and a "Happy Learning!!" closing.
+- **All Exercises (1–6)**: Standardized the completion note wording from "successfully completed the lab" to **"successfully completed the Hands-on Lab"**.
+
+### Screenshot Updates
+
+- Added new screenshot `u2.png` for the VS Code "Continue without signing in" step in Exercise 1, Task 1.
+- Added new screenshot `keep-response.png` for the Copilot Chat **Keep** step in Exercise 1, Task 1.
+- Updated screenshot `new-pg10-1.png` to reflect the combined Copilot icon + Use AI Feature button view in Exercise 1, Task 1.
+- Updated screenshot `2026-04-30_21-48-16.png` for the Copilot Chat prompt step in Exercise 1, Task 1.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+
+### Testing Scope
+
+Performed end-to-end validation of the lab guide from Getting Started through Exercise 6. Verified the updated GitHub identity-provider sign-in flow, the rewritten Git/SSO workflow in Exercise 5 (repository creation, `.gitignore` setup, identity configuration, remote add, push, and PR compare banner), and the corrected Markdown rendering in Exercises 3 and 4. Confirmed all reported workshop ticket issues are resolved.
+
+---
+</details>
+<details>
   <summary>2026-05-13</summary>
 
 ## Release Date: 2026-05-13
