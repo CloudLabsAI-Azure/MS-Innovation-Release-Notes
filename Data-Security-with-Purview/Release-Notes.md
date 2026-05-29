@@ -15,6 +15,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-05-28</summary>
+
+## Release Date: 2026-05-28
+
+### Summary of Changes
+
+This update focuses on aligning the lab content with the latest Microsoft Purview and Microsoft Defender portal UI changes while improving the overall learner experience. Relevant screenshots, portal links, navigation flow, and instructions have been updated across multiple labs and tasks to ensure better clarity and usability.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the Getting Started page with the latest Environment tab UI screenshots.
+- Updated Lab 4 – Task 1 screenshots to align with the latest Microsoft Purview Information Protection software UI.
+- Updated Lab 7 – Task 1 with the latest Microsoft Defender portal UI screenshots, Azure portal resource selection guidance, and refined RDP connection steps for connecting to the Client VM. Also updated the OneDrive UI in Task 4.
+- Updated lab 9 with latest flow of resolving the alert with new UI
+- Updated Microsoft Purview portal links and refined instructions across Labs 8, 10, and 11 for smoother navigation and usability.
+- Improved the overall instruction flow, formatting consistency, and navigation guidance across multiple lab exercises.
+
+### Screenshot Updates
+
+- **Updated UI Screenshots**: Updated screenshots across multiple labs to align with the latest Microsoft Purview and Microsoft Defender portal UI, and blurred sensitive information in selected screenshots as per the validation checklist.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-27
+
+### Testing Scope 
+
+The testing covered end-to-end validation of the updated labs to ensure instruction accuracy, portal navigation consistency, screenshot alignment with the latest UI, and overall learner usability across Microsoft Purview and Microsoft Defender related exercises.
+
+---
+</details>
+
 <details>
   <summary>2026-04-22</summary>
 
