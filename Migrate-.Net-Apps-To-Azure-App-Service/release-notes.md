@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Updated the lab content to improve learner experience, readability, and alignment with the latest Azure Portal UI. Added Lab Scenario sections across the lab guides, refined instructions and notes for clarity, removed obsolete content, and updated screenshots to reflect the current user interface.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started**: Added a Lab Scenario section and updated screenshots to align with the latest Azure Portal experience.
+- **01.md**: Added a Lab Scenario section, included additional guidance in Step 7, and improved Step 9 instructions for clarity.
+- **02.md**: Added a Lab Scenario section, improved task instructions, updated Step 2 and screenshots to match the latest UI, enhanced Step 8, removed an obsolete step, and refined Task 8 and Task 9 instructions and numbering.
+- **03.md**: Added a Lab Scenario section, improved instructions and warning messages, and updated formatting and indentation for better readability and consistency.
+
+### Screenshot Updates
+
+- Updated screenshots across the lab guides to reflect the latest Azure Portal and application interfaces.
+- Replaced outdated UI images where necessary to maintain consistency with the current user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope
+
+- Conducted end-to-end validation of all updated lab exercises.
+- Verified the newly added Lab Scenario sections and revised instructional content.
+- Confirmed that updated screenshots align with the current Azure Portal UI.
+- Validated task flow, numbering, notes, warnings, and learner guidance after content updates.
+
+---
+</details>
+<details>
   <summary>2025-11-04</summary>
 
 ## Release Date: 2025-11-04
