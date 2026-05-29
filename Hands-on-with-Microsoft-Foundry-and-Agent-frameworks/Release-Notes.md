@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-28</summary>
+
+## Release Date: 2026-05-28
+
+### Summary of Changes 
+
+Tested lab environment and made minor instructional updates to improve step clarity and environment alignment.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Exercise 6 (Task 2, Step 13): Revised the sentence structure to improve clarity and instruction flow.
+
+### Screenshot Update
+
+- Exercise 6 (Task 2, Step 12): Replaced the blurry screenshot with a clear, updated version.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-04-08
+
+### Testing Scope 
+
+- Successfully ran, tested, and validated all exercises (Exercises 1–6) end-to-end within the Microsoft Foundry and Agent Framework.
+
+---
+</details>
+
+<details>
   <summary>2026-04-08</summary>
 
 ## Release Date: 2026-04-08
