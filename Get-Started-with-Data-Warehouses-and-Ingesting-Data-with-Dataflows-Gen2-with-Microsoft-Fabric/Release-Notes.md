@@ -30,6 +30,7 @@ N/A
 
 ### Content Changes
 
+- Added lab scenarios for all the labs.
 - **Lab 01**:  Updated the instructions in accordance with the new UI changes.
 - **Lab 02**: Updated the instructions in accordance with the new UI changes.
 
