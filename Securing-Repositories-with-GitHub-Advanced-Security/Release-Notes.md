@@ -15,6 +15,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Updated the UI Screenshot as per the latest experience for Github as well as for Azure Portal.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots to align with the latest GitHub user interface, and Azure Portal interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+<details>
   <summary>2026-02-03</summary>
 
 ## Release Date: 2026-02-03
