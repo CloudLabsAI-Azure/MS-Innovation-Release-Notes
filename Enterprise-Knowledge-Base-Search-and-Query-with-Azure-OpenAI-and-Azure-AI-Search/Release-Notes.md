@@ -164,7 +164,7 @@ N/A
 </details>
 
 <details>
-  <summary>23 May 2025</summary>
+  <summary>2025-05-23</summary>
 
 ## Infrastructure Changes
 
