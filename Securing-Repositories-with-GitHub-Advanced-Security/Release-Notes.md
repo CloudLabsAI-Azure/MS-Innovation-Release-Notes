@@ -29,7 +29,7 @@ N/A
 
 ### Content Changes
 
-N/A
+Added Lab scenario and screenshot with updated instructions
 
 ### Screenshot Updates
 
