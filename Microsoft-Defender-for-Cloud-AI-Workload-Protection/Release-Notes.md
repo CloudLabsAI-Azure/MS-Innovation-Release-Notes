@@ -16,6 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-02</summary>
+
+## Release Date: 2026-06-02
+
+### Summary of Changes
+
+Added lab scenarios to the lab guide, updated several steps to align with the latest content and UI changes, refreshed the corresponding screenshots, and corrected typographical errors throughout the lab.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Updated the lab guide by adding lab scenarios and revising the content to align with the latest UI changes.
+* **Lab 5, Task 1, Step 24**: Updated the note to provide clearer user guidance.
+* **Lab 5, Task 6, Step 33**: Updated the content to reflect the latest UI changes.
+* **Lab 5, Task 7, Step 4**: Corrected a typographical error.
+* **Lab 6, Task 2, Step 6**: Added an additional note to improve user guidance.
+* **Lab 6, Task 3, Steps 6 and 9**: Refined the wording for better clarity and user understanding.
+* **Lab 7, Task 1, Step 6**: Updated the Storage Account limit with the correct value.
+* **Lab 7, Task 1, Step 7**: Revised the wording to align with the latest Azure UI updates.
+* **Lab 7, Task 4, Steps 9, 10, and 11**: Updated the instructions based on the latest changes in **Microsoft Defender for Cloud** within Azure.
+* **Lab 7, Task 6, Step 6**: Fixed a rendering issue.
+
+### Screenshot Updates
+
+* **Lab 5, Task 2, Step 13**: Updated the screenshot to reflect the latest UI changes.
+* **Lab 5, Task 6, Step 34**: Updated the screenshot to reflect the latest UI changes.
+* **Lab 7, Task 1, Step 7**: Updated the screenshot to reflect the latest UI changes.
+* **Lab 7, Task 4, Steps 9 and 11**: Replaced the screenshots with the correct and updated versions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-02
+
+### Testing Scope
+
+- Verification included environment readiness, workflow consistency, technical accuracy, and synchronization of visuals with the current platform interface.
+
+---
+</details>
+
+<details>
   <summary>2026-04-21</summary>
 
 ## Release Date: 2026-04-21
