@@ -17,6 +17,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
+
+### Summary of Changes
+
+Added lab scenarios, updated the Getting Started page with the latest UI screenshots, incorporated missing content, and included additional notes to help users understand and troubleshoot potential issues. Also refreshed relevant screenshots to align with the latest UI updates.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Added a **Lab Scenario**, expanded the **Getting Started with the Lab** section, and included guidance for **Lab Guide Zoom In/Zoom Out** along with supporting screenshots.
+* **Exercise 1, Task 2, Step 7**: Added a note to guide users on switching back to the classic Foundry portal experience.
+* **Exercise 1, Task 2, Step 9**: Updated the instructions to reflect the latest UI changes and included an additional note for user guidance.
+* **Exercise 7, Task 1, Step 11**: Added a troubleshooting note to assist users in resolving potential output-related errors.
+
+### Screenshot Updates
+
+* In the **Getting Started** page, updated the **Environment** tab screenshot to reflect the latest UI.
+* **Exercise 1, Task 2, Step 7**: Updated the screenshot associated with the note for improved user guidance.
+* **Exercise 1, Task 2, Step 9**: Updated the screenshot to align with the latest UI changes.
+* **Exercise 7, Task 1, Step 11**: Updated the screenshot to reflect the latest UI and workflow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+Successfully executed the complete lab workflow and verified that all exercises and expected outcomes were functioning correctly.
+
+---
+</details>
+
+<details>
   <summary>2026-05-20</summary>
 
 ## Release Date: 2026-05-20
