@@ -47,16 +47,6 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 * Updated and replaced existing screenshots where required.
 * Improved visual consistency across onboarding and challenge walkthroughs.
 
-### Validation and Testing
-
-#### Validation Performed
-
-* Executed full end-to-end lab validation after updates.
-* Verified correctness and sequencing of all instructional steps.
-* Confirmed all screenshots match the current Azure portal and lab flow.
-* Tested all links, markdown formatting, and image rendering.
-* Validated media asset paths and accessibility.
-
 ### Testing Notes
 
 * **Testing Date**: 2026-06-03
