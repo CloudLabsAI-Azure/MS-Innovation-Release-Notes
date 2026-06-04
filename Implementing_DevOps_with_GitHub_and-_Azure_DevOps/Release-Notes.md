@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Updated Azure DevOps and GitHub lab instructions to align with the latest Azure DevOps and GitHub UI experience, refreshed screenshots across multiple exercises, improved workflow clarity, and added additional validation guidance for billing configuration, pipeline execution, and branch management scenarios.
+Modified Azure DevOps and GitHub lab instructions in accordance with the latest interface changes. Added the Note in the labs as required.
 
 ### Infrastructure Changes
 
