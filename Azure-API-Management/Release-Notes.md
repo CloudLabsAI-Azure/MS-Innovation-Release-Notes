@@ -19,6 +19,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
+
+### Summary of Changes
+
+- Updated the Getting Started page with Environment tab and split tab features.
+- Added extra screenshot in Exercise - 2,9
+- Fixed typo errors and content improvement.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Exercise - 2 > Task 3 > 3.1 > Added Extra Information about Starter and Unlimited in products
+    - 3.2 > corrected the instruction steps numbering in content.
+- In Exercise - 4 > Task 6 > 6.2 > Added a sentence to select the Starter or Unlimited in Product section dropdown.
+- In Exercise - 5 > Task 2 > 2.3 > Added -  under Inbound can find the cache-lookup.
+- In Exercise - 8 > Task 3 > step - 9> Save option is replaced with Publish option to save changes done in Logic app designer.
+    - Task 3 > 3.2 > step - 1 fixed the typo error (selct -> select).
+- In Exercise - 9 > Task 2 > step - 4 > fixed the typo error (cusom -> custom).
+    - step - 7 > Added the content - Scroll down to Request section to add details.
+    - step - 9 > Added the URI to complete the step - 7 and step - 8
+    - step - 16 > Added the navigation to custom connector in power platfrom page.
+      
+### Screenshot Updates
+
+- Added image of environment tab and split tab in getting-started page.
+- In Exercise - 2 > Task 2 > Cors enabled success screenshot is updated.
+- In Exercise - 8 > Task 3.2 > create option screenshot for Logic apps and consumption selection option UI added to match with azure portal.
+    - Task 4 > 4.2 > step - 8 > Added screenshots for Postman UI to get started with it.
+    - step - 9 , 10 > Updated the screenshots for selecting workspace of user and and http url link related from postman desktop client app.
+- In Exercise 9 > Task 2 > Step 12 > Added a screenshot for that step to locate the option clearly.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+- Performed end-to-end testing and validated the steps and updated the screenshots and fixed the typos and improved the content in tasks. Inline-validation for exercise > Task > shows success 
+
+</details>
+<details>
   <summary>2026-04-07</summary>
 
 ## Release Date: 2026-04-07
