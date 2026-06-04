@@ -15,9 +15,9 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 <details>
-  <summary>2026-06-01</summary>
+  <summary>2026-06-02</summary>
 
-## Release Date: 2026-06-01
+## Release Date: 2026-06-02
  
 ### Summary of Changes
 
@@ -52,7 +52,7 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-06-01
+- **Testing Date**: 2026-06-02
 
 ### Testing Scope
 
