@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
+
+### Summary of Changes
+
+Performed end-to-end functioning of the lab after incorporating updates required for the latest VS Code UI changes and revised instruction flow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Exercise 1 - Getting Started page - Updated the main VS Code page to reflect the new UI, where the copilot sign in prompt now appeaars before accessing AI features instead of after
+
+### Screenshot Updates
+
+- In Exercise 2 - UI Update while choosing the copilot chat model.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+* Conducted comprehensive validation of the lab environment against the latest platform UI and workflows, ensuring all steps and expected behaviors functioned correctly.
+* Reviewed and refined the lab documentation for accuracy and consistency, including updating outdated screenshots and aligning content with the current user experience.
+
+</details>
+
+<details>
   <summary>2026-05-19</summary>
 
 ## Release Date: 2026-05-19
