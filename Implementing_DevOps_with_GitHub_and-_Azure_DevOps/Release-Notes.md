@@ -16,6 +16,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-06-01</summary>
+
+## Release Date: 2026-06-01
+
+### Summary of Changes
+
+Updated Azure DevOps and GitHub lab instructions to align with the latest Azure DevOps and GitHub UI experience, refreshed screenshots across multiple exercises, improved workflow clarity, and added additional validation guidance for billing configuration, pipeline execution, and branch management scenarios.
+
+### Infrastructure Changes
+
+* No changes
+
+
+### Content Changes
+
+* Added instructions in **Lab 01 - Excercise 2 - Task 1** to do `az login` and updated the Screenshots as well.
+
+* In **Lab 01 - Excercise 2 - Task 1** at Step 6 changed the location from eastus to canadacentral.
+
+* **Lab 01 - All Exercises** Updated the GitHub Scheenshots and Azure Portal Screenshots which relflects new UI.
+
+* **Lab 02 - Set up an Azure DevOps organization** Update the Screenshot at Step 1 with clear instructions.
+
+* **Lab 03** Updated the instructions
+
+* Added additional notes in **Lab 04**,for the clarification of User.
+
+### Screenshot Updates
+
+* Replaced outdated image references with updated screenshots(includes new logo changes) for:
+
+  * GitHub Portal.
+  * Azure DevOps Portal.
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-01
+
+### Testing Scope
+
+* End-to-end validation of Azure DevOps and GitHub workflow instructions was completed successfully.
+
+* Verified updated screenshots, pipeline execution flow, branch policy configuration, self-hosted agent setup, and YAML pipeline onboarding against the latest Azure DevOps and GitHub UI experience.
+
+---
+
+</details>
+
+<details>
 <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27
