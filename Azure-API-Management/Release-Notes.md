@@ -27,7 +27,6 @@ In this section, we will track and list each change introduced in the latest rel
 
 - Updated the Getting Started page with Environment tab and split tab features.
 - Added extra screenshot in Exercise - 2,9
-- Fixed typo errors and content improvement.
 
 ### Infrastructure Changes
 
@@ -40,8 +39,6 @@ N/A
 - In Exercise - 4 > Task 6 > 6.2 > Added a sentence to select the Starter or Unlimited in Product section dropdown.
 - In Exercise - 5 > Task 2 > 2.3 > Added -  under Inbound can find the cache-lookup.
 - In Exercise - 8 > Task 3 > step - 9> Save option is replaced with Publish option to save changes done in Logic app designer.
-    - Task 3 > 3.2 > step - 1 fixed the typo error (selct -> select).
-- In Exercise - 9 > Task 2 > step - 4 > fixed the typo error (cusom -> custom).
     - step - 7 > Added the content - Scroll down to Request section to add details.
     - step - 9 > Added the URI to complete the step - 7 and step - 8
     - step - 16 > Added the navigation to custom connector in power platfrom page.
@@ -62,7 +59,7 @@ N/A
 
 ### Testing Scope 
 
-- Performed end-to-end testing and validated the steps and updated the screenshots and fixed the typos and improved the content in tasks. Inline-validation for exercise > Task > shows success 
+- Performed end-to-end testing and validated the steps and updated the screenshots and improved the content in tasks. Inline-validation for exercise > Task > shows success 
 
 </details>
 <details>
