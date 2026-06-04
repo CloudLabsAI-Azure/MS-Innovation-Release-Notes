@@ -16,6 +16,59 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-06-01</summary>
+
+## Release Date : 2026-06-01
+
+### Summary of Changes
+
+Enhanced the lab guide to improve learner onboarding, deployment clarity, and overall navigation. Added scenario-based introductions, expanded explanations for deployment and authentication steps, simplified technical guidance, and reorganized setup instructions to provide a more structured learning experience.
+
+### Infrastructure Changes
+
+- Implemented GitHub SSO automation to streamline repository authentication and access during lab setup.
+- Enhanced deployment provisioning scripts to integrate **GitHub SSO-based** access workflows. Reduced dependency on manual GitHub credential configuration during lab execution.
+
+### Content Changes
+
+- **Getting Started Page:**
+
+  - Added a concise Scenario Overview section to introduce the solution context.
+  - Added a Core Components section describing the key technologies and resources used throughout the lab.
+  - Improved explanations of the lab environment, including VM usage and lab guide layout.
+  - Enhanced deployment and authentication guidance with clearer instructions and contextual information.
+  - Added section icons to improve readability and navigation.
+
+- **Lab 01:**
+
+  - Added a concise Scenario Overview aligned with the retail sales analytics business use case.
+  - Enhanced explanations for `azd up`, azd `auth login`, AI agent setup scripts, and Microsoft Fabric deployment scripts to clarify the expected outcomes of each command.
+  - Updated GitHub authentication instructions to reflect the new SSO-based sign-in experience. Removed legacy authentication guidance that required additional manual configuration steps.
+  - Improved Azure authentication and resource configuration instructions.
+  - Reorganized deployment prompts into a structured table format to improve navigation and learner understanding.
+
+- **Lab 02:**
+
+  - Added a concise Lab Scenario describing unified analytics and enterprise data exploration using Microsoft Fabric.
+  - Reduced emphasis on implementation details and provided additional business context for learners.
+
+### Screenshot Updates
+
+- **Getting Started Guide**: Updated Environment tab and Split Window screenshots to match the latest UI experience.
+- Refreshed existing screenshots and added new screenshots across **Lab 01, Lab 02** to match the latest Azure DevOps and GitHub UI experience. 
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope
+
+- End-to-end validation of the lab deployment and exercises was performed. The Copilot Studio portal UI changes were reviewed to confirm that the lab instructions align with the latest interface.
+---
+</details>
+
 <details>
   <summary>2026-05-04</summary>
 

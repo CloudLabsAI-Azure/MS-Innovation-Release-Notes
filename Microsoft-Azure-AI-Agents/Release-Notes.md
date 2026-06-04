@@ -14,6 +14,46 @@ This **page contains** detailed notes about the latest updates and modifications
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-06-03</summary>
+
+### Release Date: 2026-06-03
+
+## Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Foundry and Azure AI Search (Foundry IQ) UI changes. Refreshed screenshots, updated navigation paths, corrected service naming, and revised instructions to ensure a seamless learner experience with the current Azure portal interface.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Lab 01 - Task 2 - Steps 1, 2, 4, 7, 8, and 10**: Updated instructions and screenshots to reflect the latest Microsoft Foundry deployment workflow, model selection experience, and deployment interface changes.
+
+- **Lab 01 - Task 3 - Steps 1 and 19**: Updated instructions to reflect the service name change from **Azure AI Search** to **Azure AI Search (Foundry IQ)**.
+
+- **Lab 01 - Task 3 - Step 6**: Updated instructions to reflect that the **Identity** option is now located under **Security + Networking**.
+
+- **Lab 01 - Task 3 - Step 8**: Updated instructions to reflect that **Keys** are now available under **Security + Networking** in the left navigation pane.
+
+## Screenshot Updates
+
+- **Lab 01 - Task 1 - Step 9**: Updated the Add role assignment screenshot and blurred the unique identifier for consistency and security.
+
+- **Lab 01 - Task 2 - Steps 1, 2, 4, 7, 8, and 10**: Updated screenshots to reflect the latest Microsoft Foundry UI, deployment workflow, model catalog, and deployment pages.
+
+- **Lab 01 - Task 3 - Steps 1, 6, 8, 17, 19, and 38**: Updated screenshots to reflect Azure AI Search (Foundry IQ) branding, revised navigation paths, updated managed identity naming, and the latest Azure portal experience.
+
+## Validation
+
+- All validations succeeded.
+
+## Testing Scope
+
+- Executed thorough end-to-end validation of the lab environment and verified all updated instructions, screenshots, navigation paths, and lab validations.
+
+</details>
 
 <details>
   <summary>2026-05-19</summary>

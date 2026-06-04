@@ -16,6 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+This release includes updates to multiple lab exercises and supporting assets to improve clarity, accuracy, and alignment with the current workshop workflow. The updates ensure a smoother and more consistent learner experience across all exercises.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated instructions in **Exercises 1, 3, and 6** for improved clarity and consistency.
+- Refined and improved **GitHub access documentation (`github-access.md`)**.
+- Updated image assets (`gg_e6_14.png`, `vswelcome.png`) to reflect the latest UI changes.
+- Removed the **GitHub Copilot section from Exercise 8** to eliminate outdated content.
+- Improved overall readability and structure of lab instructions.
+
+### Screenshot Update
+
+- Updated outdated screenshots to match the latest UI for relevant lab steps.
+- Ensured image consistency across exercises for better learner understanding.
+- Replaced or refreshed visuals impacted by workflow or UI changes.
+
+### Testing Notes
+
+**Testing Date:** 2026-05-29
+
+### Testing Scope
+
+Validated all updated exercises end-to-end to ensure:
+- Step accuracy and correct sequencing
+- Alignment with current Azure and lab workflow
+- Proper rendering of updated screenshots and images
+- Removal of GitHub Copilot content
+- No formatting or instruction inconsistencies introduced
+
+---
+
+</details>
+
+<details>
   <summary>2026-05-08</summary>
 
 ## Release Date: 2026-05-08

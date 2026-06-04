@@ -16,6 +16,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-05-27</summary>
+
+## Release Date: 2026-05-27
+
+### Summary of Changes
+
+Updated Azure DevOps and GitHub lab instructions to align with the latest Azure DevOps and GitHub UI experience, refreshed screenshots across multiple exercises, improved workflow clarity, and added additional validation guidance for billing configuration, pipeline execution, and branch management scenarios.
+
+### Infrastructure Changes
+
+* Updated Lab virtual machine/Selenium VM, OS disk SKU from HDD to SDD.
+
+
+### Content Changes
+
+* Added additional execution validation guidance for pipeline completion before proceeding with dependent tasks.
+
+* **Getting Started Guide**: Updated Environment tab and Split Window screenshots to match the latest UI experience.
+* **Lab 02 - Exercise 0 - Task 1**: Updated Azure DevOps billing configuration steps and added conditional guidance for subscriptions that are already configured.
+
+* Added additional note section, to guide for pipeline completion before proceeding with dependent tasks.
+
+### Screenshot Updates
+
+* **Getting Started Guide**: Updated Environment tab and Split Window screenshots to match the latest UI experience.
+
+* Refreshed existing screenshots and added new screenshots across **Lab 01, Lab 02, Lab 03, and Lab 04** to match the latest Azure DevOps and GitHub UI experience.
+
+* Replaced outdated image references with updated screenshots(includes new logo changes) for:
+
+  * GitHub Portal.
+  * Azure DevOps Portal.
+
+* Standardized screenshot naming conventions across updated exercises.
+
+### Testing Notes
+
+* **Testing Date**: 2026-05-27
+
+### Testing Scope
+
+* End-to-end validation of Azure DevOps and GitHub workflow instructions was completed successfully.
+
+* Verified updated screenshots, pipeline execution flow, branch policy configuration, self-hosted agent setup, and YAML pipeline onboarding against the latest Azure DevOps and GitHub UI experience.
+
+---
+
+</details>
+
+
+<details>
 <summary>2026-05-05</summary>
  
 ## Release Date: 2026-05-05
