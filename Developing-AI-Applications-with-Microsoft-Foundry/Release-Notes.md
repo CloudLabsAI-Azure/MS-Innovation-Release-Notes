@@ -18,6 +18,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-05</summary>
+
+### Release Date: 2026-06-05
+
+### Summary of Changes
+
+- Added lab scenarios across all exercises, refreshed screenshots to match the latest Microsoft Foundry and Azure UI, improved instructional clarity, simplified workflows, and added guidance notes to enhance the learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Added/refined lab scenarios across the lab.
+* Updated headings with emojis for improved readability and consistency.
+* Refined prerequisites and learner guidance on the Overview page.
+* Added Microsoft Foundry portal navigation guidance.
+* Simplified and clarified multiple instructions across exercises.
+* Updated compute session timing and deployment guidance.
+* Added notes for outputs configuration and model deployment settings.
+
+### Screenshot Updates
+
+* Overview Page: Updated Environment and Zoom images; added screenshots for **Stay signed in → No** and **Skipping Microsoft Tour**.
+* Exercise 02: Updated **Task 03, Step 15** screenshot.
+* Exercise 03: Updated **Task 01, Step 07** screenshot.
+* Exercise 04: Updated **Task 01, Step 24** screenshot for the latest Outputs UI.
+* Exercise 05: Updated **Task 02, Step 06** screenshot with latest UI and numbering.
+
+### Validation
+
+- End-to-end validation completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-05
+- **Test Validation Summary**: Verified updated content, screenshots, instructions, and workflow against the latest Microsoft Foundry and Azure portal experience.
+
+### Testing Scope
+
+- Validated complete lab flow.
+- Verified updated UI screenshots and navigation guidance.
+- Confirmed compute session and outputs section updates.
+- Reviewed formatting, sequencing, and content consistency.
+
+---
+</details>
+<details>
   <summary>2026-05-20</summary>
 
 ## Release Date: 2026-05-20
@@ -58,8 +107,6 @@ Updated the lab guide to ensure consistency in the UI experience and improve ove
 - Improved the learner flow for clarity and refreshed the screenshots to match the latest Azure portal UI experience.
 
 </details>
-
----
 <details>
   <summary>2026-04-15</summary>
 
