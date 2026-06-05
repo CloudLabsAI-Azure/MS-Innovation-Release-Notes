@@ -1,6 +1,6 @@
-# Hands-on with Azure AI Foundry and Agent frameworks
+# Hands-on with Microsoft Foundry and Agent frameworks
 
-Welcome to the **Hands-on with Azure AI Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Hands-on with Microsoft Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -34,8 +34,8 @@ Tested lab environment and made minor instructional updates to improve step clar
 
 ### Screenshot Update
 
-- Exercise 1 (Task 1, Step 1): Replaced the  screenshot with updated version.
-- Exercise 6 (Task 2, Step 10): Replaced the  screenshot with updated version.
+- Exercise 1 (Task 1, Step 1): Replaced the screenshot with updated version.
+- Exercise 6 (Task 2, Step 10): Replaced the screenshot with updated version.
   
 ### Testing Notes
 
