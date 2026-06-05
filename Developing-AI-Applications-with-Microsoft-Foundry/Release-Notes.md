@@ -32,8 +32,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Content Changes
 
-* Added/refined lab scenarios across the lab.
-* Updated headings with emojis for improved readability and consistency.
+* Added lab scenarios across the lab.
 * Refined prerequisites and learner guidance on the Overview page.
 * Added Microsoft Foundry portal navigation guidance.
 * Simplified and clarified multiple instructions across exercises.
