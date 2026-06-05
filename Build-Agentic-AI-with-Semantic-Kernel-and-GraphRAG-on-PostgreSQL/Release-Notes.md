@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-06-05</summary>
+
+## Release Date: 2026-06-05
+
+### Summary of Changes
+
+Added business-driven lab scenarios to the Getting Started page and individual labs to provide learners with better context and understanding of the use case. Also updated the Exploring Your Resources screenshot to align with the latest UI and improve the overall onboarding experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a lab scenario to the **Getting Started** page to provide context for the overall lab experience.
+- Added a dedicated lab scenario to **Lab 01 - Enable Intelligent Search in PostgreSQL with Vectors and DiskANN**.
+- Added a dedicated lab scenario to **Lab 02 - Build a Semantic Kernel Agent**.
+- Improved learner onboarding by providing business context and objectives before starting each lab.
+
+### Screenshot Updates
+
+- Updated the **Exploring Your Resources** screenshot on the Getting Started page to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-05  
+  Validation was performed to ensure the newly added lab scenarios were correctly formatted and aligned with the lab objectives. Updated screenshots were also verified against the current UI.
+
+### Testing Scope
+
+- Verified newly added lab scenarios on the Getting Started page and individual labs.
+- Confirmed business context and objectives align with lab content.
+- Validated the updated Exploring Your Resources screenshot against the current UI.
+- Checked formatting, navigation flow, and overall learner experience.
+
+</details>
+
+<details>
   <summary>2026-05-15</summary>
 
 ## Release Date: 2026-05-15
