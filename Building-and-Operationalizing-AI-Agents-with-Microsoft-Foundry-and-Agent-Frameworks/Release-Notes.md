@@ -18,6 +18,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-04</summary>
+
+## Summary of Changes
+
+Updated screenshot references in the lab guide to correct mismatched images between Exercise 01 and Exercise 02, ensuring that learners view the appropriate screenshots for each exercise.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- No content or instructional updates were made.
+- No changes to lab steps, workflow, or configuration.
+
+## Screenshot Updates
+
+- Exercise 01 – Updated the screenshot reference from `a100.png` to `a99.png` to display the correct image for the exercise.
+
+- Exercise 02 – Updated the screenshot reference from `a99.png` to `a100.png` to display the correct image for the exercise.
+
+- Corrected screenshot mapping between Exercise 01 and Exercise 02 to align with the intended lab flow and learner experience.
+
+## Testing Notes
+
+- **Testing Date**: 2026-06-04
+
+## Testing Scope
+
+- Validated that the updated screenshot references render correctly in the lab guide.
+- Confirmed that Exercise 01 and Exercise 02 display the appropriate screenshots after the update.
+- Verified that no instructional content, lab steps, or workflow behavior were affected by this change.
+- Reviewed markdown formatting to ensure documentation consistency.
+
+---
+</details>
+
+
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Summary of Changes
