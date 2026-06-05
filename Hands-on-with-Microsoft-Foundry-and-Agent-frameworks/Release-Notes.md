@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-06-01</summary>
+  <summary>2026-06-03</summary>
 
-## Release Date: 2026-06-01
+## Release Date: 2026-06-03
 
 ### Summary of Changes 
 
@@ -39,7 +39,7 @@ Tested lab environment and made minor instructional updates to improve step clar
   
 ### Testing Notes
 
-- **Testing Date**: 2026-06-01
+- **Testing Date**: 2026-06-03
 
 ### Testing Scope 
 
