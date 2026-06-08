@@ -37,7 +37,7 @@ N/A
 
 ## Screenshot Updates
 
-- **Getting Started Page**: Updated the **Zoom In/Out** screenshot to reflect the latest UI.
+- **Getting Started Page**: Updated the **Zoom In/Out** screenshot to match/Reflect the latest UI.
 - **Lab 04**: Updated a screenshot with the correct step marking to improve learner guidance and navigation.
 
 ### Testing Notes
