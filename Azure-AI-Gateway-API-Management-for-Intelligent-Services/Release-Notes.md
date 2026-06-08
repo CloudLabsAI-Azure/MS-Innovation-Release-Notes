@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-08</summary>
+
+## Release Date: 2026-06-08
+
+### Summary of Changes
+
+ This includes updates to align the lab guide with the latest Azure and Microsoft Foundry portal experience. The changes focus on improving learner guidance, updating UI references, refreshing screenshots, and enhancing overall clarity and usability.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added exercise scenarios and contextual information to the Getting Started page and lab exercises.
+- Updated instructions to reflect the latest Azure and Microsoft Foundry portal workflows.
+- Refined zoom in/out guidance based on the current portal experience.
+- Added a note to guide learners when redirected to the new Microsoft Foundry portal, including steps to switch back to the classic experience when required.
+- Added guidance for handling portal pop-ups that may appear during lab execution.
+- Improved instructional clarity and consistency throughout the lab guide.
+
+### Screenshot Updates
+
+- **Updated Screenshots:** Refreshed environment and split-window screenshots to reflect the latest Azure and Microsoft Foundry UI.
+- **New Screenshots:** Added screenshots supporting the updated Foundry portal navigation and redirection guidance.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-08
+
+### Testing Scope
+
+Conducted end-to-end validation of the lab guide, verified all updated instructions and screenshots, confirmed step sequencing, validated portal workflows, and ensured alignment with the current Azure and Microsoft Foundry user experience.
+
+---
+</details>
+<details>
   <summary>2026-04-27</summary>
 
 ## Release Date: 2026-04-27
