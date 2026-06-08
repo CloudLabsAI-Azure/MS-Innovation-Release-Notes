@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-07</summary>
+
+### Release Date: 2026-06-07
+
+## Summary of Changes
+
+Updated the lab guide by adding a business-driven lab scenario to provide learners with better context before starting the exercises. Improved overall formatting and readability across the lab, updated screenshots to align with the latest UI, and enhanced link formatting and step annotations for a better learner experience.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Getting Started Page**: Added a lab scenario to provide business context and objectives for the overall lab.
+- **All Labs**: Corrected indentation and formatting inconsistencies throughout the lab guide.
+- **All Labs**: Enhanced link formatting to make URLs easier to identify, copy, and use.
+- Improved overall readability and consistency of instructions across the lab.
+
+## Screenshot Updates
+
+- **Getting Started Page**: Updated the **Zoom In/Out** screenshot to reflect the latest UI.
+- **Lab 04**: Updated a screenshot with the correct step marking to improve learner guidance and navigation.
+
+### Testing Notes
+ 
+- **Testing Date**: 2026-06-07
+
+## Testing Scope
+
+- Executed thorough end-to-end validation of the lab environment.
+- Verified newly added lab scenario content and formatting.
+- Validated updated screenshots against the current UI.
+- Confirmed links, formatting, indentation, and step annotations were accurate and user-friendly.
+- Ensured overall lab flow and learner experience remained consistent after updates.
+
+</details>
+
+<details>
 <summary>2026-05-05</summary>
  
 ## Release Date: 2026-05-05
