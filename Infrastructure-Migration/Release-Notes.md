@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-19</summary>
+
+## Release Date: 2026-05-19
+
+### Summary of Changes 
+
+- Added detailed lab scenarios to simulate real-world Azure migration and hybrid infrastructure management workflows, included additional guidance notes to help users proactively handle common issues during execution, and corrected content formatting, rendering inconsistencies, and grammatical errors throughout the lab guide.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated the lab guide to include realistic, role-based scenarios that align with enterprise Azure migration and hybrid cloud management use cases.
+- In E1, T1, S25 - Included additional guidance notes to help users identify, troubleshoot, and resolve common issues encountered during lab execution.
+- HOL 3: E2, T3, S2 - Added a guidance note to assist users in troubleshooting scenarios where the Log Analytics workspace is not displayed or configured correctly during the lab execution.
+
+### Screenshot Update
+
+- HOL 3: E2, T3, S2 - Added an additional screenshot to provide clearer navigation guidance and help users easily locate the required options and settings within the lab environment.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-19
+
+### Testing Scope 
+
+- Performed comprehensive validation of the lab environment, refined RBAC and policy configurations, refreshed outdated screenshots, and improved procedural guidance to enhance usability, accuracy, and overall learner experience.
+
+
+</details>
+
+<details>
   <summary>2026-03-02</summary>
 
 ## Release Date: 2026-03-02

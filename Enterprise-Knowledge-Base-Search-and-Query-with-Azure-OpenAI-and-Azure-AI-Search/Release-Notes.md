@@ -15,6 +15,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Updated the lab guide with the latest Azure portal UI screenshots, improved step clarity, and added additional guidance to help learners avoid deployment/configuration errors during lab execution.
+
+### Content Changes
+
+- Updated the **Exploring Your Lab Resources** screenshot on the Getting Started page with the latest UI.
+- Removed the unnecessary colon from the **Lab Guide Zoom In/Zoom Out** instruction text.
+- **Exercise 1 - Task 2.2**:
+  - Updated the screenshot for **Document Intelligence** with the latest UI and improved step marking.
+- **Exercise 1 - Task 2.3**:
+  - Updated the screenshot for the **Translator resource** with the latest UI and improved step marking.
+- **Exercise 2 - Task 1**:
+  - Added an additional note for image and tag naming to help avoid errors during the lab.
+
+### Screenshot Updates
+
+- Refreshed Azure portal screenshots to align with the latest Azure UI experience.
+- Improved screenshot annotations and step highlighting for better learner understanding.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope 
+
+- Validated the updated instructions and screenshots.
+- Verified the lab flow and notes for better learner experience and clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-04-28</summary>
 
 ## Release Date: 2026-04-28
@@ -127,7 +164,7 @@ N/A
 </details>
 
 <details>
-  <summary>23 May 2025</summary>
+  <summary>2025-05-23</summary>
 
 ## Infrastructure Changes
 

@@ -15,6 +15,54 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 <details>
+  <summary>2026-06-02</summary>
+
+## Release Date: 2026-06-02
+ 
+### Summary of Changes
+
+- Improved lab guidance and learner experience by adding troubleshooting notes, clarifying instructions, correcting step references, and removing redundant content.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started**
+  - Expanded **HITL** to **Human in the Loop (HITL)** for clarity.
+  - Removed unnecessary spacing in the **Prerequisites** section to improve readability.
+
+- **Lab 01**
+  - Added a note explaining how to close the sign-in pop-up if the **Skip** option is not visible.
+  - Removed a duplicate **Pull** step from the prerequisites section.
+  - Added guidance to save the **API Key** and **Azure OpenAI Endpoint** for use in later tasks.
+  - Added a note clarifying that AI-generated responses may vary while maintaining the same meaning and intent.
+
+- **Lab 02**
+  - Added a note indicating that terminal warnings or errors displayed while running commands can be safely ignored if the application continues to function as expected.
+  - Added troubleshooting guidance instructing learners to reopen the application using the URL displayed in the terminal if the expected application page is not shown.
+
+- **Lab 03**
+  - Corrected a note reference from **Step 08** to **Step 07** to align with the current step numbering.
+
+### Screenshot Updates
+
+- No screenshot updates were required, as all screenshots remain current and accurately reflect the lab environment.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-02
+
+### Testing Scope
+
+- Executed end-to-end validation of the lab after applying all content updates.
+- Verified instructional flow, step sequencing, links, notes, and troubleshooting guidance.
+- Confirmed screenshots remain aligned with the current user experience.
+
+---
+</details>
+<details>
   <summary>2026-05-11</summary>
 
 ## Release Date: 2026-05-11

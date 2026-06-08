@@ -57,6 +57,42 @@ N/A
 </details>
 
 <details>
+  <summary>2026-05-19</summary>
+
+### Release Date: 2026-05-19
+
+## Summary of Changes
+
+Updated the lab documentation with the latest screenshots and refined the instructions to improve clarity, simplify the user flow, and enhance the overall hands-on learning experience.
+
+## Infrastructure Changes
+
+N/A 
+
+## Content Changes
+ 
+- Added detailed lab scenarios across all labs.
+- Updated the architecture diagram to better represent the end-to-end lab workflow.
+- Enhanced instructions with additional guidance on assigned Azure roles and permissions.
+- Updated Azure role names to align with the latest Azure terminology and releases, including **Foundry User** and **Foundry Project Manager** roles.
+- Refined lab instructions and formatting for improved readability and consistency across the lab.
+
+## Screenshot Updates
+
+- Updated the architecture diagram to better represent the end-to-end lab workflow.
+- Updated the screenshots to reflect the latest UI.
+
+## Validation
+
+  - All Validation Succeeded.
+
+## Testing Scope
+
+ - Executed thorough end-to-end validation of the lab environment, systematically verifying lab validations.
+
+</details>
+
+<details>
   <summary>2026-04-21</summary>
 
 ### Release Date: 2026-04-21

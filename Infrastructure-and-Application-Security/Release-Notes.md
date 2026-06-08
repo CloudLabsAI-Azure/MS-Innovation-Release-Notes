@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab and implemented documentation fixes across all lab guides, including typo/grammar corrections, link updates, and step clarifications to improve readability and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **01-secure-administration-and-management.md:** Fixed typos ("healthly" → "healthy", "resorces" → "resources"); reworded the refresh note; added helper notes guiding users to the next page if the `FirewallVM-nsg` resource isn't immediately visible (NSG flow logs and Diagnostic settings sections).
+- **02-secure-application.md:** Updated deprecated `docs.microsoft.com` links to `learn.microsoft.com` for Azure Firewall, Application Gateway, and WAF references; corrected step order in the Front Door rate-limit rule (Priority now precedes Rule type to match the portal flow).
+- **03-secure-infrastructure-with-azure-firewall-premium.md:** Fixed typo in rule collection name ("rulecolection" → "rulecollection"); improved grammar in the TLS Inspection retry instruction.
+- **04-protecting-infrastructure-with-azure-ddos-protection-plans.md:** Merged redundant "Overview" / "What is DDoS protection?" headings; standardized punctuation on instruction lines; clarified the Blue tick step under Metrics.
+- **05-network-management-and-monitoring-revisited-flow-logs-and-traffic-analytics.md:** Reworded the "Time interval greyed out" note for clarity; clarified the close-icon instruction in the Geo Map view.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots have been changed as per the latest experience, and according to screenshots, the steps are also refreshed with instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. Validated all documentation fixes, link updates, and clarified instructions across all five lab guides.
+
+---
+</details>
+<details>
   <summary>2026-04-05</summary>
 
 ## Release Date: 2026-04-05

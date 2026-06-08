@@ -17,6 +17,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+### Release Date: 2026-05-29
+
+### Summary of Changes
+
+- Added lab scenarios, updated screenshots to reflect the latest UI changes, revised step numbering for better alignment, corrected content inconsistencies, included additional notes to improve user guidance, and updated certain steps in **Exercise 4, Task 2** based on the latest Azure portal updates.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+  
+* Added lab scenarios and included additional notes to improve user guidance and overall lab clarity.
+* **Exercise 1, Task 3, Step 10**: Corrected the step numbering.
+* **Exercise 1, Task 4, Step 11**: Corrected the step numbering in the note section.
+* **Exercise 1, Task 5, Step 3**: Corrected typographical errors.
+* **Exercise 2, Task 2, Step 3**: Corrected a typographical error.
+* **Exercise 2, Task 3, Step 1**: Added a note to guide users on enabling **Test Plans** in Azure DevOps.
+* **Exercise 3, Task 1, Step 5** and **Task 2, Step 1**: Updated the resource names to align with the latest UI changes.
+* **Exercise 3, Task 3, Step 2**: Updated the resource name based on the latest UI updates.
+* **Exercise 4, Task 2, Steps 1, 2, and 6**: Updated the instructions to reflect the latest changes in Azure.
+
+### Screenshot Updates
+
+* In the **Getting Started** page, updated the **Environment** tab screenshot to reflect the latest UI changes.
+* **Exercise 1, Task 2, Step 3**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 3, Step 1**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 3, Step 5**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 4, Step 8**: Updated the screenshot based on the latest UI changes.
+* **Exercise 2, Task 3, Step 17**: Updated the screenshot to mask the unique ID.
+* **Exercise 3, Task 1, Step 5** and **Task 2, Step 1**: Updated the screenshots to align with the latest UI changes.
+* **Exercise 3, Task 3, Step 2**: Updated the screenshot based on the latest UI changes.
+* **Exercise 4, Task 2, Steps 1, 2, and 6**: Updated the screenshots to reflect the latest workflow and UI updates.
+
+### Validation
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+- **Test Validation Summary**: Validated the lab guide steps to ensure accuracy and consistency.
+
+### Testing scope
+
+- Validated the complete lab workflow, verified the latest Azure portal UI updates, and updated the lab steps accordingly.
+
+---
+</details>
+
+<details>
   <summary>2025-11-10</summary>
 
 ## Release Date: 2025-11-10

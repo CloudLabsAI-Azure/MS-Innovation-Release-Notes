@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-06</summary>
+
+## Release Date: 2026-06-06
+
+### Summary of Changes
+
+- Updated the lab to align with the latest GitHub Copilot App Modernization experience, simplify the modernization workflow, reduce repetitive agent executions, and UI updates. 
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Task 1: Updated the GitHub sign-in steps in VS Code to align with the latest VS Code user interface and authentication experience.
+- Tasks 3, 4, and 5: Consolidated the previous modernization tasks (Migrate to Azure Database for PostgreSQL Flexible Server, Azure Blob Storage, and Azure Service Bus using predefined tasks) into two streamlined tasks:
+  - Task 3: Generate and Review the Modernization Plan
+  - Task 4: Execute the Modernization Plan
+  This change was made to align with the latest functionality of the App Modernization extension. Previously, learners could execute each modernization task individually using the Run Task button. As the Run Task option is no longer available in the current experience, the workflow has been updated to first generate a modernization plan using the Create Plan option in the modernization report, and then execute the plan through GitHub Copilot Chat using guided prompts.
+- Task 7: Updated the Azure authentication steps to reflect the current sign-in and authentication workflow.
+
+### Screenshot Updates
+
+- Task 1: Updated screenshots for Github sign in VS Code.  
+- Task 3 and 4: Added screenshots for modernization plan generation, plan review, and execution plan.
+- Task 7: Added screenshots for Azure authentication
+  
+### Testing Notes
+
+- **Testing Date**: 2026-06-05
+
+### Testing Scope 
+
+- Performed end-to-end lab testing with successful outcomes. Updated the lab guide as per the updated workflow and enhanced the instructions and screenshots. 
+
+---
+</details>
+
+<details>
   <summary>2026-05-11</summary>
 
 ## Release Date: 2026-05-11

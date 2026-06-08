@@ -18,6 +18,95 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-05</summary>
+
+### Release Date: 2026-06-05
+
+### Summary of Changes
+
+- Added lab scenarios across all exercises, refreshed screenshots to match the latest Microsoft Foundry and Azure UI, improved instructional clarity, simplified workflows, and added guidance notes to enhance the learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Added lab scenarios across the lab.
+* Refined prerequisites and learner guidance on the Overview page.
+* Added Microsoft Foundry portal navigation guidance.
+* Simplified and clarified multiple instructions across exercises.
+* Updated compute session timing and deployment guidance.
+* Added notes for outputs configuration and model deployment settings.
+
+### Screenshot Updates
+
+* Overview Page: Updated Environment and Zoom images; added screenshots for **Stay signed in → No** and **Skipping Microsoft Tour**.
+* Exercise 02: Updated **Task 03, Step 15** screenshot.
+* Exercise 03: Updated **Task 01, Step 07** screenshot.
+* Exercise 04: Updated **Task 01, Step 24** screenshot for the latest Outputs UI.
+* Exercise 05: Updated **Task 02, Step 06** screenshot with latest UI and numbering.
+
+### Validation
+
+- End-to-end validation completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-05
+- **Test Validation Summary**: Verified updated content, screenshots, instructions, and workflow against the latest Microsoft Foundry and Azure portal experience.
+
+### Testing Scope
+
+- Validated complete lab flow.
+- Verified updated UI screenshots and navigation guidance.
+- Confirmed compute session and outputs section updates.
+- Reviewed formatting, sequencing, and content consistency.
+
+---
+</details>
+<details>
+  <summary>2026-05-20</summary>
+
+## Release Date: 2026-05-20
+
+### Summary of Changes
+
+Minor enhancements were made throughout the guide, including updating outdated screenshots, improving learner flow, updating the deployment region to avoid Foundry quota issues, and adding the conclusion section for improved clarity and accuracy.   
+
+### Infrastructure Changes
+
+- Updated the deployment region from **South Central US** to **Sweden Central** in **Lab 02 – Task 1 – Point 4** to avoid Foundry quota issues during compute session provisioning.
+
+### Content Changes
+
+Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
+  
+- Added the conclusion section after completing the  **Lab 06**
+- Updated Azure portal UI references throughout the lab guide
+- Improved learner flow and deployment guidance
+
+### Screenshot Updates
+
+- Updated the screenshots to enhance clarity. Screenshots updated are:
+  * **Overview** – Exploring Your Lab Resources
+  * **Lab 02** – Task 1: Point 4
+  * **Lab 03** – Task 2: Point 4
+  * **Lab 04**
+
+    * Task 02: Points 9 and 10
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-20
+
+### Testing Scope 
+
+- Completed validation of the updated sections after implementing the UI, screenshot, and deployment region changes.
+- Improved the learner flow for clarity and refreshed the screenshots to match the latest Azure portal UI experience.
+
+</details>
+<details>
   <summary>2026-04-15</summary>
 
 ## Release Date: 2026-04-15

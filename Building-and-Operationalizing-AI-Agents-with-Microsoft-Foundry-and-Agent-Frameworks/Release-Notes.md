@@ -18,7 +18,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>7 May 2026</summary>
+  <summary>2026-05-28</summary>
+
+## Summary of Changes
+
+Updated the lab content and instructions to align with the latest Azure AI Foundry portal experience. Added missing navigation steps for accessing the Foundry portal and Agents page in Exercise 1, refreshed the architecture diagram and MCP server connection screenshots to match the current UI, simplified exercise overview sections, and shortened task names in Exercise 2 for better readability.
+
+Additionally, resolved a 401 authorization failure encountered during notebook cell execution in Exercise 1 Task 7 Step 17 by updating the repository code used for the cell execution workflow.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Exercise 1
+  - Added missing navigation steps to access the Foundry portal > Navigate to the Agents page
+  - Updated screenshots related to MCP server connection creation in Task 9 to reflect the current Azure portal UI
+  - Simplified and shortened the Overview section content for improved readability
+  - Fixed notebook code in: Exercise 1 → Task 7 → Step 17, resolving 401 authorization failure during cell execution
+- Exercise 2
+  - Shortened task names for improved learner navigation and readability
+
+## Screenshot Updates
+
+- Exercise 1 Task 9 (MCP server connection workflow)
+- Foundry portal and Agents page navigation flow
+- Architecture diagram updated
+- Updated screenshots in: Ex 1 Task 2 Step 14, 15, Ex 1 Task 9, Cloudlabs UI update in the getting started page.
+  
+## Testing Notes
+
+- **Testing Date**: 2026-05-26
+
+## Testing Scope
+
+- Validated the lab end-to-end after all updates
+- Verified updated Foundry portal navigation flow
+- Confirmed MCP server connection steps align with the current Azure UI
+- Tested notebook execution after repository code fix for 401 issue
+- Verified sequencing, formatting, and instructional clarity
+- Confirmed screenshots and references match the current portal experience
+
+---
+</details>
+
+
+<details>
+  <summary>2026-05-07</summary>
 
 ## Summary of Changes
 
@@ -54,7 +101,7 @@ N/A
 
 
 <details>
-  <summary>7 April 2026</summary>
+  <summary>2026-04-07</summary>
 
 ## Summary of Changes
 
@@ -86,7 +133,7 @@ N/A
 </details>
 
 <details>
-  <summary>24 March 2025</summary>
+  <summary>2025-03-24</summary>
 
 ## Summary of Changes
 

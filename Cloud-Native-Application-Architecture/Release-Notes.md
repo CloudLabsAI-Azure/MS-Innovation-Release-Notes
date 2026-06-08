@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-22</summary>
+
+### Release Date: 2026-05-22
+
+### Summary of Changes
+
+The lab was executed end-to-end successfully, and all functionalities worked as expected without requiring any further modifications.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Added lab scenarios to help users simulate real-world use cases.
+- In Exercise 2, Task 2, Step 6, the instructions were updated to align with the latest UI changes.
+
+### Screenshot Updates
+
+- Updated the **Environment** tab screenshots to align with the latest UI changes.
+- Exercise 2, Task 2, Step 6: Updated the screenshot to reflect the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-22
+
+### Testing Scope 
+
+Validation included end-to-end lab flow verification, infrastructure compatibility checks, content updates, and screenshot alignment with the latest UI changes. Additionally, lab scenarios were incorporated to enhance real-world relevance and improve the overall learning experience.
+
+</details>
+
+<details>
   <summary>2025-09-12</summary>
 
 ### Release Date: 2025-09-12

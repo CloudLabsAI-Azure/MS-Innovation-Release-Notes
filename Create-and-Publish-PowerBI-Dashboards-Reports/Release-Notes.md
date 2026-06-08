@@ -15,7 +15,41 @@ This repository contains detailed notes about the latest updates and modificatio
 
 `Email Support: cloudlabs-support@spektrasystems.com`
 
-# Release Notes
+## Release Notes
+
+<details>
+  <summary>2026-05-20</summary>
+
+  ## Release Date: 2026-05-20
+
+### Summary of Changes
+
+This update includes minor enhancements such as refreshed UI screenshots aligned with the latest interface experience, along with the addition of lab scenarios to improve contextual understanding and learning flow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added detailed lab scenarios to improve content clarity, contextual understanding, and overall learning experience.
+  
+### Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Screenshots have been replaced to align with the latest updates in the user interface.
+    
+### Testing Notes
+
+- **Testing Date**: 2026-05-20
+
+### Testing Scope 
+
+- Completed end-to-end lab testing successfully. The lab guide was subsequently updated to enhance clarity and usability.
+
+---
+</details>
 
 <details>
   <summary>2026-04-30</summary>

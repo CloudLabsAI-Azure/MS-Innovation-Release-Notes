@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-15</summary>
+
+## Release Date: 2026-05-15
+
+### Summary of Changes
+
+Minor updates have been made to the lab, including the addition of a Lab Scenario, UI updates, refreshed screenshots, and refined instructions to improve clarity and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added detailed lab scenarios, resolved typographical and formatting inconsistencies, and corrected step numbering to improve the overall accuracy, structure, and readability of the lab guide.
+- In Lab 2, Task 1, Step 4: Corrected typographical errors to improve the accuracy and readability of the lab guide.
+- Lab 2, Task 4, Step 13 & 14: Updated the content to align with the lab workflow and improve the overall instructional flow and consistency.
+
+### Screenshot Updates
+
+- Modified the screenshot on the starting page to mask unique IDs and prevent exposure of sensitive information.
+- Lab 2, Task 4, Step 13 & 14: Updated the screenshots to align with the latest UI changes and ensure consistency with the current user experience.
+- Lab 4, Task 3, Step 4: Added step numbers to the screenshots to improve workflow navigation and help users follow the lab instructions more effectively.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-15
+
+### Testing Scope 
+
+Validation covered infrastructure compatibility, lab workflow continuity, content accuracy, screenshot alignment with the latest UI, verification of updated lab scenarios, correction of typographical issues, and validation of revised step numbering and instructional flow.
+
+</details>
+
+<details>
   <summary>2026-04-20</summary>
 
 ## Release Date: 2026-04-20
