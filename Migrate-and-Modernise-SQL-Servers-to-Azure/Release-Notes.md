@@ -15,6 +15,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes
+
+Performed end-to-end validation and content updates for the **Migrate and Modernize SQL Servers to Azure** lab to align with the latest Azure Migrate experience, improve instruction clarity, and ensure consistency throughout the migration workflow. Updates include UI refreshes, refined guidance, migration flow improvements, SQL Server version updates, screenshot enhancements, and formatting corrections.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**: Updated the environment screenshots to align with the latest lab environment UI.
+- **Lab 01 - Exercise 01**: Updated Azure Migrate screenshots to match the latest UI and refined the instructions for improved clarity.
+- **Lab 01 - Exercise 02**: Refined instructions and updated the assessment workflow to align with the latest Azure Migrate experience.
+- **Lab 01 - Exercise 03**: Updated storage account creation screenshots and revised the migration workflow to reflect the latest Azure portal UI.
+- **Lab 02 - Exercises 01 & 02**: Updated references from SQL Server 2008 to SQL Server 2022, refined instructions to align with the current workflow, masked sensitive information, and corrected numbering and formatting issues.
+
+### Screenshot Updates
+
+- Updated screenshots across the **Getting Started Page**, **Lab 01**, and **Lab 02** to align with the latest Azure portal and Azure Migrate UI.
+- Updated assessment, storage account creation, and migration workflow screenshots.
+- Masked sensitive information in applicable screenshots.
+
+### Validation
+
+- N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-09
+
+### Testing Scope
+
+- Completed end-to-end validation of the lab.
+- Verified the updated Azure Migrate assessment and migration workflows.
+- Validated all revised instructions, numbering, and formatting changes.
+- Confirmed screenshots align with the latest Azure portal experience.
+- Ensured consistency, readability, and accuracy across all exercises.
+```
+---
+</details>
+
+<details>
   <summary>2026-05-20</summary>
 
 ## Release Date: 2026-05-20
