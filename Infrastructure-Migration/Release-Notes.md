@@ -17,6 +17,67 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes
+
+* Updated the AIW-Infra-Migration lab guide to align with the latest Azure Migrate portal experience. Revised instructions across Module 1, Module 2, and HOL3 exercises, refreshed outdated screenshots, and added new screenshots to accurately reflect the current Azure migration workflow and portal navigation.
+
+### Infrastructure Changes
+
+* NA
+
+### Content Changes
+
+* Updated Module 1 Exercise 1–4 instructions to reflect current Azure Migrate workflows.
+* Updated Module 2 Exercise 1–4 instructions to align with the latest Azure portal experience.
+* Updated HOL3 Exercise 1–5 guidance and navigation steps.
+* Improved instructional clarity and accuracy across migration-related tasks.
+* Revised learner guidance to match the current Azure portal layout and migration process.
+
+### Screenshot Updates
+
+* Refreshed existing screenshots to match the latest Azure portal UI:
+
+  * 14-7-25-g2.png
+  * 14-7-25-g3.png
+  * AIM-image9.png
+  * AIM-image24.png
+  * infra-new-3.png
+
+* Added new screenshots to support the updated migration workflow:
+
+  * infra-s8.png
+  * infra-s9.png
+  * infra-s10.png
+  * infra-s11.png
+  * infra-s12.png
+  * infra-s13.png
+  * infra-s14.png
+  * infra-s15.png
+  * infra-s16.png
+  * infra-s17.png
+  * infra-s18.png
+  * infra-s19.png
+  * infra-s20.png
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-09
+
+### Testing Scope
+
+* Performed end-to-end validation of the AIW-Infra-Migration lab.
+* Verified all updated Module 1, Module 2, and HOL3 instructions.
+* Confirmed Azure Migrate workflow steps match the current Azure portal experience.
+* Validated newly added and updated screenshots for accuracy and consistency.
+* Reviewed lab flow, navigation, and content formatting to ensure a seamless learner experience.
+
+</details>
+
+<details>
   <summary>2026-05-19</summary>
 
 ## Release Date: 2026-05-19
