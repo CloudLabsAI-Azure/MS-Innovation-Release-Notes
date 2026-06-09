@@ -18,6 +18,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes
+
+Updated the lab to align with the lab with the latest Microsoft Copilot Studio user interface. Multiple screenshots, prompts, and workflow configurations were updated to ensure consistency with the current product experience and improve agent functionality.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Lab 1: Streamline HR Recruiting Process, Tasks 1–6
+  - Updated prompts used throughout the tasks to provide more accurate HR-focused outputs.
+  - Refreshed screenshots to reflect the latest Microsoft 365 Copilot and Copilot Studio user interface.
+  - Updated expected outcome screenshots to align with the revised prompts and current product behavior.
+
+- Lab 1, Task 7 – Employee Onboarding Helpdesk Agent
+  - Updated the workflow to use separate topics instead of a single conversation topic for escalation handling.
+  - Improved the escalation experience to ensure the adaptive card submission and live-agent escalation process work reliably during testing.
+  - Updated all associated screenshots and instructions to reflect the new implementation.
+
+- Lab Flow Updates
+  - Reordered the lab sequence by moving the Automate benefits query management lab immediately after the HR Agent creation lab.
+  - This change improves continuity by allowing learners to use the Employee Onboarding Helpdesk Agent created earlier before moving on to other scenarios.
+
+### Screenshot Updates
+
+- Updated Microsoft 365 Copilot screenshots across Lab 1.
+- Updated Microsoft Copilot Studio screenshots to match the current UI experience.
+- Refreshed screenshots associated with agent creation, topic configuration, adaptive cards, and Power Automate integration.
+- Replaced blur screenshots with clearer images where necessary.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-09
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully, and the lab guide was updated to improve instruction clarity and align with the latest Microsoft 365 Copilot and Copilot Studio UI changes.
+
+
+---
+</details>
+
+<details>
   <summary>2026-05-15</summary>
 
 ## Release Date: 2026-05-15
