@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-05-27 - Lab guide modernization (Exercises 1-10)</summary>
+  <summary>2026-05-27</summary>
 
 ## Summary
 
@@ -68,7 +68,7 @@ Performed end-to-end testing across Exercises 1–10 to ensure:
 </details>
 
 <details>
-  <summary>2022-11-21 - Onboarding</summary>
+  <summary>2022-11-21</summary>
 
 ## Summary
 
