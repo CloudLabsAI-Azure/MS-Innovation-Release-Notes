@@ -39,29 +39,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Updates
 
-* Refreshed existing screenshots to match the latest Azure portal UI:
+* Refreshed and updated the existing screenshots to ensure alignment with the latest Azure Portal user interface across Module 1 (Exercises 1–4), Module 2 (Exercises 1–4), and the corresponding Hands-on Labs (HOLs).
 
-  * 14-7-25-g2.png
-  * 14-7-25-g3.png
-  * AIM-image9.png
-  * AIM-image24.png
-  * infra-new-3.png
-
-* Added new screenshots to support the updated migration workflow:
-
-  * infra-s8.png
-  * infra-s9.png
-  * infra-s10.png
-  * infra-s11.png
-  * infra-s12.png
-  * infra-s13.png
-  * infra-s14.png
-  * infra-s15.png
-  * infra-s16.png
-  * infra-s17.png
-  * infra-s18.png
-  * infra-s19.png
-  * infra-s20.png
 
 ### Testing Notes
 
