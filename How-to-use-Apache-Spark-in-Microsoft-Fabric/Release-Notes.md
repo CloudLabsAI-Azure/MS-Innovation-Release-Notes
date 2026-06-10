@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>09-June-2026</summary>
+
+## Release Date : 09-June-2026
+
+### Summary of Changes
+
+Added additional steps to align with the latest lab workflow and updated the guide with screenshots reflecting the current UI. Successfully validated the lab by completing an end-to-end execution.
+
+### Infrastructure Changes
+
+### Content Changes
+
+- Added note in Exercise - 1 > Task 3 (Name Error issue) to resovle that users need to check the missed commands to execute or re-run the commands from Task - 3 onwards.
+- Added Lab Scenario to all exercise - 1,2,3
+
+### Screenshot Updates
+
+Screenshot were updated to reflect the latest UI in the following steps:
+- Getting started page > Added new screenshots which helps to switch from powerBI page to Fabric page view and workspace type selection screenshot
+- In Exercise - 2
+    - Updated the UI in Task - 2 > step 5,6,7 to save & run the changes made to dataflow and rename to the dataflow name.
+- Exercise - 3
+    - In Task - 1 > updated the UI screenshot at step - (7 - 14) while creating copy data assistant pipeline, settings is added in pipeline.
+    - In Task - 2 > second approach of creating a notebook from lakehouse workspace screenshot is added.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-06-08
+
+### Testing Scope 
+
+- Performed end to end lab, validated lab flow continuity, content accuracy, and screenshot alignment with the latest UI.
+
+------------
+
+</details>
+
+<details>
   <summary>03-March-2026</summary>
 
 ## Release Date : 03-March-2026
