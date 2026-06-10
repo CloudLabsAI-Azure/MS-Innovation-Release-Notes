@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-10</summary>
+
+## Release Date: 2026-06-10
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab and refreshed screenshots across the guide to align with the current Azure and CloudLabs experience. Updated screenshots affected by UI changes and standardized images to meet current screenshot checklist requirements.
+
+### Infrastructure Changes
+
+- No infrastructure changes were made as part of this release.
+- Existing lab environment configuration remains unchanged.
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+- Replaced outdated CloudLabs environment screenshots.
+- Updated resource group screenshots with current naming conventions.
+- Refreshed Azure portal screenshots impacted by UI changes.
+- Standardized screenshots across Labs 01–05 according to internal screenshot quality guidelines and checklist standards.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-09
+
+### Testing Scope 
+
+Completed end-to-end testing of the lab after all updates and verified that the screenshots match the current Azure and CloudLabs experience. Confirmed that the task flow, navigation, and instructional content remain accurate and unchanged, and validated all links and formatting throughout the guide.
+
+</details>
+
+<details>
   <summary>2026-05-15</summary>
 
 ## Release Date: 2026-05-15
