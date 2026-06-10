@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-29</summary>
+
+## Release Date: 2026-05-29
+
+### Summary of Changes
+
+Enhanced the lab guide by adding lab scenarios, refining instructions, and updating screenshots to align with the latest user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added lab scenarios to provide additional context and improve the overall learning experience.
+- Updated the lab workflow to align with the latest release of the GitHub Copilot App Modernization extension.
+- Refined instructions throughout the lab guide for improved clarity and usability.
+
+### Screenshot Updates
+
+- Refreshed screenshots to reflect the latest product UI and improve instructional clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-02-20</summary>
 
 ## Release Date: 2026-02-20

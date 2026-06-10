@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
+
+### Summary of Changes
+
+Performed content refinements and rendering fixes across the lab guide to improve overall readability, consistency, and user experience. Updated screenshots and instructions based on the latest portal/UI experience. Improved step-by-step guidance in selected tasks to reduce ambiguity during lab executio
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- In Labs 4 and 5, Microsoft Sentinel workspace configurations and updates are now performed through the Defender Portal instead of the Azure Portal, in accordance with the latest UI changes. Screenshots have been added as per the new UI and steps have been updated accordingly.
+
+- Refined instructions and updated screenshots where required.
+
+### Screenshot Updates
+
+- Updated screenshots to reflect the latest UI and workflow changes.
+
+- Improved screenshot alignment with the current lab instructions and expected outputs
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+- Completed end-to-end lab testing and validation. Verified updated screenshots, instructions, rendering, and navigation flow. Confirmed all lab tasks and validations were functioning as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-05-20</summary>
 
 ## Release Date: 2026-05-20

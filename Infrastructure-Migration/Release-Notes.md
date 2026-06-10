@@ -17,6 +17,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-09</summary>
+
+## Release Date: 2026-06-09
+
+### Summary of Changes
+
+* Updated the AIW-Infra-Migration lab guide to align with the latest Azure Migrate portal experience. Revised instructions across Module 1, Module 2, and HOL3 exercises, refreshed outdated screenshots, and added new screenshots to accurately reflect the current Azure migration workflow and portal navigation.
+
+### Infrastructure Changes
+
+* NA
+
+### Content Changes
+
+* Updated Module 1 Exercise 1–4 instructions to reflect current Azure Migrate workflows.
+* Updated Module 2 Exercise 1–4 instructions to align with the latest Azure portal experience.
+* Updated HOL3 Exercise 1–5 guidance and navigation steps.
+* Improved instructional clarity and accuracy across migration-related tasks.
+* Revised learner guidance to match the current Azure portal layout and migration process.
+
+### Screenshot Updates
+
+* Refreshed and updated the existing screenshots to ensure alignment with the latest Azure Portal user interface across Module 1 (Exercises 1–4), Module 2 (Exercises 1–4), and the corresponding Hands-on Labs (HOLs).
+
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-09
+
+### Testing Scope
+
+* Performed end-to-end validation of the AIW-Infra-Migration lab.
+* Verified all updated Module 1, Module 2, and HOL3 instructions.
+* Confirmed Azure Migrate workflow steps match the current Azure portal experience.
+* Validated newly added and updated screenshots for accuracy and consistency.
+* Reviewed lab flow, navigation, and content formatting to ensure a seamless learner experience.
+
+</details>
+
+<details>
   <summary>2026-05-19</summary>
 
 ## Release Date: 2026-05-19

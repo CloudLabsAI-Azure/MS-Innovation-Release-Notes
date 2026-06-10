@@ -21,6 +21,59 @@ In this section, we will track and list each change introduced in the latest rel
 
 ### Release Date:
 <details>
+  <summary>2026-05-03</summary>
+
+## Release Date: 2026-05-03
+
+### Summary of Changes
+
+Updates to Microsoft Fabric hands-on lab materials with clarifications, instruction improvements, and refreshed screenshots to align with the current Fabric portal UI and enhance learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+### Screenshot Updates
+
+  - **Exercise 1 - Data Engineering**:
+      - Updated pipeline creation window screenshots 
+      - Updated notebook connection UI showing "Add" button instead of "Connect" 
+      - Updated navigation flow screenshots to match new workspace selection workflow 
+      - Refreshed new item creation visuals and pipeline monitoring interface
+
+  - **Exercise 2 - Data Warehouse**:
+      - Updated visualization formatting panel screenshots 
+      - Refined General sub-tab button numbering for accuracy
+      - Updated UI elements for data query visualization interface
+
+  - **Exercise 3 - Real-time Analytics**:
+      - Updated Eventhouse creation screenshots
+      - Refined KQL query to Power BI report conversion visuals
+      - Updated browser resolution-dependent UI elements display
+
+  - **Exercise 4 - Data Science**:
+      - Updated graph visualization and edit functionality screenshots
+      - Refreshed accuracy visualization bar chart interface
+
+  - **Exercise 6 - Dataflows Gen2**:
+      - Updated dataflow publishing workflow screenshots
+      - Refreshed lakehouse deletion interface visuals
+      - Updated "Save and Run" workflow screenshots
+      - Refined pipeline naming and creation UI elements 
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-03
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the latest UI.
+
+---
+</details>
+<details>
   <summary>2026-04-01</summary>
 
 ## Release Date: 2026-04-01

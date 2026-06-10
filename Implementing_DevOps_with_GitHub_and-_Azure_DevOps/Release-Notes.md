@@ -16,6 +16,94 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-07</summary>
+
+### Release Date: 2026-06-07
+
+## Summary of Changes
+
+Updated the lab guide by adding a business-driven lab scenario to provide learners with better context before starting the exercises. Improved overall formatting and readability across the lab, updated screenshots to align with the latest UI, and enhanced link formatting and step annotations for a better learner experience.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Getting Started Page**: Added a lab scenario to provide business context and objectives for the overall lab.
+- **All Labs**: Corrected indentation and formatting inconsistencies throughout the lab guide.
+- **All Labs**: Enhanced link formatting to make URLs easier to identify, copy, and use.
+- Improved overall readability and consistency of instructions across the lab.
+
+## Screenshot Updates
+
+- **Getting Started Page**: Updated the **Zoom In/Out** screenshot to reflect the latest UI.
+- **Lab 04**: Updated a screenshot with the correct step marking to improve learner guidance and navigation.
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-07
+
+## Testing Scope
+
+- Executed thorough end-to-end validation of the lab environment.
+- Verified newly added lab scenario content and formatting.
+- Validated updated screenshots against the current UI.
+- Confirmed links, formatting, indentation, and step annotations were accurate and user-friendly.
+- Ensured overall lab flow and learner experience remained consistent after updates.
+
+</details>
+
+<details>
+<summary>2026-06-01</summary>
+
+## Release Date: 2026-06-01
+
+### Summary of Changes
+
+Modified Azure DevOps and GitHub lab instructions in accordance with the latest interface changes. Added the Note in the labs as required.
+
+### Infrastructure Changes
+
+* No changes
+
+
+### Content Changes
+
+* Added instructions in **Lab 01 - Excercise 2 - Task 1** to do `az login` and updated the Screenshots as well.
+
+* In **Lab 01 - Excercise 2 - Task 1** at Step 6 changed the location from eastus to canadacentral.
+
+* **Lab 01 - All Exercises** Updated the GitHub Scheenshots and Azure Portal Screenshots which relflects new UI.
+
+* **Lab 02 - Set up an Azure DevOps organization** Update the Screenshot at Step 1 with clear instructions.
+
+* **Lab 03** Updated the instructions
+
+* Added additional notes in **Lab 04**,for the clarification of User.
+
+### Screenshot Updates
+
+* Replaced outdated image references with updated screenshots(includes new logo changes) for:
+
+  * GitHub Portal.
+  * Azure DevOps Portal.
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-01
+
+### Testing Scope
+
+* End-to-end validation of Azure DevOps and GitHub workflow instructions was completed successfully.
+
+* Verified updated screenshots, pipeline execution flow, branch policy configuration, self-hosted agent setup, and YAML pipeline onboarding against the latest Azure DevOps and GitHub UI experience.
+
+---
+
+</details>
+
+<details>
 <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27

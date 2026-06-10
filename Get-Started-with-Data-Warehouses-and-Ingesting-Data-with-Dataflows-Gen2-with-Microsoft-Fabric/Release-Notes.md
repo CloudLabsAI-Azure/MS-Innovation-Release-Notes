@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-05-28</summary>
+
+## Release Date: 2026-05-28
+
+### Summary of Changes
+
+Updated lab instructions to align with the latest Fabric Portal UI, and improved the instructions for clarity and understanding. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added lab scenarios for all the labs.
+- **Lab 01**:  Updated the instructions in accordance with the new UI changes.
+- **Lab 02**: Updated the instructions in accordance with the new UI changes.
+
+### Screenshot Updates
+
+- **Screenshot updates**: 
+ 
+  - Get Started page : Screenshots updated as per new UI, On the Power BI homepage, click on the Profile icon (1) on the top right, and then click on Start trial
+  - Exercise 1 Task 1 Step 9 : Screenshots updated as per new UI
+  - Exercise 1 Task 2 Step 1, 3 : Screenshots updated as per new UI
+  - Exercise 1 Task 2 Step 4 , 8, 10: Screenshots updated as per new UI .
+  - Exercise 2 Task 3 Step 2 : Screenshots updated as per new UI
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-05-28
+
+### Testing Scope 
+
+Conducted end-to-end testing, validated the lab guide steps, and enhanced the lab guide with the latest screenshots.
+
+---
+</details>
+
+
+<details>
   <summary>2026-05-01</summary>
 
 ## Release Date: 2026-05-01

@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-05-21</summary>
+  <summary>2026-05-29</summary>
 
-## Release Date: 2026-05-21
+## Release Date: 2026-05-29
 
 ### Summary of Changes
 
@@ -38,11 +38,11 @@ N/A
 
 ### Screenshot Updates
 
-- Updated `images/rlr1.png` to reflect the latest portal UI.
+- **Minor updates**: A few screenshots have been changed as per the latest experience, and according to screenshots, the steps are also refreshed with instructions.
 
 ### Testing Notes
 
-- **Testing Date**: 2026-05-21
+- **Testing Date**: 2026-05-29
 
 ### Testing Scope
 
