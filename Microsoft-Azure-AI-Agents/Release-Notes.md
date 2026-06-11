@@ -14,6 +14,50 @@ This **page contains** detailed notes about the latest updates and modifications
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-06-11</summary>
+
+### Release Date: 2026-06-11
+
+## Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Foundry UI experience and improve learner navigation and validation workflows. Refreshed screenshots, refined instructions, added missing navigation guidance for Azure AI Search, enhanced validation steps, and masked sensitive information to ensure a consistent and user-friendly learning experience.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Lab 01 - Task 1 and Task 2**: Updated instructions to reflect the latest Microsoft Foundry UI and deployment experience.
+
+- **Lab 03 - Task 1**: Added a step to navigate to the Azure portal and search for **Azure AI Search**. Refined instructions to improve clarity and overall task flow.
+
+- **Validation Notes**: Added an additional validation step to provide better guidance during the verification process and improve learner success rates.
+
+## Screenshot Updates
+
+- **Lab 01 - Task 1 and Task 2**: Updated screenshots to reflect the latest Microsoft Foundry UI and navigation experience.
+
+- **Lab 03 - Task 1**: Updated screenshots to align with the latest Azure portal and Azure AI Search experience.
+
+- **Across the Lab**: Masked sensitive information in screenshots where applicable to improve security and consistency.
+
+## Validation
+
+- All validations succeeded.
+
+## Testing Scope
+
+- Executed end-to-end validation of the lab environment.
+- Verified all updated instructions, screenshots, navigation paths, and validation steps.
+- Confirmed screenshots align with the latest Microsoft Foundry and Azure portal experience.
+- Verified sensitive information was appropriately masked.
+- Validated overall learner flow and task completion experience.
+
+</details>
+
 <details>
   <summary>2026-06-03</summary>
 
