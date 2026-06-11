@@ -17,6 +17,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-06-11</summary>
+
+## Release Date: 2026-06-11
+
+### Summary of Changes
+
+Improved task instructions, added notes, and updated few screenshots to align with the latest Microsoft Fabric UI for a smoother learner experience.
+
+### Infrastructure Changes
+
+- Updated the VM size from Standard_DS2_v2 to Standard_D2s_v3 due to performance issues reported during the event.
+
+### Content Changes
+
+- Exercise 1 Task 5: Added a Note for starting the Spark pool session step. In case the starting session is stuck for 8-10 minutes, we need to create a New workspace and perform the steps.
+- Minor instructions enhancement done throughout the lab, and a few UI updates in the fabric portal.
+
+### Screenshot Updates
+
+- Screenshots updated for:
+  - Exercise 1 Task 6 Step 1, Ex 2 Task 1 Step 3, Ex 6 Task 2 Step 4, and Ex 6 Task 2 Step 7.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-10
+
+### Testing Scope 
+
+Conducted end-to-end validation of the lab to ensure all instructions, notes, and screenshots align with the latest UI. 
+
+---
+</details>
+
+<details>
   <summary>2026-05-21</summary>
 
 ## Release Date: 2026-05-21
