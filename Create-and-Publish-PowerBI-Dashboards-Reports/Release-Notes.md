@@ -18,6 +18,40 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-06-11</summary>
+
+## Release Date: 2026-06-11
+
+### Summary of Changes
+
+Minor updates were implemented across the Getting Started page and Lab 01, including improved instruction clarity, consistent step numbering, and refreshed screenshots. Content and visuals were updated to align with the latest Power BI and Microsoft Fabric interfaces, enhancing the overall learning experience and ensuring greater accuracy for learners.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started - Steps 2, 3, and 7** - Updated sign-in instructions, improved step numbering, and refined instructional content for better clarity and consistency.
+- **Lab 01 - Task 1 - Step 12** - Updated instructions, numbering, and associated screenshot for improved clarity and consistency.
+
+### Screenshot Updates
+
+- Refreshed screenshots in Getting Started - Step 2, Lab 01 - Task 1 - Step 12, and Lab 01 - Task 3 - Steps 35 and 36 to align with the latest Power BI and Microsoft Fabric UI and updated instructions.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-11
+- Performed end-to-end validation of the lab and verified all updated instructions and screenshots.
+
+### Testing Scope
+
+- Validated complete lab flow.
+- Verified instruction numbering and content accuracy.
+- Confirmed screenshots match the current Power BI and Microsoft Fabric experience.
+
+</details>
+<details>
   <summary>2026-05-20</summary>
 
   ## Release Date: 2026-05-20
