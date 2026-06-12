@@ -26,7 +26,7 @@ This release focuses on improving the overall learning experience by introducing
 
 ### Infrastructure Changes
 
-NA
+N/A
 
 ### Content Changes
 
@@ -56,8 +56,6 @@ Validated all updated content end-to-end to ensure:
 - Markdown formatting is consistent across all files  
 - Screenshots correctly reflect the current UI  
 - No formatting, navigation, or content inconsistencies introduced  
-
----
 
 </details>
 <details>
