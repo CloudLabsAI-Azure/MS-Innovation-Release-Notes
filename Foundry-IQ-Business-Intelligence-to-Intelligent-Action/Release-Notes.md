@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-12</summary>
+
+## Release Date: 2026-06-12
+
+### Summary of Changes
+
+Enhanced the lab guide by improving the overall user experience, updating content for clarity and accuracy, restructuring sections for better flow, and refreshing screenshots to align with the latest product UI.
+
+### Infrastructure Changes
+
+- Automated the provisioning of essential Azure resources, including the Storage Account, Blob Containers with preloaded data, Azure AI Search Service, Log Analytics Workspace, and Managed Identity.
+
+### Content Changes
+
+* Reorganized the lab content to improve the overall flow, readability, and learning experience.
+* Added and updated content to align with the latest changes and enhancements in the lab guide.
+
+### Screenshot Updates
+
+- Refreshed the screenshots throughout the lab guide to align with the latest updates in the Microsoft Foundry portal UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-12
+
+### Testing Scope 
+
+- Performed end-to-end validation of the lab, updated and restructured the content for better clarity and flow, refreshed screenshots to reflect the latest experience, and added additional steps where required.
+
+---
+</details>
+
+
+<details>
   <summary>2026-06-09</summary>
 
 ## Release Date: 2026-06-09
