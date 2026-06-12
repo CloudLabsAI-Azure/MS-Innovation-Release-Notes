@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-12</summary>
+
+## Release Date: 2026-06-12
+
+### Summary of Changes
+
+This release focuses on improving the overall learning experience by introducing structured lab scenarios, refining content clarity, enhancing markdown formatting, and updating visual assets across the lab. These updates ensure better contextual understanding and smoother navigation for learners.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Added **Lab Scenario sections** at the beginning of **Exercise 1 through Exercise 6 and Exercise 8** for better contextual alignment with the overall lab narrative.
+- Updated **gettingstarted.md** and **github-access.md** with improved formatting and added scenario overview.
+- Standardized markdown formatting across all files:
+  - Updated note formatting to use `>` for consistency
+  - Added clarification notes for UI navigation
+  - Improved overall readability and structure
+- Performed minor text refinements:Fixed token reduction instructions, clarified kernel selection steps and removed redundant image references
+
+### Screenshot Update
+
+- Added new images (foundry-toggle, feedback, select-project, copilot-studio-toggle, feedback-studio)  
+- Updated existing images (adconjk, gitlogdon2)  
+- Aligned visuals with latest UI  
+
+### Testing Notes
+
+**Testing Date:** 2026-06-12
+
+### Testing Scope
+
+Validated all updated content end-to-end to ensure:
+- Scenario sections align with each exercise flow  
+- Instructions are clear, accurate, and properly sequenced  
+- Markdown formatting is consistent across all files  
+- Screenshots correctly reflect the current UI  
+- No formatting, navigation, or content inconsistencies introduced  
+
+---
+
+</details>
+<details>
   <summary>2026-05-29</summary>
 
 ## Release Date: 2026-05-29
