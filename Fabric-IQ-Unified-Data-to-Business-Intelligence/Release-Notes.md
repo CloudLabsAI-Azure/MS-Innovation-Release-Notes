@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-12</summary>
+
+## Release Date: 2026-06-12
+
+### Summary of Changes
+
+Updated the lab guide for refining step-by-step instructions, and refreshing screenshots to match the latest product experience.
+
+### Infrastructure Changes
+
+- Automated assignment of Power Automate Premium license.
+
+### Content Changes
+
+- Refined instructions across the lab guide for better clarity, consistency, and ease of execution.
+- Updated screenshots for better understanding.
+
+### Screenshot Updates
+
+- Refreshed screenshots to reflect the latest product UI and improve instructional clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-12
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-06-09</summary>
 
 ## Release Date: 2026-06-09
