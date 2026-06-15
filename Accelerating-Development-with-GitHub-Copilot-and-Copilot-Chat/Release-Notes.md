@@ -17,6 +17,42 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
+  <summary>2026-06-15</summary>
+
+## Release Date: 2026-06-15
+
+### Summary of Changes
+
+Updated the Lab guide according to the latest experience, few changes hve been made added the Lab scenario, architecture diagram, architecture explaination in getting started page and in guide for all the exercise scenario is added architecture diagram is added, Screenshots added as per the latest experience in Github UI.
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Overview Page**: Added the Lab Scenario, Architecture explaination, Architecture diagram.
+- **Getting Started page**: Added Getting started with lab Title. and New UI update of pop while logging into Github screenshot added. 
+
+- **Exercise 1, 2, 3, 4, 5, 6**: Added Lab sceanrio and Architecture diagram.
+- **Exercise 1**: few spacing and "" fixed.
+- **Exercise 5**: Inject keys syntax done properly
+### Screenshot Updates
+
+- EX 1:Step 19: Click on **Authorize Visual-Studio-Code** to provide additional permissions to GitHub for VS Code.
+- Ex 1:Step 20:  Check the box and click "**Open**" to allow this site to launch Visual Studio Code.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-15
+
+### Testing Scope
+
+  Performed testing end-to-end validation of the lab environment and lab guide updation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+---
+</details>
+
+
+<details>
   <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27
