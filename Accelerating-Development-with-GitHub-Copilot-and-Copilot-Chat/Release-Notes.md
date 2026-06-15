@@ -24,6 +24,7 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ### Summary of Changes
 
 Updated the Lab guide according to the latest experience, few changes hve been made added the Lab scenario, architecture diagram, architecture explaination in getting started page and in guide for all the exercise scenario is added architecture diagram is added, Screenshots added as per the latest experience in Github UI.
+
 ### Infrastructure Changes
 
 N/A
@@ -36,6 +37,7 @@ N/A
 - **Exercise 1, 2, 3, 4, 5, 6**: Added Lab sceanrio and Architecture diagram.
 - **Exercise 1**: few spacing and "" fixed.
 - **Exercise 5**: Inject keys syntax done properly
+
 ### Screenshot Updates
 
 - EX 1:Step 19: Click on **Authorize Visual-Studio-Code** to provide additional permissions to GitHub for VS Code.
