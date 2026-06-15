@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-15</summary>
+
+## Release Date: 2026-06-15
+
+### Summary of Changes
+
+- Enhanced Visual Clarity: Updated several screenshots across Exercise 1 and 2 with numbered guides, correct step-specific images, and the latest UI elements.
+
+- Added Key Documentation: Included a cost-optimization note regarding Spark sessions, alongside new guidance for setting local time zones and expanding the canvas pane.
+
+- Improved Step Navigation: Added explicit screenshots for critical actions like selecting Spark pools, closing scripts, and publishing final changes.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+- Cost Optimization Note: Added a concept guide on notebook cells and Spark sessions in Exercise 1, Task 1 to help users reduce cloud costs.
+
+- Canvas Pane Guidance: Added a note in Exercise 2, Task 2 instructing users to expand their screen panes to make the graphical canvas fully visible.
+
+### Screenshot Updates
+- New Step Guidance: Added screenshots for selecting the Spark pool/language (Ex 1), closing the script (Ex 1), setting the local time zone (Ex 2), and publishing changes (Ex 2).
+
+- UI Corrections & Enhancements: Fixed a duplicate image in Exercise 2 (Step 17), updated Step 34 to match recent interface changes, and replaced the Step 2 image with a numbered layout for better navigation.
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-12
+
+### Testing Scope 
+- Verify that all new screenshots correctly align with the updated UI, step numbers, and time zone configurations across Exercises 1 and 2.
+
+- Ensure the new notes regarding canvas pane expansion and Spark session cost optimization are accurate, readable, and properly formatted.
+
+</details>
+
+<details>
   <summary>2026-05-22</summary>
 
 ## Release Date: 2026-05-22
