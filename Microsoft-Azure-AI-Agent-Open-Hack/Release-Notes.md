@@ -1,6 +1,6 @@
-# Open Hack Agents FY26
+# Microsoft Azure AI Agent Open Hack
 
-Welcome to the **Open Hack Agents FY26** Release Notes repository. In this repository, we document the changes made during the latest testing cycle, including updates related to lab content, screenshots, environment validation, workflow improvements, and other relevant enhancements.
+Welcome to the **Microsoft Azure AI Agent Open Hack** Release Notes repository. In this repository, we document the changes made during the latest testing cycle, including updates related to lab content, screenshots, environment validation, workflow improvements, and other relevant enhancements.
 
 ## Overview
 
@@ -13,7 +13,7 @@ This repository contains detailed notes about the latest updates and modificatio
 - Workflow and learner experience enhancements
 - Validation results and known issue tracking
 
-The purpose of these release notes is to maintain transparency regarding lab updates and ensure that all stakeholders are aware of the latest improvements and validations performed on the Open Hack Agents FY26 lab.
+The purpose of these release notes is to maintain transparency regarding lab updates and ensure that all stakeholders are aware of the latest improvements and validations performed on the Microsoft Azure AI Agent Open Hack lab.
 
 For any further details or inquiries, feel free to reach out to the CloudLabs support team.
 
@@ -28,7 +28,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-Updated outdated screenshots across the lab to align with the current Open Hack Agents FY26 environment and user interface, ensuring learners have accurate visual guidance throughout the exercises.
+Updated outdated screenshots across the lab to align with the current Microsoft Azure AI Agent Open Hack environment and user interface, ensuring learners have accurate visual guidance throughout the exercises.
 
 ### Infrastructure Changes
 
