@@ -15,6 +15,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+<summary>2026-06-16</summary>
+ 
+## Release Date: 2026-06-16
+ 
+### Summary of Changes
+ 
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners.
+ 
+### Infrastructure Changes
+ 
+N/A
+ 
+### Content Changes
+- Updated outdated GitHub Copilot UI screenshots.
+- Corrected step numbering and step references in multiple sections.
+- Added instructional notes to provide better guidance and improve learner experience.
+- Blurred unique IDs, environment-specific values, and sensitive information where applicable.
+
+### Screenshot Updates
+ 
+- Refreshed multiple screenshots to reflect the latest GitHub Copilot UI and workflow.
+- Updated screenshots containing outdated interfaces and environment-specific information.
+- Ensured screenshots are aligned with the latest instructions and learner experience.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-06-16
+  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
+ 
+### Testing Scope
+ 
+- Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI.
+ 
+</details>
+
 <details>
 <summary>2026-06-01</summary>
  
