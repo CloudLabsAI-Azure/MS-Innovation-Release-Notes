@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-16</summary>
+
+## Release Date: 2026-06-16
+
+### Summary of Changes 
+Updated the lab to align with DeepSeek-V3.2, enhanced Microsoft foundry portal UI consistency, improved learner guidance, and implemented policy controls to restrict deployment only to supported models defined in the lab.
+
+### Infrastructure Changes
+- Implemented policy restrictions to prevent users from deploying models other than those specified in the lab guide (DeepSeek-V3.2).
+
+### Content Changes
+
+- **Getting Started:** Updated architecture for DeepSeek-V3.2, replaced DeepSeek-R1, removed Docker references, and fixed step numbering
+- **Exercise 1:** Added Foundry navigation note (Step 13), updated Steps 23–25 to DeepSeek-V3.2, improved clarity, and enhanced Step 36 guidance
+- **Task 2:** Added note for missing "Skip" option and improved instruction clarity
+- **Exercise 2:** Added guidance notes in Task 1 (Step 5) and Task 2 (Step 8)
+- **Exercise 3:** Updated scenario and Task 5 to DeepSeek-V3.2 and improved formatting consistency
+- **Exercise 6:** Updated conclusion and added guidance note for better user experience
+
+### Screenshot Update
+- Updated Microsoft foundry portal images across all exercises to reflect latest UI
+
+### Testing Notes
+- **Testing Date**: 2026-06-16
+
+### Testing Scope 
+- Successfully tested and validated all exercises end-to-end
+- Verified model deployment flow using DeepSeek-V3.2
+- Confirmed policy enforcement restricting unsupported model deployments
+- Ensured screenshots and instructions align with current Azure portal experience
+
+---
+
+</details>
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date: 2026-05-28
