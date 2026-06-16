@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-11</summary>
+
+## Release Date: 2026-06-11
+
+### Summary of Changes 
+
+-  Updated the lab guide for improved clarity and accuracy, enhancing the overall user experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Refined a few instructions to improve clarity and enhance the overall user experience.
+- Added new Instructions step for creation of ai models task using second approach (model catalog).
+- 
+### Screenshot Update
+
+- Azure OpenAI: Added navigation screenshots for creating models directly from the project.
+
+- Model Deployments: Documented the "second approach" from the Model Catalog for both Text and Chat model deployments.
+
+- UI Updates: Refreshed the "Getting Started" page with the latest user interface screenshots and details.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-06-10
+
+### Testing Scope 
+
+- Conducted end-to-end testing of the lab environment. The lab guide was updated with few screenshots and minor improvements to ensure better clarity and user experience
+
+</details>
+
+<details>
   <summary>2026-04-30</summary>
 
 ## Release Date: 2026-04-30

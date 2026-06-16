@@ -15,6 +15,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-05-28</summary>
+
+## Release Date: 2026-05-28
+
+### Summary of Changes
+
+Focuses on improving lab guide clarity, restructuring key sections, and aligning instructions with the latest UI updates. Major enhancements were made to dashboard creation workflows, along with comprehensive updates to image references and step-level guidance to deliver a more intuitive and consistent learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Enhanced Lab 1 with a detailed introduction including overview, objectives, and prerequisites for better learner onboarding  
+- Updated Lab 3 image references to reflect current pipeline UI  
+- Completely restructured Lab 5 dashboard workflow for improved readability and logical step progression  
+- Updated terminology across instructions (e.g., “New tile” → “Add visual”) with compatibility notes  
+- Improved section organization for handling multiple visualizations and configuration clarity  
+
+### Screenshot Updates
+
+- Lab 1: Replaced and standardized environment and activity images (`env.png`, `act.png`, `step-1.png`)  
+- Lab 3: Updated pipeline visuals (`pipeline.png`, `pipeline1.png`)  
+- Lab 5: Major refresh with multiple new and renamed screenshots to support the redesigned workflow (dashboard, visual creation, and data configuration steps)  
+- Added several new supporting screenshots to improve step-by-step clarity and UI mapping  
+
+### Testing Notes
+
+- Testing Date: 2026-05-28  
+
+  All updated labs were validated to ensure accuracy of instructions, correctness of image mappings, and alignment with current UI behavior.
+
+### Testing Scope
+
+- Executed full end-to-end lab validation 
+- Verified updated workflows, especially dashboard creation and visualization steps  
+- Ensured all screenshots are correctly referenced and aligned with instructions  
+- Confirmed improved navigation, clarity, and usability across modified sections  
+
+-------------
+
+</details>
 
 <details>
 <summary>2026-04-15</summary>

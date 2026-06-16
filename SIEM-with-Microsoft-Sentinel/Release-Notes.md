@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
  `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+
+<details>
+  <summary>2026-06-05</summary>
+
+## Release Date: 2026-06-05
+
+### Summary of Changes
+
+The lab guide is being fully updated to use Microsoft Sentinel through the Microsoft Defender portal instead of the Azure portal. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Revised the lab guide to reflect the transition of Microsoft Sentinel management and operations from the Azure portal to the Microsoft Defender portal.
+  
+### Screenshot Updates
+
+All screenshots are being updated to reflect the Microsoft Sentinel experience in the Microsoft Defender portal, replacing the Azure portal-based Microsoft Sentinel interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-05
+
+### Testing Scope 
+
+- Testing is currently underway to transition Microsoft Sentinel from the Azure portal to the Microsoft Defender portal, in alignment with Microsoft's recommended guidance and documentation.
+
+---
+</details>
+
 <details>
   <summary>2026-03-01</summary>
 

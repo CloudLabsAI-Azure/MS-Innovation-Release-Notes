@@ -16,7 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-05-28</summary>
 
+## Release Date: 2026-05-28
+
+### Summary of Changes
+
+The lab documentation and screenshots have been updated to reflect changes in the Microsoft Fabric Real-Time Intelligence Dashboard UI. Button labels and field descriptions have been updated to match the current interface.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Exercise 4 Task 1:
+  - Updated button label from "New tile" to "Add visual" across 6 instances where new visuals are added to the dashboard (steps 6, 13, 15, 18, 20, and 28).
+  - Updated button label from "New text tile" to "Add Markdown" in step 36 when adding the logo markdown tile.
+
+- Exercise 4 Task 3:
+  - Updated button label from "Set alert" to "Add alert" in step 1 when configuring data activator alerts.
+  - Updated condition field description from "On each event grouped by" to "On each event when" in the Condition table.
+  - Updated Occurrence field value from "None" to "Every time the condition is met" in the Condition table.
+
+### Screenshot Updates
+
+- Performed the lab and updated 13 screenshots as per the new UI changes
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-28
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab to validate functionality. Updated the content, improved the lab flow for better clarity, and refreshed the screenshots based on the latest UI changes.  
+
+---
+</details>
 <details>
   <summary>2026-03-12</summary>
 

@@ -1,6 +1,6 @@
-# Hands-on with Azure AI Foundry and Agent frameworks
+# Hands-on with Microsoft Foundry and Agent frameworks
 
-Welcome to the **Hands-on with Azure AI Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Hands-on with Microsoft Foundry and Agent frameworks** workshop release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -50,6 +50,39 @@ Updated the lab to align with DeepSeek-V3.2, enhanced Microsoft foundry portal U
 ---
 
 </details>
+<details>
+  <summary>2026-06-03</summary>
+
+## Release Date: 2026-06-03
+
+### Summary of Changes 
+
+Tested lab environment and made minor instructional updates to improve step clarity and environment alignment.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated screenshots are added and Lab scenario is added in the Guide.
+
+### Screenshot Update
+
+- Exercise 1 (Task 1, Step 1): Replaced the screenshot with updated version.
+- Exercise 6 (Task 2, Step 10): Replaced the screenshot with updated version.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-06-03
+
+### Testing Scope 
+
+- Successfully tested, and validated all exercises (Exercises 1–6) end-to-end within the Microsoft Foundry and Agent Framework.
+
+---
+</details>
+
 <details>
   <summary>2026-05-28</summary>
 

@@ -16,6 +16,68 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-06-11</summary>
+
+## Release Date: 2026-06-11
+
+### Summary of Changes
+
+Updated screenshots, refined instructions, and improved visual guidance across multiple labs to align with the latest Microsoft Fabric and Copilot UI experience. Additional screenshots, highlighted actions, sign-in guidance, and workspace-related updates were added to improve learner navigation and overall usability. Sensitive information such as email addresses and unique identifiers were masked throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Across All Labs**
+  - Refined and improved instructional text.
+  - Highlighted important actions and information where applicable.
+  - Masked email addresses and unique identifiers in screenshots.
+
+### Screenshot Updates
+
+- **Lab 01**
+  - Updated Task 2 by masking email addresses and adding screenshots for opening the Power BI file and signing in using user credentials for improved learner guidance.
+  - Updated Task 3 with the latest Copilot prompt screenshot and refined instructions.
+
+- **Lab 02**
+  - Updated Task 7 with the latest relationship configuration UI screenshot.
+
+- **Lab 03**
+  - Updated Task 1 screenshot and highlighted key text to improve visibility and learner focus.
+
+- **Lab 04**
+  - Updated the Fabric portal link in the setup environment task to a copy/paste-friendly format.
+  - Updated workspace screenshots to align with the latest UI.
+  - Added sign-in screenshots and credential injection key references.
+  - Updated Task 1 with the latest Copilot prompt UI screenshot.
+  - Added the required injection key in Task 8 to retrieve the workspace name.
+
+- **Lab 05**
+  - Updated Task 1 screenshot for adding a data source using the latest UI.
+  - Added screenshots in Task 5 for creating a Lakehouse and creating a shortcut within the Lakehouse for improved clarity.
+  - Updated Task 6 screenshot to reflect the latest experience for adding a Lakehouse to an agent.
+  - Updated Task 7 screenshot for sharing the agent with other users.
+  - Refined instructions throughout the lab for improved clarity and usability.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-11
+  
+  End-to-end validation was performed to verify updated screenshots, instructions, navigation flow, and Copilot-related guidance.
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing.
+Verified all updated screenshots against the current UI.
+- Validated new sign-in, workspace, and Lakehouse configuration guidance.
+- Updated Copilot workflows and agent-sharing steps.
+- Validated masking of sensitive information and consistency throughout the guide.
+
+</details>
+
+<details>
   <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27
