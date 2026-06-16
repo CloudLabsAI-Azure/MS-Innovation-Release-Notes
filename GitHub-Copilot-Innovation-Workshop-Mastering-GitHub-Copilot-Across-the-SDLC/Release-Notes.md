@@ -16,6 +16,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-15</summary>
+
+## Release Date: 2026-06-15
+
+### Summary of Changes
+
+Performed full lab verification following the VS Code UI updates, validating the revised instructions, workflow continuity, and overall user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Updated the **Getting Started** page, including the **Creating Your Repository** section.
+* **Getting Started > Setting Up IDE > Step 13** – Updated the instructions to align with the latest UI changes.
+* **Lab 2, Exercise 2, Step 4** – Updated the steps to reflect the latest UI changes.
+* **Lab 3, Exercise 3, Step 1** – Updated the step based on recent UI updates.
+* **Lab 4, Exercise 4, Step 2** – Updated the step to align with the latest UI changes.
+* **Lab 5, Exercise 5 (Instructions)** – Updated the content to reflect the current UI experience.
+* **Lab 5, Exercise 5, Step 7** – Updated the step based on UI changes.
+* **Lab 6, Exercise 6, Step 2 (Instructions)** – Updated the content to align with the latest UI changes.
+* **Lab 7, Exercise 7, Step 1 (Instructions)** – Updated the content based on recent UI updates.
+* **Lab 7, Exercise 7 > Custom Agents > Step 7** – Added a note to provide additional guidance for users.
+
+### Screenshot Updates
+
+* Updated the **Getting Started > Creating Your Repository** screenshot in **Step 4** to reflect the latest UI.
+* **Getting Started > Setting Up IDE > Steps 6 and 13** – Updated screenshots to align with the latest UI changes.
+* **Lab 2, Exercise 2, Step 4** – Updated the screenshot based on the latest UI updates.
+* **Lab 3, Exercise 3, Step 1** – Updated the screenshot to reflect recent UI changes.
+* **Lab 4, Exercise 4, Step 2** – Updated the screenshot to align with the latest UI experience.
+* **Lab 5, Exercise 5, Step 1 and Instructions** – Updated screenshots to reflect the current UI.
+* **Lab 6, Exercise 6, Steps 2 and 7** – Updated screenshots based on recent UI changes.
+* **Lab 7, Exercise 7, Steps 1 and 3, and Instructions** – Updated screenshots to align with the latest UI updates.
+* **Lab 7, Exercise 7 > Custom Agents > Step 7** – Updated the screenshot to reflect the latest UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-15
+
+### Testing Scope 
+
+* Validated the complete lab workflow after recent updates, confirming the accuracy of instructions and expected outcomes.
+* Refreshed documentation and screenshots to align with the latest UI changes and improve overall content quality.
+
+</details>
+
+<details>
   <summary>2026-06-03</summary>
 
 ## Release Date: 2026-06-03
