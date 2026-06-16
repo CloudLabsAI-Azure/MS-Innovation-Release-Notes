@@ -14,6 +14,41 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+
+<details>
+  <summary>2026-06-16</summary>
+
+## Release Date: 2026-06-16
+ 
+### Summary of Changes
+
+- Upgraded the New Foundry and Getting Started UIs, corrected homepage image alignments, highlighted key names, and added a 'Task' heading to lab03."
+- 
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refreshed the UI across the New Foundry and Getting Started pages, fixed image alignments, and added a 'Task' heading to lab03."
+
+### Screenshot Updates
+
+- Getting Started Page: Updated with the latest UI for the Environment tab.
+
+- Lab01: Added troubleshooting screenshots to guide users from the old UI to the new Foundry interface, along with detailed steps for correct project selection.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-16
+
+### Testing Scope 
+
+- "Verify the updated Environment tab UI, lab01 navigation screenshots, and project selection steps across both the old and new Foundry interfaces."
+
+---
+</details>
+
 <details>
   <summary>2026-05-11</summary>
 
