@@ -17,6 +17,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-06-17</summary>
+
+## Release Date: 2026-06-17
+
+### Summary of Changes
+
+Refined the lab guide by improving content clarity, correcting formatting and rendering issues, updating terminology, and enhancing the overall user experience.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated the Lab Guide zoom configuration on the Getting Started page by removing unnecessary elements for a cleaner experience.
+- Exercise 1, Task 7, Step 2 - Corrected a typo and updated the associated content to improve clarity.
+- Exercise 1, Task 8, Step 4 - Fixed spacing inconsistencies in the lab guide content.
+- Exercise 3, Task 1, Step 8 - Corrected a rendering issue to ensure proper content display.
+- Exercise 5 - Updated the section heading from "Objective" to "Objectives" for grammatical accuracy.
+- Exercise 6, Task 2, Step 3 - Revised instructional text to align with the latest UI terminology and user experience.
+
+### Screenshot Updates
+
+- Screenshots updated for:
+  
+  - In Exercise 6, Task 1, step 5 - Added a border to the screenshot to improve visibility and distinguish it more clearly from the surrounding content.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-17
+
+### Testing Scope 
+
+Performed comprehensive lab testing to verify that all tasks, workflows, instructions, and screenshots function as expected with the latest product experience.
+
+---
+</details>
+
+<details>
   <summary>2026-06-11</summary>
 
 ## Release Date: 2026-06-11
