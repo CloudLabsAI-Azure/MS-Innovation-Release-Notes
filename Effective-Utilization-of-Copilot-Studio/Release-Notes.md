@@ -18,6 +18,42 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-06-17</summary>
+
+## Release Date: 2026-06-17
+
+### Summary of Changes
+
+Updated screenshots and related instructions to align with the latest Copilot Studio experience. Corrected agent names, variable references, and condition configurations to improve accuracy and ensure consistency throughout the guide.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated screenshots and instructions to reflect the latest UI changes.
+- Corrected agent names and variable references where required.
+- Updated condition configurations to match the current experience.
+- Improved instructional accuracy and overall learner experience.
+
+### Screenshot Updates
+
+- Refreshed screenshots to align with the latest Copilot Studio UI.
+- Replaced outdated screenshots containing incorrect agent names, variable references, and condition options.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-17
+
+### Testing Scope
+
+Performed end-to-end validation of the affected sections and verified that all updated screenshots and instructions align with the current UI experience.
+
+---
+</details>
+
+<details>
   <summary>2026-06-04</summary>
 
 ## Release Date: 2026-06-04
