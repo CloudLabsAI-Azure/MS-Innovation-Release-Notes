@@ -16,6 +16,61 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-18</summary>
+
+## Release Date: 2026-06-18
+
+### Summary of Changes
+
+Updated the **Implementing Dynamics 365 Contact Center** lab guide to align with the latest Dynamics 365 Contact Center experience. The update includes revised instructions, improved task flow, refreshed screenshots, and enhanced guidance to help learners successfully complete the lab using the current interface.
+
+### Content Changes
+
+* Updated instructions across multiple exercises to reflect the latest Dynamics 365 Contact Center workflow.
+* Improved task descriptions and navigation guidance for better learner clarity.
+* Refined lab flow to align with the current product experience.
+* Updated overview content to ensure consistency with the revised exercises.
+* Enhanced instructional wording and formatting throughout the lab guide.
+
+### Screenshot Updates
+
+* **Overview**
+
+  * Updated screenshots and supporting guidance to reflect the latest user experience.
+
+* **Exercise 1**
+
+  * Updated instructions and screenshots to align with the current Dynamics 365 Contact Center interface.
+
+* **Exercise 2**
+
+  * Refreshed task guidance and supporting visuals to match the latest workflow.
+
+* **Exercise 4**
+
+  * Updated learner instructions and screenshots for improved accuracy and navigation. Updated screenshot (`img-01-128.png`) with the latest product interface.
+
+* **Exercise 5**
+
+  * Revised task steps and visual references to reflect the current UI experience.
+
+### Testing Notes
+
+* **Testing Date:** 2026-06-18
+
+### Testing Scope
+
+* Validated the updated instructions across all modified exercises.
+* Verified updated screenshots render correctly and match the current UI.
+* Confirmed navigation paths and task flow align with the latest Dynamics 365 Contact Center experience.
+* Reviewed markdown formatting, image rendering, and content consistency.
+* Performed end-to-end validation of the updated lab guide.
+
+---
+
+</details>
+
+<details>
   <summary>2026-05-13</summary>
 
 ### Release Date: 2026-05-13
