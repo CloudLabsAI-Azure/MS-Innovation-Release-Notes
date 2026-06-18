@@ -18,6 +18,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-06-18</summary>
+
+## Release Date: 2026-06-18
+
+### Summary of Changes
+
+In this release, updates includes the refreshed screenshots and instructional content across multiple labs to align with the latest Microsoft Copilot, Copilot Studio, Teams, and Word user interfaces. Also, include refreshed branding elements, terminology changes, improved screenshot clarity, updated Copilot response examples, and minor instructional enhancements to ensure consistency with the current product experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 03 - Task 01** - Validated the candidate ranking prompt and confirmed expected functionality. Added a note explaining potential variability in ranking responses due to Copilot limitations when evaluating uploaded CVs. Added an alternative prompt to improve learner experience when ranking responses vary.
+
+- **Lab 04 - Task 02** - Added a missing step instructing learners to save the topic before creating a new agent flow. Refreshed related screenshots to reflect the updated workflow and latest UI.
+
+### Screenshot Updates
+
+- Refreshed screenshots across **Getting Started, Lab 01, Lab 02, Lab 03, and Lab 04**.
+- Updated screenshots to reflect current Microsoft Copilot, Copilot Studio, Teams, and Word experiences.
+- Replaced outdated branding, logos, terminology, and interface elements.
+- Improved screenshot clarity and alignment with CloudLabs standards.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-17
+
+### Testing Scope 
+
+- Validated the Getting Started section and Labs 01–04, including all updated screenshots, instructional changes, and Copilot response examples. Verified navigation, task execution, content accuracy, and overall learner experience across the affected lab modules.
+
+---
+</details>
+
+<details>
   <summary>2026-06-09</summary>
 
 ## Release Date: 2026-06-09
