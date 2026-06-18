@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-17</summary>
+
+### Release Date: 2026-06-17
+
+## Summary of Changes
+
+Enhanced the lab guide by improving scenario consistency, refining instructions, correcting step numbering, and aligning notes with images. Updated screenshots to reflect the latest UI and improved overall clarity and structure for a better learner experience.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- **Getting Started Page**: Updated scenario for consistency, improved note alignment, refined instructions, corrected numbering, and updated images.
+- **Exercise 01**: Improved note alignment and numbering, updated GitHub UI screenshot, and enhanced clarity of instructions.
+- **Exercise 02**: Refined lab requirements, improved note placement and clarity, added guidance notes, corrected numbering, enhanced headings, and improved instruction clarity across tasks.
+- **Exercise 03**: Corrected numbering and added clarity notes for improved understanding.
+- **Exercise 04**: Improved note alignment and corrected numbering across tasks.
+- **Exercise 05**: Simplified steps, refined instructions, ensured proper numbering alignment, and updated screenshots.
+- Improved overall readability, consistency, and learner guidance across all exercises.
+
+## Screenshot Updates
+
+- Updated multiple screenshots across Getting Started and all exercises to align with the latest Azure DeVops and GitHub UI.
+- Improved step-number alignment within images for better navigation and understanding.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-17
+
+## Testing Scope
+
+- Executed end-to-end validation of the lab.
+- Verified consistency of updated scenarios and instructions.
+- Validated corrected step numbering and note placements.
+- Ensured all updated screenshots match the latest UI.
+- Confirmed improved clarity, formatting, and overall learner experience.
+
+</details>
+
+<details>
   <summary>2026-06-07</summary>
 
 ### Release Date: 2026-06-07
