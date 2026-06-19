@@ -18,6 +18,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-06-19</summary>
+
+## Release Date : 2026-06-19
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Fabric, Copilot Studio, GitHub Codespaces, and Azure deployment experiences. Refreshed navigation, authentication flows, screenshots, and instructional content to improve accuracy and reduce learner confusion. Additionally, introduced a custom Azure Policy for the lab environment to better control resource usage. 
+
+### Infrastructure Changes
+
+- Added a custom Azure Policy for the lab environment to restrict resource creation based on the requirements of the hands-on exercises.
+
+### Content Changes
+
+- **Lab 01:**
+
+  - Updated steps for GitHub Repo creation as a step to select the template is added during the creation process. 
+  - Added a Power BI to Microsoft Fabric navigation step before workspace creation to reflect the current portal experience.
+  - Updated GitHub Codespaces and `azd up` deployment guidance for subscription selection behavior and deployment flow.
+  - Added a final application view screenshot after successful authentication so learners can verify expected results.
+
+- **Lab 02:**
+
+  - Updated the Fabric Agent integration flow with revised Copilot Studio navigation to match the latest UI.
+  - Added a new end-of-lab conclusion summarizing the complete Microsoft Fabric Data Agent and Copilot Studio integration experience.
+  - Refreshed multiple headings, notes, instructions, and explanatory text for improved clarity and consistency with the latest Microsoft experiences.
+
+### Screenshot Updates
+
+- Updated screenshots throughout the lab to reflect the latest Microsoft Fabric, Copilot Studio, GitHub Codespaces, and Azure portal interfaces. 
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-19
+
+### Testing Scope
+
+- End-to-end validation of the lab deployment and exercises was performed. The Copilot Studio portal and GitHub UI changes were reviewed to confirm that the lab instructions align with the latest interface.
+---
+</details>
+
+<details>
   <summary>2026-06-01</summary>
 
 ## Release Date : 2026-06-01
