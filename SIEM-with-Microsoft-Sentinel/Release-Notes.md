@@ -18,6 +18,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-06-19</summary>
+
+## Release Date: 2026-06-19
+
+### Summary of Changes
+
+Updated the lab guide to improve usability and learner experience. Added a lab scenario, refined instructions, corrected KQL queries, improved navigation guidance, and updated screenshots with highlighted actions while masking sensitive information.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a **Lab Scenario** to the Getting Started page.
+- **Exercise 1**
+  - **Task 2 - Step 5:** Added Visual Studio Code template copy steps for better guidance.
+  - **Task 2 - Step 8:** Added additional Microsoft Sentinel navigation steps.
+  - **Task 3.1 - Steps 1 and 2:** Refined instructions for improved clarity.
+- **Exercise 2**
+  - **Task 3 and Task 3.1:** Corrected numbering format.
+  - **Task 4 - Step 2:** Removed an unnecessary note.
+  - **Task 6 - Step 2:** Removed a duplicate note.
+  - **Task 7 - Step 4:** Corrected the EventID used in the KQL query.
+
+### Screenshot Updates
+
+- **Exercise 2 - Task 4 through Task 8**
+  - Updated screenshots by highlighting the required actions.
+  - Masked sensitive information to improve security and consistency.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-19
+
+### Testing Scope
+
+- Validated the updated task flow and instruction sequence.
+- Verified navigation changes and refined instructions.
+- Confirmed corrected KQL queries and numbering updates.
+- Reviewed updated screenshots for accuracy and consistency.
+
+---
+</details>
+
+<details>
   <summary>2026-06-05</summary>
 
 ## Release Date: 2026-06-05
