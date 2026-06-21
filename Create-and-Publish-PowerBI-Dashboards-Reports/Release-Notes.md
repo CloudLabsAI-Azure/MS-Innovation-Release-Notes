@@ -18,6 +18,48 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-06-21</summary>
+
+## Release Date: 2026-06-21
+
+### Summary of Changes
+
+Updated the Getting Started page and Lab 01 to align with the latest authentication instructions and Power BI UI. Sensitive information displayed in screenshots was blurred, and screenshots were refreshed to reflect the latest Managed Alert experience and current Power BI interface.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started - Get Started with Power BI Desktop - Step 5** - Updated instruction from **Temporary Access Password** to **Temporary Access Pass**.
+- **Getting Started - Let's Get Started with Power BI Portal - Step 3** - Updated instruction from **Temporary Access Password** to **Temporary Access Pass**.
+- Updated blurred screenshots and also ensured sensitive information is not exposed.
+- **Lab 01 - Task 2 - Step 23** - Blurred the Owner ID displayed on the Power BI dashboard.
+- **Lab 01 - Task 3 - Step 41** - Blurred the Owner ID displayed on the Power BI dashboard.
+
+### Screenshot Updates
+
+- Updated screenshots containing sensitive information to blur Owner IDs.
+- **Lab 01 - Task 3 - Step 29** - Updated the Managed Alert popup screenshot to reflect the latest Power BI UI.
+- Updated the blurred screenshots with better resolution screenshots
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-21
+- Performed end-to-end validation of the lab and verified all updated instructions and screenshots.
+
+### Testing Scope
+
+- Validated the complete lab flow.
+- Verified Temporary Access Pass terminology updates.
+- Confirmed Owner IDs were properly blurred in screenshots.
+- Validated the updated Managed Alert popup UI.
+- Confirmed screenshots match the current Power BI experience.
+
+</details>
+
+<details>
   <summary>2026-06-11</summary>
 
 ## Release Date: 2026-06-11
