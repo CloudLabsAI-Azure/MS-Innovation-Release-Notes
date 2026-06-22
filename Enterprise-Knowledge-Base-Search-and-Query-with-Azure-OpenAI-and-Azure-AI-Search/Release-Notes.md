@@ -14,6 +14,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-06-16</summary>
+
+## Release Date: 2026-06-16
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Azure portal experience by refreshing screenshots, improving instructional clarity, and adding new visual references to enhance the learner experience.
+
+### Content Changes
+
+- Updated instructions in **Exercise 1** and **Exercise 2** for improved clarity and consistency.
+- Refined lab guidance to better align with the current Azure portal workflow.
+- Added additional visual references to assist learners during resource navigation and configuration.
+
+### Screenshot Updates
+
+- **Labintro**:
+  - Updated the screenshot (`g12-1.png`) with the Lab Guide experience and improved visual guidance.
+
+- **Exercise 1 - Task 1.2**:
+  - Updated the screenshot (`l12-12-05.png`) (`foundry-toggle.png`) (`feedbackpopup.png`) to align with the latest workflow.
+
+- **Exercise 1 - Task 2.1**:
+  - Updated the screenshot (`E1T2S1-2804.png`)  to reflect the latest Azure portal UI.
+
+- **Exercise 1**:
+  - Added a new screenshot (`page_02.png`) to improve navigation and visual clarity for learners
+
+- **Exercise 2 - Task 1**:
+  - Added a new screenshot (`database.png`) to provide additional guidance during database configuration.
+  
+- Improved screenshot placement and visual guidance throughout the lab.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-16
+
+### Testing Scope
+
+- Validated the updated instructions in Exercise 1 and Exercise 2.
+- Verified all newly added and updated screenshots.
+- Confirmed the lab flow aligns with the current Azure portal experience.
+- Reviewed markdown formatting and image rendering.
+
+---
+
+</details>
+
 <details>
   <summary>2026-05-29</summary>
 

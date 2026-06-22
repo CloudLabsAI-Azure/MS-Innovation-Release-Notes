@@ -50,6 +50,38 @@ Updated the lab guide to improve overall learner experience by aligning instruct
 
 ---
 </details>
+  <summary>2026-06-17</summary>
+
+## Release Date: 2026-06-17
+
+### Summary of Changes
+
+Updated the lab guide to improve lab experience by updating the lab scenarios, refining step-by-step instructions, and refreshing screenshots to match the latest product experience.
+
+### Infrastructure Changes
+
+- Automated assignment of Storage Account Contributor role to the Microsoft Foundry Project managed identity on the Azure Storage Account.
+- Automated assignment of Foundry User role to the designated Microsoft Entra ID user at the Microsoft Foundry scope.
+
+### Content Changes
+
+- Refined instructions and summary across the lab guide for better clarity, consistency, and ease of execution.
+
+### Screenshot Updates
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-17
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab content for better clarity.
+
+---
+</details>
+
 <details>
   <summary>2026-06-13</summary>
 

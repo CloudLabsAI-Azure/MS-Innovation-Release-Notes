@@ -17,6 +17,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+  <summary>2026-06-16</summary>
+
+## Release Date: 2026-06-16
+
+### Summary of Changes
+
+The screenshots and instructions have been refreshed to reflect the current UI, improve usability, and provide learners with additional context through real-world scenarios and enhanced guidance.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Added an overall lab scenario and exercise-level scenarios to provide learners with a real-world context.
+- Exercises 1, 2, and 3:
+  - Updated screenshots and step-by-step instructions to reflect the latest Microsoft Fabric Portal UI for creating new items and navigating the workspace.
+  - Improved instructional text and descriptions for better clarity.
+- Exercise 3: Added explanatory step before the KQL database script execution step to describe the purpose of creating Silver tables, transformation functions, and update policies.
+- Exercise 4:
+  - Updated Task 1 to align with the latest Real-Time Dashboard experience.
+- Reorganized dashboard creation into multiple logical subtasks, making it easier for learners to build and understand each visualization.
+- Updated instructions for creating visuals based on the revised Add visual workflow in the Fabric UI.
+- Updated Task 2 instructions and screenshots for enabling dashboard auto-refresh as per the new Fabric UI. 
+
+### Screenshot Updates
+
+- Refreshed screenshots across Exercises 1, 2, 3, and 4 to match the latest Microsoft Fabric Portal experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-16
+
+### Testing Scope 
+
+- Performed end-to-end validation of the lab after incorporating the latest Microsoft Fabric Portal UI changes.  
+
+---
+</details>
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date: 2026-05-28

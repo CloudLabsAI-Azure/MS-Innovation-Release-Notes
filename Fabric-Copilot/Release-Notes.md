@@ -16,6 +16,43 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-06-18</summary>
+
+## Release Date: 2026-06-18
+
+### Summary of Changes
+
+Updated the lab guide to improve usability and align with the latest Microsoft Fabric experience. Added a lab scenario, refined instructions, removed unnecessary steps, and updated screenshots for better clarity.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a Lab Scenario to the Getting Started page.
+- Exercise 3 - Task 1: Removed an unnecessary step 6, added a note in Step 10 to dismiss the popup, and updated instruction numbering in Step 24 to align with the screenshot.
+
+### Screenshot Updates
+
+- Exercise 2 - Task 1 - Step 1: Updated the screenshot to reflect the latest Lakehouse search results.
+- Exercise 2 - Task 1 - Step 5: Updated the screenshot for Dataflow Gen2 selection with clarity.
+- Exercise 3 - Task 1 - Step 10: Added a screenshot for the popup cancellation guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-18
+
+### Testing Scope
+
+- End-to-end lab testing completed successfully with all steps in correct sequence
+- Screenshots verified against current Fabric and power bi UI
+- All links tested and functional
+- No copy-paste or formatting issues identified
+
+</details>
+
+<details>
   <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27

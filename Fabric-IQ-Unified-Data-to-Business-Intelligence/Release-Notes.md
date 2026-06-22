@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-16</summary>
+
+## Release Date: 2026-06-16
+
+### Summary of Changes
+
+Updated the lab guide with minor lab instructions for ease of execution.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated minor instructions across the lab guide to match the consistency of the lab flow.
+- Included notes for relevant lab instructions for better clarity.
+
+### Screenshot Updates
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-16
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide instructions for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-06-12</summary>
 
 ## Release Date: 2026-06-12

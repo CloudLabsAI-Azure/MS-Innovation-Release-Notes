@@ -18,6 +18,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-06-18</summary>
+
+## Release Date: 2026-06-18
+
+### Summary of Changes
+
+Updated screenshots across the lab to align with the latest PostgreSQL Query Results terminal UI. Added emojis throughout the lab guide to improve readability and learner engagement, and blurred sensitive information displayed in screenshots.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added emojis throughout the lab guide to improve readability and enhance the learner experience.
+- Blurred the Object ID displayed in **Lab 01 - Task 01 - Step 6** to avoid exposing sensitive information.
+- Reviewed and updated content formatting where required to maintain consistency across the lab.
+
+### Screenshot Updates
+
+- Updated screenshots in **Lab 01 - Task 03 - Steps 3 & 4** to reflect the latest PostgreSQL Query Results terminal UI.
+- Updated the screenshot in **Lab 01 - Task 04 - Step 6** to reflect the latest PostgreSQL Query Results terminal UI.
+- Updated screenshots in **Lab 01 - Task 05 - Steps 1, 2 & 3** to reflect the latest PostgreSQL Query Results terminal UI.
+- Updated the screenshot in **Lab 01 - Task 01 - Step 6** after blurring the Object ID.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-18  
+  Validation was performed to ensure all updated screenshots accurately reflected the current PostgreSQL Query Results terminal UI. Content formatting, emoji rendering, and image updates were also verified.
+
+### Testing Scope
+
+- Verified all updated screenshots against the current UI.
+- Confirmed Object ID masking was applied correctly.
+- Validated emoji rendering and content formatting throughout the lab.
+- Checked navigation flow and overall learner experience.
+- Performed end-to-end validation to ensure no instructional impact from the updates.
+
+</details>
+
+<details>
   <summary>2026-06-05</summary>
 
 ## Release Date: 2026-06-05
