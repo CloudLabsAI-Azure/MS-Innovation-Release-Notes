@@ -18,6 +18,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-18</summary>
+
+## Summary of Changes
+
+Updated the lab content to align with the latest Microsoft Foundry portal UI and improve overall learner experience. Refreshed screenshots, updated instructions, and removed outdated UI elements such as preview options. Enhanced clarity in VS Code execution steps and ensured consistency across all exercises.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Getting Started Page: Updated lab guide image, Zoom instruction image and steps, and Azure portal login image aligned with current lab context  
+- Exercise 1: Updated Microsoft Foundry login flow and instructions, refreshed MCP connection images, improved VS Code execution clarity with additional output validation step, updated output screenshots, and removed outdated UI elements (preview option and project names) across multiple tasks  
+- Exercise 2: Improved note formatting and image alignment for better readability  
+- Exercise 3: Updated screenshots by removing outdated UI elements (preview option and project names) to align with the latest Foundry UI  
+
+## Screenshot Updates
+
+- Getting Started page images (lab guide, Zoom, Azure login)  
+- Microsoft Foundry login and navigation screens  
+- MCP connection workflow images  
+- VS Code execution and output visuals  
+- Multiple screenshots across Exercises 1–3 aligned with latest UI  
+
+## Testing Notes
+
+- **Testing Date**: 2026-06-18  
+
+## Testing Scope
+
+- Validated the lab end-to-end after all updates  
+- Verified Microsoft Foundry login and navigation flow  
+- Confirmed removal of outdated UI elements matches current portal  
+- Tested VS Code execution and output visibility  
+- Ensured sequencing, formatting, and clarity  
+- Verified screenshots align with the latest Azure and Foundry UI  
+
+---
+</details>
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Summary of Changes
