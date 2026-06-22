@@ -17,6 +17,90 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 <details>
+  <summary>2026-06-22</summary>
+
+## Release Date: 2026-06-22
+
+### Summary of Changes
+
+Refined the lab documentation to improve usability and consistency across all modules. Replaced outdated visual references with current interface captures, enhanced instructional content for easier navigation, resolved formatting and display inconsistencies, and corrected content inaccuracies. Updated result and validation screenshots to ensure alignment with the latest application behavior and expected outcomes.
+
+### Infrastructure Changes
+
+- Updated the RBAC configuration at the Resource Group (RG) level by changing the assigned role from Contributor to Reader.
+
+### Content Changes
+
+* Added the **Lab Scenario**, **Architecture Overview**, **Architecture Diagram**, and **Component Explanations** to the **Getting Started** page.
+
+* **Lab 1**
+
+  * **Task 4, Step 8:** Corrected a typographical error.
+
+* **Lab 2**
+
+  * **Task 3.4, Step 10:** Updated the content to align with the latest changes in the Fabric Portal.
+  * **Task 3.4, Step 12:** Added step numbering to match the screenshots.
+
+* **Lab 3**
+
+  * Renamed **Task 4** for improved grammatical accuracy.
+  * **Task 1, Step 5:** Added a note to assist users who are unable to locate **Real-Time** in the navigation pane.
+  * **Task 4, Step 16:** Added step numbering to align with the screenshot.
+
+* **Lab 5**
+
+  * **Task 1, Step 1:** Added step numbering to improve the user experience.
+  * **Task 2, Step 1:** Added step numbering to improve the user experience.
+  * **Task 2, Step 5:** Updated the content to reflect the latest UI changes.
+
+
+### Screenshot Updates
+
+* Updated the screenshots for the **Environment** tab on the **Getting Started** page.
+
+* Added a screenshot at the bottom of each page to guide users on selecting Next and navigating to the subsequent lab.
+
+* **Lab 1**
+
+  * **Task 4, Step 6:** Updated the screenshot to reflect the latest UI changes.
+
+* **Lab 2**
+
+  * **Task 3.4, Step 5:** Added an additional screenshot to better align with the documented steps.
+
+* **Lab 3**
+
+  * **Task 1, Step 5:** Added a screenshot to assist users with the navigation process.
+  * **Task 1, Step 6:** Updated the screenshot.
+  * **Task 1, Step 8:** Replaced the screenshot with an updated version.
+
+* **Lab 4**
+
+  * **Task 2, Step 5:** Refreshed the screenshot to reflect the latest UI updates.
+  * **Task 2, Example Query:** Replaced the screenshot with a clearer version to improve readability.
+
+* **Lab 5**
+
+  * **Task 1, Step 1:** Updated the screenshot to align with recent UI changes.
+  * **Task 1, Steps 4–7:** Refreshed the screenshots to improve image quality and clarity.
+  * **Task 2, Step 1:** Updated the screenshot for better clarity.
+  * **Task 2, Steps 5–6:** Updated the screenshots to reflect the latest UI changes.
+  * **Task 2, Step 9:** Updated the screenshot to align with recent UI updates.
+
+  
+### Testing Notes
+
+- **Testing Date**: 2026-06-22
+
+### Testing Scope 
+
+Performed a comprehensive review of all lab exercises to validate the latest documentation updates and ensure consistency across the learning experience. Confirmed that all task instructions, expected outcomes, and navigation flows function as intended. Verified data ingestion and processing scenarios, reviewed guidance provided throughout the labs, validated Snowflake integration workflows and Cortex Agent exercises, and ensured that all screenshots accurately reflect the current product interface and corresponding procedural steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-30</summary>
 
 ## Release Date: 2026-04-30
