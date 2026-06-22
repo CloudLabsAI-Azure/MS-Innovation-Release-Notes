@@ -17,6 +17,55 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
+  <summary>2026-06-19</summary>
+
+## Release Date: 2026-06-19
+
+### Summary of Changes
+
+Updated the lab guide to improve instruction clarity and overall learner experience. Added additional guidance for Git sign-in scenarios, terminal access, and schema configuration in VS Code, along with screenshot enhancements for better visibility.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**
+  - Highlighted the email and password fields for better visibility.
+
+- **Exercise 1**
+  - **Task 1 - Step 5:** Refined the instructions for improved clarity.
+  - **Task 1 - Step 14:** Added a note to skip to Step 19 if already signed in to GitHub.
+  - **Task 1 - Step 26:** Added a step to open the terminal before running commands.
+  - **Task 2 - Step 2:** Refined instructions for adding the schema in VS Code.
+
+- **Remaining Exercises**
+  - Refined minor instructions for better readability and consistency.
+
+### Screenshot Updates
+
+
+- **Getting Started Page**
+  - Highlighted the email and password fields for improved visibility.
+
+- **Exercise 1 - Task 2 - Step 2**
+  - Added a screenshot to provide better guidance when adding the schema in VS Code.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-19
+
+### Testing Scope
+
+  - Validated the lab flow end-to-end after the updates.
+- Verified the instruction sequence and Git sign-in flow.
+- Confirmed terminal navigation and schema configuration steps.
+- Reviewed updated screenshots for clarity and accuracy.
+---
+</details>
+
+<details>
   <summary>2026-06-15</summary>
 
 ## Release Date: 2026-06-15
