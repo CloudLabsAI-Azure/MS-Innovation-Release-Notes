@@ -18,6 +18,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-22</summary>
+
+### Release Date: 2026-06-22
+
+### Summary of Changes
+
+- Updated the **Developing AI Applications with Microsoft Foundry** lab guide to improve instructional clarity, enhance learner guidance, and align the content with the latest validated lab execution flow.
+- Refined exercise instructions, improved content consistency, and added supporting screenshots to provide a smoother learning experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Updated instructions and workflow guidance across all exercises.
+* Improved step descriptions and clarified learner guidance where required.
+* Refined content flow to ensure exercises are easier to follow and execute.
+* Updated lab documentation based on validation findings.
+
+### Screenshot Updates
+
+* Added new supporting screenshots to improve learner understanding
+* There are some Screen Shots added for Click on Next >> Page on the different Lab
+* Updated media references to align with the latest lab instructions.
+
+### Validation
+
+- End-to-end validation completed successfully.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-22
+- **Test Validation Summary**: Verified updated lab instructions, exercise flow, screenshots, and content consistency by executing the complete lab workflow.
+
+### Testing Scope
+
+- Validated complete lab flow across all exercises.
+- Verified updated instructions and sequencing.
+- Confirmed screenshots are correctly referenced and displayed.
+- Reviewed formatting, consistency, and learner guidance improvements.
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-05</summary>
 
 ### Release Date: 2026-06-05
