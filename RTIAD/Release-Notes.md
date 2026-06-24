@@ -15,8 +15,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
 <details>
-<summary>2026-05-28</summary>
+<summary>2026-06-23</summary>
+
+## Release Date: 2026-06-23
+
+### Summary of Changes
+
+- Enhanced the lab guide by refining key sections and updating instructions and screenshots to maintain consistency with the latest UI changes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide to ensure consistency in the UI experience and improve overall clarity. 
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+
+### Testing Notes
+
+- Testing Date: 2026-05-28  
+
+  All updated labs were validated to ensure accuracy of instructions, correctness of image mappings, and alignment with current UI behavior.
+
+### Testing Scope
+
+- Executed full end-to-end lab validation 
+- Verified updated workflows, especially dashboard creation and visualization steps  
+- Ensured all screenshots are correctly referenced and aligned with instructions  
+- Confirmed improved navigation, clarity, and usability across modified sections  
+
+-------------
+
+</details>
+
+<details>
+<summary>2026-06-23</summary>
 
 ## Release Date: 2026-05-28
 
