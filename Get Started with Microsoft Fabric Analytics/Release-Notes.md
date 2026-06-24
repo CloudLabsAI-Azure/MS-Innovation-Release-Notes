@@ -16,6 +16,37 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-06-09</summary>
+ 
+## Release Date: 2026-06-09
+ 
+### Summary of Changes
+The **Get Started with Microsoft Fabric Analytics** lab has been updated with the addition of a new lab, **Lab 03: Data Engineering – Pipelines and Cross-Database Queries**. The overall lab instructions, overview, and prerequisites have been updated to align with the latest lab flow, and all screenshots have been refreshed to match the current Microsoft Fabric UI.
+ 
+### Infrastructure Changes
+N/A
+ 
+### Content Changes
+- Updated the overall architecture diagram on the **Getting Started** page and the standalone architecture diagram in **Lab 03**.
+- Added **Lab 03: Data Engineering – Pipelines and Cross-Database Queries**. This hands-on exercise introduces Microsoft Fabric Data Pipelines and Notebooks for automating data movement and transformation. You will ingest data into a Lakehouse, transform raw data into curated Delta tables, load data into a Data Warehouse using cross-database queries, and orchestrate an end-to-end ETL workflow through a single pipeline.
+- Updated the lab instructions, overview, and prerequisites to accommodate the newly added lab and improve the overall learning experience.
+ 
+### Screenshot Updates
+- Updated the overall screenshots across the lab to align with the current/latest Microsoft Fabric UI.
+- Updated the architecture diagrams on the **Getting Started** page and **Lab 03**
+-Added all the screeshots in the Lab03 to match with the instructions
+ 
+### Testing Notes
+- **Testing Date**: 2026-06-09
+ 
+### Testing Scope
+- Performed end-to-end validation of the complete lab experience.
+- Validated all updated instructions, screenshots, architecture diagrams, and overall lab guide rendering.
+- Verified the functionality and workflow of the newly added **Lab 03: Data Engineering – Pipelines and Cross-Database Queries**.
+ 
+</details>
+
+<details>
   <summary>2026-05-29</summary>
 
 ## Release Date: 2026-05-29
