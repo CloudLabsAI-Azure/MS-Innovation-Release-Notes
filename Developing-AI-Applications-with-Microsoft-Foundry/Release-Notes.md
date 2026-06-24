@@ -41,13 +41,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Screenshot Updates
 
 * Added new supporting screenshots to improve learner understanding
-* This Screen Shots added for Click on Next >> Page on the different Lab:
-  * **Lab 02** – `page_no2.png`
-  * **Lab 03** – `page_no3.png`
-  * **Lab 04** - `page_no4.png`
-  * **Lab 05** - `page_no5.png`
-  * **Lab 06** - `page_no6.png`
-
+* There are some Screen Shots added for Click on Next >> Page on the different Lab
 * Updated media references to align with the latest lab instructions.
 
 ### Validation
