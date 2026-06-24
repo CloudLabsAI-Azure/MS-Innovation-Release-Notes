@@ -40,7 +40,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Updates
 
-* Added new supporting screenshots to improve learner understanding:
+* Added new supporting screenshots to improve learner understanding
+* This Screen Shots added for Click on Next >> Page on the different Lab:
   * **Lab 02** – `page_no2.png`
   * **Lab 03** – `page_no3.png`
   * **Lab 04** - `page_no4.png`
