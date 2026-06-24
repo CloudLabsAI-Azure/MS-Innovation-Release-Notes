@@ -68,8 +68,6 @@ NA
 
 ## Screenshot Updates
 
-## Screenshot Updates
-
 - Refreshed and added screenshots across the **Getting Started guide and Labs 1–4** to align with the current Microsoft Fabric and ArcGIS GeoAnalytics user experience.
 
 - Updated screenshots covering:
