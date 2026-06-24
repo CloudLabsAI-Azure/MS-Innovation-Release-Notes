@@ -1,6 +1,6 @@
-# Get Started with Microsoft Fabric with Its Lakehouses
+# Get Started with Microsoft Fabric Analytics
 
-Welcome to the **Get Started with Microsoft Fabric with Its Lakehouses** Release-Notes.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started with Microsoft Fabric Analytics** Release-Notes.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
