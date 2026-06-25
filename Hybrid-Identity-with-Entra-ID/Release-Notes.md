@@ -14,7 +14,62 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-06-24</summary>
 
+## Release Date: 2026-06-24
+
+### Summary of Changes
+
+This release introduces a comprehensive Lab Scenario section on the Getting Started page and incorporates scenario-based context throughout the lab guide to improve learner engagement and understanding. Additionally, several screenshots have been updated to align with the latest user interface and enhance the overall learning experience.
+
+The Explanation of Components section has been expanded to include Privileged Identity Management (PIM) and Self-Service Password Reset (SSPR). A new Getting Started with the Lab section has also been added to the Getting Started page.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added a Lab Scenario section to the Getting Started page.
+
+- Incorporated scenario-based context across all five lab exercises.
+
+- Added Getting Started with the Lab section to the Getting Started page.
+
+- Added Privileged Identity Management (PIM) and Self-Service Password Reset (SSPR) to the Explanation of Components section.
+
+- Updated multiple screenshots to reflect the latest portal experience and improve learner guidance.
+
+### Screenshot Updates
+- Updated image in the Accessing Your Lab Environment section.
+- Added Resize the Virtual Machine View instructions and supporting image to the Getting Started page.
+- Added Getting Started with Azure Portal guidance:
+    - Step 3: Added instruction for the Stay signed in? prompt to select Yes.
+- Updated Lab 04 > Task 02 > Step 07:
+    - Added instruction for the Stay signed in? prompt to select No.
+
+- Updated completion images in:
+
+  - Lab 01
+  - Lab 02
+  - Lab 03
+  - Lab 04
+
+  The completion message displayed is:
+"You have successfully completed the lab. Click on Next >> to proceed with the next lab."
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-24
+
+### Testing Scope 
+
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, portal navigation steps, configuration procedures, and screenshots to ensure accuracy and alignment with the latest user interface.
+
+---
+</details>
 <details>
   <summary>2026-05-22</summary>
 
