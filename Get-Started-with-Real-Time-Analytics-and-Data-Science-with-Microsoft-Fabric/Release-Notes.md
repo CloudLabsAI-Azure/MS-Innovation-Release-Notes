@@ -18,6 +18,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-24</summary>
+
+## Release Date: 2026-06-24
+
+### Summary of Changes
+
+Updated the Microsoft Fabric lab guides to improve learner experience, enhance instruction clarity, and align the content with the latest validated lab execution flow. Multiple lab instructions were refined, screenshots were refreshed, and missing visuals were added to provide clearer guidance throughout the learning journey.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added additional learner notes and supporting information to improve navigation and understanding.
+
+### Screenshot Updates
+
+- **Getting Started section**
+  - Updated screenshots to reflect the latest  experience and UI changes.
+  - Improved visual guidance for learners while accessing lab resources and navigating setup steps.
+- **Real-Time Analytics lab**
+  - Refreshed screenshots in relevant steps to align with the current Microsoft Fabric interface.
+  - Updated visuals to ensure learners can easily identify required options and complete the tasks successfully.
+- **Data Science lab**
+  - Updated step screenshots based on the latest validated workflow.
+  - Ensured screenshots accurately represent the current user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-24  
+  Validation was performed after updating instructions and screenshots to ensure accuracy and consistency.
+
+### Testing Scope
+
+- Completed end-to-end lab validation after changes.
+- Verified updated instructions follow the correct execution sequence.
+- Confirmed screenshots match the current Microsoft Fabric user interface.
+- Checked formatting, navigation flow, and learner guidance for consistency.
+- Ensured the updated lab experience is clear and easy to follow.
+
+</details>
+
+<details>
   <summary>2026-05-21</summary>
 
 ## Release Date: 2026-05-21
