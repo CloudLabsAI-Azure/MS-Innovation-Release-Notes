@@ -14,6 +14,42 @@ This repository contains detailed notes about the latest updates and modificatio
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
 # Release Notes
+
+<details>
+  <summary>2026-06-19</summary>
+
+## Release Date: 2026-06-19
+
+### Summary of Changes
+
+* Enhanced the lab guide by adding a **Lab Scenario** section to provide users with a clear understanding of the lab objectives and overall workflow. Updated the guide to use the **remote Foundry** experience as part of the latest release. Incorporated customer feedback, improved the overall flow of the instructions, reviewed and fixed rendering issues, and refined the content to make the lab more intuitive and user-friendly.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* **Minor updates**:
+
+  * Refined the lab guide by correcting grammatical, formatting, and content inconsistencies. Improved the clarity of the instructions, added explanatory notes where required, updated the guides for better usability, and made several enhancements to improve the overall learning experience.
+
+### Screenshot Updates
+
+* Updated screenshots throughout the lab guide to reflect the latest UI changes and replaced outdated images where necessary to improve accuracy and provide a better user experience.
+
+### Testing Notes
+
+* **Testing Date**: 2026-06-19
+
+### Testing Scope
+
+* Performed end-to-end testing of the complete lab workflow to validate functionality, verify content accuracy, ensure rendering consistency, and confirm a seamless user experience.
+
+---
+
+</details>
+
 <details>
   <summary>2026-05-18</summary>
 
