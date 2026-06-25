@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-25</summary>
+
+## Release Date: 2026-06-25
+
+### Summary of Changes
+
+Updated lab guide to align with the latest Fabric user interface and environment configuration. The workspace creation flow was revised to use the pre-provisioned Fabric F2 capacity instead of activating a Fabric Trial, navigation and pipeline creation steps were updated to match the current experience, and screenshots were refreshed accordingly. An additional note was added to handle common pipeline connection issues.
+
+### Infrastructure Changes
+
+- Due to issues encountered while creating Microsoft Fabric Trial capacities, the lab environment has been updated to provide learners with a pre-provisioned Microsoft Fabric F2 capacity.
+
+### Content Changes
+
+- Lab 01 – Task 1: Updated the workspace creation workflow to use the provided Fabric F2 capacity instead of activating a Fabric Trial. Also added steps to assign the required service principal as a Workspace Admin to ensure successful Validation.
+- Lab 02 – Task 1: Updated the pipeline creation instructions to match the latest Microsoft Fabric interface and added troubleshooting guidance for the "Copy job connection is required" scenario.
+- Lab 02 – Task 3: Updated navigation steps and Notebook activity insertion flow to reflect the current Microsoft Fabric experience. Updated terminology to use Copy job instead of Copy data where applicable.
+
+### Screenshot Updates
+
+- Lab 01 – Task 1: Refreshed screenshots for the updated workspace creation flow using Fabric F2 capacity and Workspace Admin configuration.
+- Lab 02 – Task 1: Updated screenshots to reflect the latest pipeline creation experience. And refreshed with clear screenshots.
+- Lab 02 – Task 3: Updated screenshots for Notebook activity configuration, pipeline navigation, and the renamed Copy job tile.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-25
+
+### Testing Scope 
+
+- Performed end-to-end validation of both labs using the updated Fabric F2 environment.
+- Verified the revised workspace creation workflow and service principal assignment steps.
+- Confirmed that refreshed screenshots and instructions match the latest Microsoft Fabric UI and that the labs execute successfully from start to finish.
+  
+---
+</details>
+
+<details>
   <summary>2026-05-14</summary>
 
 ## Release Date: 2026-05-14
