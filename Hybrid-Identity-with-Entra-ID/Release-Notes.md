@@ -21,7 +21,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Lab Scenario was added in getting started page, and scenarios were added throughout the guide, also changed few screenshots to improve the quality of Guide. 
+This release introduces a comprehensive Lab Scenario section on the Getting Started page and incorporates scenario-based context throughout the lab guide to improve learner engagement and understanding. Additionally, several screenshots have been updated to align with the latest user interface and enhance the overall learning experience.
+
+The Explanation of Components section has been expanded to include Privileged Identity Management (PIM) and Self-Service Password Reset (SSPR). A new Getting Started with the Lab section has also been added to the Getting Started page.
 
 ### Infrastructure Changes
 
@@ -29,18 +31,33 @@ N/A
 
 ### Content Changes
 
-- Lab scenario is added in Getting started page and scenario in 5 of 5 pages of the lab.
-- Few screenshots updated for the better learners experience.
+- Added a Lab Scenario section to the Getting Started page.
+
+- Incorporated scenario-based context across all five lab exercises.
+
+- Added Getting Started with the Lab section to the Getting Started page.
+
+- Added Privileged Identity Management (PIM) and Self-Service Password Reset (SSPR) to the Explanation of Components section.
+
+- Updated multiple screenshots to reflect the latest portal experience and improve learner guidance.
 
 ### Screenshot Updates
-- On getting Started page, Added Resize the Virtual Machine View part and image.
+- Updated image in the Accessing Your Lab Environment section.
+- Added Resize the Virtual Machine View instructions and supporting image to the Getting Started page.
+- Added Getting Started with Azure Portal guidance:
+    - Step 3: Added instruction for the Stay signed in? prompt to select Yes.
+- Updated Lab 04 > Task 02 > Step 07:
+    - Added instruction for the Stay signed in? prompt to select No.
 
-- On getting Started page, Getting started with azure portal. 
-step no. 3 If you see the pop-up Stay Signed in?click Yes.
+- Updated completion images in:
 
-- Lab04 Task2 step 07 If you see the pop-up Stay Signed in? click No.
+  - Lab 01
+  - Lab 02
+  - Lab 03
+  - Lab 04
 
-- Lab01, Lab02, Lab03, and Lab 04 (You have successfully completed the lab. Click on Next >> to proceed with the next lab.) images updated.
+  The completion message displayed is:
+"You have successfully completed the lab. Click on Next >> to proceed with the next lab."
 
       
 ### Testing Notes
@@ -49,7 +66,7 @@ step no. 3 If you see the pop-up Stay Signed in?click Yes.
 
 ### Testing Scope 
 
- Performed end-to-end validation of the lab environment and documentation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, portal navigation steps, configuration procedures, and screenshots to ensure accuracy and alignment with the latest user interface.
 
 ---
 </details>
