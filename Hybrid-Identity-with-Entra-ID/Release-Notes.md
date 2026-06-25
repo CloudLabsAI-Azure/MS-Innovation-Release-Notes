@@ -14,7 +14,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-06-24</summary>
 
+## Release Date: 2026-06-24
+
+### Summary of Changes
+
+Lab Scenario was added in getting started page, and scenarios were added throughout the guide, also changed few screenshots to improve the quality of Guide. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Lab scenario is added in Getting started page and scenario in 5 of 5 pages of the lab.
+- Few screenshots updated for the better learners experience.
+
+### Screenshot Updates
+- On getting Started page, Added Resize the Virtual Machine View part and image.
+
+- On getting Started page, Getting started with azure portal. 
+step no. 3 If you see the pop-up Stay Signed in?click Yes.
+
+- Lab04 Task2 step 07 If you see the pop-up Stay Signed in? click No.
+
+- Lab01, Lab02, Lab03, and Lab 04 (You have successfully completed the lab. Click on Next >> to proceed with the next lab.) images updated.
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-24
+
+### Testing Scope 
+
+ Performed end-to-end validation of the lab environment and documentation. Verified all instructions, commands, and portal navigation steps, and updated screenshots to match the current UI.
+
+---
+</details>
 <details>
   <summary>2026-05-22</summary>
 
