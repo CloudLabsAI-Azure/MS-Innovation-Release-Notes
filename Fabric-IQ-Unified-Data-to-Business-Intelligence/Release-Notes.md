@@ -75,11 +75,7 @@ Enhanced lab guide with improved step-by-step instructions, updated screenshots,
 
 ### Testing Scope
 
-- Performed comprehensive lab guide review across all exercises for instruction clarity and consistency.
-- Validated all 14 updated/new screenshots match current UI and properly support corresponding instructions.
-- Verified exercise completion badges accurately represent "Next >>" navigation flow between exercises.
-- Tested improved step numbering and visual indicators for user experience enhancement.
-- Confirmed all new VM resize guidance is clear and accessible in Getting Started section.
+- Performed end to end lab testing. Updated the lab guide instructions for better clarity.
 
 ---
 </details>
