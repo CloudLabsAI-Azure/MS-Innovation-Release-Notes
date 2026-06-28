@@ -16,6 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-28</summary>
+
+## Release Date: 2026-06-28
+
+### Summary of Changes
+
+Updated the lab guide to improve lab experience by updating the lab scenarios, refining step-by-step instructions, and refreshing screenshots to match the latest product experience.
+
+### Infrastructure Changes
+
+- Automated assignment of Search Service Contributor role to the Service Principal on the Azure AI Search service for Exc 1 > Task 2 validation.
+- Updated the Azure AI Search service deployment to support **Both** API Access Control settings for Keys.
+
+### Content Changes
+
+- Added the **Resize the Virtual Machine View** section in the Getting Started page.
+- Refined instructions and summary across the lab guide for better clarity, consistency, and ease of execution.
+- Added inline validation steps throughout the lab exercise.
+
+### Screenshot Updates
+
+- Added the screenshot for **Resize the Virtual Machine View** section in the Getting Started page.
+- Added the screenshots for the Microsoft Foundry Evaluation runs and results.
+- Updated the screenshots for the overall lab exercises to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-28
+
+### Testing Scope 
+
+- Performed end to end lab testing along with successful validations. Updated the lab content for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-06-19</summary>
 
 ## Release Date: 2026-06-19
