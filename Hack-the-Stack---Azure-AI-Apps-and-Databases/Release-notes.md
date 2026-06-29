@@ -19,6 +19,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-06-29</summary>
+ 
+## Release Date: 2026-06-29
+ 
+### Summary of Changes
+ 
+-  Updated the lab guide with the latest UI, infrastructure, and workflow changes, including GPT-5.1 model deployment, Microsoft Foundry enhancements, Azure SQL Database validation steps, and refreshed screenshots for an improved user experience.
+ 
+### Infrastructure Changes
+ 
+- Updated model deployment steps to use GPT-5.1 instead of GPT-4o
+- Updated the agent-sql ZIP file to the latest version and incorporated it into the PowerShell script.
+ 
+### Content Changes
+ 
+### Challenge 1-3
+
+- Updated the RAG workflow to use the current Import data experience and Microsoft Foundry vectorization option.
+- Revised the Microsoft Foundry Agent setup flow, including updated endpoint retrieval and agent configuration steps from the new Foundry UI.
+- Refreshed Getting Started screenshots to match the latest CloudLabs interface and added guidance for resizing the virtual machine view.
+
+### Challenge 4
+
+- Corrected **Challenge 4 Task 1** title.
+- **Challege 4 Task 2 Step 3:** Updated the Query Editor instructions to match the latest UI and added a new screenshot.
+- **Task 3 Step 7:** Updated the .env code block with the latest GPT deployment name.
+- **Task 6 Step 1:** Updated the Docker file code block and added a new screenshot.
+- **Task 6 Step 17 and 18:** Updated the PowerShell commands.
+
+### Challenge 6
+
+- Added instructions and screenshots for performing Azure SQL Database service tasks in **Challenge 6**.
+
+ 
+### Screenshot Update
+ 
+- Updated screenshots with latest UI as well as also added instructions and improve the overall experience.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-06-28
+ 
+### Testing Scope
+ 
+-  Updated the lab guide to the latest UI changes
+-------------
+ 
+</details>
+
+<details>
   <summary>2026-05-12</summary>
  
 ## Release Date: 2026-05-12
