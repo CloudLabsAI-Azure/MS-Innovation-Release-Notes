@@ -46,6 +46,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 - **Challege 4 Task 2 Step 3:** Updated the Query Editor instructions to match the latest UI and added a new screenshot.
 - **Task 3 Step 7:** Updated the .env code block with the latest GPT deployment name.
 - **Task 6 Step 1:** Updated the Docker file code block and added a new screenshot.
+- **Task 6 Step 8:** Updated the app.py code block
+- **Task 6 Step 8:**: Updated the index.html code block with the latest changes.
 - **Task 6 Step 17 and 18:** Updated the PowerShell commands.
 
 ### Challenge 6
