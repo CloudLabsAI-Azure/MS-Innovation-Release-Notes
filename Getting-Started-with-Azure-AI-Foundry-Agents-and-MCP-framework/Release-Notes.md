@@ -16,6 +16,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-25</summary>
+
+## Release Date: 2026-06-25
+
+### Summary of Changes
+
+- Replaced the DeepSeek-R1 model with DeepSeek-V3.2 in the Ex-1, Ex-3, Getting-started page and align with the latest supported model availability.
+
+- Refactored ex-8: removed unnecessary steps and added a note about model selection in VS Code Copilot Chat for MCP server setup.Updated VS Code screenshot to align with instructions.Updated DeepSeek Task 5 in ex-3.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Documentation & Naming: Updated all references of DeepSeek-R1 to DeepSeek-V3.2 across the Getting-started page and ex-1 and ex-3.
+- Model replaced from DeepSeek-R1 to DeepSeek-V3.2
+
+- Exercise 3: Updated DeepSeek's Task 5 instructions.
+   - Replaced the model from DeepSeek-R1 to DeepSeek-V3.2 
+   - corrected the instruction for model_deployment_name as deepseek-V3.2
+
+- Exercise 8 Optimization:
+  - Cleaned up the exercise by removing redundant steps.
+  - Added a helpful note regarding model selection in VS Code Copilot Chat when adding the MCP server.
+  - updated the screenshot with latest ui of copilot studio agent creation step to add a mcp server tool.
+
+### Screenshot Update
+- In getting started page updated the architecture diagram with correct model name for deepseek.
+- In Exercise - 1
+    - updated the screenshot for Deepseek-V3.2 selection and deployment.
+    - vscode welcome page screenshot is updated with correct option selection to continue without signing option.
+- Exercise - 3
+    - Updated the folder naming DeepSeek-V3 and updated the image.
+    - DeepSeek is updated to supporting model -> DeepSeek-V3.2
+- In Exercise - 8
+  - In vs code copilot chat model selection and mcp server adding step is updated to select right one.
+  - In copilot studio added screenshots to select custom connectors naviagtion step and mcp tool adding option screenshot UI updated. 
+
+### Testing Notes
+
+**Testing Date:** 2026-06-23
+
+### Testing Scope
+
+- Updated the testing scope for this lab by validating the steps, refining them for the correct DeepSeek model and instructions, and fixing the notes, UI screenshots, and any mismatched screenshots so they now align with the content."
+
+</details>
+
+<details>
   <summary>2026-06-12</summary>
 
 ## Release Date: 2026-06-12
