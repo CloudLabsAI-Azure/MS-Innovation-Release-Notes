@@ -16,6 +16,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-06-29</summary>
+
+## Release Date: 2026-06-29
+
+### Summary of Changes
+
+I updated the lab guide with the latest UI screenshots for table column creation and Power Automate node selection tool icons, added result status images to verify successful steps, included numbered callouts on the screenshots for clarity, and added explanatory notes to ensure the steps are followed correctly.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Content Updates: Added proper lab scenarios to all modules and removed an unwanted note from Module 1.
+- Instruction Improvements: Refined the text with clearer step-by-step instructions, numbered formatting, and minor typo fixes.
+- New Troubleshooting & Warning Notes:
+- Added a note instructing users to ignore platform warning messages when working with Power Apps element properties and to complete the step anyway.
+- Added a "missed step" safety net note that guides users back to the correct page, table, and column to fix their action conditions.
+
+### Screenshot Updates
+
+- Platform UI Alignment: Removed old UI images and mapped the latest Power Apps and Power Automate icons throughout the guide.
+
+- Dataverse Column Update: Adjusted table column creation steps to use the new "Enabled for Advanced Find" option instead of "Searchable."
+
+- Enhanced Visual Verification: Added "successful completion" screenshots for tasks, specifically including Business Process Flow data steps, to show users exactly what the final outcome should look like.
+    
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-26
+
+Comprehensive testing activities were completed to validate all recent updates, revised instructions, and updated screenshots.
+
+### Testing Scope
+
+- Completed a full walkthrough of the lab environment to ensure seamless end-to-end execution.
+- Mapped and confirmed that all screenshots perfectly align with the updated interface for visual clarity.
+- Verified all step-by-step navigation paths and learner instructions against the latest live UI elements.
+
+</details>
+<details>
 <summary>2026-05-25</summary>
 
 ## Release Date: 2026-05-25
