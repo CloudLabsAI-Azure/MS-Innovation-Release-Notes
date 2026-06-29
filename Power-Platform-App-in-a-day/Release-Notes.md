@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-I updated the lab guide with the latest UI screenshots for table column creation and Power Automate node selection tool icons, added result status images to verify successful steps, included numbered callouts on the screenshots for clarity, and added explanatory notes to ensure the steps are followed correctly.
+The lab guide has been updated to reflect the latest UI enhancements, specifically refreshing the screenshots for table column creation and Power Automate node selection tool icons. To improve clarity and step success rates, numbered callouts have been integrated into the visuals, guiding explanatory notes have been added, and final result status images have been included for user validation.
 
 ### Infrastructure Changes
 
