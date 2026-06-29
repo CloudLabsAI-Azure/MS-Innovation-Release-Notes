@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Updated model naming from DeepSeek-R1 to DeepSeek-V3.2 in the Getting Started page and ex-1.
+- Replaced the DeepSeek-R1 model with DeepSeek-V3.2 in the Getting Started page and align with the latest supported model availability.
 
 - Refactored ex-8: removed unnecessary steps and added a note about model selection in VS Code Copilot Chat for MCP server setup.Updated VS Code screenshot to align with instructions.Updated DeepSeek Task 5 in ex-3.
 
@@ -32,9 +32,11 @@ N/A
 
 ### Content Changes
 
-- Documentation & Naming: Updated all references of DeepSeek-R1 to DeepSeek-V3.2 across the Getting-started page and ex-1.
+- Documentation & Naming: Updated all references of DeepSeek-R1 to DeepSeek-V3.2 across the Getting-started page and ex-1 and ex-3.
+- Model replaced from DeepSeek-R1 to DeepSeek-V3.2
 
 - Exercise 3: Updated DeepSeek's Task 5 instructions.
+   - Replaced the model from DeepSeek-R1 to DeepSeek-V3.2 
    - corrected the instruction for model_deployment_name as deepseek-V3.2
 
 - Exercise 8 Optimization:
@@ -48,7 +50,8 @@ N/A
     - updated the screenshot for Deepseek-V3.2 selection and deployment.
     - vscode welcome page screenshot is updated with correct option selection to continue without signing option.
 - Exercise - 3
-    - Updated the folder naming DeepSeek-V3 and updated the image. 
+    - Updated the folder naming DeepSeek-V3 and updated the image.
+    - DeepSeek is updated to supporting model -> DeepSeek-V3.2
 - In Exercise - 8
   - In vs code copilot chat model selection and mcp server adding step is updated to select right one.
   - In copilot studio added screenshots to select custom connectors naviagtion step and mcp tool adding option screenshot UI updated. 
@@ -60,7 +63,6 @@ N/A
 ### Testing Scope
 
 - Updated the testing scope for this lab by validating the steps, refining them for the correct DeepSeek model and instructions, and fixing the notes, UI screenshots, and any mismatched screenshots so they now align with the content."
-
 
 </details>
 
