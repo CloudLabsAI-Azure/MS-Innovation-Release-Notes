@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Replaced the DeepSeek-R1 model with DeepSeek-V3.2 in the Getting Started page and align with the latest supported model availability.
+- Replaced the DeepSeek-R1 model with DeepSeek-V3.2 in the Ex-1, Ex-3, Getting-started page and align with the latest supported model availability.
 
 - Refactored ex-8: removed unnecessary steps and added a note about model selection in VS Code Copilot Chat for MCP server setup.Updated VS Code screenshot to align with instructions.Updated DeepSeek Task 5 in ex-3.
 
