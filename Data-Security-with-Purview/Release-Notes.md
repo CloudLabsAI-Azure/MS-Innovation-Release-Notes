@@ -17,6 +17,82 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-25</summary>
+
+## Release Date: 2026-06-25
+
+### Summary of Changes
+
+This update enhances the **Data Security with Microsoft Purview** lab by introducing business-oriented lab scenarios, improving the Getting Started experience, and updating screenshots and instructions to align with the latest Microsoft Purview, Microsoft 365 Admin Center, Windows, and browser UI changes. The update also includes usability improvements, navigation refinements, and content enhancements across multiple labs.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added Lab Scenarios across all labs to provide real-world business context and improve learner engagement.
+- Added a new **Resize the Virtual Machine View** section on the Getting Started page along with supporting screenshots.
+- Updated **Lab Guide Zoom In/Zoom Out** instructions.
+- Added a workshop conclusion section.
+- Refined navigation guidance and instructional flow across multiple lab exercises.
+- Updated instructions and screenshots throughout the lab to align with the latest Microsoft Purview and Microsoft 365 experiences.
+
+### Screenshot Updates
+
+#### Lab 01 - Configure Sensitive Labels
+
+- **Task 01 - Point 17:** Updated **Auto-labeling for files and emails** screenshot due to UI changes.
+- **Task 01 - Point 18:** Updated **Auto-labeling for files and emails** screenshot due to UI changes.
+- **Task 01 - Point 23:** Updated **Sensitivity Labels** screenshot to reflect the new **Pay-as-you-go** option in the left pane.
+- **Task 01 - Point 25:** Updated screenshot to align with the latest Microsoft Purview UI.
+
+#### Lab 04 - Install and Use Microsoft Purview Information Protection Unified Labeling Client
+
+- **Task 01 - Point 06:** Updated the installation screenshot to reflect the latest Microsoft Purview Information Protection client version.
+
+#### Lab 06 - Create a Data Loss Prevention (DLP) Policy
+
+- **Task 01 - Point 03:** Updated the **Create Policy** screenshot.
+- **Task 03 - Point 01:** Updated the application launch popup screenshot to reflect the latest admin branding, logo, and pin button UI.
+
+#### Lab 07 - Implementing Microsoft Purview Extension for Chrome
+
+- **Task 1.1 - Point 02:** Updated the Resource Group screenshot as resource IDs were visible.
+- **Task 1.1 - Point 06:** Updated the RDP popup screenshot to reflect the latest UI.
+- **Task 1.3 - Points 11 & 12:** Updated the right-click context menu screenshots to reflect the latest Windows UI with Copilot integration.
+- **Task 1.3 - Point 21:** Updated screenshot due to annotation styling changes.
+- **Task 1.4 - Point 02:** Updated Chrome screenshot due to annotation styling changes.
+- **Task 02 - Point 14:** Updated the Sensitivity Labels pane screenshot to reflect newly available options.
+- **Task 03 - Point 01:** Updated **Add Unallowed Browsers** screenshots to align with the latest UI layout and positioning.
+
+#### Lab 08 - Explore Data Loss Prevention Alerts
+
+- **Task 01 - Point 02:** Updated the policy pane screenshot to reflect the new **Pay-as-you-go Usage Report** option.
+- **Task 01 - Point 03:** Updated the **Customize Advanced DLP** screenshot to reflect the new copy button.
+
+#### Lab 11 - Configure Insider Risk Management Policies
+
+- **Task 01 - Point 02:** Updated the Microsoft 365 Admin Center screenshot to reflect the latest UI.
+- **Task 02 - Point 05:** Updated the Insider Risk Management notification popup screenshot to reflect newly added checkboxes and options.
+- **Task 03 - Point 02:** Updated the Insider Risk Management left navigation pane screenshot to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-25
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab after all updates.
+- Verified all newly added lab scenarios and content enhancements.
+- Validated updated screenshots against the current Microsoft Purview and Microsoft 365 UI.
+- Confirmed instruction flow, task sequencing, and navigation consistency throughout the lab.
+- Reviewed formatting and rendering across the complete lab guide.
+
+---
+</details>
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date: 2026-05-28
