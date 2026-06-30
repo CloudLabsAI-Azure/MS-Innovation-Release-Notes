@@ -16,6 +16,61 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-29</summary>
+
+## Release Date: 2026-06-29
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Azure portal experience by refreshing screenshots, improving instructional clarity, and adding a new **Resize the Virtual Machine View** section to enhance the learner experience.
+
+### Content Changes
+
+- Added a new **Resize the Virtual Machine View** section to the **Getting Started** page.
+- Added conclusion section in the lab guide
+
+### Screenshot Updates
+
+- **Getting Started**
+  - Added the **Resize the Virtual Machine View** section.
+
+- **Lab 01**
+  - **Task 1.2 – Point 3:**
+    - Updated the **Select model** screenshot to reflect the increased number of available models.
+  - **Task 3 – Point 12:**
+    - Updated the screenshot by blurring the subscription group and subscription ID.
+  - **Task 3 – Point 15:**
+    - Updated the Function App screenshot to include the new **AI (Preview)** option in the left navigation pane.
+
+- **Lab 02**
+  - **Task 2 – Point 1:**
+    - Updated the Web App screenshot to include the new **AI (Preview)** option in the left navigation pane.
+  - **Task 2 – Point 3:**
+    - Updated the Web App screenshot to include the new **AI (Preview)** option in the left navigation pane.
+  - **Task 3 – Point 4:**
+    - Updated the file upload screenshot.
+  - **Task 3 – Point 13:**
+    - Updated the file upload screenshot to match the latest Azure portal experience.
+  - **Task 3 – Point 16:**
+    - Updated the file upload screenshot to match the latest Azure portal experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-29
+
+### Testing Scope
+
+- Validated the updated instructions and screenshots across the lab.
+- Verified the newly added **Resize the Virtual Machine View** section.
+- Confirmed all updated screenshots reflect the latest Azure portal UI.
+- Validated the complete lab flow end-to-end.
+- Reviewed markdown formatting and image rendering.
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-16</summary>
 
 ## Release Date: 2026-06-16
