@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-23</summary>
+
+## Release Date: 2026-06-23
+
+### Summary of Changes
+
+- Improved content readability by highlighting key terms in the **Lab Scenario** and **Overview** sections on the Getting Started page.
+- Updated the architecture diagram to reflect the current lab workflow.
+- Enhanced learner guidance with improved screenshots, numbering, and instructions for identifying the Synapse workspace.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page:** Highlighted important keywords in the **Lab Scenario** and **Overview** for improved readability.
+- **Exercise 2 – Task 1.1:** Added instructions to use the **Deployment ID Inject Key** to retrieve the complete Synapse workspace name.
+
+### Screenshot Updates
+
+- **Exercise 1 – Task 1, Step 3:** Updated the screenshot with numbered callouts for easier navigation.
+- **Exercise 1 – Task 1, Step 5:** Updated the screenshot by highlighting the **Inject Key** field and masking sensitive information such as the **Deployment ID** and **Subscription ID**.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-23
+
+### Testing Scope
+
+- Verified that the updated architecture diagram accurately reflects the current lab implementation.
+- Confirmed that highlighted keywords improve readability on the Getting Started page.
+- Validated the updated screenshots, numbering, and masking of sensitive information.
+- Verified that the new instructions correctly retrieve the complete Synapse workspace name using the **Deployment ID Inject Key**.
+
+</details>
+
+<details>
   <summary>2026-06-15</summary>
 
 ## Release Date: 2026-06-15
