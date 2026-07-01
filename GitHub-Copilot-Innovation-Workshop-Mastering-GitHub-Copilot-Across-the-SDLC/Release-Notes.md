@@ -29,6 +29,7 @@ Performed full lab verification following the VS Code UI updates, validating the
 N/A
 
 ### Content Updates
+
 - Added and refined lab instructions to improve the overall learning experience.
 - Updated guidance for GitHub Copilot model selection and agent workflows.
 - Included additional notes to streamline setup and usage of custom agents.
