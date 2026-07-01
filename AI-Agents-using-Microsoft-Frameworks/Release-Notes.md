@@ -16,6 +16,48 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-01</summary>
+
+## Release Date: 2026-07-01
+ 
+### Summary of Changes
+
+Updated the Azure AI Foundry and Getting Started UI, standardized lab headings and numbering across Labs 01–03, improved homepage image alignment, added VM resize guidance, refreshed Foundry deployment screenshots and instructions, and included troubleshooting notes with recommended retry regions for model deployment failures in Lab 01.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Gettingstarted.md: Headings renamed ("Overview" → "Lab Overview", "Objectives" → "Lab Objectives"), removed "100%" from zoom tip, added "Resize the Virtual Machine View" section with new screenshot (media/vmresize.png), minor copy edits.
+
+- Lab01.md: Standardized headings/numbering (Exercise/Task → two-digit format), added deployment retry note (East US 2 / South Central US), updated Foundry labels ("Models" → "Deployments", "Create Deployment" → "Deploy"), replaced deployment screenshot with aq8-inew.png, small spacing fixes.
+
+- Lab02.md: Standardized heading ("Scenario") and task numbering (Task 02), normalized code block and screenshot formatting.
+
+- Lab03.md: Standardized heading ("Scenario") and task numbering (Task 01/02) and cleaned up task titles.
+
+- Media: Added aq8-inew.png (deployment screenshot) and vmresize.png (VM resize screenshot).
+
+### Screenshot Updates
+
+- Getting Started Page: Added vmresize.png to demonstrate how to resize VM/Lab Guide panes; removed percent text from zoom guidance screenshot references.
+
+- Lab01: Replaced deployment UI screenshot with aq8-inew.png and added a written retry note for failing deployments. Adjusted captions to reflect new button labels ("Deploy" instead of "Create Deployment") and the "Deployments" navigation label.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-07-01
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+
+<details>
   <summary>2026-06-16</summary>
 
 ## Release Date: 2026-06-16
