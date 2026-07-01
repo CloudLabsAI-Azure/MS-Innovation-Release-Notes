@@ -72,7 +72,7 @@ NA
 
 ### Screenshot Updates
 
-dded or replaced screenshots to reflect current Azure / Microsoft Fabric UI and to improve clarity of step instructions.
+Updated screenshots to reflect current Azure / Microsoft Fabric UI and to improve clarity of step instructions.
 
 - instructions/media/GSenvnew.png
   - New environment overview image used on the Getting Started page (replaces prior environment screenshot).
