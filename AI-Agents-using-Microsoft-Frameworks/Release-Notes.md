@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
  
 ### Summary of Changes
 
-Updated the Azure AI Foundry and Getting Started UI, standardized lab headings and numbering across Labs 01–03, improved homepage image alignment, added VM resize guidance, refreshed Foundry deployment screenshots and instructions, and included troubleshooting notes with recommended retry regions for model deployment failures in Lab 01.
+Updated the Microsoft Foundry and Getting Started UI, standardized lab headings and numbering across Labs 01–03, improved homepage image alignment, added VM resize guidance, refreshed Microsoft Foundry deployment screenshots and instructions, and included troubleshooting notes with recommended retry regions for model deployment failures in Lab 01.
 
 ### Infrastructure Changes
 
