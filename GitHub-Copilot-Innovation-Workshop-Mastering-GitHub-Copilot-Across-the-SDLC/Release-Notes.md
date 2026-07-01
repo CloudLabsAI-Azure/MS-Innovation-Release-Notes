@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-30</summary>
+
+## Release Date: 2026-06-30
+
+### Summary of Changes
+
+Performed full lab verification following the VS Code UI updates, validating the revised instructions, workflow continuity, and overall user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Updates
+
+- Added and refined lab instructions to improve the overall learning experience.
+- Updated guidance for GitHub Copilot model selection and agent workflows.
+- Included additional notes to streamline setup and usage of custom agents.
+  
+### Screenshot Updates
+
+- Refreshed screenshots across multiple labs to reflect the latest UI changes.
+- Added new visuals for setup, configuration, GitHub settings, agent workflows, and custom agent experiences to improve clarity andalign with the current product interface.
+ 
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-30
+
+### Testing Scope 
+
+* Validated the complete lab workflow after recent updates, confirming the accuracy of instructions and expected outcomes.
+* Refreshed documentation and screenshots to align with the latest UI changes and improve overall content quality.
+
+</details>
+
+<details>
   <summary>2026-06-15</summary>
 
 ## Release Date: 2026-06-15
