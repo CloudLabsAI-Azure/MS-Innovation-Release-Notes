@@ -28,20 +28,16 @@ Performed full lab verification following the VS Code UI updates, validating the
 
 N/A
 
-### Content Changes
-
--> Added a Resize vm content in lab - 01 
--> Added a models name matching to vscode copilot chat agents section in lab - 2 > choosing right model
--> In lab - 3 > Ex-3 > step - 3 - to select the agent mode
--> In lab - 7 > Ex - 7 > added a note to reload the custom agent 
-
+### Content Updates
+- Added and refined lab instructions to improve the overall learning experience.
+- Updated guidance for GitHub Copilot model selection and agent workflows.
+- Included additional notes to streamline setup and usage of custom agents.
+  
 ### Screenshot Updates
-- In lab - 01 > Added a screenshot of resize the vm & lab guide.
-- In lab - 03 > Ex- 3 > Step - 3 > two screenshot of selecting the agent mode in set agent dropdown.
-- In lab - 05 > Ex - 5 > turn on advanced security > added a ui update change in github settings option.
-- In lab - 05 > Ex - 5 > step - 2 > 5 added the agent working flow screenshot.
-- In lab - 07 > Ex - 7 > step 2,3 > added the vscode instruction,prompt,custom agent option ui screenshot added.
-- In lab - 07 > Ex-7 > added a screenshot for reloading the window option for custom agent to appear in agent selection dropdown.
+
+- Refreshed screenshots across multiple labs to reflect the latest UI changes.
+- Added new visuals for setup, configuration, GitHub settings, agent workflows, and custom agent experiences to improve clarity andalign with the current product interface.
+ 
 
 ### Testing Notes
 
