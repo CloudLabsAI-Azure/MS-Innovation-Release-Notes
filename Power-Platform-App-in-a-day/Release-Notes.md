@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-<summary>2026-06-29</summary>
+<summary>2026-06-26</summary>
 
-## Release Date: 2026-06-29
+## Release Date: 2026-06-26
 
 ### Summary of Changes
 
@@ -39,9 +39,7 @@ NA
 ### Screenshot Updates
 
 - Platform UI Alignment: Removed old UI images and mapped the latest Power Apps and Power Automate icons throughout the guide.
-
 - Dataverse Column Update: Adjusted table column creation steps to use the new "Enabled for Advanced Find" option instead of "Searchable."
-
 - Enhanced Visual Verification: Added "successful completion" screenshots for tasks, specifically including Business Process Flow data steps, to show users exactly what the final outcome should look like.
     
 
