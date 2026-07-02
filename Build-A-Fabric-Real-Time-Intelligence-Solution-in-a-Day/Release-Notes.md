@@ -40,21 +40,8 @@ NA
 - **Getting Started**
   - Added the **Resize the Virtual Machine View** section.
 
-- **Exercise 2**
-  - **Task 4 – Point 2:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 7:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 9:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 12:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 14:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 19:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
-  - **Task 4 – Point 23:**
-    - Updated the screenshot to reflect the newly added **Set alert** option.
+- **Exercise 2** – 
+  - **Task 4 (Points 2, 7, 9, 12, 14, 19, and 23):** Updated the screenshots to reflect the newly added **Set alert** option.
 
 - **Exercise 3**
   - **Task 2 – Point 1:**
@@ -63,9 +50,7 @@ NA
     - Updated the screenshot by masking the visible ID.
   - **Task 3 – Point 1:**
     - Updated the upload file screenshot to include the new **Materialized lake view** option.
-  - **Task 4 – Point 10:**
-    - Updated the screenshot to reflect the **Save to dashboard** option, replacing **Pin to dashboard**.
-  - **Task 4 – Point 11:**
+  - **Task 4 – (Point 10,11):**
     - Updated the screenshot to reflect the **Save to dashboard** option, replacing **Pin to dashboard**.
 
 ### Testing Notes
