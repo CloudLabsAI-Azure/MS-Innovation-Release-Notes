@@ -40,8 +40,8 @@ NA
 - **Getting Started**
   - Added the **Resize the Virtual Machine View** section.
 
-- **Exercise 2** – 
-  - **Task 4 (Points 2, 7, 9, 12, 14, 19, and 23):** Updated the screenshots to reflect the newly added **Set alert** option.
+- **Exercise 2**
+  - **Task 4:** Updated the screenshots to reflect the newly added **Set alert** option.
 
 - **Exercise 3**
   - **Task 2 – Point 1:**
@@ -59,13 +59,14 @@ NA
 
 ### Testing Scope
 
-- Validated the updated instructions and screenshots across the lab.
-- Verified the newly added **Resize the Virtual Machine View** section.
-- Confirmed all updated screenshots reflect the latest Microsoft Fabric portal UI.
-- Validated the updated **Set alert** workflow and **Save to dashboard** experience.
-- Verified the **Materialized lake view** option and ensured all changes align with the current Microsoft Fabric experience.
-- Performed end-to-end validation of the lab after incorporating all updates.
-
+- Performed end-to-end validation of the lab to ensure all tasks and exercises execute successfully without issues.
+- Verified that all lab instructions are accurate, sequential, and aligned with the current Microsoft Fabric portal experience.
+- Validated all portal UI changes and confirmed that the screenshots accurately reflect the latest interface.
+- Tested all newly introduced features, workflows, and portal updates incorporated as part of this release.
+- Verified that all resource deployments, configurations, and validation steps complete successfully and produce the expected outcomes.
+- Confirmed that all hyperlinks, references, commands, and code snippets are accurate and function as expected.
+- Ensured the lab guide, screenshots, expected outputs, and validation steps remain consistent throughout the lab after incorporating the latest updates.
+- Verified that the overall learner experience is seamless and that no regressions were introduced by the recent changes.
 ---
 
 </details>
