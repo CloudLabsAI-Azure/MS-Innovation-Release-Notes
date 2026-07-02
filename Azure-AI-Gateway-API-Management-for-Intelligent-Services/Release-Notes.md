@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-This release updates the lab to use the latest supported GPT-5 family models in Azure AI Foundry. Deprecated models have been replaced to ensure continued compatibility with the latest Azure AI offerings and to prevent disruptions caused by upcoming model retirements.
+This release updates the lab to use the latest supported GPT-5 family models in Microsoft Foundry. Deprecated models have been replaced to ensure continued compatibility with the latest Azure AI offerings and to prevent disruptions caused by upcoming model retirements.
 
 ### Infrastructure Changes
 
