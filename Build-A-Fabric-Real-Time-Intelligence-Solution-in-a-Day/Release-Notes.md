@@ -16,6 +16,75 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-07-02</summary>
+
+## Release Date: 2026-07-02
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Fabric portal experience by refreshing screenshots, updating UI references, and improving instructional clarity. Added guidance for resizing the virtual machine view and updated dashboard-related workflows to reflect the latest Fabric UI.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Added the **Resize the Virtual Machine View** section to the **Getting Started** page.
+- Improved overall instructional clarity and aligned the lab guide with the latest Microsoft Fabric portal experience.
+
+### Screenshot Updates
+
+- **Getting Started**
+  - Added the **Resize the Virtual Machine View** section.
+
+- **Exercise 2**
+  - **Task 4 – Point 2:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 7:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 9:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 12:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 14:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 19:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+  - **Task 4 – Point 23:**
+    - Updated the screenshot to reflect the newly added **Set alert** option.
+
+- **Exercise 3**
+  - **Task 2 – Point 1:**
+    - Updated the upload file screenshot to include the new **Materialized lake view** option.
+  - **Task 2 – Point 2:**
+    - Updated the screenshot by masking the visible ID.
+  - **Task 3 – Point 1:**
+    - Updated the upload file screenshot to include the new **Materialized lake view** option.
+  - **Task 4 – Point 10:**
+    - Updated the screenshot to reflect the **Save to dashboard** option, replacing **Pin to dashboard**.
+  - **Task 4 – Point 11:**
+    - Updated the screenshot to reflect the **Save to dashboard** option, replacing **Pin to dashboard**.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-02
+
+### Testing Scope
+
+- Validated the updated instructions and screenshots across the lab.
+- Verified the newly added **Resize the Virtual Machine View** section.
+- Confirmed all updated screenshots reflect the latest Microsoft Fabric portal UI.
+- Validated the updated **Set alert** workflow and **Save to dashboard** experience.
+- Verified the **Materialized lake view** option and ensured all changes align with the current Microsoft Fabric experience.
+- Performed end-to-end validation of the lab after incorporating all updates.
+
+---
+
+</details>
+
 <details>
   <summary>2026-06-16</summary>
 
