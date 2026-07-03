@@ -15,6 +15,54 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 
+<details>
+  <summary>2026-06-30</summary>
+
+## Release Date: 2026-06-30
+ 
+### Summary of Changes
+
+- Updated the architecture overview and refreshed all lab screenshots to align with the latest Visual Studio Code and GitHub Copilot user interface. Improved component descriptions in the Getting Started section for better learner understanding.
+
+### Infrastructure Changes
+
+- No infrastructure changes.
+
+### Content Changes
+
+- **Getting Started:**  
+
+  1. Added an updated architecture diagram aligned with the solution architecture description.
+  2. Expanded the explanation of architecture components to provide additional context and clarity.
+
+- **Exercise 1** : 
+
+  1. Refreshed GitHub Copilot chat window screenshots across all tasks to reflect the current Visual Studio Code experience.
+  2. Updated screenshots to capture minor option and terminology changes within the GitHub Copilot chat interface.
+  3. Improved instructional clarity by ensuring screenshots accurately match the current workflow.
+
+
+### Screenshot Updates
+
+- Refreshed all Visual Studio Code screenshots across the lab.
+- Updated GitHub Copilot chat window screenshots to reflect the latest UI.
+- Replaced screenshots impacted by option and terminology changes within the chat experience.
+- Added the updated architecture diagram in the Getting Started section.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-29
+
+### Testing Scope 
+
+End-to-end validation of the complete lab guide, including the Getting Started section, architecture diagram and component descriptions, all task instructions, Visual Studio Code workflows, GitHub Copilot chat interactions, refreshed screenshots, hyperlink validation, instructional sequencing, and overall content formatting to ensure alignment with the current user interface and expected learner experience.
+
+---
+</details>
+
+<details>
+  <summary>2026-05-25</summary>
+
 ## Release Date: 2026-05-25
  
 ### Summary of Changes
@@ -28,7 +76,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 ### Content Changes
 
 - **Minor updates**:
-- 
+
   - Added notes to cancel the pop-ups.
 
 ### Screenshot Updates
@@ -45,9 +93,10 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 - Performed end-to-end testing of all lab tasks to ensure alignment with instructions.
 
 ---
+</details>
 
 <details>
-  <summary>2026-05-25</summary>
+  <summary>2026-04-20</summary>
 
 ## Release Date: 2026-04-20
  
@@ -80,6 +129,7 @@ N/A
 - Reviewed the lab guide and rendering as well
 
 ---
+</details>
 
 <details>
   <summary>2026-04-01 - Onboarding</summary>

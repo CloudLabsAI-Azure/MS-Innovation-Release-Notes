@@ -16,6 +16,69 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-30</summary>
+
+## Release Date: 2026-06-30
+
+### Summary of Changes
+
+Updated the lab infrastructure by migrating Microsoft Foundry model deployments from gpt-4o/gpt-4o Mini to gpt-5.4/gpt-5.4 Mini and implementing GitHub SSO authentication. Enhanced the lab experience by updating content, adding GitHub sign-in guidance, correcting minor issues, aligning instructions with the latest UI, and refreshing screenshots to reflect current workflows and platform changes.
+
+### Infrastructure Changes
+
+- Updated the Microsoft Foundry model deployments by replacing the deprecated gpt-4o and gpt-4o Mini models with gpt-5.4 and gpt-5.4 Mini.
+- Implemented GitHub SSO authentication for user sign-in and access management.
+
+### Content Changes
+
+* Added additional guidance on the Getting Started page to help users resize the virtual machine view for an improved lab experience.
+* Added a **Login to GitHub** step on the Getting Started page to streamline initial lab access.
+* In **Lab 8**, removed the final screenshot and redundant closing content from the last step to improve content flow and eliminate unnecessary end-of-lab references.
+* In **Lab 5, Task 2, Steps 13–18**, added **Login to GitHub** instructions to support users who are not already authenticated.
+* In **Lab 5, Task 1, Step 12**, refined the instructional text to improve accuracy and readability.
+* In **Lab 4**, updated the **Task 1** title for improved clarity and consistency.
+* In **Lab 5, Task 2, Step 20**, revised the content to align with the GitHub SSO authentication workflow.
+* In **Lab 4, Task 1, Step 4**, updated the instructional text to improve content accuracy.
+* In **Lab 4, Task 3**, refined the content to address documentation inconsistencies.
+* In **Lab 4, Task 3, Step 5**, updated the instructions to align with the latest UI experience.
+* In **Lab 4, Task 3, Step 6**, improved the wording for greater clarity and consistency.
+* In **Lab 4, Task 3, Step 13**, added step numbering to align the instructions with the visual workflow shown in the screenshot.
+* In **Lab 4, Task 4, Step 1**, refined the language and sentence structure to improve readability.
+* In **Lab 5, Task 2, Steps 45 and 46**, updated the GitHub username references to reflect the current configuration.
+* In **Lab 5, Task 6, Step 23**, revised the content to align with the latest UI updates.
+* In **Lab 4, Task 3, Step 2**, updated the model reference from **gpt-4o** to **gpt-5.4** to align with the current deployment configuration.
+
+### Screenshot Updates
+
+* Added a screenshot demonstrating how to resize the virtual machine view for a more user-friendly experience.
+* Added screenshots for the GitHub sign-in process.
+* In **Lab 3, Task 2, Step 4**, updated the screenshot for improved clarity.
+* In **Lab 4, Task 3, Step 5**, updated the screenshot to reflect the latest UI changes.
+* In **Lab 4, Task 3, Step 6**, updated the screenshot to reflect the latest UI changes.
+* In **Lab 4, Task 3, Step 7**, updated the screenshot to better align with the accompanying content.
+* In **Lab 5, Task 2, Steps 13–18**, added screenshots for the GitHub sign-in process.
+* In **Lab 5, Task 2, Steps 20 and 21**, added screenshots to guide users through creating a GitHub repository.
+* In **Lab 5, Task 6, Step 23**, updated the screenshot to reflect the latest UI changes.
+* In **Lab 5, Task 7, Step 16**, updated the screenshot to reflect the latest UI changes.
+* In **Lab 4, Task 2, Steps 6 and 7**, updated the screenshots to reflect the model change from **gpt-4o** to **gpt-5.4**.
+* In **Lab 4, Task 3, Step 2**, updated the screenshot to align with the latest model configuration.
+* In **Lab 4, Task 3, Step 4**, updated the screenshot to reflect the latest model selection.
+* In **Lab 4, Task 3, Steps 6, 7, and 8**, updated the screenshots for improved clarity and alignment with the content.
+* In **Lab 4, Task 4, Step 4**, updated the screenshot for improved clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-30
+
+### Testing Scope
+
+- Completed end-to-end quality assurance of the lab, reviewing user scenarios, deployment flows, documentation updates, and overall lab readiness.
+
+---
+</details>
+
+
+<details>
   <summary>2026-06-02</summary>
 
 ## Release Date: 2026-06-02

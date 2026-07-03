@@ -15,6 +15,60 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+<summary>2026-07-01</summary>
+
+## Release Date: 2026-07-01
+
+### Summary of Changes
+
+The Azure Virtual Desktop lab has been updated to align with the latest Microsoft platform experience and documentation standards. This release introduces Windows App terminology updates, refreshed Azure portal screenshots, improved instructional clarity, enhanced formatting consistency, streamlined authentication workflows, and expanded lab content for Microsoft Entra ID Domain Join and Azure Migrate scenarios.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Replaced all references to **Remote Desktop Client** with **Windows App** across the lab documentation.
+- Standardized terminology throughout the lab by replacing legacy **Windows Virtual Desktop** references with **Azure Virtual Desktop**.
+- Refined Azure Virtual Desktop deployment and configuration instructions using improved formatting, structured tables, and clearer step-by-step guidance.
+- Updated image references, corrected formatting inconsistencies, and resolved spacing and indentation issues throughout the guide.
+- Enhanced **Lab 14 – Microsoft Entra ID Domain Join** with an expanded business scenario, dedicated lab objectives, and improved domain join guidance.
+- Expanded **Lab 13 – Migration Tools** from a basic informational exercise into a comprehensive Azure Migrate reference guide covering workload assessment and migration scenarios.
+- Removed outdated device management prompts from the **Screen Capture Protection** and **Multimedia Redirection** labs to align with current Azure and Windows App authentication experiences.
+- Improved **FSLogix** and **Application Groups** exercises with updated screenshots, refined PowerShell documentation, enhanced session settings guidance, and clearer credential entry workflows.
+- Updated **Lab 1 – Create Host Pool** with markdown table-based configuration guidance, simplified validation notes, updated Windows 11 image references, and clarified OS disk configuration instructions.
+- Updated **Lab 2 – Monitoring with Azure Monitor** by adding missing screenshots for Data Collection Rule creation and refining deployment guidance.
+- Enhanced **Lab 6 – Setup FSLogix** with detailed storage account configuration steps, security setting explanations, and improved navigation guidance.
+- Streamlined **Lab 8 – Auto-Scaling** by removing outdated notes, consolidating role assignment instructions, and improving content organization.
+- Improved **Lab 9 – Cost Optimizations** with additional portal screenshots, clearer role assignment workflows, and standardized instructional language.
+
+### Screenshot Updates
+
+#### Major Updates
+
+- Updated screenshots across multiple labs to reflect the latest Azure portal and Windows App user experience.
+- Added new screenshots for Azure Monitor Data Collection Rule configuration workflows.
+- Added updated screenshots for FSLogix, Application Groups, and Azure Virtual Desktop management tasks.
+- Added new visual references for Azure portal launch, role assignment validation, and configuration workflows.
+
+#### Improvements
+
+- Updated screenshot references throughout the guide for consistency and accuracy.
+- Improved screenshot alignment with instructional steps to provide a smoother learner experience.
+- Ensured all visual references reflect the current Azure portal interface and navigation experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-01
+
+### Testing Scope
+
+Conducted end-to-end validation of the Azure Virtual Desktop lab, verified updated instructional content, validated Windows App workflow changes, reviewed screenshot accuracy, confirmed formatting consistency, and tested all modified exercises for instructional correctness and learner readiness.
+
+---
+</details>
+<details>
   <summary>2026-05-22</summary>
 
 ## Release Date : 2026-05-22

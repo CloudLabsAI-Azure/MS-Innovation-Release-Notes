@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-29</summary>
+
+## Release Date: 2026-06-29
+
+### Summary of Changes
+
+This release updates the lab to use the latest supported GPT-5 family models in Microsoft Foundry. Deprecated models have been replaced to ensure continued compatibility with the latest Azure AI offerings and to prevent disruptions caused by upcoming model retirements.
+
+### Infrastructure Changes
+
+- Updated Azure AI model deployments to use the latest supported GPT-5 family models.
+
+### Content Changes
+
+Replaced deprecated model references throughout the lab guide.
+
+- Removed references to **gpt-4o-mini**, **gpt-4.1-mini**, **gpt-4.1**, **o4-mini**, and **deepseek-r1**.
+- Added references to **gpt-5**, **gpt-5.1**, **gpt-5-mini**, and **gpt-5-nano**.
+- Updated deployment instructions to align with the latest Microsoft Foundry supported models.
+
+### Screenshot Updates
+
+- Updated screenshots to reflect the latest GPT-5 model selections and Microsoft Foundry deployment experience, where applicable.
+
+### Testing Notes
+
+- **Testing Date:** 2026-06-29
+
+### Testing Scope
+
+Validated all model deployments using the updated GPT-5 family models, verified end-to-end lab functionality, and confirmed that the updated instructions and model references work as expected with the current Microsoft Foundry experience.
+
+---
+</details>
+
+<details>
   <summary>2026-06-08</summary>
 
 ## Release Date: 2026-06-08

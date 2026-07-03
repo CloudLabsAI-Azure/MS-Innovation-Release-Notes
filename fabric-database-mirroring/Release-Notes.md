@@ -20,6 +20,99 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-06-30</summary>
+
+## Release Date: 2026-06-30
+
+### Summary of Changes
+
+Enhanced the Microsoft Fabric Mirroring hands‑on labs documentation across the repository: added business "Scenario" sections, corrected and standardized step numbering, clarified procedural instructions (SAMI, connections, query editors, semantic models, and reporting), refreshed and added screenshots to reflect current UI, and improved the Getting Started guidance (VM zoom/resize). These are documentation-only updates aimed at improving learner clarity and reducing confusion during lab execution.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Getting Started
+  - Reworked the getting-started page to include an explicit "Lab Scenario" section and clearer "Lab Overview" headings.
+  - Added step-by-step guidance for VM view resizing and zoom controls (slider and zoom icon).
+  - Replaced an environment screenshot with an updated image reflecting the current lab UI.
+
+- Lab 01 (Azure SQL Database)
+  - Added a "Scenario" section describing a business use case for mirroring Azure SQL Database into Fabric.
+  - Fixed inconsistent step numbering (several numbered "1." entries corrected to sequential steps).
+  - Clarified SAMI activation verification, Query Editor usage, and SSMS connection steps.
+  - Replaced an outdated Query Editor screenshot and updated image references.
+
+- Lab 02 (Azure Cosmos DB)
+  - Added a "Scenario" section describing a Cosmos DB mirroring use case.
+  - Clarified "Create new" vs "Use existing" container flow and corrected numbering.
+  - Clarified visual query and view save flows; added guidance for semantic model creation and Power BI report steps.
+  - Replaced several screenshots to match the current UI and notebook/visual query flows.
+
+- Lab 03 (Azure SQL Managed Instance)
+  - Added a "Scenario" section for mirroring from SQL Managed Instance.
+  - Renumbered and reworded SSMS / table creation / sample data insertion steps for consistency.
+  - Updated query monitoring screenshots and clarified where to check replication/ingestion status.
+
+- Lab 04 (Snowflake)
+  - Added a "Scenario" section explaining Snowflake → Fabric mirroring and Iceberg/Lakehouse integration.
+  - Clarified OneLake delegated settings, creating OneLake shortcuts, and verifying metadata locations.
+  - Updated step wording and image references for the OneLake and Lakehouse workflows.
+
+- Lab 05 (Open Mirrored DBs / Landing Zone)
+  - Added a "Scenario" section for ingesting change data into Fabric from a landing zone.
+  - Improved step sequencing for creating an open mirrored DB and monitoring ingest/replication.
+
+- Lab 06 (PostgreSQL)
+  - Retitled header to "Lab 06" and added a "Scenario" section for Azure Database for PostgreSQL mirroring.
+  - Clarified SAMI enablement, PGAdmin connection/query steps, and semantic model/report-building steps.
+  - Updated screenshots for report creation and formatting guidance.
+
+### Screenshot Updates
+
+Updated screenshots to reflect current Azure / Microsoft Fabric UI and to improve clarity of step instructions.
+
+- instructions/media/GSenvnew.png
+  - New environment overview image used on the Getting Started page (replaces prior environment screenshot).
+
+- instructions/media/Lab-01/L1T1S11new.png
+  - Replaced Query Editor screenshot in Lab-01 to match current UI and show SAMI verification output.
+
+- instructions/media/Lab-02/3015new.png
+  - Replaced Cosmos DB Keys screenshot to show the current key reveal UI.
+
+- instructions/media/Lab-02/new1.png
+  - Replaced notebook/Lakehouse binding screenshot for improved visibility of binding steps.
+
+- instructions/media/Lab-02/nsm.png
+  - New semantic model pane screenshot used in Lab-02 to show model creation/selection.
+
+- instructions/media/Lab-03/nsq.png
+  - Updated SQL query toolbar screenshot used in Lab-03 for the ingestion/replication check step.
+
+- instructions/media/Labresize.png
+  - New Getting Started image showing the VM/Lab Guide pane slider and the three-vertical-dots UI element.
+
+- instructions/media/Labzoom.png
+  - New Getting Started image showing the A↕ zoom control and where to adjust lab guide zoom.
+
+- instructions/media/No.png
+  - Small UI screenshot used in the Getting Started page showing the "Stay signed in?" choice (used as part of the sign-in guidance).
+
+      
+### Testing Notes
+
+- **Testing Date**: 2026-06-30
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+<details>
   <summary>2026-04-20</summary>
 
 ## Release Date: 2026-04-20
