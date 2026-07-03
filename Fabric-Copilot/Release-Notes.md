@@ -16,6 +16,58 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-03</summary>
+
+## Release Date: 2026-07-03
+
+### Summary of Changes
+
+Enhanced the lab guide with improved UI clarity and updated visual references across multiple exercises. Added new instructional elements on the Getting Started page, updated Copilot functionality screenshots, and refined save procedures for better user guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**
+  - Added icon fix to correct the lab guide zoom-in/out icon to match the screenshot
+  - Added instructions and image on how to resize the virtual machine view
+  - Added clarification note that the Microsoft Fabric portal defaults to the Power BI page upon sign-in
+
+- **Exercise 3 - Task 3**
+  - Added image for file save option highlighting how to save report changes to the workspace
+
+### Screenshot Updates
+
+- **Getting Started Page**
+  - Icon Fix: Corrected the lab guide zoom-in/out icon
+  - VM Resizing: Added screenshot for virtual machine view resizing
+
+- **Exercise 2 - Task 1 - Step 1**
+  - Replaced outdated Lakehouse > Get Data image to reflect current dropdown options
+
+- **Exercise 2 - Task 2**
+  - Updated Copilot screenshot to show current behavior (generating code in the notebook cell with options to keep or run it)
+  - Updated reference URL in Task 2 note
+
+- **Exercise 3 - Task 3**
+  - Added image highlighting the file option used to save report changes to the workspace
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-03
+
+### Testing Scope
+
+- End-to-end lab testing completed successfully with all steps in correct sequence
+- Screenshots verified against current Fabric and Power BI UI
+- All UI updates validated for accuracy and clarity
+- All links tested and functional
+
+---
+</details>
+<details>
   <summary>2026-06-18</summary>
 
 ## Release Date: 2026-06-18
