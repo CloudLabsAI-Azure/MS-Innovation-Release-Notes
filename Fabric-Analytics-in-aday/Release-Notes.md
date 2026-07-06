@@ -18,6 +18,62 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-06</summary>
+
+## Release Date: 2026-07-06
+
+### Summary of Changes
+
+- Updated multiple Microsoft Fabric lab guides to align with the latest portal experience.
+- Improved learner guidance by refining instructions, updating screenshots, correcting numbering, and documenting newly introduced Microsoft Fabric item types.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 1**
+  - Highlighted the **Email** and **Password** fields on the Getting Started page.
+
+- **Lab 2**
+  - **Task 1 Step 11:** Added a note instructing learners to navigate back to the **Fabric Home** page.
+  - **Task 7 Step 2:** Added an explanation for the **Sample Lakehouse** item type.
+  - **Task 9 Step 2:** Added an explanation for the **Azure Databricks Storage** item type.
+
+- **Lab 5**
+  - Refined instructions, numbering, formatting, and corrected minor spelling/rendering issues throughout the lab.
+
+### Screenshot Updates
+
+- **Lab 2**
+  - **Task 7 Step 2:** Updated the screenshot for the **Sample Lakehouse** item.
+  - **Task 9 Step 2:** Updated the screenshot for the **Azure Databricks Storage** item.
+
+- **Lab 4**
+  - **Task 4 Step 1:** Replaced the screenshot with corrected numbering.
+
+- **Lab 5**
+  - **Task 2 Step 6:** Added a screenshot for the **Run** option in the Microsoft Fabric Pipeline.
+  - **Task 13 Step 1:** Added a screenshot demonstrating the **Run** option.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-06
+
+  Testing activities were carried out on the same date to validate the latest content, screenshots, navigation flow, and Microsoft Fabric UI consistency.
+
+### Testing Scope
+
+- Verified all updated instructions against the latest Microsoft Fabric portal.
+- Validated the newly added guidance for **Sample Lakehouse** and **Azure Databricks Storage**.
+- Confirmed all updated screenshots align with the corresponding steps.
+- Verified screenshot numbering and navigation flow across the affected labs.
+- Reviewed formatting, rendering, and instruction clarity throughout the updated content.
+
+</details>
+
+<details>
   <summary>2026-06-17</summary>
 
 ## Release Date: 2026-06-17
