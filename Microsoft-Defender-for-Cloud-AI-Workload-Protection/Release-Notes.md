@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-06</summary>
+
+## Release Date: 2026-07-06
+
+### Summary of Changes
+
+Updated Lab 4 by replacing Azure OpenAI with Microsoft Foundry, adding Microsoft Defender for Cloud recommendation validation for the Foundry resource, and refreshing the content and screenshots to reflect the latest portal experience.
+
+### Infrastructure Changes
+
+- Replaced Azure OpenAI Resource with Microsoft Foundry to support new Foundry portal UI.
+
+### Content Changes
+
+* **Lab 4, Task 1, Step 4** – Updated the instruction to verify that the **AI Services** setting is turned **On**.
+* **Lab 4, Task 2, Step 2** – Updated the note to provide additional guidance for users.
+* **Lab 4, Task 3, Step 9** – Updated the instructions by replacing **Security Alerts** with **Recommendations** for the **Microsoft Foundry** resource.
+* **Lab 4, Task 4, Step 6** – Updated the instructions to guide users through creating **Sample Alerts**.
+
+### Screenshot Updates
+
+* **Lab 4, Task 6, Step 2** – Updated the screenshot to display only the **Sample Alerts** section.
+* **Lab 4, Task 4, Step 6** – Added a screenshot to guide users through creating **Sample Alerts**.
+* **Lab 4, Task 3, Step 6** – Updated the screenshot to reflect the latest output.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-06
+
+### Testing Scope
+
+- Validated the updates made to Lab 4, including the migration from Azure OpenAI to Microsoft Foundry, verification of Microsoft Defender for Cloud Recommendations, and the Sample Alerts workflow. Confirmed that the updated instructions, notes, and screenshots accurately reflect the latest Microsoft Foundry portal experience and function as expected during end-to-end testing.
+
+---
+</details>
+
+
+<details>
   <summary>2026-06-30</summary>
 
 ## Release Date: 2026-06-30
