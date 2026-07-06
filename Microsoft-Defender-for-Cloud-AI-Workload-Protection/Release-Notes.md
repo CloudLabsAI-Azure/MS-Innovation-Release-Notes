@@ -47,7 +47,7 @@ Updated Lab 4 by replacing Azure OpenAI with Microsoft Foundry, adding Microsoft
 
 ### Testing Scope
 
-- Validated the updates made to Lab 4, including the migration from Azure OpenAI to Microsoft Foundry, verification of Microsoft Defender for Cloud Recommendations, and the Sample Alerts workflow. Confirmed that the updated instructions, notes, and screenshots accurately reflect the latest Microsoft Foundry portal experience and function as expected during end-to-end testing.
+- Validated the updates made to Lab 4, including the updating from Azure OpenAI model creation to Microsoft Foundry, verification of Microsoft Defender for Cloud Recommendations, and the Sample Alerts workflow. Confirmed that the updated instructions, notes, and screenshots accurately reflect the latest Microsoft Foundry portal experience and function as expected during end-to-end testing.
 
 ---
 </details>
