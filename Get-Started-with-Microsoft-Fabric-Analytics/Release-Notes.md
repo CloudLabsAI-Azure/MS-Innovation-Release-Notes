@@ -14,7 +14,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-07-02</summary>
 
+## Release Date: 2026-07-02
+
+### Summary of Changes
+
+Updated the Microsoft Fabric lab to align with the latest Fabric onboarding experience, improve instructional clarity, refresh screenshots, and enhance workspace access configuration guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the **Fabric trial activation** workflow to reflect the current **Start 60-day free Pro trial** experience.
+- Added guidance for configuring **workspace access** and assigning **Admin permissions** to the required service principal.
+- Introduced a new section explaining how to **resize the Virtual Machine view** for an improved lab experience.
+- Enhanced step-by-step instructions with clearer formatting and numbered navigation references.
+- Updated image references and corrected formatting inconsistencies across the lab guide.
+
+### Screenshot Updates
+
+- Added new screenshots for service principal configuration (**L1T1S11.png**, **L1T1S12.png**).
+- Added a new screenshot for the **New shortcut** data source selection experience (**L1T4S2.png**).
+- Refreshed 16+ screenshots to reflect the latest Microsoft Fabric UI and workflows.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-02
+
+### Testing Scope
+
+Completed end-to-end validation of the lab, including the updated trial activation process, workspace access configuration, screenshot verification, instructional flow, and documentation consistency.
+
+---
+</details>
 <details>
 <summary>2026-06-23</summary>
  
