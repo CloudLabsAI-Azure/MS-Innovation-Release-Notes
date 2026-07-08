@@ -23,17 +23,17 @@ This Page contains detailed notes about the latest updates and modifications mad
  
 ### Summary of Changes
  
-Updated the lab to support the latest Microsoft Azure AI Foundry experience by replacing Azure OpenAI references, aligning the content with the latest Visual Studio Code UI, enhancing user guidance, and refreshing screenshots to accurately reflect the current workflow and portal experience.
+Updated the lab to support the latest Microsoft Foundry experience by replacing Azure OpenAI references, aligning the content with the latest Visual Studio Code UI, enhancing user guidance, and refreshing screenshots to accurately reflect the current workflow and portal experience.
  
 ### Infrastructure Changes
  
-- Replaced the Azure OpenAI resource with Microsoft Azure AI Foundry since the Azure OpenAI does not support new foundry portal experience.
+- Replaced the Azure OpenAI resource with Microsoft Foundry since the Azure OpenAI does not support new foundry portal experience.
  
 ### Content Changes
 
 * Added a **Resize the virtual machine view** section to the **Getting Started** page to improve the overall user experience.
 * **Exercise 1, Task 3, Steps 5 and 11; Task 4, Step 1** – Updated the instructions and note to align with the latest **Visual Studio Code** UI and improved content clarity.
-* **Exercise 2, Task 2, Steps 2, 6–11** – Replaced references to **Azure OpenAI** with **Microsoft Azure AI Foundry**.
+* **Exercise 2, Task 2, Steps 2, 6–11** – Replaced references to **Azure OpenAI** with **Microsoft Foundry**.
 * **Exercise 4, Task 1, Step 10** – Corrected a typographical error.
 * **Exercise 4, Task 2, Step 1; Task 3, Step 2; Exercise 7, Task 2, Step 5** – Updated the instructions for launching a new terminal to align with the latest **Visual Studio Code** experience.
 
@@ -41,7 +41,7 @@ Updated the lab to support the latest Microsoft Azure AI Foundry experience by r
 
 * Added a screenshot for the **Resize the virtual machine view** section on the **Getting Started** page.
 * **Exercise 1, Task 3, Step 5; Task 4, Steps 1–2** – Updated screenshots to align with the latest **Visual Studio Code** UI and improve clarity.
-* **Exercise 2, Task 1, Steps 2 and 13; Task 2, Steps 2, 6–11; Task 3** – Updated screenshots to reflect the latest **Visual Studio Code** UI and replaced **Azure OpenAI** with **Microsoft Azure AI Foundry** where applicable.
+* **Exercise 2, Task 1, Steps 2 and 13; Task 2, Steps 2, 6–11; Task 3** – Updated screenshots to reflect the latest **Visual Studio Code** UI and replaced **Azure OpenAI** with **Microsoft Foundry** where applicable.
 * **Exercise 3, Task 1, Step 1; Task 2, Step 1; Task 3, Step 1** – Updated screenshots to align with the latest **Visual Studio Code** UI.
 * **Exercise 4, Task 1, Steps 1, 8, and 10; Task 2, Step 1; Task 3, Step 2** – Updated screenshots to reflect the latest **Visual Studio Code** UI, GitHub repository view, and **Environment** tab.
 * **Exercise 5, Task 1, Step 10; Task 2, Steps 11 and 14** – Updated screenshots to align with the latest **Visual Studio Code** UI and lab workflow.
@@ -54,7 +54,7 @@ Updated the lab to support the latest Microsoft Azure AI Foundry experience by r
 
 ### Testing Scope
  
-- Validated the updated Microsoft Azure AI Foundry workflow, including the revised lab instructions, Visual Studio Code UI changes, terminal launch workflow, and the replacement of Azure OpenAI references with Microsoft Azure AI Foundry. Verified that the updated content and screenshots accurately reflect the latest portal experience and function correctly during end-to-end testing.
+- Validated the updated Microsoft Foundry workflow, including the revised lab instructions, Visual Studio Code UI changes, terminal launch workflow, and the replacement of Azure OpenAI references with Microsoft Foundry. Verified that the updated content and screenshots accurately reflect the latest portal experience and function correctly during end-to-end testing.
  
 </details>
 
@@ -455,7 +455,7 @@ N/A
 
 ### Content Changes
 
-- Instructions updated as per UI updates in Azure AI Foundry (Microsoft Foundry) Portal. 
+- Instructions updated as per UI updates in Microsoft Foundry Portal. 
 
 ### Screenshot Updates
 
