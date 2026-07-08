@@ -17,6 +17,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-07-07</summary>
+ 
+## Release Date: 2026-07-07
+ 
+### Summary of Changes
+ 
+Updated the lab to support the latest Microsoft Azure AI Foundry experience by replacing Azure OpenAI references, aligning the content with the latest Visual Studio Code UI, enhancing user guidance, and refreshing screenshots to accurately reflect the current workflow and portal experience.
+ 
+### Infrastructure Changes
+ 
+- Replaced the Azure OpenAI resource with Microsoft Azure AI Foundry since the Azure OpenAI does not support new foundry portal experience.
+ 
+### Content Changes
+
+* Added a **Resize the virtual machine view** section to the **Getting Started** page to improve the overall user experience.
+* **Exercise 1, Task 3, Steps 5 and 11; Task 4, Step 1** – Updated the instructions and note to align with the latest **Visual Studio Code** UI and improved content clarity.
+* **Exercise 2, Task 2, Steps 2, 6–11** – Replaced references to **Azure OpenAI** with **Microsoft Azure AI Foundry**.
+* **Exercise 4, Task 1, Step 10** – Corrected a typographical error.
+* **Exercise 4, Task 2, Step 1; Task 3, Step 2; Exercise 7, Task 2, Step 5** – Updated the instructions for launching a new terminal to align with the latest **Visual Studio Code** experience.
+
+### Screenshot Updates
+
+* Added a screenshot for the **Resize the virtual machine view** section on the **Getting Started** page.
+* **Exercise 1, Task 3, Step 5; Task 4, Steps 1–2** – Updated screenshots to align with the latest **Visual Studio Code** UI and improve clarity.
+* **Exercise 2, Task 1, Steps 2 and 13; Task 2, Steps 2, 6–11; Task 3** – Updated screenshots to reflect the latest **Visual Studio Code** UI and replaced **Azure OpenAI** with **Microsoft Azure AI Foundry** where applicable.
+* **Exercise 3, Task 1, Step 1; Task 2, Step 1; Task 3, Step 1** – Updated screenshots to align with the latest **Visual Studio Code** UI.
+* **Exercise 4, Task 1, Steps 1, 8, and 10; Task 2, Step 1; Task 3, Step 2** – Updated screenshots to reflect the latest **Visual Studio Code** UI, GitHub repository view, and **Environment** tab.
+* **Exercise 5, Task 1, Step 10; Task 2, Steps 11 and 14** – Updated screenshots to align with the latest **Visual Studio Code** UI and lab workflow.
+* **Exercise 6, Task 1, Steps 21, 24, and 26; Task 2, Step 2** – Updated screenshots to align with the latest **Visual Studio Code** UI.
+* **Exercise 7, Task 1, Step 6; Task 2, Step 5** – Updated screenshots to align with the latest **Visual Studio Code** UI.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-07-07
+
+### Testing Scope
+ 
+- Validated the updated Microsoft Azure AI Foundry workflow, including the revised lab instructions, Visual Studio Code UI changes, terminal launch workflow, and the replacement of Azure OpenAI references with Microsoft Azure AI Foundry. Verified that the updated content and screenshots accurately reflect the latest portal experience and function correctly during end-to-end testing.
+ 
+</details>
+
+<details>
 <summary>2026-06-16</summary>
  
 ## Release Date: 2026-06-16
@@ -30,6 +72,7 @@ Minor updates were implemented across the guide, including clearer and more accu
 N/A
  
 ### Content Changes
+
 - Updated outdated GitHub Copilot UI screenshots.
 - Corrected step numbering and step references in multiple sections.
 - Added instructional notes to provide better guidance and improve learner experience.
@@ -44,7 +87,6 @@ N/A
 ### Testing Notes
  
 - **Testing Date**: 2026-06-16
-  Testing activities were carried out on the same date to validate the content, screenshots, and feature behavior.
  
 ### Testing Scope
  
