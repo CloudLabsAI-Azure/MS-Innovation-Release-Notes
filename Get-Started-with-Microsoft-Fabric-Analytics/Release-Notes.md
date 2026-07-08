@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-07-06</summary>
+
+## Release Date: 2026-07-06
+
+### Summary of Changes
+
+Updated the Get Started with Microsoft Fabric Analytics lab guides by aligning instructions with the latest Microsoft Fabric portal experience, improving learner guidance through refined workflows and troubleshooting information, and refreshing screenshots to match the current UI.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated Fabric trial activation, licensing, sign-in, and Manage Access guidance, refreshed screenshots, and removed outdated content to align with the latest Microsoft Fabric experience.
+- Enhanced notebook, file upload, pipeline creation, data warehouse access, connection configuration, and cross-database query instructions while streamlining the overall learner flow.
+- Added troubleshooting guidance for SQL execution and Power BI responsiveness, improved view creation and validation steps, and enhanced verification workflows with updated screenshots.
+
+### Screenshot Updates
+
+- Refreshed screenshots across Lab 01, Lab 02, and Lab 06 to align with the latest Microsoft Fabric portal experience.
+- Added new screenshots covering Manage Access configuration, view creation workflows, SQL query execution, notebook creation, data warehouse access, and connection setup experiences.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-06
+
+### Testing Scope
+
+- Performed end-to-end validation of the complete lab experience.
+- Verified all updated instructions, screenshots, and image references.
+- Validated Fabric trial activation, workspace configuration, notebook creation, pipeline execution, connection setup, SQL query execution, and view creation workflows.
+- Confirmed formatting consistency and guide rendering across all updated lab documents.
+
+</details>
+<details>
 <summary>2026-06-23</summary>
  
 ## Release Date: 2026-06-23
