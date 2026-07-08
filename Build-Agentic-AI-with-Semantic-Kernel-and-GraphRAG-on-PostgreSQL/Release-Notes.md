@@ -20,6 +20,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2026-06-18</summary>
 
+## Release Date: 2026-07-01
+
+### Summary of Changes
+
+This release updates the lab content to align with the latest Azure experience and model configuration requirements. Changes include refreshed screenshots, improved onboarding instructions, and updates to the notebook configuration to use the GPT 5.4 model. Validation was completed through end-to-end testing.
+
+### Infrastructure Changes
+
+1. Updated lab notebook configuration to use the GPT 5.4 model.
+2. Completed validation of automation and lab execution using the GPT 5.4 model configuration.
+
+### Content Changes
+
+- **Getting Started**: Added guidance to help learners adjust their screen layout before beginning the lab for a smoother experience.
+- **Lab 01** : Refreshed outdated screenshots to match the current Azure portal experience.
+- **Lab 02** : Updated the lab.ipynb file to replace the previous model configuration with **GPT 5.4**.
+- Verified all instructions and outputs using the updated model.
+
+### Screenshot Updates
+
+- Updated Azure portal screenshots in **Lab 01** to reflect the latest user interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-06-18  
+  Validation was performed to ensure all updated screenshots accurately reflected the current PostgreSQL Query Results terminal UI. Content formatting, emoji rendering, and image updates were also verified.
+
+### Testing Scope
+
+- The lab was tested end-to-end using the updated GPT 5.4 model configuration. Validation included notebook execution, Azure portal navigation, updated screenshots, revised Getting Started instructions, and successful completion of all lab tasks without workflow or formatting issues.
+
+</details>
+
+<details>
+  <summary>2026-06-18</summary>
+
 ## Release Date: 2026-06-18
 
 ### Summary of Changes
