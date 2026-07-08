@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-06</summary>
+
+## Release Date: 2026-07-06
+
+### Summary of Changes
+
+Performed end-to-end functioning of the lab after incorporating updates required for the latest VS Code UI changes and revised instruction flow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab exercises to include the latest GitHub Copilot releases and updates.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-06
+
+### Testing Scope 
+
+- Performed end to end lab testing. Updated the lab guide for better clarity.
+
+---
+</details>
+
+<details>
   <summary>2026-04-10</summary>
 
 ## Release Date: 2026-04-10
