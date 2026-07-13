@@ -18,6 +18,48 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 # Release Notes
 
 <details>
+  <summary>2026-07-10</summary>
+
+## Release Date: 2026-07-10
+
+### Summary of Changes
+
+* Added resize virtual machine view screenshot with accompanying content for improved user guidance.
+* Removed non-functional validations to streamline lab experience and reduce user friction.
+* Verified all functional validations and tested inject keys functionality.
+* Validated complete lab flow and end-to-end learner experience.
+
+### Infrastructure Changes
+
+* N/A
+
+### Content Changes
+
+* Updated and refined instructions in Challenge 1 to support new Foundry options for model deployment and agent creation.
+* Removed non-functional validations to improve lab reliability and user experience.
+* Updated Challenge 1 instructions to align with new Foundry options for model deployment and agent creation.
+
+### Screenshot Updates
+
+* Added new resize virtual machine view screenshot with descriptive content.
+
+### Testing Notes
+
+* **Testing Date**: 2026-07-10
+
+### Testing Scope
+
+* End-to-end validation of all lab challenges and complete lab flow.
+* Verification of functional validations and inject keys functionality.
+* Testing of Challenge 1 with updated Foundry options for model deployment and agent creation.
+* Validation of new screenshot assets and visual consistency.
+* Confirmation of removed non-functional validations and improved lab reliability.
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-03</summary>
 
 ## Release Date: 2026-06-03
