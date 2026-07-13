@@ -17,6 +17,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-13</summary>
+
+## Release Date: 2026-07-13
+
+### Summary of Changes
+
+Minor updates were applied to the lab guide to align with the latest Microsoft Defender portal UI and improve the overall learner experience. The release includes updated screenshots, formatting corrections, workflow improvements and minor content fixes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated images in Task 1 referring to the latest Microsoft Defender portal UI. 
+- Updated the Getting Started page by fixing broken image references, restructuring heading levels, removing duplicate introductory content, updating the architecture diagram, and adding the missing Next button image.
+- Improved lab readability by correcting Markdown formatting and note styles.
+- Reordered Task 3 steps to follow the correct workflow (review YAML in VS Code before opening the Security Copilot portal).
+- Added new learner guidance for the VS Code welcome screen and corrected the lab file path (C:\LabFiles\).
+- Added troubleshooting notes for agent execution and activity generation to help learners recover from delayed responses.
+- Added a missing configuration step in Task 4 to select Global as the configuration target.
+- Updated terminology from Password to Temporary Access Pass to match the current authentication experience.
+
+### Screenshot Updates
+
+- Updated UI Screenshots:
+  - Replaced multiple screenshots across Task 1 to reflect the latest Microsoft Defender portal UI.
+  - Updated the Security Copilot agent creation screenshot in Task 2.
+  - Added a new screenshot for the Global Configuration Target selection in Task 4.
+  - Updated screenshots in Task 5 for Advanced Hunting navigation and KQL query results to match the latest portal experience.
+  - Updated the architecture diagram and fixed image rendering issues on the Getting Started page.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-12
+
+### Testing Scope 
+
+- End-to-end lab validation completed successfully, verified all updated workflow steps and instruction sequence. Confirmed all screenshots align with the current Microsoft Defender and Security Copilot portal UI, and verified all image references, formatting, and hyperlinks are functioning correctly.
+
+---
+</details>
+
+<details>
   <summary>2026-06-04</summary>
 
 ## Release Date: 2026-06-04
