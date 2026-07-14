@@ -17,6 +17,48 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ## Release Notes
 
 <details>
+  <summary>2026-07-11</summary>
+
+## Release Date: 2026-07-11
+
+### Summary of Changes
+
+- Improved the overall learner experience by refining instructions, enhancing content readability, adding prerequisite guidance, updating screenshots, and highlighting important notes and key information throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started**
+  - Added a **Prerequisites** section outlining the required knowledge and lab environment.
+  - Added Resize the Virtual Machine View with descriptive content.
+
+
+### Screenshot Updates
+
+- **Exercise 1**
+  - **Task 1 Step 5:** Updated screenshot to match the latest azure ui portal changes.
+
+- **Exercise 2**
+  - **Task 1 Step 5:** Updated screenshot to match the latest azure ui portal changes.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-07-11
+
+### Testing Scope 
+
+- Performed end-to-end validation of the lab environment and documentation.
+- Verified all updated instructions, notes, prerequisites, and navigation flow.
+- Validated the updated screenshot against the latest Microsoft Entra portal UI.
+- Confirmed formatting, rendering, highlighted content, and overall learner experience improvements.
+
+---
+</details>
+
+<details>
   <summary>2026-01-09</summary>
 
 ## Release Date: 2026-01-09
