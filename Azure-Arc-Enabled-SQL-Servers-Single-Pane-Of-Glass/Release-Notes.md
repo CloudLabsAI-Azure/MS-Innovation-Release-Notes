@@ -38,12 +38,9 @@ N/A
 
 ### Screenshot Updates
 
-- **Exercise 1**
-  - **Task 1 Step 5:** Updated screenshot to match the latest azure ui portal changes.
+- **Exercise 1 & 2**
+  - **Task 1 Step 5:** Updated screenshot to match the latest Azure UI portal changes.
 
-- **Exercise 2**
-  - **Task 1 Step 5:** Updated screenshot to match the latest azure ui portal changes.
-      
 ### Testing Notes
 
 - **Testing Date**: 2026-07-11
