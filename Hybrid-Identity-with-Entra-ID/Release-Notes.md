@@ -14,6 +14,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-07-10</summary>
+
+## Release Date: 2026-07-10
+
+### Summary of Changes
+
+- Improved the overall learner experience by refining instructions, enhancing content readability, adding prerequisite guidance, updating screenshots, and highlighting important notes and key information throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **All Lab Pages**
+  - Highlighted key terms in the **Lab Scenario**.
+
+- **Getting Started**
+  - Added a **Prerequisites** section outlining the required knowledge and lab environment.
+
+- **Lab 1** , **Lab 3** & **Lab 5**
+  - Highlighted important note points and key instruction text for better learner clarity.
+
+- **Lab 2**
+  - **Task 1 – Step 9:** Added a note indicating that the synchronization/configuration process may take few minutes.
+  - **Task 2 – Step 13:** Added a note explaining the expected error message and guidance when the feature is already enabled.
+  - **Task 3 – Step 12:** Refined the instructions for updating the password reset.
+  - Highlighted important information in note sections.
+
+- **Lab 4**
+  - **Task 3 – Step 3:** Refined the instruction for improved readability.
+
+### Screenshot Updates
+
+- **Lab 2**
+  - **Task 3 – Step 12:** Updated the password reset screenshot to reflect the latest Microsoft Entra UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-10
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab environment and documentation.
+- Verified all updated instructions, notes, prerequisites, and navigation flow.
+- Validated the updated screenshot against the latest Microsoft Entra portal UI.
+- Confirmed formatting, rendering, highlighted content, and overall learner experience improvements.
+
+---
+</details>
+
 <details>
   <summary>2026-06-24</summary>
 
