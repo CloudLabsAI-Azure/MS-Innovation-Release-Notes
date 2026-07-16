@@ -16,6 +16,83 @@ This **page contains** detailed notes about the latest updates and modifications
 # Release Notes
 
 <details>
+<summary>2026-07-13</summary>
+
+### Release Date: 2026-07-13
+
+## Summary of Changes
+
+Updated the lab guide to align with the **GPT-5.4** model and the latest Microsoft Foundry experience. Refined the instructions, enhanced learner guidance by adding Azure role descriptions, refreshed screenshots, and updated the overall lab flow to provide a more consistent learning experience.
+
+## Infrastructure Changes
+
+- Updated the lab to use **GPT-5.4** instead of **GPT-4.1**.
+- Updated the Validation in the lab01-task2 to validate the deployed foundry models. 
+
+## Content Changes
+
+- Updated the lab guide to align with the **GPT-5.4** model, including revised instructions and supporting content.
+- Added brief descriptions of the required Azure roles before users create them to improve the overall learning experience.
+- Updated the lab overview to reflect the latest workflow and learning objectives.
+
+#### Lab 03 - Build a RAG Agent
+
+- **Task 2 - Create the Search Agent (Points 4-9):**
+  - Updated the instructions to align with the latest implementation.
+
+#### Lab 04 - Develop a Multi-Agent System
+
+- **Points 3-8 and 10-16:**
+  - Updated the instructions to align with the GPT-5.4 implementation and latest SDK workflow.
+
+## Screenshot Updates
+
+### Lab 01 - Project Setup
+
+- **Task 2**
+  - Updated the GPT deployment screenshots to reflect the **GPT-5.4** model.
+  - Updated the Microsoft Foundry UI screenshots.
+  - Added the validation to validate the deployed foundry models. 
+
+- **Task 4**
+  - Updated the **.env** file screenshot with the new model deployment.
+  - Updated the VS Code code snippet screenshots from **Lab 1 - Project Setup.ipynb**.
+
+### Lab 02 - Build a Simple AI Agent
+
+- **Task 1**
+  - Updated the code snippet screenshots with the latest implementation.
+
+### Lab 03 - Build a RAG Agent
+
+- **Task 1**
+  - **Point 2:** Updated the Azure Storage account screenshot to reflect the latest Azure icon.
+  - **Points 12-13:** Updated the **Import Data** screenshots.
+  - **Points 24-25:** Updated the **Create Connection** screenshots.
+
+- **Task 2 - Create the Search Agent**
+  - **Points 4-9:** Updated the code snippet screenshots.
+
+### Lab 04 - Develop a Multi-Agent System
+
+- **Points 3-8 and 10-16**
+  - Updated the Python code snippet screenshots to reflect the GPT-5.4 implementation.
+
+## Validation
+
+- Updated the validation guidance to align with the GPT-5.4 model deployment requirements.
+
+## Testing Scope
+
+- Executed end-to-end testing of the updated lab.
+- Verified GPT-5.4 deployment and configuration steps.
+- Validated all updated instructions, screenshots, code snippets, and navigation paths.
+- Confirmed the updated Microsoft Foundry UI experience throughout the lab.
+- Verified the overall learner workflow and task completion experience.
+
+</details>
+
+<details>
   <summary>2026-06-11</summary>
 
 ### Release Date: 2026-06-11
