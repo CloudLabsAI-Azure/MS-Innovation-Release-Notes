@@ -15,6 +15,60 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
+<summary>2026-07-16</summary>
+
+## Release Date: 2026-07-16
+
+### Summary of Changes
+
+Refreshed the Azure portal screenshots, aligning terminology with current Microsoft naming conventions, refining instructional clarity, improving markdown formatting consistency, and updating authentication steps. The release also includes enhanced learner validation notes and an expanded conclusion for the Azure Monitor monitoring lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated all lab guides with improved markdown formatting, heading hierarchy, and validation block consistency.
+- Replaced all **JumpVM** references with **LabVM** across applicable labs for consistent terminology.
+- Updated authentication instructions by replacing **Password** with **Temporary Access Pass** where applicable.
+- Updated **Lab 1 – Create Host Pool** with revised resource summary terminology, and refreshed host pool creation screenshots.
+- Updated **Lab 2 – Monitoring using Azure Monitor (Log Analytics)** with an improved deployment template screenshot.
+- Updated **Lab 4 – Access Published Applications and Desktop using Browser** with refreshed Azure portal navigation screenshots.
+- Updated **Lab 5 – Access using AVD Desktop Client** by removing duplicate exercise headings, updating sign-in terminology, and refreshing desktop client screenshots.
+- Enhanced **Lab 6 – Setup FSLogix** with updated storage account networking guidance, Microsoft Entra Domain Services terminology, improved browser refresh guidance, updated Windows App sign-out instructions, and revised authentication workflow.
+- Streamlined **Lab 7 – Load Balancing Methods** by simplifying assignment steps, standardizing LabVM terminology, and updating supporting screenshots.
+- Updated **Lab 8 – Auto Scaling** with the latest Microsoft Learn documentation link and refreshed IAM and role assignment screenshots.
+- Improved **Lab 9 – Cost Optimizations (Start VM on Connect)** by removing redundant Azure portal launch steps, clarifying permission selection guidance, adding troubleshooting notes for session host availability, and standardizing LabVM terminology.
+- Updated **Lab 10 – Security Modules** to reflect current Conditional Access portal navigation, simplified Group Policy template paths, improved screenshot workflow, and standardized LabVM terminology.
+- Updated **Lab 11 – Multimedia Redirection** with Temporary Access Pass terminology, revised Teams verification instructions.
+- Updated **Lab 15 – Microsoft Entra ID Domain Join** by specifying the Resource Group value explicitly and refreshing host pool creation screenshots.
+
+### Screenshot Updates
+
+#### Major Updates
+
+- Refreshed Azure portal screenshots across multiple labs to align with the latest Azure portal experience.
+- Updated screenshots for host pool creation, Azure Monitor, FSLogix configuration, Auto Scaling, Cost Optimization, Security Modules, Windows App, Microsoft Entra ID Domain Join, and related Azure Virtual Desktop workflows.
+
+#### Improvements
+
+- Replaced older screenshots with higher-quality images for improved readability.
+- Improved alignment between screenshots and instructional steps to provide a more consistent learner experience.
+- Ensured screenshots accurately reflect the latest Azure portal interface and navigation.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-14
+
+### Testing Scope
+
+Performed end-to-end validation of all modified labs, verified instructional sequence, confirmed updated Azure portal screenshots, validated formatting and heading consistency, tested documentation links, and reviewed all updated authentication guidance and learner instructions.
+
+---
+</details>
+
+<details>
 <summary>2026-07-01</summary>
 
 ## Release Date: 2026-07-01
