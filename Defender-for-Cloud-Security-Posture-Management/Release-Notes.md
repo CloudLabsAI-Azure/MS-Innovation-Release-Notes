@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-17</summary>
+
+## Release Date: 2026-07-17
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab and updated screenshots throughout the guide to reflect the latest Azure portal experience. Added screenshots for navigation to the next page and standardized the numbering and formatting of all instructional steps for improved clarity and consistency.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+- Lab 04 > Task 3 > Step 8,9,10 Updated blured the sensitive information of Azure Workbook.
+- Across the guide added the navigation screenshot.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-17
+
+### Testing Scope 
+
+Performed complete end-to-end lab testing. Verified all instructions, interactions, and user flows with the latest UI.
+
+</details>
+
+<details>
   <summary>2026-06-10</summary>
 
 ## Release Date: 2026-06-10
