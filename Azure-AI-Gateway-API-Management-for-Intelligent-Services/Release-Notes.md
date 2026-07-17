@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-18</summary>
+
+## Release Date: 2026-07-18
+
+### Summary of Changes
+
+This release updates the lab guide to align with the latest Microsoft Foundry experience. Exercise 5 has been redesigned to use the new Guardrails workflow, replacing the deprecated Content Filters experience. The lab now demonstrates a centralized Guardrails-based approach for validating content safety through the Chat Playground, Python, and Azure API Management. Additionally, screenshots and notebook validation outputs have been refreshed across the lab.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Exercises 1–4
+  - Added expected notebook initialization output screenshots to help learners verify successful execution.
+  - Replaced blurry screenshots with updated, high-quality images.
+- Exercise 5
+  - Migrated from the deprecated Content Filters / Guardrails + Controls workflow to the new Microsoft Foundry Guardrails experience in the new Foundry portal.
+  - Updated the lab to create and configure a reusable Guardrail instead of separate content filters.
+  - Added instructions to validate Guardrails using the Chat Playground with scenarios covering harmful content, jailbreak attempts, prompt injection, protected materials, and PII.
+  - Updated Python validation to reuse the configured Guardrail instead of creating request-time content filters.
+  - Updated portal navigation, lab instructions, prompts, and screenshots to match the latest Microsoft Foundry UI and workflow.
+
+### Screenshot Updates
+
+- Updated screenshots throughout Exercises 1–5 to reflect the latest Microsoft Foundry portal.
+- Added notebook initialization output screenshots for Exercises 1–4.
+- Replaced outdated and low-quality screenshots with current UI images.
+- Updated screenshots for the new Guardrails configuration, validation workflow, and APIM content safety testing.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-17
+
+### Testing Scope
+
+- Validated the lab end-to-end using the updated Microsoft Foundry experience.
+- Verified the new Guardrails workflow in Ex 5, including creation, configuration, Chat Playground validation, Python-based validation, and Azure API Management integration.
+- Confirmed that all updated instructions, navigation steps, and screenshots accurately reflect the current Microsoft Foundry portal experience.
+
+---
+</details>
+
+<details>
   <summary>2026-06-29</summary>
 
 ## Release Date: 2026-06-29
