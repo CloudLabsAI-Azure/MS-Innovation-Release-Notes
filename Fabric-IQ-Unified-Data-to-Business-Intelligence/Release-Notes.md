@@ -24,7 +24,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-This update refreshes outdated screenshots across multiple exercises to align with the latest product UI. Instructions have also been enhanced where required to improve learner clarity and overall lab experience based on internal QA findings.
+This update refreshes outdated screenshots across multiple exercises to align with the latest Fabric portal UI. Instructions have also been enhanced where required to improve learner clarity and overall lab experience based on internal QA findings.
 
 ### Infrastructure Changes
 
