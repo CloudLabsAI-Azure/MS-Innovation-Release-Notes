@@ -45,9 +45,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Testing Scope
 
-- Performed end-to-end validation of the lab.
-- Verified that the Azure Migrate workflow aligns with the current Azure portal experience.
-- Validated all newly added and updated screenshots for accuracy and consistency.
+- Performed end-to-end validation of the lab. Verified that the Azure Migrate workflow aligns with the current Azure portal experience.
 
 </details>
 
