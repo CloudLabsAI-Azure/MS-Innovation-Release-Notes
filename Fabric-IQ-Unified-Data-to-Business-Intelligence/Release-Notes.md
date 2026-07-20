@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-07-17</summary>
+
+## Release Date
+
+2026-07-17
+
+### Summary of Changes
+
+This update refreshes outdated screenshots across multiple exercises to align with the latest product UI. Instructions have also been enhanced where required to improve learner clarity and overall lab experience based on internal QA findings.
+
+### Infrastructure Changes
+
+* No infrastructure changes.
+
+### Content Changes
+
+ - **Exercise 2 – Task 3.2:** Updated screenshots with clearer visuals and Enhanced instructions for improved learner guidance.
+
+ - **Exercise 3 – Task 1.2:** Refreshed screenshots to reflect the current experience and improved instructional clarity.
+
+ - **Exercise 4 – Task 2:** Updated screenshots to reflect the latest **Data Agents** UI.
+
+ - **Exercise 5 – Task 2:** Refreshed screenshots to match the current UI.
+
+### Screenshot Updates
+
+- Replaced outdated screenshots in Exercise 2/3/4/5.
+- Updated Data Agents interface screenshots to match the latest product experience.
+- Improved screenshot quality and consistency throughout the affected exercises.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-16
+
+### Testing Scope
+
+- Verified screenshot accuracy against the latest UI.
+- Validated instructional updates for readability and learner experience.
+- Confirmed no impact on overall lab flow or functionality.
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-26</summary>
 
 ## Release Date: 2026-06-26
