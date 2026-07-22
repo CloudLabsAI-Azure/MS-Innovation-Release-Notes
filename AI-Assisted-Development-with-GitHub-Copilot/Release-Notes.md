@@ -22,6 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Date: 2026-07-20
  
 ### Summary of Changes
+
 Updated the lab documentation by adding new validation steps and refreshing screenshots to align with the current Visual Studio Code and Microsoft Foundry experience.
  
 ### Infrastructure Changes
@@ -30,7 +31,7 @@ New Validations are added:
 
 - Exercise 1: Introduction to GitHub Copilot > Task 3: Project Initialization and Requirements
 
-- 	Exercise 4: DevOps with GitHub CoPilot – Azure Deployment via Prompts > Task 2: Deploy and Validate Application
+- Exercise 4: DevOps with GitHub CoPilot – Azure Deployment via Prompts > Task 2: Deploy and Validate Application
 
 - Exercise 4: DevOps with GitHub CoPilot – Azure Deployment via Prompts > Task 4: Introduce GitHub CoPilot Custom Chat Instructions
  
@@ -38,53 +39,46 @@ New Validations are added:
 
 - gettingstarted.md
 
-> Added a Copilot pop-up note and supporting screenshot advising learners to close the “Start using Copilot” pop-up when it appears.
->Small heading/copy adjustments (e.g., "Lab Overview", "Prerequisites").
+  - Added a Copilot pop-up note and supporting screenshot advising learners to close the “Start using Copilot” pop-up when it appears.
+  - Small heading/copy adjustments (e.g., "Lab Overview", "Prerequisites").
 
 - Exercise01.md
 
-> Task 3 (Project initialization / clone): Updated example fork URL and Owner name used in instructions (repository name injection example changed).
-> Replaced several fork/clone/sign-in screenshots to match current VS Code/GitHub screens.
-> Added a "Congratulations" / validation guidance block after the cloning steps.
->Task 4 (Discover Copilot Tools): Clarified sign-in guidance and ensured the step text matches current VS Code behavior (no screenshot changes for Task 4 in this PR).
+  - Task 3 (Project initialization / clone): Updated example fork URL and Owner name used in instructions (repository name injection example changed).
+  - Replaced several fork/clone/sign-in screenshots to match current VS Code/GitHub screens.
+  - Added a "Congratulations" / validation guidance block after the cloning steps.
+  - Task 4 (Discover Copilot Tools): Clarified sign-in guidance and ensured the step text matches current VS Code behavior (no screenshot changes for Task 4 in this PR).
 
 - Exercise02.md
 
-> Updated left-navigation instruction wording from “Models” → “Deployments”.
-> Replaced Foundry-related screenshots to reflect the Deployments view and wording.
+  - Updated left-navigation instruction wording from “Models” → “Deployments”.
+  - Replaced Foundry-related screenshots to reflect the Deployments view and wording.
 
 - Exercise04.md
 
-> Adjusted validation block (validation step ID updated).
-> Fixed a minor typographical issue.
+  - Adjusted validation block (validation step ID updated).
+  - Fixed a minor typographical issue.
 
 - Exercise05.md
 
-> Removed/repositioned a legacy validation block and adjusted summary placement.
->Minor copy edits across files for clarity and consistency (headings, notes, and small wording fixes).
+  - Removed/repositioned a legacy validation block and adjusted summary placement.
+  - Minor copy edits across files for clarity and consistency (headings, notes, and small wording fixes).
 
 ### Screenshot Updates
 
--media/clf.png
-Replaces media/2026-04-24_01.png in Exercise01 Task 3 (fork / Copy link step).
+- media/clf.png Replaces media/2026-04-24_01.png in Exercise01 Task 3 (fork / Copy link step).
 
--media/cnf.png
-Replaces media/E1T3S2-1501.png in Exercise01 Task 3 (Create a new fork dialog — Owner/Repository name).
+- media/cnf.png Replaces media/E1T3S2-1501.png in Exercise01 Task 3 (Create a new fork dialog — Owner/Repository name).
 
--media/url.png
-Replaces media/E1T3S3-1501.png in Exercise01 Task 3 (forked repo main page / copy URL).
+- media/url.png Replaces media/E1T3S3-1501.png in Exercise01 Task 3 (forked repo main page / copy URL).
 
--media/tsb.png
-Replaces media/ex1-task3--4.png in Exercise01 Task 3 (VS Code clone/search bar screenshot).
+- media/tsb.png Replaces media/ex1-task3--4.png in Exercise01 Task 3 (VS Code clone/search bar screenshot).
 
--media/gasi.png
-Replaces media/ex1-task3--2.png in Exercise01 Task 3 (VS Code GitHub sign-in / authorize flow).
+- media/gasi.png Replaces media/ex1-task3--2.png in Exercise01 Task 3 (VS Code GitHub sign-in / authorize flow).
 
--media/deploy.png
-Replaces media/2026-04-24_08-n1.png in Exercise02 (Foundry left-nav; instruction updated from “Models” → “Deployments”).
+- media/deploy.png Replaces media/2026-04-24_08-n1.png in Exercise02 (Foundry left-nav; instruction updated from “Models” → “Deployments”).
 
--media/pop.png
-New screenshot added to gettingstarted.md showing the Copilot “Start using Copilot” pop-up (guidance: close it).
+- media/pop.png New screenshot added to gettingstarted.md showing the Copilot “Start using Copilot” pop-up (guidance: close it).
 
 ### Testing Notes
  
