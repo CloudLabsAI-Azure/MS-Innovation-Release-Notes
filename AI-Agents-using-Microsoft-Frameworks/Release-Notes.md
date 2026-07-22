@@ -16,6 +16,51 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-22</summary>
+
+## Release Date: 2026-07-22
+ 
+### Summary of Changes
+
+Updated the lab guide with the latest UI and content changes, including a new Repository Structure section, refreshed screenshots, improved code explanations and instructions, an optional AI agent customization task, output timing guidance, and interactive Q&A sections for Labs 2 and 3.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Added a **Repository Structure** section to the **Getting Started** page.
+* Updated the pop-up in **Lab 1 – Lab Prerequisites, Step 6** to reflect the latest Visual Studio Code UI changes.
+* Updated the content in **Lab 1 – Task 1, Step 12** based on the latest Microsoft Foundry portal UI updates.
+* Added explanations for the Python code in **Lab 1 – Exercise 1, Task 2, Step 9** to help users understand what each line of code does.
+* Updated the instructions in **Lab 1 – Exercise 1, Task 2, Step 13** to reflect the latest changes to the agent.
+* Added an optional **Task 3** that allows users to customize the AI agent to meet their specific requirements.
+* Added a note in **Lab 2 – Exercise 2, Task 1** informing users that the output may take some time to appear.
+* Added **Q&A sections** to Labs 2 and 3 to make the lab experience more interactive.
+
+### Screenshot Updates
+
+* Added a **Repository Structure** screenshot to the **Getting Started** page.
+* Updated the **Welcome to VS Code** pop-up screenshot in **Lab 1 – Lab Prerequisites, Step 2** to reflect the latest UI changes.
+* Updated the pop-up screenshot in **Lab 1 – Lab Prerequisites, Step 6** based on the latest Visual Studio Code UI updates.
+* Updated the screenshot in **Lab 1 – Task 1, Step 12** to reflect the latest Microsoft Foundry UI changes.
+* Updated the screenshot in **Lab 1 – Exercise 1, Task 2, Step 12** to reflect the code changes.
+* Updated the screenshot in **Lab 1 – Exercise 1, Task 2, Step 13** to reflect the code changes.
+* Added screenshots for the additional **Optional Task 3**.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-22
+
+### Testing Scope 
+
+Validated the updated lab content, UI instructions, screenshots, optional Task 3, and Q&A sections to ensure they align with the latest lab workflow and UI changes.
+
+---
+</details>
+
+<details>
   <summary>2026-07-01</summary>
 
 ## Release Date: 2026-07-01
