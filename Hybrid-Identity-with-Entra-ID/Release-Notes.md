@@ -16,7 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-07-10</summary>
+  <summary>2026-07-23</summary>
+
+## Release Date: 2026-07-23
+
+### Summary of Changes
+
+- Improved the overall learner experience by updating screenshots throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **Lab 1** and **Lab 2**: Updated screenshots to align with the latest UI and improve clarity.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-23
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab environment and documentation.
+- Verified all instructions, commands, and portal navigation steps.
+- Updated screenshots to accurately reflect the current UI.
+
+---
+</details>
 
 ## Release Date: 2026-07-10
 
