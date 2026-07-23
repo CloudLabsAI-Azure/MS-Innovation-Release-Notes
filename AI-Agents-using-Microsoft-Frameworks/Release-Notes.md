@@ -16,6 +16,43 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-23</summary>
+
+## Release Date: 2026-07-23
+ 
+### Summary of Changes
+
+Updated the Getting Started page and Lab 01 content to align with the latest lab workflow, including revised lab overview, objectives, prerequisites, scenario, Exercise 01 objective, and Task 01 name and objective. Also updated the relevant screenshot to reflect the latest UI and workflow changes.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Automated the deployment of Microsoft Foundry, including the Foundry project and gpt-5 model.
+* Updated the Lab Objectives on the Getting Started page to reflect the latest lab workflow.
+* Updated the Prerequisites on the Getting Started page based on the updated lab requirements.
+* Updated the Lab 01 Scenario to align with the current lab content and workflow.
+* Updated the Exercise 01 Objective to reflect the activities covered in the exercise.
+* Updated the Task 01 name and objective to accurately describe the task activities.
+
+### Screenshot Updates
+
+* Updated the screenshot in Lab 01 – Exercise 01 – Task 01 – Step 2 to reflect the latest UI and workflow changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-23
+
+### Testing Scope 
+
+Validated the updated lab content, objectives, workflow descriptions, task details, and screenshot to ensure they accurately reflect the latest lab flow and user experience.
+
+---
+</details>
+
+<details>
   <summary>2026-07-22</summary>
 
 ## Release Date: 2026-07-22
