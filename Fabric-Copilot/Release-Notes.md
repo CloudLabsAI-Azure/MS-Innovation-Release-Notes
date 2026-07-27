@@ -15,6 +15,46 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 
+
+<details>
+  <summary>2026-07-03</summary>
+
+## Release Date: 2026-07-03
+
+### Summary of Changes
+
+Enhanced the lab guide with improved UI clarity and updated visual references across multiple exercises. Added new instructional elements on the Getting Started page, updated Copilot functionality screenshots, and refined save procedures for better user guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Exercise 1 - Task 1**
+  - Updated the instruction as per the new Fabric UI for license activation.
+
+### Screenshot Updates
+
+- Added screenshots illustrating Microsoft Fabric Free Trial activation.
+
+- Refreshed the screenshots for report generation, DAX measure creation, report publishing, and Copilot-assisted report consumption.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-14
+
+### Testing Scope
+
+- Completed end-to-end validation of the Microsoft Fabric Copilot lab.
+- Verified Microsoft Fabric Free Trial activation and workspace creation.
+- Validated Dataflow Gen2 data ingestion and Copilot-assisted Power Query transformations.
+- Verified Copilot functionality within Fabric notebooks for query generation, summarization, and Python code generation.
+Validated Power BI report creation, DAX measure generation, report publishing, and Copilot-assisted report exploration.
+
+---
+</details>
+
 <details>
   <summary>2026-07-03</summary>
 

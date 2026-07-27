@@ -16,6 +16,59 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-07-13</summary>
+
+## Release Date: 2026-07-13
+
+### Summary of Changes
+
+- Updated lab guides to align with the latest Azure Portal and Microsoft Copilot Studio experiences. This release includes refreshed screenshots, improved instructional clarity, updated workflow guidance, additional post-provisioning validation steps, enhanced publishing instructions, and deployment troubleshooting recommendations to improve the learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Lab 1 – Build a Wikipedia Query Copilot
+  - Exercise 2
+    - Added guidance to handle post-provisioning refresh notifications.
+    - Added a step to explicitly select and open the newly created Wiki Infobot agent after provisioning.
+  - Exercise 3
+    - Updated UI element references to improve accuracy and learner navigation.
+  - Exercise 5
+    - Added publish confirmation guidance and validation screenshot to ensure proper completion of the publishing process.
+
+- Lab 2 – Microsoft Foundry, Azure AI Search & Copilot Studio
+  - Exercise 2
+    - Simplified deployment instructions to better align with the current UI.
+    - Added alternative Azure region recommendations (East US 2, West US, and Canada Central) to address deployment failures caused by regional capacity constraints.
+
+- Getting Started Guide
+  - Updated button labels to match Azure Portal naming conventions and improve consistency with the current user experience.
+
+### Screenshot Update
+
+- Refreshed 30+ screenshots across Lab 1, Lab 2, Lab 3, and the Getting Started Guide to match the latest Azure Portal and Copilot Studio interfaces.
+- Added new screenshots for post-provisioning notifications and agent selection workflows.
+- Added publish confirmation screenshots for learner validation.
+- Improved screenshot accuracy and visual consistency throughout the guides.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-13
+
+### Testing Scope
+
+- Performed end-to-end validation of updated labs.
+- Verified all instructional steps and workflow sequencing.
+- Confirmed screenshots align with the current Azure Portal and Copilot Studio experiences.
+- Validated newly added notification handling, publishing, and deployment guidance.
+- Reviewed consistency of UI labels and button naming across the guides.
+
+-------------
+</details>
+<details>
   <summary>2026-06-29</summary>
  
 ## Release Date: 2026-06-23

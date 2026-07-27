@@ -16,6 +16,58 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-16</summary>
+
+## Release Date: 2026-07-16
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest GitHub organization changes, refreshed screenshots to reflect the current GitHub UI, and refined instructions for improved learner clarity and workflow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Updates
+
+- Updated all references from the previous GitHub organization owner (**CloudLabs-Enterprises**) to **CL-Labs-04**.
+- **Exercise 1**
+  - Updated screenshots and instructions to use the new GitHub organization owner (**CL-Labs-04**).
+  - Added a note instructing learners to close the pop-up dialog before proceeding.
+- **Exercise 3**
+  - **Task 1:** Refined Step 4 by adding the command to stop the test.
+  - **Task 3:** Updated instructions and replaced the screenshot to reflect **Agent mode** instead of **Ask mode**.
+  - Added a step instructing learners to **Allow** when prompted for Agent permissions.
+  - **Task 4:** Added instructions to switch back to **Ask mode**.
+- **Exercise 5**
+  - Updated multiple screenshots to display the new GitHub organization owner (**CL-Labs-04**).
+  - **Task 2 (Combining the powers of GHAS and GitHub Copilot):**
+    - Updated instructions to match the latest option selection flow.
+    - Replaced screenshots to reflect the current GitHub UI.
+- **Exercises 6 & 7**
+  - Refined few instructions to improve clarity and readability.
+
+### Screenshot Updates
+
+- Refreshed screenshots throughout the lab guide to:
+  - Replace the previous GitHub organization owner with **CL-Labs-04**.
+  - Reflect the latest GitHub Copilot and GitHub Advanced Security UI.
+  - Show the correct Agent mode workflow and updated option selection screens.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-16
+
+### Testing Scope
+
+- Verified the updated instructions align with the current GitHub UI.
+- Validated the revised workflow for Agent mode and Ask mode transitions.
+- Confirmed screenshots accurately match the latest lab experience.
+- Reviewed the lab guide for consistency, formatting, and instructional clarity.
+
+</details>
+
+<details>
   <summary>2026-06-30</summary>
 
 ## Release Date: 2026-06-30

@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-15</summary>
+
+## Release Date: 2026-07-15
+
+### Summary of Changes
+
+Updated the lab instructions, screenshots, and workflow to align with the latest Azure portal and Azure Migrate UI experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide to align with the latest Azure Migrate UI.
+- Revised the instructions for the agentless dependency analysis workflow to reflect the current Azure portal experience.
+
+### Screenshot Updates
+
+- Updated screenshots across all exercises to align with the latest Azure portal and Azure Migrate UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-15
+
+### Testing Scope
+
+- Performed end-to-end testing of the lab.
+- Validated the updated Azure Migrate workflow and agentless dependency analysis.
+
+---
+</details>
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date : 2026-05-28
