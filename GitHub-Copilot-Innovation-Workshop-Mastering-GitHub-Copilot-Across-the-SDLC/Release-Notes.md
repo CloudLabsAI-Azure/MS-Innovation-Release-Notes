@@ -14,6 +14,82 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-07-28</summary>
+
+## Release Date: 2026-07-28
+
+### Summary of Changes
+
+Updated the GitHub Copilot workshop to address reviewer feedback, align with the latest GitHub Copilot and VS Code experience, improve learner guidance, and modernize workflows across Exercises 1–7.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Updates
+
+- **Exercise 1**
+  - Updated the VS Code Workspace Trust workflow to the latest **Manage → Trust → Close** experience.
+
+- **Exercise 2**
+  - Added new task demonstrating **Folder**, **File**, and **Selected Code** context in GitHub Copilot Chat.
+  - Added sample prompts and expected outputs for folder, file, and code selection analysis.
+
+- **Exercise 3**
+  - Added an Ask Mode exercise to discover project-specific test execution and code coverage commands before running tests.
+  - Added screenshots for running tests and generating code coverage.
+  - Clarified where learners should insert newly generated unit tests.
+  - Added troubleshooting prompts for resolving unit test failures using GitHub Copilot.
+  - Added explanations of **Default Approvals**, **Allow All (Bypass Approvals)**, and **Autopilot (Preview)** approval modes.
+  - Added an Agent Mode workflow to automatically implement code review recommendations and validate the changes.
+
+- **Exercise 4**
+  - Introduced **Plan Mode** before Agent Mode for an implementation plan.
+  - Added a planning prompt to generate an implementation strategy before code generation.
+  - Updated Agent Mode workflow to implement the approved plan using **Autopilot (Preview)**.
+  - Added a final Commit and Push workflow to synchronize all changes to GitHub before proceeding to Coding Agent.
+  - Updated reflection questions and wrap-up to distinguish Plan Mode from Agent Mode.
+
+- **Exercise 5**
+  - Added steps to synchronize the local repository after merging the Coding Agent pull request.
+  - Added steps to run the application locally and verify the new **Contact Us** page.
+  - Added an optional workflow demonstrating how to create and assign GitHub Issues directly from GitHub Copilot Chat in Visual Studio Code.
+  - Removed the outdated GitHub Pull Request extension workflow and replaced it with the latest GitHub Copilot Chat Coding Agent experience.
+
+- **Exercise 6**
+  - Renamed the optional section to **Explore Additional MCP Servers**.
+
+- **Exercise 7**
+  - Updated feature planning to use **Plan Mode** with a concrete feature planning prompt for implementing a **Favorite Products** feature.
+  - Updated Prompt File YAML example to use `mode: 'agent'`.
+  - Updated generated instruction and prompt file guidance to align with the latest GitHub Copilot behavior.
+  - Replaced the Planning Agent scenario with a **Security Reviewer** custom agent workflow.
+  - Updated the `/create-agent` prompt, walkthrough, example custom agent, validation steps, exercise wrap-up, and key takeaways to align with the Security Reviewer scenario.
+
+
+### Screenshot Updates
+
+- Refreshed screenshots throughout Exercises 1–7 to reflect:
+  - Latest GitHub Copilot Chat interface.
+  - Updated Plan Mode, Agent Mode, and Autopilot workflows.
+  - Current Prompt Files, Custom Instructions, and Custom Agents experience.
+  - Updated Coding Agent, MCP Server, and GitHub workflow.
+  - Latest Workspace Trust and Visual Studio Code UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-28
+
+### Testing Scope
+
+- Validated the updated learner flow across Exercises 1–7.
+- Confirmed Plan Mode, Agent Mode, Coding Agent, MCP, Prompt Files, and Custom Agents workflows align with the current GitHub Copilot experience.
+- Verified updated screenshots match the latest Visual Studio Code and GitHub UI.
+- Reviewed the lab guide for consistency, formatting, instructional flow, and learner experience.
+
+</details>
+
 
 <details>
   <summary>2026-07-16</summary>
