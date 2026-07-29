@@ -1,6 +1,6 @@
-  # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)
+  # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search 
 
-Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -34,7 +34,7 @@ Updated the lab to use Microsoft Foundry instead of Azure OpenAI by revising Exe
 
 ### Content Changes
 
-- Renamed the Lab name from # Enterprise Knowledge Base Search and Query with Azure OpenAI and Azure AI Search to # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)
+- Renamed the Lab name from # Enterprise Knowledge Base Search and Query with Azure OpenAI and Azure AI Search to # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search.
 - Rewrote Exercise 1 Task 1 to use the Microsoft Foundry provisioning workflow instead of Azure OpenAI.
 - Consolidated GPT and embedding deployment instructions into one Deploy AI Models task and adjusted subsequent exercise references to those deployments.
 - Updated references throughout the lab from “Azure OpenAI” to “Microsoft Foundry” where applicable.
