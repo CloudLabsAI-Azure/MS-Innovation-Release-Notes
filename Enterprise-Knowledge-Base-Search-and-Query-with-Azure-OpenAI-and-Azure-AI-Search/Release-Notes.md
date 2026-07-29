@@ -1,6 +1,6 @@
-# Enterprise Knowledge Base Search and Query with Azure OpenAI and Azure AI Search
+# Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search
 
-Welcome to the **Enterprise Knowledge Base Search and Query with Azure OpenAI and Azure AI Search** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,71 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-07-28</summary>
+
+## Release Date: 2026-07-28
+
+### Summary of Changes
+
+Updated the lab to use Microsoft Foundry instead of Azure OpenAI by revising Exercise 1 resource creation and model deployment steps, combining GPT and embedding model deployment into a single Deploy AI Models task, refreshing screenshots to match the latest Microsoft Foundry and Azure portal experience, and improving instructional clarity by explicitly identifying values learners must copy (resource name, API key, deployment names) for use in later exercises.
+
+### Infrastructure Changes
+
+- Replaced Azure OpenAI resource creation with Microsoft Foundry resource creation and provisioning steps.
+- Combined GPT and embedding model deployment into a single Deploy AI Models task using Microsoft Foundry.
+- Updated model deployment steps and portal navigation to follow the Microsoft Foundry workflow.
+- Updated guidance on where to find and copy the API key, resource name, and deployment names in the portal.
+- Updated the Json script inside the VM
+
+### Content Changes
+
+- Rewrote Exercise 1 Task 1 to use the Microsoft Foundry provisioning workflow instead of Azure OpenAI.
+- Consolidated GPT and embedding deployment instructions into one Deploy AI Models task and adjusted subsequent exercise references to those deployments.
+- Updated references throughout the lab from “Azure OpenAI” to “Microsoft Foundry” where applicable.
+- Clarified step text to explicitly call out values learners need to copy and reuse later (resource name, API key, deployment names).
+- Refreshed and reworded steps to align with the Microsoft Foundry portal experience and to improve learner flow and clarity.
+- Fixed spacing and formatting issues where found during the update pass.
+  
+
+### Screenshot Updates
+
+  - Updated screenshots and step text to reflect Microsoft Foundry and the current Azure portal layout.
+Exercise 1 (Provisioning & Model Deployment)
+
+- Task 1 — Resource creation
+  - Updated screenshots to show Microsoft Foundry resource creation screens and updated the corresponding instructions.
+
+- Deploy AI Models — Combined deployment task
+  - Added/updated screenshots showing the Deploy AI Models experience in Microsoft Foundry (model selection, deployment naming).
+  - Updated instructions to match the combined deployment flow.
+
+- API Key / Resource Values
+  - Updated screenshots that show where to copy the resource name, API key, and deployment names; added guidance text to highlight these values for later exercises.
+
+- Portal Navigation / Subscription Info
+  - Updated screenshots to reflect current portal navigation (Microsoft Foundry entries) and blurred subscription group/ID where appropriate.
+
+- Miscellaneous screenshots
+  - Updated other exercise screenshots across the lab to match the current Azure portal and Microsoft Foundry UI so steps and visuals align.
+
+
+### Testing Notes
+
+- Validated the updated Exercise 1 provisioning and model deployment instructions against the Microsoft Foundry portal flow.
+- Verified that the combined Deploy AI Models task covers both GPT and embedding deployment steps and that subsequent exercise references point to the combined deployments.
+- Confirmed updated screenshots reflect the current Microsoft Foundry and Azure portal UI and that blurred/subscription-sensitive details were handled.
+- Confirmed that values learners need to copy (resource name, API key, deployment names) are clearly identified and usable in later exercises.
+- Reviewed markdown formatting and image rendering across the lab.
+
+- **Testing Date:** 2026-07-28
+
+### Testing Scope
+
+---
+
+</details>
 
 <details>
   <summary>2026-06-29</summary>
