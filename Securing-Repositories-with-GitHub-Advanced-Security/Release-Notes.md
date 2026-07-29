@@ -14,6 +14,79 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-07-27</summary>
+
+## Release Date: 2026-07-27
+
+### Summary of Changes
+
+Comprehensive updates across all lab modules (Labs 02-09) with UI alignment, terminology standardization, and enhanced documentation for improved user experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+**Labs/Lab-02.md**
+- Updated wording in the security configuration section for clarity and accuracy
+- Replaced older screenshot references with new image files for profile, secret scanning, and Actions settings
+
+**Labs/Lab-03.md**
+- Corrected the spelling of "Dependabot" in the lab objectives and summary
+
+**Labs/Lab-06.md**
+- Updated the navigation label from "Security" to "Security and quality"
+- Fixed grammar in the summary bullet from "Demonstrate" to "Demonstrated"
+
+**Labs/Lab-07.md**
+- Corrected "potential" spelling in the task title and description
+- Updated the UI label to "Security and quality"
+- Replaced an image reference with a new screenshot
+
+**Labs/Lab-08.md**
+- Updated terminology from "Security" to "Security and quality"
+- Replaced several screenshots with newer ones
+- Added information about the "Duplicate campaign" option while explaining campaign management
+
+**Labs/Lab-09.md**
+- Replaced the dashboard overview screenshot with a new image
+- Updated the Azure Function App setup instructions, including:
+  - Changed the step numbering for clarity
+  - Changed the runtime version from older Node.js settings to newer guidance
+  - Adjusted the note about alternate regions
+- Updated the repository settings wording from "..." to "More"
+- Replaced the workflow action with new logic and removed the issue-template.md files where it is configured in workflow file
+
+**Getting-started-page**
+- Replaced the old image reference for the VM and lab guide section with a new image
+- Added a new section titled "Resize the Virtual Machine View":
+  - Explains how to use the slider between the VM and lab guide panes
+- Updated the Microsoft Edge screenshot reference
+- Replaced the GitHub homepage screenshot reference
+
+### Screenshot Updates
+
+- **Multiple UI Updates**: Updated screenshots across Labs 02, 07, 08, and 09 to align with the latest GitHub and Azure Portal interface
+- **New Visual Assets**: Replaced multiple image references with current UI screenshots for profile, secret scanning, Actions settings, dashboard, and VM layouts
+- **Enhanced Navigation Visuals**: Added screenshots to support new navigation guidance and VM pane resizing instructions
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-27
+
+### Testing Scope
+
+- Comprehensive lab content review and validation completed across all modules (02-09)
+- UI consistency verification to ensure alignment with latest GitHub and Azure Portal interfaces
+- All documentation updates validated for accuracy and clarity
+- Enhanced user experience through improved visual aids and refined instructions
+
+---
+</details>
+
 <details>
   <summary>2026-05-29</summary>
 
