@@ -45,13 +45,13 @@ Updated the lab to use Microsoft Foundry instead of Azure OpenAI by revising Exe
 
 ### Screenshot Updates
 
-  - Updated screenshots and step text to reflect Microsoft Foundry and the current Azure portal layout.
+- Updated screenshots and step text to reflect Microsoft Foundry and the current Azure portal layout.
 Exercise 1 (Provisioning & Model Deployment)
 
-- Task 1 — Resource creation
+- Task 1 - Resource creation
   - Updated screenshots to show Microsoft Foundry resource creation screens and updated the corresponding instructions.
 
-- Deploy AI Models — Combined deployment task
+- Deploy AI Models - Combined deployment task
   - Added/updated screenshots showing the Deploy AI Models experience in Microsoft Foundry (model selection, deployment naming).
   - Updated instructions to match the combined deployment flow.
 
@@ -67,16 +67,15 @@ Exercise 1 (Provisioning & Model Deployment)
 
 ### Testing Notes
 
+- **Testing Date:** 2026-07-28
+
+### Testing Scope
+
 - Validated the updated Exercise 1 provisioning and model deployment instructions against the Microsoft Foundry portal flow.
 - Verified that the combined Deploy AI Models task covers both GPT and embedding deployment steps and that subsequent exercise references point to the combined deployments.
 - Confirmed updated screenshots reflect the current Microsoft Foundry and Azure portal UI and that blurred/subscription-sensitive details were handled.
 - Confirmed that values learners need to copy (resource name, API key, deployment names) are clearly identified and usable in later exercises.
 - Reviewed markdown formatting and image rendering across the lab.
-
-- **Testing Date:** 2026-07-28
-
-### Testing Scope
-
 ---
 
 </details>
