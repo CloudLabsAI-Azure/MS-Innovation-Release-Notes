@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-07-29</summary>
+
+## Release Date: 2026-07-29
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest workflow and Visual Studio Code UI changes. Added guidance for handling the Welcome to VS Code pop-up, included a reminder to save files, refreshed the lab validation workflow, updated the model reference from gpt-4.1 to gpt-5.4, and updated the relevant screenshots.
+
+### Infrastructure Changes
+
+* Updated Part 3.6: Notebook Configuration to use the gpt-5.4 model instead of the gpt-4.1 model.
+
+### Content Changes
+
+* **Lab 1 – Task 1 – Step 9:** Added an additional step to guide users in closing the **Welcome to VS Code** pop-up.
+* **Lab 1 – Task 2 – Step 4:** Added a note reminding users to save the file after making the required changes.
+* **Lab 2 – Task 1 – Step 2:** Updated the instructions to align with the latest Visual Studio Code UI changes.
+* **Lab 2 – Task 1 – Step 3:** Updated the content to align with the current lab workflow.
+* **Lab 2:** Updated the lab validation feature to align with the latest lab guide workflow.
+* **Lab 2 – Task 1 – Step 10:** Updated the model reference from **gpt-4.1** to **gpt-5.4**.
+
+### Screenshot Updates
+
+* **Lab 1 – Task 1 – Step 9:** Added a screenshot to help users navigate the **Welcome to VS Code** pop-up.
+* **Lab 2 – Task 1 – Step 2:** Updated the screenshot to reflect the latest Visual Studio Code UI changes.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-29  
+  The updated lab guide was tested to ensure the revised workflow, Visual Studio Code UI changes, and gpt-5.4 model configuration function as expected. The newly added instructions, lab validation updates, and screenshots were verified for accuracy, consistency, and alignment with the current lab experience.
+
+### Testing Scope
+
+- Validated the updated lab instructions, Visual Studio Code UI changes, lab validation workflow, and gpt-5.4 model configuration. Verified that the newly added guidance, notes, and updated screenshots accurately reflect the current user experience and lab workflow.
+
+</details>
+
+
+<details>
   <summary>2026-06-18</summary>
 
 ## Release Date: 2026-07-01
