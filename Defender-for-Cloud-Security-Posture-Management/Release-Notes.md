@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-30</summary>
+
+## Release Date: 2026-07-30
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab, updated the AKS Kubernetes version from 1.33.2 to 1.34.3 to align with the currently supported AKS release, and refreshed screenshots throughout the guide to reflect the latest Azure portal experience. Also added navigation screenshots and standardized the numbering and formatting of instructional steps for improved clarity and consistency.
+
+### Infrastructure Changes
+
+Updated the AKS Kubernetes version from 1.33.2 to 1.34.3 in the deployment template to ensure compatibility with the currently supported AKS release.
+
+### Content Changes
+
+- Standardized the numbering and formatting of instructional steps across the guide.
+
+- Added navigation screenshots to improve the user experience.
+
+### Screenshot Updates
+
+- Lab 02 > Task 4 > Step 13,14 Run option and Save as option layout has updated.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-30
+
+### Testing Scope 
+
+Performed complete end-to-end lab testing. Verified all instructions, deployment flow, interactions, and user experience with the latest Azure portal UI and the updated AKS Kubernetes version.
+
+</details>
+
+<details>
   <summary>2026-07-17</summary>
 
 ## Release Date: 2026-07-17
