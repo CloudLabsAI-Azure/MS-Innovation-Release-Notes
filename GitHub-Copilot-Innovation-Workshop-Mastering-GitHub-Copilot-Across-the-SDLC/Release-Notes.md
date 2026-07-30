@@ -21,7 +21,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Updated the GitHub Copilot workshop to address reviewer feedback, align with the latest GitHub Copilot and VS Code experience, improve learner guidance, and modernize workflows across Exercises 1–7.
+Updated the GitHub Copilot workshop to reflect the latest GitHub Copilot and VS Code experience, streamline learner guidance, and modernize workflows throughout Exercises 1–7.
 
 ### Infrastructure Changes
 
