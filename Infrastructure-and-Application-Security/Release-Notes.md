@@ -16,6 +16,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-16</summary>
+
+## Release Date: 2026-07-16
+
+### Summary of Changes
+
+Performed end-to-end validation of the lab and implemented documentation fixes across all lab guides, including typo/grammar corrections, link updates, and step clarifications to improve readability and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide with refined instructions for a smoother lab experience.
+
+### Screenshot Updates
+
+- Screenshots have been changed as per the latest experience, and according to screenshots, the steps are also refreshed with instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-16
+
+### Testing Scope
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. Validated all documentation fixes, link updates, and clarified instructions across all five lab guides.
+
+---
+</details>
+
+<details>
   <summary>2026-05-29</summary>
 
 ## Release Date: 2026-05-29
