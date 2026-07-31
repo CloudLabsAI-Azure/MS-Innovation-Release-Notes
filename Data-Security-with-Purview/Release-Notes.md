@@ -17,6 +17,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-14</summary>
+
+## Release Date: 2026-07-14
+
+### Summary of Changes
+
+This update enhances the **Data Security with Microsoft Purview** lab by introducing business-oriented lab scenarios, improving the Getting Started experience, and updating screenshots and instructions to align with the latest Microsoft Purview, Microsoft 365 Admin Center, Windows, and browser UI changes. The update also includes usability improvements, navigation refinements, and content enhancements across multiple labs.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refined navigation guidance and instructional flow across multiple lab exercises.
+- Updated instructions and screenshots throughout the lab to align with the latest Microsoft Purview and Microsoft 365 experiences.
+
+### Screenshot Updates
+
+- Updated the screenshots for the instructions based on the latest UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-14
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab after all updates.
+- Validated updated screenshots against the current Microsoft Purview and Microsoft 365 UI.
+- Confirmed instruction flow, task sequencing, and navigation consistency throughout the lab.
+- Reviewed formatting and rendering across the complete lab guide.
+
+---
+</details>
+
+<details>
   <summary>2026-06-25</summary>
 
 ## Release Date: 2026-06-25
