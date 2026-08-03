@@ -1,6 +1,6 @@
 # Fabric Analytics in a Day
 
-Welcome to the **Fabric Analytics in a Day** Readme.md. In this, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Fabric Analytics in a Day** Readme.md. In this, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots,[...]
 
 ## Overview
 
@@ -16,6 +16,83 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-08-03</summary>
+
+## Release Date: 2026-08-03
+
+### Summary of Changes
+Updated multiple lab guides to reflect Microsoft Fabric and Power BI UI/workflow updates. Clarified steps for trial activation, SQL query creation, passthrough authentication, pipeline creation, and report image selection. Replaced and renamed screenshots to match the current portal experience.
+
+### Infrastructure Changes
+N/A
+
+### Content Changes
+- English/labguide/Lab-2.md
+  - Step 8: "Select Start trial." → "Select Start trial dropdown and choose Fabric and Power BI."
+  - Step 10: "Select Fabric Home Page." → "Select OK."
+  - Text updated to reflect Microsoft Fabric and Power BI trial activation flow.
+
+- English/labguide/Lab-3.md
+  - Clarified SQL query creation instructions to reference the UI dropdown and "New SQL query" (callouts dropdown (1) and New SQL query (2)).
+  - Reused the new SQL query screenshot for multiple query-creation steps.
+
+- English/labguide/Lab-4.md
+  - Added explicit auth/connect steps: Select "Passthrough identity" → Click "Connect".
+  - Clarified instructions around user authentication for connecting to data sources.
+
+- English/labguide/Lab-5.md
+  - Clarified pipeline creation steps and updated pipeline guidance.
+
+- English/labguide/Lab-6.md
+  - Clarified SQL query creation instructions and updated query-related text.
+
+- English/labguide/Lab-7.md
+  - Clarified file-selection instructions for report background image with explicit path: C:\Users\Public\Desktop\Reports.
+  - Instructed to select "Summary Background.png" and click "Open" / "Select".
+  - Minor formatting cleanup for "Transparency" wording.
+
+### Screenshot Updates / Filename mapping
+- Lab 2
+  - image10new-1.png → lab2-trial-fb.png
+  - image11.png → lab2-activate.png
+  - image12.png → lab2-active-ok.png
+  - image14.png → lab2-workspace.png
+  - image15.png → lab2-workspace1.png
+  - image16.png → lab2-workspace2.png
+  - image18.png → lab2-lh.png
+
+- Lab 3
+  - image14new.png → lab3-sql-query.png
+
+- Lab 4
+  - image38.png → lab4-user-auth.png
+  - New: lab4-pass-through.png
+
+- Lab 5
+  - image18.png → lab5-new-pipeline.png
+  - image26.png → lab5-pipeline.png
+
+- Lab 6
+  - image7new.png → lab6-new-sql-query.png
+
+- Lab 7
+  - New: lab7-summary-image.png
+
+### Testing Notes
+- Testing Date: 2026-08-03
+- Verify each renamed screenshot exists in the repository and visually matches the referenced step.
+- Validate the Lab-2 trial activation flow in your tenant(s) to confirm the "Start trial dropdown → Fabric and Power BI" wording is accurate across environments.
+- Re-run SQL-query creation steps in Labs 3 and 6 to confirm the updated instructions and callouts match the new images.
+- Confirm passthrough identity connection in Lab-4 works as documented and lab4-pass-through.png shows the expected UI.
+- Confirm Lab-7 background image path and selection behavior in the lab environment.
+
+### Testing Scope
+- Review updated instructions and screenshots across Labs 2, 3, 4, 5, 6, and 7.
+- Perform end-to-end verification of affected tasks and UI flows described above.
+
+</details>
 
 <details>
   <summary>2026-07-06</summary>
@@ -120,7 +197,7 @@ Few screenshots are changed as per the latest test experience.
 
 ### Summary of Changes
 
-Updated the lab guide with revised UI screenshots to match the current interface experience. Instructions across multiple sections were adjusted for better readability and consistency, with improvements made to task navigation and step sequencing to help user to follow the lab more smoothly.
+Updated the lab guide with revised UI screenshots to match the current interface experience. Instructions across multiple sections were adjusted for better readability and consistency, with improvemen[...]
 
 ### Infrastructure Changes
 
@@ -154,7 +231,7 @@ N/A
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and [...]
 
 ### Infrastructure Changes
 
@@ -166,7 +243,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency betw[...]
 
 ### Testing Notes
 
@@ -188,7 +265,7 @@ N/A
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and [...]
 
 ### Infrastructure Changes
 
@@ -200,7 +277,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency betw[...]
 
 ### Testing Notes
 
@@ -222,7 +299,7 @@ N/A
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and [...]
 
 ### Infrastructure Changes
 
@@ -234,7 +311,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency betw[...]
 
 ### Testing Notes
 
@@ -256,7 +333,7 @@ N/A
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and [...]
 
 ### Infrastructure Changes
 
@@ -268,7 +345,7 @@ N/A
 
 ### Screenshot Updates
 
-- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency betw[...]
 
 ### Testing Notes
 
@@ -289,7 +366,7 @@ N/A
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. instructions were refined to enhance clarity, ensure alignment with the latest interface changes, and improve the overall learning experience.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. instructions were refined to enhance clarity, ensure alignment with the latest interface changes, a[...]
 
 ### Infrastructure Changes
 
@@ -297,7 +374,7 @@ N/A
 
 ### Content Changes
 
-The content was updated to ensure smoother rendering throughout the guide. Inject keys were added wherever necessary to maintain consistent flow. Additionally, sections related to lakehouse creation and table creation were updated to match the latest UI and functionality.
+The content was updated to ensure smoother rendering throughout the guide. Inject keys were added wherever necessary to maintain consistent flow. Additionally, sections related to lakehouse creation a[...]
 
 ### Screenshot Updates
 
@@ -530,7 +607,7 @@ N/A
   <summary>2025-07-29</summary>
 
 ### Summary of Changes
-No infrastructure changes were made. The lab guide was revised to reflect the latest UI updates, and new screenshots were added accordingly. Testing confirmed that the content is accurate and the lab functions as expected.
+No infrastructure changes were made. The lab guide was revised to reflect the latest UI updates, and new screenshots were added accordingly. Testing confirmed that the content is accurate and the lab [...]
 
 ### Infrastructure Changes
 
@@ -550,7 +627,7 @@ The existing content is good, and the lab is working as expected.
 
 ### Testing scope
 
-Validated the complete lab workflow, confirmed the implementation of latest UI updates in instructions and screenshots, and ensured all steps function as expected without impacting existing configurations or lab performance.
+Validated the complete lab workflow, confirmed the implementation of latest UI updates in instructions and screenshots, and ensured all steps function as expected without impacting existing configurat[...]
 
 </details>
 
@@ -747,9 +824,6 @@ NA
 
 - New demo added for Data Activator. Demo steps added to Instructor guide.
 </details>
-
-
-
 
 
 
