@@ -29,26 +29,26 @@ Updated multiple lab guides to reflect Microsoft Fabric and Power BI UI/workflow
 N/A
 
 ### Content Changes
-- English/labguide/Lab-2.md
+- Lab-2.md
   - Step 8: "Select Start trial." → "Select Start trial dropdown and choose Fabric and Power BI."
   - Step 10: "Select Fabric Home Page." → "Select OK."
   - Text updated to reflect Microsoft Fabric and Power BI trial activation flow.
 
-- English/labguide/Lab-3.md
+- Lab-3.md
   - Clarified SQL query creation instructions to reference the UI dropdown and "New SQL query" (callouts dropdown (1) and New SQL query (2)).
   - Reused the new SQL query screenshot for multiple query-creation steps.
 
-- English/labguide/Lab-4.md
+- Lab-4.md
   - Added explicit auth/connect steps: Select "Passthrough identity" → Click "Connect".
   - Clarified instructions around user authentication for connecting to data sources.
 
 - English/labguide/Lab-5.md
   - Clarified pipeline creation steps and updated pipeline guidance.
 
-- English/labguide/Lab-6.md
+- Lab-6.md
   - Clarified SQL query creation instructions and updated query-related text.
 
-- English/labguide/Lab-7.md
+- Lab-7.md
   - Clarified file-selection instructions for report background image with explicit path: C:\Users\Public\Desktop\Reports.
   - Instructed to select "Summary Background.png" and click "Open" / "Select".
   - Minor formatting cleanup for "Transparency" wording.
