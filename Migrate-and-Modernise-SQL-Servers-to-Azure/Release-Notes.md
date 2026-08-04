@@ -15,6 +15,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-03</summary>
+
+## Release Date: 2026-08-03
+
+### Summary of Changes
+
+Performed end-to-end testing of the **Migrate and Modernize SQL Servers** to Azure lab to validate the complete migration workflow against the latest Azure Migrate experience and ensure the accuracy and consistency of the lab instructions.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- N/A
+
+### Screenshot Updates
+
+- N/A
+
+### Validation
+
+- N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-03
+
+### Testing Scope
+
+- Performed end-to-end testing of the lab.
+- Verified the migration workflow and lab instructions for accuracy and consistency.
+- Confirmed that all exercises function as expected with the latest Azure Migrate experience.
+
+---
+</details>
+
+<details>
   <summary>2026-06-09</summary>
 
 ## Release Date: 2026-06-09
@@ -56,7 +94,7 @@ N/A
 - Validated all revised instructions, numbering, and formatting changes.
 - Confirmed screenshots align with the latest Azure portal experience.
 - Ensured consistency, readability, and accuracy across all exercises.
-```
+
 ---
 </details>
 
