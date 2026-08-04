@@ -1,6 +1,6 @@
-# Microsoft Azure AI Agents
+# Microsoft Foundry Agents
 
-Welcome to the **Microsoft Azure AI Agents** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Microsoft Foundry Agents** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,50 @@ This **page contains** detailed notes about the latest updates and modifications
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-07-27</summary>
+
+### Release Date: 2026-07-27
+
+## Summary of Changes
+
+This release updates the Microsoft Foundry labs to align with the latest Azure platform experience, SDK versions, and service behaviour. The changes include refreshed Azure AI terminology, updated learner instructions, latest notebook and dependency files, revised screenshots, and improved reference links to ensure the labs remain compatible with current Azure AI services and provide a smoother learner experience.
+
+## Infrastructure Changes
+
+- Updated lab dependencies to the latest supported Microsoft Foundry SDK versions.
+- Updated `requirements.txt` to ensure compatibility with the latest Azure AI packages.
+- No Azure infrastructure or deployment template changes. 
+
+## Content Changes
+
+- **Getting Started:** Updated Azure AI terminology throughout the guide to align with the latest Microsoft recommendations.
+- **Lab 01 - Task 1**: Updated instructions to match the latest Azure AI Foundry portal UI and added guidance notes to accommodate frequent UI changes.
+- **Lab 01 - Task 4**: Updated the IPYNB notebook code block screenshots to reflect the latest implementation.
+- **Lab 02:** Updated **Create A Simple AI Agent.ipynb** IPYNB notebook code block screenshots to reflect the latest implementation.
+- **Lab 03:** Updated **Create A RAG Agent.ipynb** IPYNB notebook code block screenshots to reflect the latest implementation.
+- **Lab 04:** Updated **Develop A Mult-Agent System.ipynb** IPYNB notebook code block screenshots to reflect the latest implementation.
+- Updated reference links to use the latest Azure AI terminology.
+
+## Screenshot Updates
+- Refreshed screenshots throughout the labs to reflect:
+   1. Latest Azure AI Foundry portal UI.
+   2. Updated notebook code blocks.
+   3. Current VS Code experience.
+
+- Verified that screenshots align with the current learner workflow.
+
+## Validation
+
+- Validated the lab flow and instructions against the latest Microsoft Foundry SDK behaviour and service updates. All validations succeeded.
+
+## Testing Scope
+
+**Testing Date:** 2026-07-24
+
+- Validated the lab flow and instructions against the latest Microsoft Foundry SDK behaviour and service updates. All validations succeeded.
+
+</details>
 
 <details>
 <summary>2026-07-13</summary>

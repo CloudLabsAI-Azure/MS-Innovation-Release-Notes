@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-03</summary>
+
+## Release Date: 2026-08-03
+
+### Summary of Changes
+
+Enhanced the lab guide by adding a new **Resize the Virtual Machine View** section, improving task formatting across Exercises 1 and 2, and updating screenshots for better clarity and consistency.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Added the **Resize the Virtual Machine View** section to the **Getting Started** page.
+* Updated the formatting for **Task 1** and **Task 2** in **Exercise 1**.
+* Updated the formatting for **Task 1** and **Task 2** in **Exercise 2**.
+
+### Screenshot Updates
+
+* Added a screenshot for the **Resize the Virtual Machine View** section in the **Getting Started** page.
+* Updated the screenshot for **Exercise 1 → Task 2 → Step 28** to improve visual clarity and consistency.
+
+### Testing Notes
+
+- **Testing Date:** 2026-08-03
+
+### Testing Scope
+
+* Verified the newly added **Resize the Virtual Machine View** section and associated screenshot.
+* Validated the updated formatting across **Exercise 1** and **Exercise 2** to ensure consistency throughout the lab guide.
+* Reviewed the updated screenshots to confirm alignment with the latest lab experience and documentation standards.
+
+</details>
+
+<details>
   <summary>2026-06-23</summary>
 
 ## Release Date: 2026-06-23

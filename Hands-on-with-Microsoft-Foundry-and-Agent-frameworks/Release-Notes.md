@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-23</summary>
+
+## Release Date: 2026-07-23
+
+### Summary of Changes 
+
+Updated the lab guide with enhanced Microsoft foundry portal UI consistency, improved learner guidance, and implemented policy controls to restrict deployment only to supported models defined in the lab.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated lab guide with refined instructions for smoother user experience.
+  
+### Screenshot Update
+
+- Updated Microsoft foundry portal images across all exercises to reflect latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-23
+
+### Testing Scope 
+
+- Successfully tested and validated all exercises end-to-end
+- Verified model deployment flow using DeepSeek-V3.2
+- Confirmed policy enforcement restricting unsupported model deployments
+- Ensured screenshots and instructions align with current Azure portal experience
+
+---
+
+</details>
+
+<details>
   <summary>2026-06-16</summary>
 
 ## Release Date: 2026-06-16

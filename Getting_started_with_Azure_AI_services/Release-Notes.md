@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-05-28</summary>
+  <summary>2026-07-10</summary>
 
-## Release Date: 2026-05-28
+## Release Date: 2026-07-10
 
 ### Summary of Changes
 
@@ -38,7 +38,7 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-05-28
+- **Testing Date**: 2026-07-10
   
   Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
 

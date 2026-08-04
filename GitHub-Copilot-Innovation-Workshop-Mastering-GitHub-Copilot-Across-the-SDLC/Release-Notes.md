@@ -14,6 +14,134 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-07-28</summary>
+
+## Release Date: 2026-07-28
+
+### Summary of Changes
+
+Updated the GitHub Copilot workshop to reflect the latest GitHub Copilot and VS Code experience, streamline learner guidance, and modernize workflows throughout Exercises 1–7.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Updates
+
+- **Exercise 1**
+  - Updated the VS Code Workspace Trust workflow to the latest **Manage → Trust → Close** experience.
+
+- **Exercise 2**
+  - Added new task demonstrating **Folder**, **File**, and **Selected Code** context in GitHub Copilot Chat.
+  - Added sample prompts and expected outputs for folder, file, and code selection analysis.
+
+- **Exercise 3**
+  - Added an Ask Mode exercise to discover project-specific test execution and code coverage commands before running tests.
+  - Added screenshots for running tests and generating code coverage.
+  - Clarified where learners should insert newly generated unit tests.
+  - Added troubleshooting prompts for resolving unit test failures using GitHub Copilot.
+  - Added explanations of **Default Approvals**, **Allow All (Bypass Approvals)**, and **Autopilot (Preview)** approval modes.
+  - Added an Agent Mode workflow to automatically implement code review recommendations and validate the changes.
+
+- **Exercise 4**
+  - Introduced **Plan Mode** before Agent Mode for an implementation plan.
+  - Added a planning prompt to generate an implementation strategy before code generation.
+  - Updated Agent Mode workflow to implement the approved plan using **Autopilot (Preview)**.
+  - Added a final Commit and Push workflow to synchronize all changes to GitHub before proceeding to Coding Agent.
+  - Updated reflection questions and wrap-up to distinguish Plan Mode from Agent Mode.
+
+- **Exercise 5**
+  - Added steps to synchronize the local repository after merging the Coding Agent pull request.
+  - Added steps to run the application locally and verify the new **Contact Us** page.
+  - Added an optional workflow demonstrating how to create and assign GitHub Issues directly from GitHub Copilot Chat in Visual Studio Code.
+  - Removed the outdated GitHub Pull Request extension workflow and replaced it with the latest GitHub Copilot Chat Coding Agent experience.
+
+- **Exercise 6**
+  - Renamed the optional section to **Explore Additional MCP Servers**.
+
+- **Exercise 7**
+  - Updated feature planning to use **Plan Mode** with a concrete feature planning prompt for implementing a **Favorite Products** feature.
+  - Updated Prompt File YAML example to use `mode: 'agent'`.
+  - Updated generated instruction and prompt file guidance to align with the latest GitHub Copilot behavior.
+  - Replaced the Planning Agent scenario with a **Security Reviewer** custom agent workflow.
+  - Updated the `/create-agent` prompt, walkthrough, example custom agent, validation steps, exercise wrap-up, and key takeaways to align with the Security Reviewer scenario.
+
+
+### Screenshot Updates
+
+- Refreshed screenshots throughout Exercises 1–7 to reflect:
+  - Latest GitHub Copilot Chat interface.
+  - Updated Plan Mode, Agent Mode, and Autopilot workflows.
+  - Current Prompt Files, Custom Instructions, and Custom Agents experience.
+  - Updated Coding Agent, MCP Server, and GitHub workflow.
+  - Latest Workspace Trust and Visual Studio Code UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-28
+
+### Testing Scope
+
+- Validated the updated learner flow across Exercises 1–7.
+- Confirmed Plan Mode, Agent Mode, Coding Agent, MCP, Prompt Files, and Custom Agents workflows align with the current GitHub Copilot experience.
+- Verified updated screenshots match the latest Visual Studio Code and GitHub UI.
+- Reviewed the lab guide for consistency, formatting, instructional flow, and learner experience.
+
+</details>
+
+
+<details>
+  <summary>2026-07-16</summary>
+
+## Release Date: 2026-07-16
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest GitHub organization changes, refreshed screenshots to reflect the current GitHub UI, and refined instructions for improved learner clarity and workflow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Updates
+
+- Updated all references from the previous GitHub organization owner (**CloudLabs-Enterprises**) to **CL-Labs-04**.
+- **Exercise 1**
+  - Updated screenshots and instructions to use the new GitHub organization owner (**CL-Labs-04**).
+  - Added a note instructing learners to close the pop-up dialog before proceeding.
+- **Exercise 3**
+  - **Task 1:** Refined Step 4 by adding the command to stop the test.
+  - **Task 3:** Updated instructions and replaced the screenshot to reflect **Agent mode** instead of **Ask mode**.
+  - Added a step instructing learners to **Allow** when prompted for Agent permissions.
+  - **Task 4:** Added instructions to switch back to **Ask mode**.
+- **Exercise 5**
+  - Updated multiple screenshots to display the new GitHub organization owner (**CL-Labs-04**).
+  - **Task 2 (Combining the powers of GHAS and GitHub Copilot):**
+    - Updated instructions to match the latest option selection flow.
+    - Replaced screenshots to reflect the current GitHub UI.
+- **Exercises 6 & 7**
+  - Refined few instructions to improve clarity and readability.
+
+### Screenshot Updates
+
+- Refreshed screenshots throughout the lab guide to:
+  - Replace the previous GitHub organization owner with **CL-Labs-04**.
+  - Reflect the latest GitHub Copilot and GitHub Advanced Security UI.
+  - Show the correct Agent mode workflow and updated option selection screens.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-16
+
+### Testing Scope
+
+- Verified the updated instructions align with the current GitHub UI.
+- Validated the revised workflow for Agent mode and Ask mode transitions.
+- Confirmed screenshots accurately match the latest lab experience.
+- Reviewed the lab guide for consistency, formatting, and instructional clarity.
+
+</details>
 
 <details>
   <summary>2026-06-30</summary>

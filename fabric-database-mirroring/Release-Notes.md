@@ -20,6 +20,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-29</summary>
+
+## Release Date: 2026-07-29
+
+### Summary of Changes
+
+Enhanced the Microsoft Fabric Mirroring hands‑on labs documentation across the repository: added business "Scenario" sections, corrected and standardized step numbering, clarified procedural instructions (SAMI, connections, query editors, semantic models, and reporting), refreshed and added screenshots to reflect current UI, and improved the Getting Started guidance (VM zoom/resize). These are documentation-only updates aimed at improving learner clarity and reducing confusion during lab execution.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Lab 01**: Updated Azure SQL Database mirroring instructions and screenshots to align with the latest Azure Portal and Microsoft Fabric experience.
+
+- **Lab 02**: Updated Azure Cosmos DB mirroring workflow by removing the obsolete Query the Source Database from Fabric task, revising the Semantic Model experience, and refreshing portal screenshots.
+
+- **Lab 03**: Updated Azure SQL Managed Instance instructions to use the latest SSMS connection workflow (including mandatory encryption), reuse existing SSMS sessions, and refreshed related screenshots.
+
+- **Lab 05**: Updated Azure Storage Explorer instructions to reflect the New Directory workflow and refreshed related screenshots.
+
+- **Lab 06**: Updated Azure Database for PostgreSQL mirroring instructions, pgAdmin workflow, Azure Portal navigation, and associated screenshots to align with the latest experience.
+
+### Screenshot Updates
+
+Replaced outdated Azure Portal, Microsoft Fabric, SSMS, PostgreSQL, Cosmos DB, Storage Explorer, Power BI, and authentication screenshots with updated images reflecting the current product experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-27
+
+### Testing Scope 
+
+Performed end-to-end validation of the lab, verified that all the Tasks are working as expected without any issues. 
+
+---
+</details>
+<details>
   <summary>2026-06-30</summary>
 
 ## Release Date: 2026-06-30

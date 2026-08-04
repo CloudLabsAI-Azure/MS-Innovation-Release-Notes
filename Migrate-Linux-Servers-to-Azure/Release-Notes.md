@@ -18,6 +18,40 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-07-17</summary>
+
+## Release Date: 2026-07-17
+
+### Summary of Changes
+
+Created and updated the lab guide to align with the latest Azure Migrate UI and Azure portal experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Created the lab guide for the updated Azure Migrate experience.
+- Updated the lab instructions to align with the latest Azure Migrate UI and workflow.
+
+### Screenshot Updates
+
+- Updated screenshots across all exercises to align with the latest Azure portal and Azure Migrate UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-17
+
+### Testing Scope
+
+- Performed end-to-end testing of the lab using the updated content.
+- Verified all lab instructions, user interactions, and workflows against the latest Azure Migrate UI.
+- Validated the accuracy and consistency of all updated screenshots.
+
+</details>
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date: 2026-05-28

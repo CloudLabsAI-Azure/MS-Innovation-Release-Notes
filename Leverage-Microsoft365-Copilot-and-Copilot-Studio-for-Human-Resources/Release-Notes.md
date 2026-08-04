@@ -18,6 +18,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-07-23</summary>
+
+## Release Date: 2026-07-23
+
+### Summary of Changes
+
+Updated the lab guide content and screenshots to align with the latest workflow and UI changes, including corrected instructions, step numbering, formatting, and UI-specific guidance. Refreshed screenshots across the labs and prerequisites and added an additional screenshot to provide clearer visual guidance to users.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Updated Lab 1 – Task 1, Step 1 to align the instructions with the current lab workflow.
+* Corrected the step numbering in Lab 1 – Task 1, Step 2 to ensure sequential and accurate navigation.
+* Corrected formatting issues in Lab 1 – Task 7, Step 33 to improve content consistency and readability.
+* Updated Lab 3 – Task 4, Step 6 to reflect the latest user interface changes.
+* Updated Lab 3 – Task 4, Step 9 to align the instructions with the latest user interface changes.
+
+### Screenshot Updates
+
+* Updated the screenshot in **Lab 1 – Task 5, Step 1** to reflect the latest UI changes.
+* Updated the screenshot in **Lab 3 – Task 1, Step 1** to align with the latest UI updates.
+* Updated the screenshot in **Lab 3 – Task 4, Step 6** to reflect the latest UI changes.
+* Updated the screenshot in **Lab 3 – Task 4, Step 9** to align with the latest UI updates.
+* Updated the screenshot in **Prerequisites – Task 1, Step 3** to reflect the latest UI changes.
+* Added an additional screenshot in **Prerequisites – Task 1, Step 6** to provide users with clearer visual guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-23
+
+### Testing Scope 
+
+- Validated the updated lab instructions, step numbering, formatting, and UI-specific content to ensure alignment with the current workflow. Reviewed all updated and newly added screenshots for accuracy, consistency, and clear visual guidance across the prerequisites and labs.
+
+---
+</details>
+
+<details>
   <summary>2026-06-18</summary>
 
 ## Release Date: 2026-06-18
