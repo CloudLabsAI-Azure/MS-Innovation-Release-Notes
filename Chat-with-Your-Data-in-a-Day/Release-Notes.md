@@ -16,6 +16,61 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-08-04</summary>
+
+## Release Date: 2026-08-04
+
+### Summary of Changes
+
+Updated multiple Microsoft Fabric lab guides to align with the latest UI experience. Refined instructions, refreshed screenshots, and added additional learner guidance to improve navigation and prevent common issues encountered during lab execution.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 03**
+  - Updated the **Prep data for AI** instructions and screenshots in **Task 1 (Steps 8 and 11)** to reflect the latest UI.
+  - Updated the **Prep data for AI** instructions and screenshot in **Task 2 (Step 7)** to align with the current experience.
+
+- **Lab 04**
+  - Updated the **Start Trial** UI and screenshot in the **Workspace Setup for Later Labs** section.
+  - Added a note and supporting screenshot in **Task 2 (Step 2)** instructing learners to switch to the **Fabric** portal to avoid the **"Move this dataset to its original region"** error.
+
+- **Lab 05**
+  - Added an instruction in **Task 3 (Step 9)** to select the **Table** visual from the **Visualizations** pane.
+
+### Screenshot Updates
+
+- **Lab 03**
+  - Updated screenshots for the latest **Prep data for AI** experience.
+
+- **Lab 04**
+  - Updated the **Start Trial** UI screenshot.
+  - Added a screenshot showing how to switch to the **Fabric** portal.
+
+- **Lab 05**
+  - Updated the visual guidance for selecting the **Table** visual.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-04
+
+  End-to-end validation was performed to verify the updated instructions, screenshots, navigation flow, and Microsoft Fabric UI changes across the affected labs.
+
+### Testing Scope
+
+- Performed complete end-to-end validation of the updated labs.
+- Verified all updated screenshots against the current Microsoft Fabric UI.
+- Validated the **Prep data for AI** workflow changes.
+- Verified the updated **Start Trial** experience and workspace setup guidance.
+- Confirmed the newly added Fabric portal note prevents the dataset region error.
+- Validated the updated visualization selection instruction in Lab 05.
+
+</details>
+
+<details>
   <summary>2026-06-11</summary>
 
 ## Release Date: 2026-06-11
