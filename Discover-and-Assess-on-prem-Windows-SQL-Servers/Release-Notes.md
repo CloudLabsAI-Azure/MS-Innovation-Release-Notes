@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-06</summary>
+
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Enhanced the lab guide by adding exercise scenarios, refining task instructions to align with the latest workflow, improving the Getting Started experience, and updating screenshots to provide clearer guidance and reflect the latest Azure portal UI.
+
+### Infrastructure Changes
+
+Added a deployment script to add Azure Migrate Owner role to the user.
+
+### Content Changes
+
+* Updated the **Getting Started** page by improving the **Virtual Machine** and **Lab Guide** font sizes for better readability.
+* Added **lab scenarios** to **Lab 1**, **Lab 2**, and **Lab 3** to provide additional context and improve the learning experience.
+* **Lab 2 – Task 1 – Step 2:** Updated the instructions to align with the corrected workflow.
+* **Lab 1 – Task 2 – Step 13:** Revised the content to match the latest lab workflow and added notes to provide additional guidance.
+* **Lab 1 – Task 2 – Step 24:** Enhanced the instructional content for improved clarity.
+* **Lab 1 – Task 2 – Step 25:** Added an additional step to improve user understanding.
+* **Lab 3 – Task 1 – Step 6:** Added an additional step to improve the lab experience.
+* **Lab 3 – Task 1 – Step 19:** Added a step instructing users to close the pop-up before proceeding.
+* Updated the **Get Started with Azure Portal** section on the **Getting Started** page.
+
+### Screenshot Updates
+
+* **Lab 2 – Task 1 – Step 2:** Updated the screenshot to reflect the latest UI. 
+* **Lab 1 – Task 2 – Steps 22 & 23:** Updated the screenshots to match the latest UI.
+* **Lab 1 – Task 2 – Step 25:** Added a screenshot to align with the updated instructions.
+* **Lab 3 – Task 1 – Step 6:** Added a screenshot to support the newly added step.
+* **Lab 3 – Task 1 – Step 19:** Added a screenshot illustrating how to close the pop-up.
+* Updated the **Getting Started** page screenshot to reflect the latest lab experience and UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-06
+
+### Testing Scope
+
+Validated the updated lab guide by reviewing the revised content, verifying the newly added and updated instructions across all affected exercises, and confirming that the refreshed screenshots accurately align with the latest workflow and user interface.
+
+---
+</details>
+
+<details>
   <summary>2026-07-15</summary>
 
 ## Release Date: 2026-07-15
