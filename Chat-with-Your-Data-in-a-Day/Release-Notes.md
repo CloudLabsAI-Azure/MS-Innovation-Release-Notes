@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ### Summary of Changes
 
-Updated multiple Microsoft Fabric lab guides to align with the latest UI experience. Refined instructions, refreshed screenshots, and added additional learner guidance to improve navigation and prevent common issues encountered during lab execution.
+Updated the lab guides to align with the latest UI experience. Refined instructions, refreshed screenshots, and added additional learner guidance to improve navigation and prevent common issues encountered during lab execution.
 
 ### Infrastructure Changes
 
@@ -31,12 +31,11 @@ N/A
 ### Content Changes
 
 - **Lab 03**
-  - Updated the **Prep data for AI** instructions and screenshots in **Task 1 (Steps 8 and 11)** to reflect the latest UI.
-  - Updated the **Prep data for AI** instructions and screenshot in **Task 2 (Step 7)** to align with the current experience.
+  - Updated the **Prep data for AI** instructions in **Task 1 (Steps 8 and 11)** and **Task 2 (Step 7)** to align with the latest workflow.
 
 - **Lab 04**
-  - Updated the **Start Trial** UI and screenshot in the **Workspace Setup for Later Labs** section.
-  - Added a note and supporting screenshot in **Task 2 (Step 2)** instructing learners to switch to the **Fabric** portal to avoid the **"Move this dataset to its original region"** error.
+  - Updated the **Workspace Setup for Later Labs** instructions to reflect the latest **Start Trial** experience.
+  - Added a note in **Task 2 (Step 2)** instructing learners to switch to the **Fabric** portal to avoid the **"Move this dataset to its original region"** error.
 
 - **Lab 05**
   - Added an instruction in **Task 3 (Step 9)** to select the **Table** visual from the **Visualizations** pane.
@@ -47,12 +46,12 @@ N/A
   - Updated screenshots for the latest **Prep data for AI** experience.
 
 - **Lab 04**
-  - Updated the **Start Trial** UI screenshot.
-  - Added a screenshot showing how to switch to the **Fabric** portal.
+  - Updated screenshots to reflect the latest **Start Trial** UI.
+  - Added a screenshot demonstrating how to switch to the **Fabric** portal.
 
 - **Lab 05**
-  - Updated the visual guidance for selecting the **Table** visual.
-
+  - Updated the screenshot highlighting the selection of the **Table** visual from the **Visualizations** pane.
+  
 ### Testing Notes
 
 - **Testing Date**: 2026-08-04
