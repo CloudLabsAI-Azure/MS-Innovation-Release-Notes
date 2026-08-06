@@ -18,31 +18,25 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 <details>
   <summary>2026-08-05</summary>
 
-## Summary of Changes
+## Onboarding Summary
 
 Completed the onboarding, configuration, content preparation, and end-to-end validation for the **Agent Memory: Build Long-Term Memory for AI Agents with Azure Cosmos DB and Microsoft Agent Framework** lab. The lab environment, deployment components, automation scripts, content, and screenshots were reviewed and finalized to provide a consistent hands-on learning experience.
 
-## Infrastructure Changes
+## Infrastructure Details
 
 - Configured the required Azure resources and deployment components for the lab environment.
-- Validated Azure OpenAI, Azure Cosmos DB, lab VM, and supporting resource configurations.
+- Validated Microsoft Foundry, Azure Cosmos DB, lab VM, and supporting resource configurations.
 - Configured and verified required RBAC roles, custom policies, and usage policies.
 - Prepared and validated infrastructure-as-code templates, VM configurations, and supporting automation scripts.
 - Verified successful provisioning and overall environment readiness.
 
-## Content Changes
+## Content Details
 
 - Completed content onboarding across all lab exercises and tasks.
 - Integrated the complete lab guide with the Table of Contents (TOC).
 - Updated instructions, notes, expected outputs, and navigation flow for improved learner experience.
 - Finalized content covering Agent Memory, SQLite, Microsoft Agent Framework integration, agent-driven memory retrieval, insight curation, bounded memory, Azure Cosmos DB persistence, FastAPI service mode, Streamlit visualization, and cross-session recall.
 - Reviewed the lab content for consistency, accuracy, and formatting.
-
-## Screenshot Updates
-
-- Updated screenshots across the lab to align with the latest implementation.
-- Verified screenshots against the current notebook outputs, Azure experience, Cosmos DB Data Explorer, FastAPI service, and Streamlit interface.
-- Refreshed images wherever workflows or instructions were updated.
 
 ## Automation and Configuration
 
