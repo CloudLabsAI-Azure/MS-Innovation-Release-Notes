@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-06</summary>
+
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Foundry portal experience. Refreshed screenshots, revised instructions, added alternate navigation guidance for model deployment, and updated application output screenshots to improve learner experience and ensure consistency with the current UI.
+
+### Content Changes
+
+- Updated the **Getting Started** page screenshots and references to reflect the latest **Microsoft Foundry** naming convention.
+- **Exercise 1**:
+  - Updated screenshots throughout the exercise to match the latest Microsoft Foundry portal UI.
+  - Revised deployment and navigation instructions to align with the current user experience.
+  - Added a note providing alternate navigation paths for **model deployment** to accommodate different Microsoft Foundry UI experiences.
+- **Exercise 2**:
+  - Updated web application output screenshots wherever required to reflect the latest expected results.
+
+### Screenshot Updates
+
+- Refreshed **Getting Started** page screenshots to align with Microsoft Foundry branding and UI.
+- Updated screenshots in **Exercise 1** to match the latest portal experience.
+- Updated web application output screenshots in **Exercise 2**.
+- Improved screenshot references and alignment with updated instructions.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-06
+
+### Testing Scope
+
+- Validated updated instructions against the current Microsoft Foundry UI.
+- Verified alternate model deployment navigation paths documented in the lab guide.
+- Confirmed screenshot accuracy and alignment with the latest portal experience.
+- Reviewed overall lab flow for consistency and learner clarity.
+
+---
+
+</details>
+<details>
   <summary>2026-07-28</summary>
 
 ## Release Date: 2026-07-28
