@@ -16,6 +16,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-06</summary>
+
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Improved the overall learner experience by enhancing screenshots, masking sensitive information, and adding visual annotations to improve readability and navigation throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started**
+  - Blurred the resource group name in the **Exploring Your Lab Resources & Utilizing the Split Window Feature** section to mask sensitive information.
+  - Updated the screenshot in **Let's Get Started with Azure Portal – Step 5** by removing the visible mouse pointer.
+
+- **Lab 01**
+  - Added numbered annotations to the screenshot in **Task 1 – Step 10**.
+  - Added the missing numbered annotations to the screenshot in **Task 2 – Step 5**.
+  - Improved the overall readability of the lab by adding numbered callouts and highlighting important information where applicable.
+
+### Screenshot Updates
+
+- **Getting Started**
+  - Updated screenshots by masking sensitive information and removing the visible mouse pointer.
+
+- **Lab 01**
+  - Updated screenshots with numbered annotations to provide clearer visual guidance for learners.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-06
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab guide.
+- Verified all updated screenshots against the current UI.
+- Confirmed numbered annotations and highlighted instructions align with the corresponding steps.
+- Verified that sensitive information is properly masked throughout the guide.
+
+---
+</details>
+
+<details>
   <summary>2026-07-23</summary>
 
 ## Release Date: 2026-07-23
