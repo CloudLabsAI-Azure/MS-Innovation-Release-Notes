@@ -19,6 +19,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-07-14</summary>
+
+## Release Date: 2026-07-14
+
+### Summary of Changes
+
+Content enhancements and fixes to improve clarity, usability, and lab experience, along with updates to address missing elements and usability issues reported during testing.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- NA  
+
+### Screenshot Updates
+
+- Updated the screenshots for the lab instructions to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-14
+
+### Testing Scope
+
+Performed end-to-end validation of updated prompts, PowerPoint/Copilot launch flow, VM usability guidance, and completeness of the Agent Creation lab screenshots.
+
+---
+</details>
+
+<details>
   <summary>2026-05-25</summary>
 
 ## Release Date: 2026-05-25

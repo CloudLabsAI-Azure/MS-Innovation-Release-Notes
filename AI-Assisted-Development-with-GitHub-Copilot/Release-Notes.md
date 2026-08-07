@@ -62,6 +62,50 @@ Performed end-to-end validation of the lab using the latest GitHub Copilot exper
 </details>
 
 <details>
+<summary>2026-07-31</summary>
+ 
+## Release Date: 2026-07-31
+ 
+### Summary of Changes
+
+Updated the lab guide by improving content formatting, refining section headings, aligning instructions with the latest UI changes, and refreshing screenshots across multiple exercises to reflect the correct organization and current user experience.
+
+### Infrastructure Changes
+
+- N/A
+ 
+### Content Changes
+
+* **Exercise 1 – Task 4 – Use Agent Mode:** Corrected formatting to improve consistency and readability.
+* **Exercise 1 – Task 4 – Experiment with Context Injection:** Removed numbering, as this section is a heading.
+* **Exercise 7 – Task 1 – Step 12:** Updated the instructions to align with the latest UI changes.
+
+### Screenshot Updates
+
+* Updated the screenshots in the following steps to reflect the correct organization:
+  * **Exercise 1 – Task 3 – Step 3**
+  * **Exercise 1 – Task 4 – Step 4**
+  * **Exercise 4 – Task 1 – Step 8**
+  * **Exercise 4 – Task 2 – Steps 7 and 8**
+  * **Exercise 4 – Task 3 – Steps 6 and 10**
+  * **Exercise 7 – Task 1 – Step 1** and the **Note** section
+  * **Exercise 7 – Task 1 – Step 10**
+  * **Exercise 7 – Task 2 – Steps 16, 17, and 18**
+  * **Getting Started – GitHub Login** step
+* **Exercise 7 – Task 1 – Step 12:** Updated the screenshot to reflect the latest UI changes.
+
+### Testing Notes
+ 
+- **Testing Date**: 2026-07-31
+
+### Testing Scope
+
+ Validated the updated content formatting, heading structure, and UI-specific instructions for accuracy and consistency. Reviewed all updated screenshots to ensure they reflect the correct organization, align with the latest UI, and provide clear guidance throughout the lab.
+
+ 
+</details>
+
+<details>
 <summary>2026-07-20</summary>
  
 ## Release Date: 2026-07-20

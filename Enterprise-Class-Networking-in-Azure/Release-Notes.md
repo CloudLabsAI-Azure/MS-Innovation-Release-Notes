@@ -16,6 +16,39 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-07-13</summary>
+
+## Release Date: 2026-07-13
+
+### Summary of Changes
+
+Updated the lab content to align with the latest Azure portal UI updates. Added scenario sections for the lab and all exercises to improve learner understanding. Updated multiple task instructions, resource creation flows, and screenshots for clarity and consistency with the latest Azure UI.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide with refined instructions for smoother lab experience.
+  
+### Screenshot Updates
+
+- Refreshed screenshots across the lab to match the latest Azure portal UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-13
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+
 <details>
   <summary>2026-05-26</summary>
 

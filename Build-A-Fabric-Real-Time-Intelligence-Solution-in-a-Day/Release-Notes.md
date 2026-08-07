@@ -18,6 +18,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-07-22</summary>
+
+## Release Date: 2026-07-22
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest Microsoft Fabric portal experience by refreshing screenshots, updating UI references, and improving instructional clarity. Added guidance for resizing the virtual machine view and updated dashboard-related workflows to reflect the latest Fabric UI.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Improved overall instructional clarity and aligned the lab guide with the latest Microsoft Fabric portal experience.
+
+### Screenshot Updates
+
+- Updated the screenshots based on the latest Microsoft Fabric portal experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-22
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab to ensure all tasks and exercises execute successfully without issues.
+- Verified that all lab instructions are accurate, sequential, and aligned with the current Microsoft Fabric portal experience.
+- Validated all portal UI changes and confirmed that the screenshots accurately reflect the latest interface.
+- Ensured the lab guide, screenshots, expected outputs, and validation steps remain consistent throughout the lab after incorporating the latest updates.
+- Verified that the overall learner experience is seamless and that no regressions were introduced by the recent changes.
+---
+
+</details>
+
+<details>
   <summary>2026-07-02</summary>
 
 ## Release Date: 2026-07-02

@@ -18,6 +18,38 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-07-15</summary>
+
+## Release Date: 2026-07-15
+
+### Summary of Changes
+
+Minor enhancements were made throughout the guide, including updating UI screenshots and refining instructions for improved clarity and accuracy.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab guide with refined lab instructions for a smoother lab experience.
+
+### Screenshot Updates
+
+  - **Updated UI Screenshots:** Screenshots have been updated to reflect the latest UI changes, and the corresponding instructions have been reviewed and aligned with the updated VS Code visuals.
+
+### Testing Notes
+
+- **Testing Date:** 2026-07-15
+
+### Testing Scope 
+
+- End-to-end lab testing was completed successfully with all validations passing, and the lab guide was updated to improve clarity and reflect the latest UI changes.
+
+---
+</details>
+
+<details>
   <summary>2026-04-10</summary>
 
 ## Release Date: 2026-04-10
