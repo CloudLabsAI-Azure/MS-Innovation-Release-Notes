@@ -34,7 +34,6 @@ Completed end-to-end testing for the **Building an Agentic Legal Research Applic
 
 - Completed content onboarding across all exercises.
 - Updated instructions, notes, and navigation flow for improved learner experience.
-- Incorporated review feedback and completed all pending content improvements.
 - Reviewed and updated lab content to ensure consistency and accuracy.
 
 ## Screenshot Updates
