@@ -16,6 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-08-07</summary>
+
+## Summary of Changes
+
+Updated the **MS Fabric Foundation for Enterprise Analytics** lab to align with the latest Microsoft Fabric user interface and workflow. The lab documentation was refreshed with updated instructions, improved learner guidance, and updated screenshots across the Getting Started section and multiple exercises. Outdated screenshots were removed and new screenshots were added where required to ensure the documentation accurately reflects the current Microsoft Fabric experience.
+
+## Infrastructure Changes
+
+- N/A
+
+## Content Changes
+
+- Updated the **Getting Started** guide to reflect the latest Microsoft Fabric onboarding and navigation experience.
+- Updated instructions across the all exercises.
+- Improved instructional wording and updated steps where required based on lab testing.
+- Updated content to align with the current Microsoft Fabric workflow and user interface.
+- Removed obsolete or no-longer-required content and screenshots.
+- Added new learner guidance and screenshots for updated workflows and navigation paths.
+- Improved the overall consistency and learner experience across the lab documentation.
+
+## Screenshot Updates
+
+- Refreshed screenshots throughout the **Getting Started** section.
+- Updated screenshots across Exercises 1–6 to match the current Microsoft Fabric UI.
+- Added new screenshots for updated workflows and navigation steps.
+- Replaced outdated screenshots that no longer matched the current experience.
+- Added new screenshots to provide clearer visual guidance for learners.
+
+## Testing Notes
+
+- **Testing Date:** 2026-08-07
+
+## Testing Scope
+
+- Performed end-to-end lab testing for the **MS Fabric Foundation for Enterprise Analytics** lab.
+- Validated the updated instructions and screenshots against the current Microsoft Fabric experience.
+- Verified the instructional sequence, formatting, and overall learner experience.
+- Updated the documentation and screenshots based on the findings from the testing cycle.
+
+---
+</details>
+
 <details>
   <summary>2026-06-17</summary>
 
