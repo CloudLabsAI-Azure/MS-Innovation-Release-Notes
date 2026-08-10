@@ -20,6 +20,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 <details>
   <summary>2026-08-07</summary>
 
+## Release Date: 2026-08-07
+
 ## Summary of Changes
 
 Updated the **MS Fabric Foundation for Enterprise Analytics** lab to align with the latest Microsoft Fabric user interface and workflow. The lab documentation was refreshed with updated instructions, improved learner guidance, and updated screenshots across the Getting Started section and multiple exercises. Outdated screenshots were removed and new screenshots were added where required to ensure the documentation accurately reflects the current Microsoft Fabric experience.
