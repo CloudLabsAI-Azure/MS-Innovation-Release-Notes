@@ -18,6 +18,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-08-07</summary>
+
+## Release Date : 2026-08-07
+
+### Summary of Changes
+
+Updated the lab guide and deployment flow to align with the latest Microsoft Fabric, Copilot Studio, GitHub Codespaces, and Azure experiences. Lab 1 was restructured to a CLI-driven deployment and testing workflow, terminology and headings were standardized, 14 new screenshots were added, and a custom Azure Policy was introduced to better control lab resource usage.
+
+### Infrastructure Changes
+
+- Added a custom Azure Policy to restrict resource creation in the lab environment and better manage resource usage during hands-on exercises.
+- Updated automation and provisioning scripts to support the new CLI-first workflow and build pipeline.
+
+### Content Changes
+
+- Terminology & headings:
+  - "Workshop Scenario" → "Lab Scenario"
+  - "Overview" → "Lab Overview"
+  - "Objectives" → "Lab Objectives"
+  - Updated Gettingstarted.md and overview text to describe CLI-first build/test workflow
+
+- Task restructuring (4 Tasks → 3 Tasks):
+  - Task 1: Create Fabric workspace and link Copilot-enabled capacity (unchanged)
+  - Task 2: Deploy Azure infrastructure AND build solution (expanded with new prereqs and build steps)
+    - New prerequisites: `azd env set BACKEND_RUNTIME_STACK dotnet`, azd version conditional steps, `azd env set FABRIC_WORKSPACE_ID <workspace-id>`, `bash ./infra/scripts/build/build-and-push-acr.sh`, Python venv & dependencies, `python infra/scripts/post-provision/00_build_solution.py --scenario retail`
+  - Task 3: Replaced portal-based auth setup with interactive CLI-based agent testing
+    - New focus: CLI-based agent validation and cleanup (`azd down`)
+
+- Removed manual Azure App Service auth setup in favor of command-line testing flows.
+
+### Screenshot Updates
+
+Added or refreshed 14 screenshots to reflect current portal and tooling UI:
+- as.png, azd.png, azddown.png, azdup.png, azdv1.png, back.png, doc.png, doc1.png, help.png, ls.png, ls1.png, pp.png, ps1.png, wsid.png
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-07
+
+### Testing Scope
+
+- Scope: End-to-end validation of lab deployment and exercises, verification of Copilot Studio and GitHub UI guidance, and validation of CLI automation scripts and sample agent tests.
+
+---
+</details>
+
+<details>
   <summary>2026-06-19</summary>
 
 ## Release Date : 2026-06-19
