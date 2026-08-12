@@ -15,6 +15,65 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-08-12</summary>
+
+## Release Date: 2026-08-12
+
+### Summary of Changes
+
+Updated the lab guide to align the optional MCP workflow with the Microsoft Sentinel MCP Triage experience. The release includes updated task descriptions, MCP guidance, architecture content, terminology, and investigation scenarios based on successful end-to-end testing.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the lab **Overview** to describe the Microsoft Sentinel MCP Triage workflow.
+- Updated the **Objectives** to reflect the revised Task 1–5 flow and MCP Triage activities.
+- Updated **Environment Context** and **Scenario** to align with security incident investigation.
+- Updated Task 1 terminology from **Data Lake Readiness** to **Security Data Readiness** where applicable.
+- Removed the dependency statement that MCP requires an active Sentinel Data Lake for the optional MCP workflow.
+- Updated **Task 4** to use the **Microsoft Sentinel MCP Triage server** instead of the previous Data Exploration/Data Lake-based MCP flow.
+- Updated Task 4 titles, objectives, MCP explanation, connection instructions, and validation criteria to reflect MCP Triage.
+- Added guidance explaining **MCP Triage**, including its role in incident, alert, and entity investigation.
+- Updated **Task 5** to focus on security incident investigation using natural language through MCP Triage.
+- Replaced the previous raw telemetry/process-level investigation prompts with validated incident-based prompts.
+- Updated Task 5 scenarios to cover incident retrieval, severity filtering, affected users and devices, multi-device investigation, lateral movement indicators, and investigation summaries.
+- Updated the **KQL vs MCP** comparison to distinguish incident triage through MCP Triage from deeper and customized investigation using KQL.
+- Updated the **What You Learned**, **When to Use Each Method**, and **Summary** sections to reflect the new MCP Triage workflow.
+- Updated terminology throughout the guide to consistently use **MCP Triage** where applicable.
+
+### Screenshot / Architecture Updates
+
+- Updated the architecture diagram to reflect the revised lab workflow and optional MCP Triage path.
+- Updated the architecture flow to show:
+  - Microsoft Sentinel
+  - Security Copilot Investigation Agent (NL2Agent)
+  - Code-First Agent (YAML)
+  - Microsoft Sentinel MCP Triage
+  - VS Code + GitHub Copilot
+  - Natural-language security incident investigation
+- Removed the representation of Sentinel Data Lake as a required component of the optional MCP investigation flow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+- End-to-end validation of the updated MCP workflow was completed successfully.
+- Verified the Microsoft Sentinel MCP Triage connection using `https://sentinel.microsoft.com/mcp/triage`.
+- Validated security incident retrieval using natural-language prompts.
+- Validated high-severity incident filtering and incident status retrieval.
+- Validated incident summarization, including affected users, devices, and other entities.
+- Validated multi-device incident investigation and incident progression across `dc01` and `SMB01`.
+- Validated lateral movement and credential access indicators returned through incident investigation.
+- Validated generation of an executive investigation summary using natural language.
+- Confirmed the updated Task 4 and Task 5 workflow is functional and aligned with the tested MCP Triage capabilities.
+
+</details>
 
 <details>
   <summary>2026-07-13</summary>
