@@ -14,6 +14,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-08-06</summary>
+
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Updated Lab 1 and Lab 5 with screenshot replacements and content additions to improve authentication guidance and agent task troubleshooting.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Exercise 1 — Getting Started
+  
+  - Step: Login / "Start using Copilot" pop-up  
+    - Change: Screenshot replaced 
+  - Step: Post-login confirmation / GitHub homepage  
+    - Change: Screenshot replaced
+
+- Exercise 5 — Agentic Coding
+  
+  - Step: Authenticate / sign in for Copilot & create issues  
+    - Change: Added CLI auth instruction and screenshot: gh auth login (content addition + new screenshot)  
+  - Step: Agent Panel walkthrough (select repo / start task / active tasks)  
+    - Change: Replaced multiple Agent Panel screenshots  
+  - Step: Task runtime/troubleshooting guidance  
+    - Change: Added notes about waiting for task completion and retrying steps if internal server error occurs (content addition)
+
+### Screenshot Updates
+
+- Replaced and added screenshots as listed above to align with current UI and CLI guidance.
+
+### Testing Notes
+
+- **Testing Date:** 2026-08-06
+  
+- **Testing Scope:** Verified screenshot rendering and placement; validated CLI authentication instruction (gh auth login) flow and added screenshot; exercised Agent Panel flows (select repo, start task, monitor active tasks) and confirmed troubleshooting guidance for task runtime (including retries on internal server error).
+
+---  
+</details>
+
 <details>
   <summary>2026-07-28</summary>
 
