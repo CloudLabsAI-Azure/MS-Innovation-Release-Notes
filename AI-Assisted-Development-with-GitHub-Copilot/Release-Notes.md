@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest GitHub Copilot experience by refining Agent mode workflows, improving prompt guidance, adding validation notes for varying Copilot behaviors, documenting Azure App Service configuration requirements, and refreshing screenshots to reflect the current UI.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- **Exercise 2 – Task 1:** Updated guidance to encourage learners to explore **Autopilot** mode while keeping approval settings configurable.
+- **Exercise 2 – Task 2:** Added instructions to configure **Allow all** approval mode before executing Agent tasks.
+- **Exercise 2 – Task 2:** Improved deployment guidance by documenting that the local `.env` file should not be committed to the repository.
+- **Exercise 2 – Task 3:** Added steps to configure the required **Azure App Service Environment variables** before validating the deployed application.
+- **Exercise 2 – Task 3:** Added instructions to restart the Azure Web App after applying environment variables and validate the deployed application.
+- **Exercise 2 – Task 3:** Added a note explaining that **Deployments** may appear as **Models** in Azure AI Foundry due to a temporary UI inconsistency.
+- **Exercise 4 – Task 4 – Step 4:** Added a note instructing learners to select **Workspace** if prompted for the instruction file location.
+- **Exercise 4 – Task 4 – Step 4:** Added a note instructing learners to select **All of the above** if prompted to choose conventions for the instruction file.
+- **Exercise 4 – Task 4 – Step 5:** Added guidance to verify that the generated instruction file is saved under the **.github** folder and named **copilot-instructions.md**.
+- **Exercise 5 – Task 1 – Step 7:** Updated the follow-up prompt to explicitly instruct GitHub Copilot to modify the **Issue.MD** file with the generated GitHub issue details.
+- Removed obsolete instructions that were no longer applicable with the latest GitHub Copilot Agent workflow.
+- Improved instructional notes throughout the lab to account for variations in GitHub Copilot behavior across environments.
+
+### Screenshot Updates
+
+- Updated screenshots across multiple exercises to reflect the latest GitHub Copilot interface and Azure portal experience.
+- Updated screenshots related to:
+  - GitHub Copilot approval settings
+  - Agent customization and instruction generation
+  - Azure App Service Environment variables
+  - Azure AI Foundry navigation
+  - Updated deployment and validation workflow
+
+### Testing Notes
+
+- **Testing Date:** 2026-08-06
+
+### Testing Scope
+
+Performed end-to-end validation of the lab using the latest GitHub Copilot experience and Azure portal UI. Verified application generation, local execution, GitHub Actions deployment, Azure App Service configuration, AI Foundry integration, custom instruction generation, issue creation workflow, and successful application validation after deployment. Updated the lab guide to accommodate observed GitHub Copilot behavioral differences and instructor review feedback.
+
+</details>
+
 <details>
 <summary>2026-07-31</summary>
  
