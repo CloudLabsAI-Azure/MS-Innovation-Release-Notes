@@ -35,8 +35,6 @@ This update enhances the **Fabric IQ - Unified Data to Business Intelligence** l
 - **Exercise 3 – Create Ontology:**
   - Added detailed instructions for creating and managing the Graph Model.
   - Included guidance for saving and monitoring ontology graph creation.
-
-- **Exercise 3 – Ontology Provisioning Validation:**
   - Added steps to verify graph model activity status through the **Monitor** page.
   - Included instructions for validating successful ontology provisioning.
 
