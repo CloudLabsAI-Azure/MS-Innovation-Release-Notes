@@ -17,6 +17,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-13</summary>
+
+## Release Date: 2026-08-13
+
+## Summary of Changes
+
+Updated the **Unified Security and Compliance with Microsoft Defender XDR and Purview** lab to align with the latest Microsoft Defender portal user interface, Microsoft Sentinel integration, and current lab workflows. The lab documentation was refreshed with updated instructions, improved learner guidance, and updated screenshots across multiple exercises. Outdated screenshots and UI references were replaced, and new screenshots were added where required to ensure the documentation accurately reflects the current Microsoft Defender experience.
+
+## Infrastructure Changes
+
+- N/A
+
+## Content Changes
+
+- Updated instructions across **All Exercise**.
+- Updated steps and navigation based on the current Microsoft Defender portal experience.
+- Updated content related to **Microsoft Sentinel integration with the Microsoft Defender portal**.
+- Updated outdated and deprecated UI references identified during lab testing.
+- Improved instructional wording and learner guidance where required.
+- Removed or replaced outdated content that no longer matched the current service experience.
+- Improved consistency across the affected exercises to provide a clearer learner experience.
+
+## Screenshot Updates
+
+- Refreshed screenshots across **All Exercise**.
+- Updated screenshots across **All Exercise**.
+- Replaced outdated screenshots that no longer matched the current Microsoft Defender portal UI.
+- Added new screenshots for updated workflows, navigation paths, and configuration steps.
+- Updated screenshots related to Microsoft Sentinel functionality available through the Microsoft Defender portal.
+- Added clearer visual guidance to help learners follow the updated lab workflow.
+
+## Testing Notes
+
+- **Testing Date:** 2026-08-13
+
+## Testing Scope
+
+- Performed lab testing for the **Unified Security and Compliance with Microsoft Defender XDR and Purview** lab.
+- Validated the updated instructions against the current Microsoft Defender portal experience.
+- Verified updated Microsoft Sentinel and Microsoft Defender portal workflows.
+- Validated the updated screenshots against the documented steps.
+- Verified the instructional sequence, formatting, and learner guidance.
+- Updated the documentation and screenshots based on findings identified during the testing cycle.
+
+---
+</details>
+
+<details>
   <summary>2026-03-10</summary>
 
 ## Release Date: 2026-03-10
