@@ -16,6 +16,64 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-08-12</summary>
+
+## Release Date
+
+2026-08-12
+
+### Summary of Changes
+
+This update enhances the **Fabric IQ - Unified Data to Business Intelligence** lab by aligning ontology and graph model workflows with the latest Microsoft Fabric experience. Additional instructions and screenshots have been added to improve learner guidance, ontology graph monitoring, status validation, and overall usability. Content updates were driven by lab testing feedback and internal QA validation to ensure a smoother end-to-end experience.
+
+### Infrastructure Changes
+
+* No infrastructure changes.
+
+### Content Changes
+
+- **Exercise 3 – Create Ontology:**
+  - Added detailed instructions for creating and managing the Graph Model.
+  - Included guidance for saving and monitoring ontology graph creation.
+
+- **Exercise 3 – Ontology Provisioning Validation:**
+  - Added steps to verify graph model activity status through the **Monitor** page.
+  - Included instructions for validating successful ontology provisioning.
+
+- **Exercise 4 – Create a Data Agent with Ontology:**
+  - Updated navigation and workflow instructions to align with the latest Fabric UI.
+  - Improved learner guidance for connecting and utilizing ontology assets.
+
+- **General Content Improvements:**
+  - Added notes informing learners that ontology graph provisioning may take **5–10 minutes** to complete.
+  - Improved wording and step sequencing for enhanced readability and smoother lab flow.
+  - Updated terminology to match the current Microsoft Fabric experience.
+
+### Screenshot Updates
+
+- Replaced outdated screenshots throughout ontology-related exercises.
+- Added new screenshots for Graph Model creation and monitoring workflows.
+- Updated screenshots showing ontology provisioning and status validation.
+- Improved screenshot consistency and alignment with the latest Fabric interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+- Completed end-to-end testing of the Fabric IQ lab.
+- Verified ontology graph creation workflow functionality.
+- Confirmed ontology graph loading behavior after content updates.
+- Validated Graph Model monitoring and status verification instructions.
+- Confirmed all updated screenshots accurately match the current Fabric UI.
+- Verified all exercises are functioning as expected after content modifications.
+- Confirmed alert-related components are configured as read-only and do not generate alerts.
+
+---
+
+</details>
+<details>
 <summary>2026-07-17</summary>
 
 ## Release Date
