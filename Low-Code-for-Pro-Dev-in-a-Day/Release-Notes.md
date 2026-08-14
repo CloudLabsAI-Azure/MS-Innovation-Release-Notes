@@ -16,6 +16,46 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-08-14</summary>
+
+## Release Date: 2026-08-14
+
+### Summary of Changes
+
+Performed end-to-end testing of the lab to validate the Power Platform solution packaging and deployment workflow and ensure the lab content and screenshots are aligned with the latest Power Platform experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the Power Platform CI/CD workflow to install Power Platform Tools before executing Power Platform actions.
+- Updated the `pack-solution` and `import-solution` actions to `@v1`.
+- Validated successful solution packaging and deployment to the test environment.
+
+### Screenshot Updates
+
+- Updated screenshots across all labs to reflect the latest Power Platform user interface and workflow.
+
+### Validation
+
+- Validated successful solution packaging and import using the updated CI/CD workflow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-12
+
+### Testing Scope
+
+- Performed end-to-end testing of the lab.
+- Verified the Power Platform solution packaging and deployment workflow.
+- Confirmed successful solution packaging and import into the test environment.
+- Updated and verified screenshots across all labs for accuracy and consistency.
+
+</details>
+
+<details>
   <summary>2025-10-10</summary>
 
 ## Release Date: 2025-10-10
