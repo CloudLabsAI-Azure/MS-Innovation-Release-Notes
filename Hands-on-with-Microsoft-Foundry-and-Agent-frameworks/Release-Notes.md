@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-17</summary>
+
+## Release Date: 2026-08-17
+
+### Summary of Changes 
+
+Updated the lab guide and all Python notebooks to replace Semantic Kernel and AutoGen with the Microsoft Agent Framework for multi-agent orchestration, rebranded Azure AI Search references to Azure AI Search (Foundry IQ), and updated model deployments from gpt-4.1 to gpt-5.4.
+Introduced an ARM template-based workaround to pre-provision Microsoft Foundry, required models (gpt-5.4, text-embedding-3-large, DeepSeek-V3.2, Phi-4-reasoning), Application Insights, Log Analytics Workspace, and Search Service (Foundry IQ), reducing manual setup time. 
+Updated All Jupyter notebooks and their underlying Python code, refreshed 150+ screenshots to reflect the current Microsoft Foundry portal UI, and revised lab instructions for improved clarity and consistency across all exercises.
+
+### Infrastructure Changes
+
+- Added a new ARM template to pre-provision Microsoft Foundry, gpt-5.4, text-embedding-3-large, DeepSeek-V3.2, Phi-4-reasoning, Application Insights, Log Analytics Workspace, and Search Service (Foundry IQ), removing manual resource creation and model deployment steps from the lab flow.
+
+### Content Changes
+
+- Replaced Semantic Kernel and AutoGen references with the Microsoft Agent Framework across the lab guide and notebooks, including agent creation, orchestration, and multi-agent RAG pipeline sections.
+- Rebranded "Azure AI Search" to "Azure AI Search (Foundry IQ)" across all exercises, scenarios, objectives, and summaries.
+- Updated model references from gpt-4.1 to gpt-5.4 throughout the lab guide and notebooks.
+- Updated notebook code from legacy Chat Completions API calls to the current recommended API pattern.
+- Renamed and restructured notebook sections to match updated notebook content (e.g., Phi-4 → Phi-4-reasoning, updated Exercise 6 notebook filenames and section titles).
+- Removed the X-ray image asset and its associated image embedding example.
+- Consolidated execute-cell and output-confirmation steps for improved readability, and fixed minor typos across exercises.
+
+### Screenshot Update
+
+- Updated Microsoft Foundry portal and all VS code execution screenshots across all exercises to reflect the latest UI and updated notebook outputs.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-15
+
+### Testing Scope 
+
+- Successfully tested and validated all exercises end-to-end after the Microsoft Agent Framework migration
+- Verified all 16 notebooks execute cleanly with updated Python code and no residual Semantic Kernel/AutoGen references
+- Confirmed pre-provisioned resources (Foundry, gpt-5.4, text-embedding-3-large, DeepSeek-V3.2, Phi-4-reasoning, Application Insights, Log Analytics Workspace, Search Service/Foundry IQ) deploy correctly via the new ARM template
+- Verified model deployment/validation flow using gpt-5.4 and text-embedding-3-large
+- Ensured screenshots and instructions align with the current Microsoft Foundry portal experience
+
+---
+
+</details>
+
+<details>
   <summary>2026-07-23</summary>
 
 ## Release Date: 2026-07-23
