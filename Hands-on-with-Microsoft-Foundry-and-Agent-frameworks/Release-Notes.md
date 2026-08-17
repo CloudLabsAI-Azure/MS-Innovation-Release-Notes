@@ -22,7 +22,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes 
 
-Updated the lab guide and all Python notebooks to replace Semantic Kernel and AutoGen with the Microsoft Agent Framework for multi-agent orchestration, rebranded Azure AI Search references to Azure AI Search (Foundry IQ), and migrated model deployments from gpt-4.1 to gpt-5.4. Introduced an ARM template-based workaround to pre-provision Microsoft Foundry, required models (gpt-5.4, text-embedding-3-large, DeepSeek-V3.2, Phi-4-reasoning), Application Insights, Log Analytics Workspace, and Search Service (Foundry IQ), reducing manual setup time. Updated 16 Jupyter notebooks and their underlying Python code, refreshed 150+ screenshots to reflect the current Microsoft Foundry portal UI, and revised lab instructions for improved clarity and consistency across all exercises.
+Updated the lab guide and all Python notebooks to replace Semantic Kernel and AutoGen with the Microsoft Agent Framework for multi-agent orchestration, rebranded Azure AI Search references to Azure AI Search (Foundry IQ), and updated model deployments from gpt-4.1 to gpt-5.4.
+Introduced an ARM template-based workaround to pre-provision Microsoft Foundry, required models (gpt-5.4, text-embedding-3-large, DeepSeek-V3.2, Phi-4-reasoning), Application Insights, Log Analytics Workspace, and Search Service (Foundry IQ), reducing manual setup time. 
+Updated All Jupyter notebooks and their underlying Python code, refreshed 150+ screenshots to reflect the current Microsoft Foundry portal UI, and revised lab instructions for improved clarity and consistency across all exercises.
 
 ### Infrastructure Changes
 
@@ -40,7 +42,7 @@ Updated the lab guide and all Python notebooks to replace Semantic Kernel and Au
 
 ### Screenshot Update
 
-- Updated 150+ Microsoft Foundry portal screenshots across all exercises to reflect the latest UI and updated notebook outputs.
+- Updated Microsoft Foundry portal and all VS code execution screenshots across all exercises to reflect the latest UI and updated notebook outputs.
 
 ### Testing Notes
 
