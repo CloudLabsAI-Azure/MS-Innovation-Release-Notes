@@ -16,6 +16,58 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-17</summary>
+
+## Release Date: 2026-08-17
+
+### Summary of Changes
+
+Updated the **Implementing Dynamics 365 Contact Center** lab guide to improve learner experience, align instructions with the latest Dynamics 365 Customer Service and Contact Center interface, and enhance navigation flows across multiple exercises. The update includes refined task guidance, improved UI references, additional screenshots, and clearer step-by-step instructions to help learners complete the lab successfully.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Improved instruction clarity and formatting across Exercises 1, 3, 4, 5, and 6.
+* Enhanced navigation guidance with updated menu paths, numbered UI references, and simplified learner actions.
+* Added guidance for newer user experiences and configuration workflows where applicable.
+* Updated terminology to align with the current product experience.
+* Improved task flow and overall readability throughout the lab guide.
+* Added guidance for opening records in new sessions, accessing Smart Assist suggestions, and working with case relationships.
+* Added a new overview section describing how to resize the Virtual Machine and Lab Guide panes.
+
+### Screenshot Updates
+
+* **Overview** :Added screenshots and supporting guidance for the VM and Lab Guide resize experience.
+
+* **Exercise 1**: Updated screenshots and instructions for channel navigation, Insights pages, menu structure updates, and terminology alignment.
+
+* **Exercise 3**: Refreshed screenshots and learner guidance for Smart Assist bot configuration, script setup, UI version selection, and shift-based routing.
+
+* **Exercise 4**:  Updated screenshots and instructions for Rich Text Editor configuration, workspace setup, inbox configuration, multilingual voice rules, and view configuration settings.
+
+* **Exercise 5**: Added updated screenshots and navigation guidance for connection references, Copilot Studio experience changes, and agent creation workflows.
+
+* **Exercise 6**: Updated screenshots and instructions for case creation, case session management, Smart Assist recommendations, knowledge article creation, dashboard navigation, case relationships, and case management actions.
+
+### Testing Notes
+
+* **Testing Date:** 2026-08-18
+
+### Testing Scope
+
+* Validated all updated instructions across modified exercises.
+* Verified updated screenshots accurately reflect the current Dynamics 365 interface.
+* Confirmed navigation paths, menu references, and configuration steps function as expected.
+* Reviewed markdown formatting, image references, and content consistency.
+* Performed end-to-end validation of the updated lab workflow and learner experience.
+
+---
+
+</details>
+<details>
   <summary>2026-06-18</summary>
 
 ## Release Date: 2026-06-18
