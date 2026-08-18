@@ -16,6 +16,40 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-08-18</summary>
+
+## Release Date: 2026-08-18
+ 
+### Summary of Changes
+
+Added 10 inline quiz questions across the lab exercises to reinforce key concepts, and made corrections for grammar and punctuation throughout the lab content.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added 10 inline questions covering key concepts such as agent workflows, MCP server tool integration, environment variable configuration, multi-agent orchestration and handoff logic, and the human-in-the-loop fraud detection process.
+- Each question includes single-choice options, correct/incorrect feedback, and retry logic to reinforce learner understanding at key checkpoints.
+- Corrected grammar and punctuation inconsistencies across the lab guide.
+
+
+### Screenshot Updates
+NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-18
+
+### Testing Scope 
+
+Validated the updated lab content, objectives, workflow descriptions, task details, and inline questions to ensure they accurately reflect the latest lab flow, correct answer logic, and overall user experience.
+
+---
+</details>
+
+<details>
   <summary>2026-07-23</summary>
 
 ## Release Date: 2026-07-23
