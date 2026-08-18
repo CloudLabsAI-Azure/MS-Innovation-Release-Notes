@@ -16,6 +16,63 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-08-18</summary>
+
+## Release Date: 2026-08-18
+
+### Summary of Changes
+
+Updated instructions across the Overview/Login page and Labs 02–05 to align with the current Copilot Studio experience (Classic UI, renamed tabs, updated system topic behavior). Corrected agent orchestration settings, fixed an incorrect assumption about the Fallback topic's structure, replaced an unreliable UI-dependent step in the Monitoring task, and added missing context/setup steps flagged during content review to improve reproducibility and clarity for learners.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+**Overview / Login Page**
+* Added explicit steps to switch from the **New experience** to the **Old (Classic) experience** immediately after sign-in. Old UI experience is required since Topics, conditions, entities, and tool nodes used throughout Labs 02–05 don't exist in the new experience.
+* Added a note clarifying that seeing **Start Free Trial** instead of **Get Started** indicates a missing license assignment, with guidance to contact CloudLabs support.
+* Added a **Resize the Virtual Machine View** section describing the slider control between the VM and Lab Guide panes.
+
+**Lab 02: Build your own Agent**
+* Task 2: Removed the instruction to manually repeat steps for the USA condition node; replaced with an explanation that Copilot Studio auto-generates a condition branch for each option (India/USA) added in the prior step.
+* Task 5: Renamed all "Analytics" references to **Monitor** (current tab name). Rebuilt the task around the actual, always-available dashboard sections: Overview tile (Conversation sessions, Total reactions, Engagement), Effectiveness - Conversation outcomes chart, and Reactions/Sentiment - replacing reliance on the inconsistent "Expose your agent's value!" popup. Added a note explaining why Generated answer rate/quality and Knowledge source use remain empty for this agent.
+
+**Lab 03: Create a Conversational Design**
+* Task 2: Added a verification step ("The updated topic flow should look like this") with reference screenshots before testing, so learners can confirm their build matches the expected flow before troubleshooting.
+* Minor instructional clarity fix: explicitly noting to close the Create generative answers properties box after verifying the configured message.
+
+**Lab 04: Copilot Studio with Data and Generative AI**
+* Task 1: Added a required setup step immediately after `webagent` creation to **disable Generative AI orchestration (set to Classic)** and set the **Model to GPT-5 Chat**. This ensures Conversational Boosting and Fallback behave consistently and as scripted for every learner, rather than being intermittently bypassed under Generative AI orchestration.
+* Task 1: Added explanatory context after the first Conversational Boosting test, clarifying that the initial unformatted response reflects default behavior before customization.
+* Task 1: Corrected an inaccurate description of the **Fallback** topic; it does not contain a generative answers node; it's a fully deterministic flow (FallbackCount condition → static message → Escalate topic). Instructions rewritten to reflect this.
+* Task 1: Added a note clarifying that live-agent escalation is not configured in this lab environment, so a placeholder/default response is expected instead of an actual handoff.
+* Task 2 (HR-Agent): Replaced a vague "review Generative AI settings" step with an explicit instruction confirming **Generative AI orchestration must remain set to Yes** for this agent, since it depends on generative orchestration to answer from the uploaded document.
+
+**Lab 05: Tools in Copilot Studio**
+* Task 1: Changed the recommended entity from "Country or region" to **City**, which the weather connector resolves more reliably.
+* Task 1: Added an explicit connection-naming step for clarity during connector setup.
+* Task 1: Added an explicit test prompt ("What is the weather today?") instead of an open-ended testing instruction.
+* Task 2: Added an explicit test prompt ("Hi, can you give me the weather updates?") for the plugin-calling test step.
+
+### Screenshot Updates
+
+* Refreshed screenshots across the Login/Overview page and Labs 02–05 to align with the current Copilot Studio UI (Classic experience), including the Monitor tab layout, Generative AI settings pages, and the corrected Fallback topic flow.
+* Replaced outdated screenshots that referenced the old "Analytics" tab, incorrect Fallback node structure, and prior variable/condition configurations no longer matching current agent behavior.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-18
+
+### Testing Scope
+
+Performed end-to-end validation of the Overview/Login page and Labs 02–05, agent orchestration settings (Classic for `webagent`/`Weather`, Generative AI enabled for `HR-Agent`), Monitor tab metrics, Fallback topic behavior, and tool/connector configuration steps all align with the current Copilot Studio UI and produce consistent, reproducible outcomes.
+
+---
+</details>
+
 
 <details>
   <summary>2026-07-20</summary>
