@@ -18,68 +18,36 @@ Email Support: cloudlabs-support@spektrasystems.com`
 
 <details>
   <summary>2026-08-19</summary>
-
-<br>
-
+  
 ## Release Date: 2026-08-19
-
-<br>
 
 ### Summary of Changes
 
-<br>
-
 - Updated the **Lab Overview** and **Exercise Summary** content to improve clarity, readability, and learner understanding.
-
-<br>
 
 ### Infrastructure Changes
 
-<br>
-
 N/A
-
-<br>
 
 ### Content Changes
 
-<br>
+- **Getting Started**: Updated the **Lab Overview** section with improved content to provide a clearer understanding of the lab objectives and expected learning outcomes.
 
-- **Getting Started**
-  - Updated the **Lab Overview** section with improved content to provide a clearer understanding of the lab objectives and expected learning outcomes.
-
-- **Exercise 1**
-  - Updated the **Exercise Summary** section to better align with the exercise objectives and key takeaways.
-
-<br>
+- **Exercise 1**: Updated the **Exercise Summary** section to better align with the exercise objectives and key takeaways.
 
 ### Screenshot Updates
 
-<br>
-
 - No screenshot changes were made.
-
-<br>
 
 ### Testing Notes
 
-<br>
-
 - **Testing Date**: 2026-08-19
 
-<br>
-
 ### Testing Scope
-
-<br>
 
 - Verified the updated Lab Overview content for clarity and accuracy.
 - Reviewed the Exercise Summary content to ensure alignment with the exercise objectives.
 - Validated formatting and content rendering in the lab guide.
-
-<br>
-
----
 
 </details>
 
