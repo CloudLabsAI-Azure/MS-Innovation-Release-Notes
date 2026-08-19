@@ -43,11 +43,7 @@ Email Support: cloudlabs-support@spektrasystems.com`
 
 - **Testing Date**: 2026-08-19
 
-<br>
-
 ### Testing Scope
-
-<br>
 
 - Verified the updated Lab Overview content for clarity and accuracy.
 - Reviewed the Exercise Summary content to ensure alignment with the exercise objectives.
