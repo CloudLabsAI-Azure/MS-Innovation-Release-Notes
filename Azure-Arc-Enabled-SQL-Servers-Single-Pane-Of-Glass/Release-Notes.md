@@ -27,13 +27,13 @@ Email Support: cloudlabs-support@spektrasystems.com`
 
 ### Infrastructure Changes
 
+N/A
+
 ### Content Changes
 
-- **Getting Started**
-  - Updated the **Lab Overview** section with improved content to provide a clearer understanding of the lab objectives and expected learning outcomes.
+- **Getting Started**: Updated the **Lab Overview** section with improved content to provide a clearer understanding of the lab objectives and expected learning outcomes.
 
-- **Exercise 1**
-  - Updated the **Exercise Summary** section to better align with the exercise objectives and key takeaways.
+- **Exercise 1**: Updated the **Exercise Summary** section to better align with the exercise objectives and key takeaways.
 
 ### Screenshot Updates
 
