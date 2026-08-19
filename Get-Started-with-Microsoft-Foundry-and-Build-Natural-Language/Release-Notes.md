@@ -1,6 +1,6 @@
-# Get Started With OpenAI And Build Natural Language Solution 
+# Get Started with Microsoft Foundry and Build Natural Language 
 
-Welcome to the **Get Started With OpenAI And Build Natural Language Solution** release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Get Started with Microsoft Foundry and Build Natural Language** release notes. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -13,6 +13,38 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ## Release Notes
 
+<details>
+  <summary>2026-08-18</summary>
+
+### Summary of Changes
+
+Upgraded the lab to support the latest Microsoft Foundry portal experience and Foundry models, including updates to the lab guide and UI screenshots.
+
+### Infrastructure Changes
+
+- Updated lab artifacts to align with the latest Microsoft Foundry experience.
+- Updated configurations to support the latest Foundry models and SDK requirements.
+
+### Content Changes
+
+- Updated the Getting Started page content.
+- Updated lab titles and terminology to reflect the latest Microsoft Foundry experience.
+- Updated code samples to use the latest Microsoft Foundry SDK.
+- Updated instructions to use Azure Cloud Shell for application setup and execution. 
+  
+### Screenshot Updates
+ 
+- Updated screenshots throughout the lab to reflect the latest Microsoft Foundry portal UI and user experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-18
+  
+### Testing Scope 
+
+-  End-to-end validation of resource provisioning, model deployment, portal navigation, and lab instructions to ensure accuracy and usability.
+---
+</details>
 <details>
   <summary>2026-04-13</summary>
 
