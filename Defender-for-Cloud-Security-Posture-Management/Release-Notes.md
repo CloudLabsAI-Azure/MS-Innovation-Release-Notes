@@ -1,6 +1,6 @@
 # Microsoft Defender for Cloud Security Posture Management
 
-Welcome to the **Microsoft Defender for Cloud Security Posture Management** release notes. On this page, we will document the changes made during the last testing cycle, including updates related t[...]
+Welcome to the **Microsoft Defender for Cloud Security Posture Management** release notes. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -16,56 +16,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-08-19</summary>
-
-## Release Date: 2026-08-19
-
-### Summary of Changes
-
-Made minor content and formatting updates across several module files to improve clarity and troubleshooting guidance.
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-- modules/module1-mdcwalkthrough.md
-  - Added a new action step: "You'll create two standards and then review the 'Lowest compliance standard' values to confirm the changes."
-  - Added a troubleshooting note instructing learners to refresh the Security posture page if values don't load.
-  - Minor punctuation and formatting fixes (e.g., changed "Recommendations (1)" to "Recommendations.").
-
-- modules/module2-understanding-your-cloudattack-surface.md
-  - Minor formatting/whitespace adjustment in an explanatory note.
-
-- modules/module3-dashboards.md
-  - Added terminal punctuation (periods) to each completed-item bullet in the lab summary.
-
-- modules/module4-governance-rule.md
-  - Added terminal punctuation (period) to the completed-item summary.
-
-### Screenshot Updates
-
-N/A
-
-### Testing Notes
-
-- **Testing Date**: 2026-08-19
-
-### Testing Scope
-
-Performed content review and validation to ensure updates render correctly and improve learner guidance; verified formatting and troubleshooting text display as intended.
-
-</details>
-
-<details>
   <summary>2026-07-30</summary>
 
 ## Release Date: 2026-07-30
 
 ### Summary of Changes
 
-Performed end-to-end validation of the lab, updated the AKS Kubernetes version from 1.33.2 to 1.34.3 to align with the currently supported AKS release, and refreshed screenshots throughout the gui[...]
+Performed end-to-end validation of the lab, updated the AKS Kubernetes version from 1.33.2 to 1.34.3 to align with the currently supported AKS release, and refreshed screenshots throughout the guide to reflect the latest Azure portal experience. Also added navigation screenshots and standardized the numbering and formatting of instructional steps for improved clarity and consistency.
 
 ### Infrastructure Changes
 
@@ -98,7 +55,7 @@ Performed complete end-to-end lab testing. Verified all instructions, deployment
 
 ### Summary of Changes
 
-Performed end-to-end validation of the lab and updated screenshots throughout the guide to reflect the latest Azure portal experience. Added screenshots for navigation to the next page and standar[...]
+Performed end-to-end validation of the lab and updated screenshots throughout the guide to reflect the latest Azure portal experience. Added screenshots for navigation to the next page and standardized the numbering and formatting of all instructional steps for improved clarity and consistency.
 
 ### Infrastructure Changes
 
@@ -130,7 +87,7 @@ Performed complete end-to-end lab testing. Verified all instructions, interactio
 
 ### Summary of Changes
 
-Performed end-to-end validation of the lab and refreshed screenshots across the guide to align with the current Azure and CloudLabs experience. Updated screenshots affected by UI changes and stand[...]
+Performed end-to-end validation of the lab and refreshed screenshots across the guide to align with the current Azure and CloudLabs experience. Updated screenshots affected by UI changes and standardized images to meet current screenshot checklist requirements.
 
 ### Infrastructure Changes
 
@@ -154,7 +111,7 @@ NA
 
 ### Testing Scope 
 
-Completed end-to-end testing of the lab after all updates and verified that the screenshots match the current Azure and CloudLabs experience. Confirmed that the task flow, navigation, and instruc[...]
+Completed end-to-end testing of the lab after all updates and verified that the screenshots match the current Azure and CloudLabs experience. Confirmed that the task flow, navigation, and instructional content remain accurate and unchanged, and validated all links and formatting throughout the guide.
 
 </details>
 
@@ -189,7 +146,7 @@ N/A
 
 ### Testing Scope 
 
-Validation covered infrastructure compatibility, lab workflow continuity, content accuracy, screenshot alignment with the latest UI, verification of updated lab scenarios, correction of typograph[...]
+Validation covered infrastructure compatibility, lab workflow continuity, content accuracy, screenshot alignment with the latest UI, verification of updated lab scenarios, correction of typographical issues, and validation of revised step numbering and instructional flow.
 
 </details>
 
@@ -200,7 +157,7 @@ Validation covered infrastructure compatibility, lab workflow continuity, conten
 
 ### Summary of Changes
 
-Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes,[...]
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
 
 ### Infrastructure Changes
 
@@ -212,7 +169,7 @@ Updated the lab guide to ensure consistency in the UI experience and improve ove
 
 ### Screenshot Updates
 
-Multiple screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and[...]
+Multiple screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
 
 ### Testing Notes
 
@@ -267,11 +224,11 @@ Multiple screenshots were refreshed to reflect the latest UI changes. Correspond
 
 ### Summary of Changes 
 
-- Introduced a **Temporary Access Password (TAP) authentication mechanism** to optimize the user authentication workflow. This enhancement minimizes repeated Multi-Factor Authentication (MFA) pro[...]
+- Introduced a **Temporary Access Password (TAP) authentication mechanism** to optimize the user authentication workflow. This enhancement minimizes repeated Multi-Factor Authentication (MFA) prompts in controlled scenarios, enabling users to access resources more efficiently while maintaining security standards.
 
 ### Infrastructure Changes
 
-- Enabled support for **Temporary Access Password-based authentication flows**, allowing users to authenticate using a time-bound credential that temporarily bypasses standard MFA verification wh[...]
+- Enabled support for **Temporary Access Password-based authentication flows**, allowing users to authenticate using a time-bound credential that temporarily bypasses standard MFA verification where applicable.
 
 ### Content Changes
 
@@ -287,7 +244,7 @@ Multiple screenshots were refreshed to reflect the latest UI changes. Correspond
 
 ### Testing Scope 
 
-- Conducted end to end testing of contenvalidation of the Temporary Access Password authentication flow, including verification of MFA bypass behavior, user login success scenarios, documentation[...]
+- Conducted end to end testing of contenvalidation of the Temporary Access Password authentication flow, including verification of MFA bypass behavior, user login success scenarios, documentation accuracy, and alignment between screenshots and the latest UI.
 
 -------------
 
@@ -402,7 +359,7 @@ Multiple screenshots were refreshed to reflect the latest UI changes. Correspond
 
 ### Summary of Changes 
 
--  Minor updates have been made, including clearer UI screenshots and refined instructions to improve clarity and accuracy. The validation for the Governance rule has been removed due to an authe[...]
+-  Minor updates have been made, including clearer UI screenshots and refined instructions to improve clarity and accuracy. The validation for the Governance rule has been removed due to an authentication method issue. 
 
 ### Infrastructure Changes
 
