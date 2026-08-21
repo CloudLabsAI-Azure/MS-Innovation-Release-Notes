@@ -65,7 +65,7 @@ Rebranded lab resources and updated documentation to align with Microsoft Foundr
   - Portal navigation and UI walkthroughs reflected in updated screenshots
   - Lab instructions, objectives, and validation steps (including updated validation IDs)
 
-
+</details>
 <details>
   <summary>2026-08-18</summary>
 
