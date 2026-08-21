@@ -14,6 +14,59 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-08-20</summary>
+
+### Summary of Changes
+
+Rebranded lab resources and updated documentation to align with Microsoft Foundry naming and terminology. This release focuses on resource renames, global content replacements, refreshed visuals (architecture and screenshots), new/updated lab files, and documentation enhancements for clarity and validation alignment.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Global terminology replacements across docs and samples:
+  - "Azure OpenAI" → "Microsoft Foundry"
+  - "OpenAI models" → "Microsoft Foundry models"
+  - "OpenAI SDKs" → "OpenAI SDK" (OpenAI-compatible interface)
+- Updated code samples and instructions to reference the OpenAI-compatible SDK interface and the new resource names.
+- Validation step IDs updated to reflect renamed resources.
+- Improved lab objectives, task descriptions, and module scenarios for clarity and learner flow.
+- New:
+  - `01-get-started-microsoft-foundry.md` (≈284 lines added)
+- Updated:
+  - Lab documentation files updated with emoji headers (🚀, 📘, 🎯, etc.)
+  - `02-natural-combined.md` with enhanced scenario descriptions
+  - Multiple lab files updated to reflect resource renames, validation ID updates, and revised code snippets
+
+### Screenshot Updates
+
+- Replaced and refreshed screenshots throughout labs to align with renamed resources and updated portal UI flows.
+- Updated alt text and image references to point to refreshed assets.
+- Replaced older architecture diagrams with refreshed versions reflecting the new naming and architecture.
+
+### Documentation Enhancements
+
+- Added emoji icons to section headers for improved scanning and visual structure.
+- Expanded and clarified scenario descriptions and objectives.
+- Improved validation descriptions and task step clarity.
+- Standardized terminology to use "Microsoft Foundry" and "Microsoft Foundry models" across all lab guides.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-20
+
+### Testing Scope
+
+- End-to-end validation of:
+  - Resource provisioning using new naming conventions
+  - Model deployment and sample code execution (OpenAI-compatible SDK)
+  - Portal navigation and UI walkthroughs reflected in updated screenshots
+  - Lab instructions, objectives, and validation steps (including updated validation IDs)
+
+
+<details>
   <summary>2026-08-18</summary>
 
 ### Summary of Changes
