@@ -14,6 +14,35 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-08-21</summary>
+
+## Release Date: 2026-08-06
+
+### Summary of Changes
+
+Successfully tested the Lab end-to-end, Good with the steps, copilot prompts and screenshot.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- NA
+
+### Screenshot Updates
+
+- All screenshots are already updated.
+
+### Testing Notes
+
+- **Testing Date:** 2026-08-21
+  
+- **Testing Scope:** Verified screenshot rendering and placement; validated CLI authentication instruction (gh auth login) flow and added screenshot; exercised Agent Panel flows (select repo, start task, monitor active tasks) and confirmed guidance for task runtime.
+
+---  
+</details>
 
 <details>
   <summary>2026-08-06</summary>
