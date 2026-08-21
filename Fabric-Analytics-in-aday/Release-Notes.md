@@ -16,6 +16,103 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-08-21</summary>
+
+## Release Date: 2026-08-21
+
+### Summary of Changes
+Updated Fabric Analyst in a Day Labs 1–7 to reflect current Azure Portal and Fabric UI behavior. Added new guidance notes (Power BI Desktop responsiveness, Get Data experience popup), clarified numerous step instructions across ingestion, pipeline, semantic modeling, and reporting tasks, and refreshed a large number of screenshots to match the current portal experience. Lab 5 also received new logic documentation explaining the Until-loop pipeline architecture.
+
+### Infrastructure Changes
+N/A
+
+### Content Changes
+- Lab-1.md
+  - Added note about a Power BI Desktop responsiveness issue, with focus mode instructions and supporting screenshots.
+  - Added note about the "Introducing the new Get Data experience" popup.
+- Lab-2.md
+  - Task 1 (Enable Fabric Trial): Simplified login flow with updated credentials guidance.
+  - Task 2 (Create Workspace): Updated license mode selection instruction; added note about the Task flows dialog.
+  - Tasks 4-10: Replaced multiple outdated image references with current Azure UI screenshots.
+- Lab-3.md
+  - Task 1: Clarified UI navigation with numbered callout references; updated shortcut connection wording ("In the Connection dropdown, select..." replacing "Click on Create New Connection").
+  - Task 2: Repositioned the visual query note with a supporting screenshot; added explicit "scroll right before clicking double arrow" instruction; updated ribbon navigation wording (Home → Manage columns → Choose columns); added checkpoint note confirming the Geo query should have 14 columns.
+  - Task 3: Updated the new SQL query screenshot reference.
+- Lab-4.md
+  - Tasks 1–3: Updated screenshot references; added note about expanding the ribbon menu.
+  - Task 3: Clarified "Expand lh_FAIAD" and "Then select dbo" wording.
+  - Task 4: Updated Save & Run workflow step numbering; added instruction to refresh tables to view newly created tables.
+  - Tasks 5-8: Consistent wording and screenshot reference updates.
+  - Task 10: Clarified "provide access to the Customer table" wording; added an [IMPORTANT] note distinguishing the Customer (Dataverse) table from the Customers (ADLS) table.
+- Lab-5.md
+  - Task 1: Minor wording updates (commas, article usage); updated refresh settings step numbering and pipeline scheduling screenshots.
+  - Task 5 (NEW): Added a comprehensive flow diagram and logic documentation explaining the Until-loop architecture before the task steps begin, plus a table mapping each task to its role in the loop.
+  - Tasks 5–13: Updated activity configuration instructions with numbered step references; enhanced variable and expression builder instructions with corrected grammar.
+- Lab-6.md
+  - Task 1: Removed the "Minimize the task flow" instruction (no longer applicable) and the redundant "Open semantic model" step.
+  - Task 6: Updated checkpoint formatting; added a new relationship diagram screenshot.
+  - Task 7: Added a step to expand Measures in Model view.
+- Lab-7.md
+  - Task 1: Added screenshots for the auto-create report and save steps.
+  - Task 2: Updated report creation and format page steps with numbered references.
+  - Task 3: Added a text box creation screenshot.
+  - Task 6: Added a save steps screenshot.
+  - Task 8: Updated sort/visual configuration wording ("Sort axis" → "Sort by").
+  - Task 11: Updated shortcut creation process with new screenshots.
+
+### Screenshot Updates
+
+- Lab 1
+  - L1T2S8a-1908.png, L1T2S8b-1908.png - Task 2: illustrates the Power BI Desktop focus-mode workaround for the responsiveness issue.
+  - L1T3S1note-1908.png - Task 3: shows the new "Introducing the new Get Data experience" popup referenced in the added note.
+- Lab 2
+  - L2T1S2-1908.png, L2T1S6-1908.png, L2T1S7-1908.png, L2T1S8-1908.png - Task 1 (Enable Fabric Trial): reflect the simplified login flow and updated credentials guidance.
+  - L2T2S8-1908.png - Task 2 (Create Workspace): shows the Task flows dialog called out in the new note.
+  - L2T4S1-1908.png through L2T10S2-1908.png - Tasks 4-10: bulk replacement of outdated screenshots with current Azure UI across these tasks.
+- Lab 3
+  - L3T2S5note-1908.png - Task 2: supports the repositioned visual query note.
+  - L3T2S12-1908.png - Task 2: shows the "scroll right before clicking double arrow" step.
+  - L3T2S20-1908.png - Task 2: supports the checkpoint note confirming the Geo query has 14 columns.
+  - L3T2S23-1908.png - Task 2: shows the updated ribbon path (Home → Manage columns → Choose columns).
+  - L3T3S1-1908.png - Task 3: updated "New SQL query" screenshot.
+- Lab 4
+  - L4T1S1-1908.png, L4T1S3-1908.png - Task 1: updated screenshot references.
+  - L4T3S2-1908.png - Task 3: shows the "expand the ribbon menu" note; supports the "Expand lh_FAIAD" / "Then select dbo" wording clarification.
+  - L4T4S2-1908.png, L4T4S3-1908.png — Task 4: show the updated Save & Run workflow, including the refresh-tables step.
+  - L4T5S7-1908.png - Task 5: screenshot reference update.
+  - L4T8S3-1908.png, L4T8S4-1908.png - Task 8: screenshot reference updates.
+  - L4T10S11-1908.png - Task 10: shows the "provide access to the Customer table" step, paired with the [IMPORTANT] Customer vs. Customers callout.
+- Lab 5
+  - L5T1S5-1908.png - Task 1: minor wording update screenshot.
+  - L5T1S10-1908.png, L5T1S13-1908.png - Task 1: updated refresh settings step numbering.
+  - L5T122-1908.png, L5T1S17-1908.png, L5T1S18-1908.png - Task 1-2: updated pipeline scheduling screenshots.
+  - flow-1908.png - Task 5 (NEW): the Until-loop architecture flow diagram introduced before the task steps begin.
+  - L5T3S13-1908.png - Task 3: updated screenshot reference.
+  - L5T6S6-1908.png, L5T6S14-1908.png - Task 6: variable configuration screenshots, paired with the corrected variable-naming grammar.
+  - L5T7S10-1908.png - Task 7: expression builder screenshot.
+  - L5T13S3-1908.png, L5T13S11-1908.png - Task 13: pipeline schedule refresh screenshots.
+- Lab 6
+  - L6T6S25-1908.png, L6T6S30-1908.png - Task 6: new relationship diagram screenshot and updated checkpoint formatting.
+  - L6T7S12-1908.png - Task 7: shows the new "expand Measures in Model view" step.
+- Lab 7
+  - L7T1S7-1908.png, L7T1S12-1908.png, L7T1S12a-1908.png - Task 1: auto-create report and save steps.
+  - L7T2S2-1908.png, L7T2S5-1908.png, L7T2S10-1908.png - Task 2: report creation and formatting page steps.
+  - L7T3S1-1908.png, L7T3S8-1908.png - Task 3: text box creation step.
+  - L7T6S4-1908.png, L7T6S4a-1908.png - Task 6: save steps.
+  - L7T8S5-1908.png, L7T8S10-1908.png - Task 8: sort/visual configuration ("Sort axis" → "Sort by").
+  - L7T11S4-1908.png, L7T11S6-1908.png, L7T11S19-1908.png - Task 11: shortcut creation process.
+
+### Testing Notes
+
+- Testing Date: 2026-08-19
+
+### Testing Scope
+- Review updated instructions and screenshots across Labs 1 through 7.
+- Perform end-to-end verification of affected tasks, with particular attention to the new Lab 5 Until-loop flow diagram and task-mapping table, and the Lab 4 Customer vs. Customers table distinction.
+
+</details>
+
 
 <details>
   <summary>2026-08-03</summary>
