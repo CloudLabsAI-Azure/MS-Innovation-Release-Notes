@@ -18,6 +18,103 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-08-21</summary>
+
+## Release Date : 2026-08-21
+
+### Summary of Changes
+
+Updated Lab 1's deployment workflow from manual, UI-driven multi-step processes to fully automated command-line-based automation. Restructured lab tasks from 4 to 3, added 21 new instructional screenshots, completely rewrote deployment steps with infrastructure-as-code emphasis, automated build scripts, CLI-based agent testing, and on-behalf-of (OBO) authentication configuration. Lab now aligns with production-grade DevOps practices and provides a more efficient, reproducible learning experience.
+
+
+### Infrastructure Changes
+
+- Enhanced post-deployment automation pipeline to support integrated build and configuration workflow
+- Introduced on-behalf-of (OBO) authentication configuration via PowerShell script for secure user identity delegation
+- Updated provisioning scripts to support scenario-based deployment (Retail and Insurance use cases)
+- Added container build and push workflow to Azure Container Registry (ACR) via automated bash script
+- Implemented Python-based solution builder with scenario selection and Fabric resource provisioning
+
+### Content Changes
+
+- **Terminology & Formatting Updates:**
+  - "Workshop Scenario" → "Lab Scenario"
+  - "Overview" → "Lab Overview"
+  - "Objectives" → "Lab Objectives"
+  - Simplified zoom level icon description for clarity
+  - Standardized objective bullet formatting
+
+- **Task Restructuring (4 Tasks → 3 Tasks):**
+  - **Task 1:** Create Fabric workspace and link with Copilot-enabled capacity (unchanged)
+  - **Task 2:** Deploy Azure infrastructure AND build solution (expanded scope)
+    - New prerequisites added:
+      - Backend runtime stack configuration: `azd env set BACKEND_RUNTIME_STACK dotnet`
+      - Azure Developer CLI version check with upgrade path for v1.23.8
+      - Fabric workspace ID reuse: `azd env set FABRIC_WORKSPACE_ID <workspace-id>`
+      - Container build and push: `bash ./infra/scripts/build/build-and-push-acr.sh`
+      - Python virtual environment setup with dependency installation via `uv`
+      - Separate Azure CLI authentication: `az login` (distinct from `azd auth login`)
+      - Scenario-based solution build: `python infra/scripts/post-provision/00_build_solution.py --scenario retail|insurance`
+  - **Task 3:** Test deployed AI agent from CLI AND configure on-behalf-of authentication (completely replaced)
+    - Removed manual Azure Portal-based authentication setup
+    - Added interactive CLI-based agent validation: `python infra/scripts/post-provision/06_test_agent.py`
+    - Added OBO authentication setup: `pwsh -File ./infra/scripts/post-provision/setup_app_authentication.ps1`
+    - Support for Retail and Insurance scenario sample questions
+    - Direct end-to-end validation of Fabric Lakehouse, Ontology, Data Agent, and Foundry agent integration
+
+- **Removed Workflows:**
+  - Manual Microsoft identity provider configuration via Azure Portal
+  - Web UI-based application testing
+  - Task 4 (formerly "Testing the application")
+
+### Screenshot Updates
+
+Added 21 new instructional screenshots to reflect current CLI workflows, Azure UI, and automation processes:
+
+**Repository Setup & Codespaces (5):**
+- `utt.png` - GitHub "Use this template" button
+- `cr.png` - Repository creation form
+- `ccom.png` - Codespace creation initiation
+- `ccom1.png` - Trust folder confirmation
+- `2-5.png` - Codespace setup wizard
+
+**Environment Configuration (4):**
+- `back.png` - Backend runtime stack setup
+- `azd.png` - Azure Developer CLI version check
+- `azdv1.png` - AZD version 1.23.8 upgrade and conditional configuration
+- `azdup.png` - Infrastructure provisioning prompts and location selection
+
+**CLI Workflows & Authentication (4):**
+- `py.png` - Python virtual environment creation
+- `pp.png` - Dependency installation with `uv`
+- `l1n1.png` - AZD authentication login flow
+- `l1n2.png` - Successful Azure user login confirmation
+
+**Agent Testing & Validation (3):**
+- `ps1.png` - Agent test script execution
+- `help.png` - Sample questions display
+- `as.png` - Agent response examples
+
+**OBO Authentication (1):**
+- `as1.png` - PowerShell authentication script execution
+
+**Additional Utilities (4):**
+- `wsid.png` - Fabric workspace ID entry
+- `ls.png` - Azure subscription selection
+- `ls1.png` - Solution build script execution
+- `azdd.png` - Resource cleanup operations 
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-21
+
+### Testing Scope
+
+- End-to-end validation of the lab deployment and exercises was performed. The Copilot Studio portal and GitHub UI changes were reviewed to confirm that the lab instructions align with the latest interface.
+---
+</details>
+
+<details>
   <summary>2026-06-19</summary>
 
 ## Release Date : 2026-06-19
