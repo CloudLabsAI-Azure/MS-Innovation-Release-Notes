@@ -16,6 +16,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-24</summary>
+
+## Release Date: 2026-08-24
+
+### Summary of Changes 
+
+Updated the lab guide to improve accuracy and consistency by correcting typos, grammar, step references, notebook and cell names, and aligning the instructions with the actual lab flow. Updated the relevant screenshots to reflect the correct notebooks, resources, cell names, and latest UI changes. Also added a **Happy Learning** message to the Getting Started page.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Added a Happy Learning message to the bottom of the Getting Started page.
+- Corrected typos and grammar across Exercise 1, Task 1 (Steps 1, 3, 4, 5, 8, 11, 12, and 19) and Exercise 1, Task 2, Step 7.
+- Corrected typos in Exercise 2, Task 1, Steps 4 and 5.
+- Updated the notebook name in Exercise 3, Task 1, Step 8.
+- Corrected a typo in Exercise 3, Task 5, Step 9.
+- Updated the step naming in Exercise 4, Task 4, Step 8 to match the Python notebook.
+- Updated content in Exercise 5, Task 1, Steps 3, 4, 5, 8, and 17 to align with the lab guide and correct cell references.
+- Updated Exercise 1, Task 2, Step 9 to accurately reflect the lab steps.
+
+### Screenshot Update
+
+- Updated Exercise 3, Task 3, Step 5 screenshot to reflect the correct notebook.
+- Updated Exercise 5, Task 1, Steps 3 and 4 screenshots to reflect the correct resource.
+- Updated Exercise 5, Task 1, Steps 5 and 8 screenshots based on the latest UI.
+- Updated Exercise 5, Task 1, Step 17 screenshot to correctly reflect the cell name.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-24
+
+### Testing Scope 
+
+- Reviewed the updated lab guide content and verified the changes against the corresponding lab steps.
+- Validated notebook, cell, resource, and step references for accuracy.
+- Verified the updated screenshots against the latest lab environment and UI.
+- Performed a content and visual consistency check across the affected exercises.
+
+---
+
+</details>
+
+<details>
   <summary>2026-08-17</summary>
 
 ## Release Date: 2026-08-17
