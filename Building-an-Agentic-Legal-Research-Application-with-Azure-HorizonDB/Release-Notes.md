@@ -18,6 +18,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-25</summary>
+
+## Summary of Changes
+
+Made content, screenshot, and troubleshooting updates across Exercises 1, 3, 4, and 5 to reflect recent UI changes and user feedback. Clarified navigation steps for Foundry resources and model deployment paths, added notes about default tab behavior, and introduced targeted troubleshooting guidance for notebook and NotFoundError issues.
+
+## Infrastructure Changes
+
+NA
+
+## Content Changes
+
+- Exercise 1
+  - Task 1 (Step 6): Added a note (with screenshot) instructing users to navigate to the Foundry resource page and select the newly created resource.
+  - Task 1.2: Added a note explaining that users will either land on the All Resources page (where they must select the project) or land directly in the Foundry project.
+  - Added a note stating that the Agent tab is selected by default when clicking the Build tab.
+  - Applied the updated deployment path guidance (see Screenshot Updates) from Step 4 to Steps 8 and 12 to keep the workflow consistent.
+
+- Exercise 3
+  - Added a dedicated troubleshooting section immediately following the Objectives section to surface common issues earlier in the flow.
+  - Task 4 (Step 4): Added a troubleshooting note for NotFoundError issues advising users to check their .env file, rerun the affected cells, and restart the notebook if needed.
+
+- Exercises 4 & 5
+  - Added standard troubleshooting guidelines before working with notebook cells. Recommended steps include checking the .env file, rerunning cells, restarting the notebook, and verifying the active kernel.
+
+## Screenshot Updates
+
+- Updated the model deployment screenshots to reflect the new UI path:
+  - Previous Build: Models > Deployments
+  - Current Build: Deployments > Deployed models
+- Added a new screenshot to Task 1 (Step 6) showing the Foundry resource page and the newly created resource selection.
+- Ensured screenshots referenced in Steps 4, 8, and 12 are consistent with the current deployment path and the Build tab’s agent-default behavior.
+
+
+
+## Testing Notes
+
+- **Testing Date**: 2026-08-24
+- Performed focused verification of updated screenshots, navigation notes, and troubleshooting text. Confirmed that the updated model deployment screenshots and the Foundry resource screenshot reflect the current portal flows.
+
+## Testing Scope
+
+- End-to-End Testing: Completed a full end-to-end test and validation of all exercises to ensure seamless execution.
+
+- Feedback Integration: Carefully reviewed all feedback details and successfully incorporated the requested notes, troubleshooting steps, and UI updates.
+
+- Final Quality Check: Verified that all instructions and paths accurately align with the latest platform behavior before final sign-off.
+
+---
+
+</details>
+
+<details>
   <summary>2026-08-03</summary>
 
 ## Summary of Changes
