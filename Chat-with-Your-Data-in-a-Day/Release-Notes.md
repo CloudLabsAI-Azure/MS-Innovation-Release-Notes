@@ -16,6 +16,51 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-08-26</summary>
+
+## Release Date: 2026-08-26
+
+## Summary of Changes
+
+Updated the **Chat with Your Data in a Day** lab guides for **Lab 01 through Lab 05** with content improvements and updated supporting screenshots. The lab documentation was refreshed to improve clarity and align the documented steps with the current lab workflow. New and updated screenshots were added across the affected labs to provide clearer visual guidance for learners.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Updated the lab guides for **Lab 01 through Lab 05**.
+* Improved lab instructions and content where required.
+* Updated supporting content to improve clarity and learner guidance.
+* Added required supporting images for updated lab steps.
+* Ensured consistency across the affected lab guides.
+
+## Screenshot Updates
+
+* Added new screenshots for **Lab 01, Lab 02, Lab 03, Lab 04, and Lab 05**.
+* Updated existing screenshots in **Lab 02, Lab 04, and Lab 05**.
+* Replaced or added screenshots where required to support the updated instructions.
+* Improved visual guidance across the affected lab exercises.
+
+## Testing Notes
+
+* **Testing Date:** 2026-08-26
+
+## Testing Scope
+
+* Performed lab testing for the **English track** covering **Lab 01 through Lab 05**.
+* Validated the updated lab guide instructions and workflow.
+* Verified the updated and newly added screenshots against the documented steps.
+* Reviewed formatting, navigation, and learner guidance across the affected lab guides.
+* Updated the documentation and supporting screenshots based on findings identified during testing.
+
+---
+
+</details>
+
+
+<details>
   <summary>2026-08-04</summary>
 
 ## Release Date: 2026-08-04
