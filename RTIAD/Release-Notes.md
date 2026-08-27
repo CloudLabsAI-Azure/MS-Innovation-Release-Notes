@@ -17,6 +17,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-08-26</summary>
+
+## Release Date: 2026-08-26
+
+### Summary of Changes
+
+- Content clarifications, typo fixes, new steps, and UI screenshot replacements across Labs 2–6 to align with UI and workflows.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Lab-2: content improvements, typo fixes, new steps and guidance (2 images added)  
+- Lab-3: multiple UI screenshot replacements, connection/configuration clarifications, new steps (6 images added)  
+- Lab-4: TOC/rendering fixes, query/time update, numbering and typo corrections (1 image added)  
+- Lab-5: extensive UI/flow updates, visual/dashboard workflow refinements and new steps (13 images added)  
+- Lab-6: TOC/rendering fix and small content clarification (no images)
+
+### Screenshot Updates
+
+- 22 images added/updated across the labs; screenshots refreshed to match current UI and illustrate new/changed steps.
+
+### Testing Notes
+
+- Testing Date: 2026-08-26  
+- Validated updated steps, image mappings, and alignment with current UI behavior.
+
+### Testing Scope
+
+- End-to-end validation of updated lab flows (ingestion, dashboard/visualization, configuration), screenshot accuracy, and content consistency.
+
+-------------
+
+</details>
+
+<details>
 <summary>2026-06-23</summary>
 
 ## Release Date: 2026-06-23
