@@ -16,6 +16,49 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-08-24</summary>
+
+## Release Date: 2026-08-24
+
+### Summary of Changes 
+
+Updated the challenge guides to correct resource group references, upgrade the chat model from GPT-5.0 to GPT-5.1, and migrate agent knowledge configuration to the new Foundry IQ knowledge base experience. Also restructured the MCP lab setup to include Azure authentication and Python virtual environment steps, and updated MCP Inspector instructions to match the current Inspector UI.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Corrected the resource group reference from **ODL-DevelopAgentandAIApp-\<DeploymentID\>-02** to **ODL-DevelopAgentandAIApp-\<DeploymentID\>-01** in lab-01 and lab-03.
+- Updated the chat model deployment from **GPT-5.0** to **GPT-5.1** in lab-02, including deployment name and success criteria.
+- Replaced the legacy AI Search agent configuration ("Set up a data source via tools") with the new **Foundry IQ knowledge base** flow, including knowledge base creation, adding Azure AI Search index as a source, and connecting the agent to Foundry IQ.
+- Added Azure authentication steps (`az account clear`, `azd auth login`) and Python virtual environment setup steps (venv creation, activation, dependency installation) to lab-05.
+- Removed the notebook-based package installation step in lab-05, now handled through the virtual environment setup.
+- Updated MCP Inspector connection instructions to the current UI (Add Servers, Server ID, Streamable HTTP transport, toggle-to-connect) and tool execution flow (Tools → Execute Tool).
+- Improved formatting across lab-05 by converting unnecessary code blocks to inline bold text for resource names, notebook filenames, and variable values.
+
+### Screenshot Update
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-24
+
+### Testing Scope 
+
+- Verified GPT-5.1 model deployment with Global Standard type and 200000 TPM rate limit
+- Validated the new Foundry IQ knowledge base creation and agent connection flow end-to-end
+- Confirmed corrected resource group references resolve correctly across lab-01, lab-03, and lab-05
+- Tested MCP Inspector connectivity to the weather MCP server via Azure API Management using the updated Add Servers flow
+- Verified `get_weather` tool execution returns expected results through MCP Inspector
+
+---
+
+</details>
+
+<details>
   <summary>2026-07-02</summary>
 
 ## Summary of Changes
