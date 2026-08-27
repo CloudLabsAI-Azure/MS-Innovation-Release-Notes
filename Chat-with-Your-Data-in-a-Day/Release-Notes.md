@@ -22,7 +22,7 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 ## Summary of Changes
 
-Updated the **Chat with Your Data in a Day** lab guides for **Lab 01 through Lab 05** with content improvements and updated supporting screenshots. The lab documentation was refreshed to improve clarity and align the documented steps with the current lab workflow. New and updated screenshots were added across the affected labs to provide clearer visual guidance for learners.
+Updated the **Chat with Your Data in a Day** lab guides for **Lab 01 through Lab 05** with Update Instruction and updated supporting screenshots. The lab documentation was refreshed to improve clarity and align the documented steps with the current lab workflow. New and updated screenshots were added across the affected labs to provide clearer visual guidance for learners.
 
 ## Infrastructure Changes
 
