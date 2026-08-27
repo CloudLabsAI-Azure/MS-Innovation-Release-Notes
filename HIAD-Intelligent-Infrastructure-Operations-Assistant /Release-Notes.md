@@ -26,7 +26,6 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 - The lab has been successfully tested, and the lab content has been reviewed and validated.
 - Added the `httpx` package to the requirements.txt file.
-- Updated the cost estimate by checking the cost in each and every region.
 
 ### Infrastructure Changes
 
