@@ -18,6 +18,41 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+<summary>2026-08-27</summary>
+
+## Release Date: 2026-08-27
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and validated.
+- Added the `httpx` package to the requirements.txt file.
+- Updated the cost estimate by checking the cost in each and every region.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added `httpx` package to the requirements.txt file.
+
+### Screenshot Updates
+
+- Screenshots are up to date.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-27
+- Performed end-to-end testing of the lab guide steps successfully.
+
+### Testing Scope
+
+Performed end-to-end testing successfully, everything is up to date and validated the lab guide steps, including the updated cost estimates 
+
+</details>
+
+
+<details>
   <summary>2026-08-12</summary>
 
 ## Release Date: 2026-08-12
