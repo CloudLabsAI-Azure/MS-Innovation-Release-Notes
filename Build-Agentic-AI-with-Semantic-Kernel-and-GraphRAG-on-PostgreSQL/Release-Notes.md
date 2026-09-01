@@ -18,6 +18,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-01</summary>
+ 
+## Release Date: 2026-09-01
+
+### Summary of Changes
+
+Updated the Jupyter Notebook to align with the latest workflow. Pushed lab files to a storage account and updated the Logon Task to reference the new lab files clone URL pointing to the storage account.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+* **Lab 1 – Task 2 – Step 21:** Updated the query in the lab guide for supplying the Azure OpenAI endpoint and key.
+* **Lab 2 – Task 1 – Step 2:** Updated the instructions to align with the latest Visual Studio Code UI changes.
+* **Lab 2 – Task 1 – Step 3:** Added an additional code block to install the required dependencies.
+* **Lab 2 – Task 1 – Step 7:** Updated Part 3.3 to use the latest environment connection variable format, preventing failures in the subsequent code block.
+
+### Screenshot Updates
+
+NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-07-29  
+  The updated lab guide was tested to validate the revised workflow, the Jupyter Notebook changes in Visual Studio Code, and the updated SQL query. Newly added instructions, lab validation updates, and screenshots were verified for accuracy, consistency, and alignment with the current lab experience.
+
+### Testing Scope
+
+- Validated the updated lab instructions, the Jupyter Notebook in Visual Studio Code, and the lab validation workflow. Confirmed that the newly added SQL query, updated notebook, notes, and screenshots accurately reflect the current user experience and lab flow.
+
+</details>
+
+
+
+<details>
   <summary>2026-07-29</summary>
 
 ## Release Date: 2026-07-29
