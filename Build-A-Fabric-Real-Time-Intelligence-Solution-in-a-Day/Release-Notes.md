@@ -18,6 +18,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-01</summary>
+
+## Release Date: 2026-09-01
+
+### Summary of Changes
+
+Updated the Build-A-Fabric Real-Time Intelligence lab guide to align with the latest Microsoft Fabric portal experience. This PR refreshes and replaces outdated screenshots, updates UI labels and workflows to reflect current Fabric wording, standardizes scenario language, and improves instructional clarity and onboarding guidance (including zoom and virtual machine view resizing). All changes are documentation and media updates — no infrastructure changes.
+
+### Infrastructure Changes
+
+Changed the Url from old github repository to cloudlabs storage account for downloading the files inside the C drive - labfiles
+
+### Content Changes
+
+- Aligned step-by-step instructions with the current Fabric UI (e.g., "Visualization" → "Visual setup", "Done" → "Apply", "Live refresh (Recommended)").
+- Standardized scenario and example names to "Contoso" (replacing prior "AdventureWorks" references) for consistency.
+- Clarified connection and dialog-handling instructions (e.g., guidance for "Introducing task flows", "Welcome to Eventhouse", and the "Connection method" dialog with recommended "Passthrough identity").
+- Added explicit lab environment guidance:
+  - New "Lab Guide Zoom In/Zoom Out" instructions and screenshot.
+  - New "Resize the Virtual Machine View" guidance and screenshot (how to use the slider between the VM and guide panes).
+- Rewrote and tightened multiple procedure steps to match observed UI flows and reduce ambiguity (improved sequencing, clearer callouts, consistent terminology).
+- Removed/updated obsolete preview labels (e.g., "Map (preview)" → "Map") and simplified outdated anomaly-detection preview content.
+- Replaced local AdventureWorks logo reference in one place with an externally-hosted logo URL to ensure accessibility in the lab environment.
+- Updated header names and small structural edits (e.g., "## 📖 Overview" → "## 📖 Lab Overview"; "## ⚙️ Pre-requisites" → "## ⚙️ Prerequisites").
+
+### Screenshot Updates
+
+- Replaced outdated images and added 38 new media assets under Lab_Files/media/ to reflect the current Fabric portal visuals and updated button/label text.
+- Updated image references throughout the guide to use the new media filenames (moved many references from media/new/* to media/*).
+- Replaced several "Next" / navigation button images and numerous visual setup screenshots (charts, maps, stat tiles, anomaly visuals, logo and layout images).
+- Added screenshots for onboarding flows and popups (trial activation, Stay Signed In, Cancel/OK dialogs) to match the tested experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-01
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab to ensure all tasks and exercises execute successfully without issues.
+- Verified that all lab instructions are accurate, sequential, and aligned with the current Microsoft Fabric portal experience.
+- Validated all portal UI changes and confirmed that the screenshots accurately reflect the latest interface.
+- Ensured the lab guide, screenshots, expected outputs, and validation steps remain consistent throughout the lab after incorporating the latest updates.
+- Verified that the overall learner experience is seamless and that no regressions were introduced by the recent changes.
+---
+
+</details>
+
+<details>
   <summary>2026-07-22</summary>
 
 ## Release Date: 2026-07-22
