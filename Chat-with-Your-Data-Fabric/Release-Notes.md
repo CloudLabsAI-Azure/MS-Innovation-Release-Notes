@@ -17,6 +17,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
+<details>
+  <summary>2026-09-02</summary>
+
 ## Release Date : 2026-09-02
 
 ### Summary of Changes
@@ -29,32 +32,32 @@ Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the 
 
 ### Content Changes
 
-- **Lab2-task2:**
-  - Updated screenshots to reflect the latest Microsoft Copilot interface.
-  - Revised instructions where required to match the current UI and navigation experience.
-  - Improved content clarity and consistency across the lab guide.
-
-- **Lab2-task1:**
-  - Updated screenshots to align with the latest Microsoft Fabric portal experience.
-  - Refreshed navigation guidance and instructional content based on current screen layouts.
-  - Corrected minor content and formatting issues identified during internal QA review.
+- Updated Microsoft Copilot screenshots to reflect the latest interface experience.
+- Updated Microsoft Fabric screenshots to align with the latest portal experience.
+- Refreshed related instructions to match the current UI and navigation flow.
+- Improved content clarity, formatting, and consistency across the lab guides.
+- Incorporated internal QA review feedback and updated learner guidance where required.
 
 ### Screenshot Updates
 
 - Updated Microsoft Copilot screenshots throughout the lab guide.
 - Updated Microsoft Fabric screenshots to reflect the latest user interface.
 - Refreshed images associated with navigation, configuration, and exercise execution steps.
-- Improved screenshot consistency across the labs to better match the current learner experience.
+- Improved screenshot consistency to better match the current learner experience.
 
 ### Testing Notes
 
-- **Testing Date:** 2026-09-02
+- **Testing Date**: 2026-09-02
 
 ### Testing Scope
 
-Performed end-to-end validation of the Microsoft Copilot and Microsoft Fabric labs after updating screenshots and related instructions. Verified that all revised screenshots accurately reflect the latest user interface experience and that the navigation flow aligns with the current portal behavior. Reviewed the updated lab guide content for clarity, consistency, and accuracy, and validated that learners can successfully follow the exercises using the refreshed instructions and screenshots.
+- Performed end-to-end validation of the Microsoft Copilot and Microsoft Fabric labs after updating screenshots and related instructions.
+- Verified that all updated screenshots accurately reflect the current user interface experience.
+- Validated the navigation flow, exercise steps, and instructional content against the latest portal experience.
+- Confirmed that learners can successfully follow the exercises using the refreshed screenshots and guidance.
 
 ---
+
 </details>
 
 <details>
