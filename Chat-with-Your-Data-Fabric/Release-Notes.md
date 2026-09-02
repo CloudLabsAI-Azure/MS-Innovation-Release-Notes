@@ -17,9 +17,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
-<details>
-  <summary>2026-09-02</summary>
-
 ## Release Date : 2026-09-02
 
 ### Summary of Changes
@@ -32,7 +29,7 @@ Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the 
 
 ### Content Changes
 
-- **Lab2-Task2:**
+- **Lab2-task2:**
   - Updated screenshots to reflect the latest Microsoft Copilot interface.
   - Revised instructions where required to match the current UI and navigation experience.
   - Improved content clarity and consistency across the lab guide.
@@ -48,6 +45,17 @@ Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the 
 - Updated Microsoft Fabric screenshots to reflect the latest user interface.
 - Refreshed images associated with navigation, configuration, and exercise execution steps.
 - Improved screenshot consistency across the labs to better match the current learner experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-02
+
+### Testing Scope
+
+Performed end-to-end validation of the Microsoft Copilot and Microsoft Fabric labs after updating screenshots and related instructions. Verified that all revised screenshots accurately reflect the latest user interface experience and that the navigation flow aligns with the current portal behavior. Reviewed the updated lab guide content for clarity, consistency, and accuracy, and validated that learners can successfully follow the exercises using the refreshed instructions and screenshots.
+
+---
+</details>
 
 <details>
   <summary>2026-08-21</summary>
