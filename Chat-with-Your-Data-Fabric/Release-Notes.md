@@ -106,6 +106,33 @@ Added 21 new instructional screenshots to reflect current CLI workflows, Azure U
 
 ### Testing Notes
 
+## Release Date: 2026-09-02
+
+### Summary of Changes
+
+Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the latest user interface experience. Refreshed screenshots and related instructions throughout the labs to improve accuracy, consistency, and overall learner experience.
+
+### Infrastructure Changes
+
+- No infrastructure changes were made as part of this release.
+
+### Content Changes
+
+- **Lab 2:**
+  - Updated screenshots to reflect the latest Microsoft Copilot interface.
+  - Revised instructions where required to match the current UI and navigation experience.
+  - Improved content clarity and consistency across the lab guide.
+  - Updated screenshots to align with the latest Microsoft Fabric portal experience.
+  - Refreshed navigation guidance and instructional content based on current screen layouts.
+  - Corrected minor content and formatting issues identified during internal QA review.
+
+### Screenshot Updates
+
+- Updated Microsoft Copilot screenshots throughout the lab guide.
+- Updated Microsoft Fabric screenshots to reflect the latest user interface.
+- Refreshed images associated with navigation, configuration, and exercise execution steps.
+- Improved screenshot consistency across the labs to better match the current learner experience.
+
 - **Testing Date**: 2026-08-21
 
 ### Testing Scope
