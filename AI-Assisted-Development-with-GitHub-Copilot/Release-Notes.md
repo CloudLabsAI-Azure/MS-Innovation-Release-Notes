@@ -16,6 +16,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+---
+</details>
+<details>
+  <summary>2026-09-02</summary>
+
+## Release Date : 2026-09-02
+
+### Summary of Changes
+
+- Performed a complete end-to-end validation of the lab and verified that all tasks can be completed successfully using the current environment and portal experience.
+
+- Reviewed and validated the lab instructions to ensure they align with the latest product UI and workflows.
+
+- Verified that all screenshots used throughout the lab remain accurate and reflect the current user interface.
+
+- Reviewed the Cost Estimation Sheet and confirmed that the calculations, resource mappings, and documentation are up to date.
+
+- Reviewed the supporting PowerPoint presentation and validated that the content aligns with the latest lab flow and deployment experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- No content updates were required, as the existing lab instructions were found to be accurate and up to date.
+
+### Screenshot Updates
+
+- No screenshot updates were required. Existing screenshots were reviewed and confirmed to match the current UI and workflow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-02
+
+### Testing Scope
+
+- Completed end-to-end validation of the entire lab deployment and exercise flow.
+- Verified successful execution of all lab tasks and expected outcomes.
+- Reviewed the latest portal experience to ensure alignment between the lab guide and the current UI.
+- Validated the Cost Estimation Sheet and confirmed accuracy of the documented estimates.
+- Reviewed the PowerPoint presentation and verified consistency with the lab instructions and deployment process.
+
+---
+</details>
+
 <details>
 <summary>2026-08-06</summary>
   
