@@ -14,6 +14,195 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+<summary>2026-09-03</summary>
+
+## Release Date: 2026-09-03
+
+### Summary of Changes
+
+Comprehensive refresh of the Azure Virtual Desktop lab guides covering all 16 lab modules. The update includes improved instructional clarity, grammatical and formatting corrections, updated screenshot references, enhanced visual documentation, and lab-specific navigation assets. The changes also improve technical terminology, learner guidance, and consistency across the documentation while aligning screenshots and instructions with the current Azure portal experience.
+
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated all lab guides with improved grammar, punctuation, markdown formatting, heading consistency, and clearer learner instructions.
+- Standardized technical terminology and wording across the lab modules, including Azure Virtual Desktop, PowerShell, Hyper-V, and related Azure services.
+- Updated navigation button references from the legacy `Next.png` asset to lab-specific navigation images (`np2.png` through `np15.png`).
+- Improved validation instructions, notes, refresh guidance, troubleshooting steps, and sign-in/sign-out instructions across applicable labs.
+
+#### Getting Started Guide
+
+- Improved the architecture description and technical flow explanation.
+- Standardized browser and AVD Desktop Client terminology.
+- Improved article/reference clarity and overall markdown formatting.
+
+#### Lab 1 – Create Host Pool from Azure Portal
+
+- Corrected the "Lab Objectives" heading to "Lab Objective".
+- Fixed grammatical issues in the Session hosts and Network and security sections.
+- Updated the navigation button reference to `np2.png`.
+
+#### Lab 2 – Monitoring using Azure Monitor for AVD
+
+- Improved terminology, capitalization, grammar, and validation instructions.
+- Corrected markdown formatting in Insights configuration steps.
+- Enhanced refresh guidance and instructional clarity.
+- Updated the navigation button reference to `np3.png`.
+
+#### Lab 3 – Create Application Groups and Assign to Users
+
+- Improved user search and selection instructions for better learner guidance.
+- Corrected punctuation and clarified the search and selection workflow.
+- Updated the navigation button reference to `np4.png`.
+
+#### Lab 4 – Access the Published Applications and Desktop using Browser
+
+- Improved search bar, virtual machine, device redirection, and session desktop instructions.
+- Corrected punctuation and note formatting.
+- Enhanced AVD restart and sign-out guidance.
+- Updated supporting screenshot references and the navigation button to `np5.png`.
+
+#### Lab 5 – Access the Published Applications and Desktop using AVD Desktop Client
+
+- Improved setup, search, sign-in, and desktop session instructions.
+- Added additional browser and Session Desktop refresh guidance.
+- Enhanced troubleshooting notes and screenshot references.
+- Updated screenshots including `avd.png` and `sd1.png`.
+- Updated the navigation button reference to `np6.png`.
+
+#### Lab 6 – Setup FSLogix
+
+- Improved FSLogix introduction and technical terminology.
+- Updated Hyper-V Virtual Hard Disk terminology and PowerShell capitalization.
+- Added storage account configuration guidance for Azure Blob Storage or Azure Data Lake Storage.
+- Updated storage account creation steps and numbering.
+- Refreshed screenshot references including `csa.png`, `ng.png`, `ds.png`, `so.png`, and `wvd5n.png`.
+- Removed redundant wording from Session Desktop instructions.
+- Updated the navigation button reference to `np7.png`.
+
+#### Lab 7 – Load Balancing Methods
+
+- Improved PowerShell launch instructions and overall step clarity.
+- Updated supporting screenshots.
+- Updated the navigation button reference to `np8.png`.
+
+#### Lab 8 – Auto Scaling
+
+- Corrected summary wording for improved grammatical consistency.
+- Updated the navigation button reference to `np9.png`.
+
+#### Lab 9 – Cost Optimizations
+
+- Improved the introduction and clarified Start VM on Connect instructions.
+- Refined task guidance and learner instructions.
+- Updated the navigation button reference to `np10.png`.
+
+#### Lab 10 – Security Modules
+
+- Corrected authentication terminology and punctuation.
+- Updated Assignments instructions to reflect current portal terminology.
+- Refreshed Conditional Access and application-related screenshots.
+- Updated screenshot references:
+  - `vd46.png` → `vd46new.png`
+  - `vd47.png` → `vd47new.png`
+  - `vd48.png` → `vd48new.png`
+  - Updated policy screenshot to `ep.png`
+  - Updated Photos application screenshot to `photosn.png`
+- Improved AppLocker instructions and formatting.
+- Updated the navigation button reference to `np12.png`.
+
+#### Lab 11 – Multimedia Redirection
+
+- Updated the navigation button reference to `np11.png`.
+- Refined supporting instructional content and terminology.
+
+#### Lab 12 – MSIX App Attach
+
+- Corrected terminology and grammar throughout the scenario and exercise.
+- Improved MSIX app attachment terminology and file-selection instructions.
+- Simplified AVD host pool and RemoteApp navigation guidance.
+- Added the required newline for markdown consistency.
+- Maintained the existing navigation button reference.
+
+#### Lab 13 – App Masking Updated
+
+- Updated the navigation button reference to `np13.png`.
+
+#### Lab 14 – Migration Tools
+
+- Improved note formatting and summary clarity.
+- Removed unnecessary punctuation and refined wording around migration scenarios.
+- Updated the navigation button reference to `np14.png`.
+
+#### Lab 15 – Azure Active Directory Domain Join
+
+- Improved the Network and security section wording.
+- Updated the navigation button reference to `np15.png`.
+
+#### Lab 16 – Monitoring using Azure Monitor for AVD
+
+- Improved punctuation and readability across Insights, Utilization, Client, and monitoring instructions.
+- Enhanced the conclusion with clearer learner-focused messaging and seamless user experience guidance.
+- Refined the enterprise-level security section for improved flow and readability.
+
+### Screenshot Updates
+
+#### New Media Files Added
+
+- `media/np2.png` – Lab 1 navigation button
+- `media/np3.png` – Lab 2 navigation button
+- `media/np4.png` – Lab 3 navigation button
+- `media/np5.png` – Lab 4 navigation button
+- `media/np6.png` – Lab 5 navigation button
+- `media/np7.png` – Lab 6 navigation button
+- `media/np8.png` – Lab 7 navigation button
+- `media/np9.png` – Lab 8 navigation button
+- `media/np10.png` – Lab 9 navigation button
+- `media/np11.png` – Lab 11 navigation button
+- `media/np12.png` – Lab 10 navigation button
+- `media/np13.png` – Lab 13 navigation button
+- `media/np14.png` – Lab 14 navigation button
+- `media/np15.png` – Lab 15 navigation button
+- `media/csa.png` – Storage account creation interface
+- `media/ds.png` – Session Desktop view
+- `media/sd1.png` – Session Desktop launch
+- `media/so.png` – Sign-out instructions
+- `media/avd.png` – AVD Dashboard and Excel application
+- `media/ng.png` – Group creation interface
+- `media/wvd5n.png` – Storage interface
+- `media/ep.png` – Enable Policy screenshot
+- `media-1/vd46new.png` – Updated Conditional Access user selection
+- `media-1/vd47new.png` – Updated target resources selection
+- `media-1/vd48new.png` – Updated Client Apps configuration
+- `media-1/photosn.png` – Updated Photos application interface
+
+#### Improvements
+
+- Improved screenshot quality and readability for critical lab steps.
+- Ensured screenshot references accurately correspond to the associated instructional steps.
+- Improved visual consistency across all 16 lab modules.
+- Updated media references to reflect the latest Azure portal navigation and UI.
+- Added dedicated navigation screenshots to provide clearer lab progression.
+
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-03
+
+### Testing Scope
+
+Performed end-to-end validation of all modified labs, verified instructional sequence, confirmed updated Azure portal screenshots, validated formatting and heading consistency, tested documentation links, and reviewed all updated authentication guidance and learner instructions.
+
+---
+</details>
+
+
 <details>
 <summary>2026-07-16</summary>
 
