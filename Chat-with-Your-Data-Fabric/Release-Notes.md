@@ -18,9 +18,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
-  <summary>2026-09-02</summary>
+  <summary>2026-09-03</summary>
 
-## Release Date : 2026-09-02
+## Release Date : 2026-09-03
 
 ### Summary of Changes
 
@@ -47,7 +47,7 @@ Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the 
 
 ### Testing Notes
 
-- **Testing Date**: 2026-09-02
+- **Testing Date**: 2026-09-03
 
 ### Testing Scope
 
