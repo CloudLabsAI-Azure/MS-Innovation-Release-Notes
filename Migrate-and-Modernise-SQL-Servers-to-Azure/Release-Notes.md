@@ -15,6 +15,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-03</summary>
+
+## Release Date: 2026-09-03
+
+### Summary of Changes
+
+Performed end-to-end validation and content updates for the **Migrate and Modernize SQL Servers to Azure** lab to replace tooling retired by Microsoft — **Data Migration Assistant (DMA)** and **Azure Data Studio (Azure SQL Migration extension)** — with the currently supported flow using **SQL Server Management Studio (SSMS)** and the **Azure Portal-based Azure Database Migration Service (DMS)**. Updates include revised migration workflows, a new Blob Storage upload task, corrected task numbering and naming, refreshed architecture diagrams, and presentation deck alignment.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started Page**: Removed DMA references from the Lab Scenario, Objective bullets, and Architecture section; updated Lab 2 and Lab 3 descriptions to reflect the SSMS and Portal-based DMS workflows.
+- **Lab 01 - Exercises 02 & 03**: Minor typo and capitalization fixes; no tooling changes required.
+- **Lab 02 - Task 02**: Replaced the DMA assessment with an SSMS-based schema audit query; added the missing Connect to Server step; removed the .NET Framework/DMA install note; standardized the SSMS version to SSMS 22.
+- **Lab 02 - Task 04**: Replaced the DMA schema migration with the SSMS Generate Scripts wizard (Azure SQL Database engine type, script cleanup, `USE parts` context); added a DACPAC alternative.
+- **Lab 02**: Reordered tasks so Retrieve connection information precedes schema migration; moved the "minimize SQLVM connection" note to the end of Task 4; removed remaining DMA wording from Task 5 and the DMS description.
+- **Lab 03 - Task 05 (New)**: Added Upload the backup to Azure Blob Storage and assign the Storage Blob Data Reader permission to the SQL Managed Instance and the ODL user.
+- **Lab 03 - Task 06**: Replaced the Azure Data Studio migration project with the Azure Portal DMS online migration wizard (Blob storage backup source).
+- **Lab 03 - Task 07**: Moved the `INSERT` / `BACKUP LOG` steps from Azure Data Studio to SSMS; added `.trn` upload-to-Blob steps and a beginner-friendly explanation of transaction log status progression.
+- **Lab 03**: Corrected the service account from `sqlmiuser` to `demouser`; renumbered tasks 1–8; fixed heading levels; updated the DMS description from SMB share monitoring to Blob Storage monitoring; removed DMA from the Conclusion.
+- **Presentation Deck**: Replaced the DMA row with SSMS (Slide 8); replaced the DMA-based Migration Overview diagram with the SSMS + DMS flow (Slide 15); updated Lab 2 Task 4 to reference SSMS (Slide 26); corrected `sqlmiuser` → `demouser`, added the Blob Storage task, and renumbered tasks 5–8 (Slide 27); replaced the retired DMA documentation link with the SSMS Migrate SQL Server Microsoft Learn link (Slide 29).
+
+### Screenshot Updates
+- Added the updated screenshots all over the lab
+- Added new screenshots for the SSMS Generate Scripts wizard, script cleanup, Azure SQL Database connection, and schema verification (**Lab 02**).
+- Added new screenshots for Blob Storage container creation, backup/`.trn` upload, IAM role assignment, and the Portal-based DMS online migration wizard (**Lab 03**).
+- Updated the **Architecture Diagram** to remove DMA, reflect the SSMS schema migration, and show the corrected Lab 3 flow including the Blob Storage upload step.
+
+### Validation
+
+- N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-03
+
+### Testing Scope
+
+- Deployed a fresh lab instance and completed end-to-end validation of the updated flow.
+- Verified SSMS-based assessment and schema migration to Azure SQL Database.
+- Verified Portal-based DMS online migration to Azure SQL Managed Instance, including Blob Storage upload, transaction log restore, and cutover.
+- Validated task numbering, headings, naming conventions, and formatting across all lab guides.
+- Confirmed the presentation deck matches the updated lab guides; package validation passed with theme and formatting unchanged.
+
+---
+</details>
+
+<details>
   <summary>2026-08-03</summary>
 
 ## Release Date: 2026-08-03
