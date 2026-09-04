@@ -67,20 +67,7 @@ NA
 
 ### Screenshot Updates
 
-- Lab-01
-  - Azure SQL database selection interface
-  
-- Lab-01
-  - Server connection configuration with encryption options
-  
-- Lab-01
-  - Query editor toolbar with New Query button
-
-- Lab-05
-  - Storage account blob path landing zone
-
-- Lab-06
-  - Sales model page with report creation options
+Updated all screenshots across Labs 01, 05, and 06 to reflect the latest Microsoft Fabric UI and Azure Portal interfaces.
 
 ### Testing Notes
 
