@@ -20,6 +20,67 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-04</summary>
+
+## Release Date: 2026-09-04
+
+### Summary of Changes
+
+Enhanced lab instructions with improved clarity, UI alignment, and comprehensive helper notes. Updated documentation for better user experience across all labs, including image references, navigation paths, and credential entry guidance.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+**Lab 01 (Azure SQL Database)**
+- Updated screenshots and image names for clarity
+- Added helpful guidance notes for the mirrored database popup
+
+**Lab 02 (Azure Cosmos DB)**
+- Fixed spelling and grammar errors
+- Improved connection instructions with clearer examples
+- Added guidance for schema navigation
+
+**Lab 03 (Azure SQL Managed Instance)**
+- Updated field labels to match current Azure interface
+- Improved step-by-step navigation instructions for better clarity
+
+**Lab 05 (Azure Storage Explorer)**
+- Enhanced sign-in instructions with clearer credential entry steps
+- Updated screenshots with current interface
+- Improved file upload navigation instructions
+- Updated window titles to match current UI
+
+**Lab 06 (Azure Database for PostgreSQL & Power BI)**
+- Updated server status messaging
+- Improved navigation instructions with correct step sequence
+- Updated database path naming to match current interface
+- Clarified query tool instructions
+- Updated report creation steps with new screenshots
+- Added expectation for replication wait time with refresh guidance
+
+- **Getting Started Page**
+  - Added step numbering to Email/Username field for consistency
+  - Added helper note for Fabric free license acknowledgment dialog
+
+### Screenshot Updates
+
+Updated all screenshots across Labs 01, 05, and 06 to reflect the latest Microsoft Fabric UI and Azure Portal interfaces.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-04
+
+### Testing Scope
+
+Performed end-to-end validation of the lab instructions, verified UI alignment with current Azure Portal, Microsoft Fabric, pgAdmin4, and Power BI interfaces. Confirmed all navigation paths and credential entry workflows function as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-07-29</summary>
 
 ## Release Date: 2026-07-29
