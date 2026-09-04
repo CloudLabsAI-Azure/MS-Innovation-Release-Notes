@@ -34,34 +34,32 @@ NA
 
 ### Content Changes
 
-- **Lab 01 (Azure SQL Database)**
-  - Renamed 3 images for consistency: `l1-azuresql-select.png`, `l1-connect-server.png`, `l1-new-query.png`
-  - Added helper note for "Welcome to Mirrored database" popup guidance
+**Lab 01 (Azure SQL Database)**
+- Updated screenshots and image names for clarity
+- Added helpful guidance notes for the mirrored database popup
 
-- **Lab 02 (Azure Cosmos DB)**
-  - Fixed grammar errors: "donot" → "don't", "opetion" → "option"
-  - Added connection name example: "**Mirrord cosmosdb**" for clearer guidance
-  - Added helper note for empty Schemas section with refresh instructions
+**Lab 02 (Azure Cosmos DB)**
+- Fixed spelling and grammar errors
+- Improved connection instructions with clearer examples
+- Added guidance for schema navigation
 
-- **Lab 03 (Azure SQL Managed Instance)**
-  - Updated field label: "Login" → "User Name" (UI alignment with Azure SQL MI interface)
-  - Improved navigation clarity: "query" → "Explorer" with hierarchical path (Schemas > dbo > SampleDatabase)
+**Lab 03 (Azure SQL Managed Instance)**
+- Updated field labels to match current Azure interface
+- Improved step-by-step navigation instructions for better clarity
 
-- **Lab 05 (Azure Storage Explorer)**
-  - Restructured sign-in instructions with detailed credential entry steps (Username, Temporary Access Pass, device sign-in choice)
-  - Added hamburger menu icon reference for resource navigation
-  - Improved file upload dialog navigation with address bar entry instructions
-  - Renamed image: `landing_zone.png` → `l5-landingpage.png`
-  - Updated window title capitalization: "Select resources" → "Select Resource", "Select connection method" → "Select Connection Method"
+**Lab 05 (Azure Storage Explorer)**
+- Enhanced sign-in instructions with clearer credential entry steps
+- Updated screenshots with current interface
+- Improved file upload navigation instructions
+- Updated window titles to match current UI
 
-- **Lab 06 (Azure Database for PostgreSQL & Power BI)**
-  - Updated server status label: "Server is running" → "Server is ready for mirroring"
-  - Fixed PgAdmin navigation numbering sequence: Servers (1) > Register (2) > Server (3)
-  - Corrected database path naming: "postgresDB/Schemas/master/tables/sales" → "postgres > Schemas/master/Tables/sales"
-  - Clarified query tool type: "Query Tool" → "Empty Query Tool"
-  - Updated report creation navigation: "Explore tab" → "File menu in Sales model page" (new image)
-  - Fixed background slider instruction logic: "Off (enabled)" → "On (disabled)"
-  - Added 2-3 minute replication wait expectation with refresh instructions
+**Lab 06 (Azure Database for PostgreSQL & Power BI)**
+- Updated server status messaging
+- Improved navigation instructions with correct step sequence
+- Updated database path naming to match current interface
+- Clarified query tool instructions
+- Updated report creation steps with new screenshots
+- Added expectation for replication wait time with refresh guidance
 
 - **Getting Started Page**
   - Added step numbering to Email/Username field for consistency
