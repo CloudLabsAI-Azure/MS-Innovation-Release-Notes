@@ -32,14 +32,11 @@ N/A
 ### Content Changes
 
 - Updated all lab guides with improved grammar, punctuation, markdown formatting, heading consistency, and clearer learner instructions.
-- Standardized technical terminology and wording across the lab modules, including Azure Virtual Desktop, PowerShell, Hyper-V, and related Azure services.
 - Updated navigation button references from the legacy `Next.png` asset to lab-specific navigation images (`np2.png` through `np15.png`).
-- Improved validation instructions, notes, refresh guidance, troubleshooting steps, and sign-in/sign-out instructions across applicable labs.
 
 #### Getting Started Guide
 
 - Improved the architecture description and technical flow explanation.
-- Standardized browser and AVD Desktop Client terminology.
 - Improved article/reference clarity and overall markdown formatting.
 
 #### Lab 1 – Create Host Pool from Azure Portal
