@@ -69,19 +69,19 @@ NA
 
 ### Screenshot Updates
 
-- instructions/media/Lab-01/l1-azuresql-select.png (NEW)
+- Lab-01
   - Azure SQL database selection interface
   
-- instructions/media/Lab-01/l1-connect-server.png (NEW)
+- Lab-01
   - Server connection configuration with encryption options
   
-- instructions/media/Lab-01/l1-new-query.png (NEW)
+- Lab-01
   - Query editor toolbar with New Query button
 
-- instructions/media/Lab-05/l5-landingpage.png (NEW)
+- Lab-05
   - Storage account blob path landing zone
 
-- instructions/media/Lab-06/l8-sales-model-2.png (NEW)
+- Lab-06
   - Sales model page with report creation options
 
 ### Testing Notes
