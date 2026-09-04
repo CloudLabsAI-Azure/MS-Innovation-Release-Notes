@@ -20,6 +20,82 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-04</summary>
+
+## Release Date: 2026-09-04
+
+### Summary of Changes
+
+Enhanced lab instructions with improved clarity, UI alignment, and comprehensive helper notes. Updated documentation for better user experience across all labs, including image references, navigation paths, and credential entry guidance.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Lab 01 (Azure SQL Database)**
+  - Renamed 3 images for consistency: `l1-azuresql-select.png`, `l1-connect-server.png`, `l1-new-query.png`
+  - Added helper note for "Welcome to Mirrored database" popup guidance
+
+- **Lab 02 (Azure Cosmos DB)**
+  - Fixed grammar errors: "donot" → "don't", "opetion" → "option"
+  - Added connection name example: "**Mirrord cosmosdb**" for clearer guidance
+  - Added helper note for empty Schemas section with refresh instructions
+
+- **Lab 03 (Azure SQL Managed Instance)**
+  - Updated field label: "Login" → "User Name" (UI alignment with Azure SQL MI interface)
+  - Improved navigation clarity: "query" → "Explorer" with hierarchical path (Schemas > dbo > SampleDatabase)
+
+- **Lab 05 (Azure Storage Explorer)**
+  - Restructured sign-in instructions with detailed credential entry steps (Username, Temporary Access Pass, device sign-in choice)
+  - Added hamburger menu icon reference for resource navigation
+  - Improved file upload dialog navigation with address bar entry instructions
+  - Renamed image: `landing_zone.png` → `l5-landingpage.png`
+  - Updated window title capitalization: "Select resources" → "Select Resource", "Select connection method" → "Select Connection Method"
+
+- **Lab 06 (Azure Database for PostgreSQL & Power BI)**
+  - Updated server status label: "Server is running" → "Server is ready for mirroring"
+  - Fixed PgAdmin navigation numbering sequence: Servers (1) > Register (2) > Server (3)
+  - Corrected database path naming: "postgresDB/Schemas/master/tables/sales" → "postgres > Schemas/master/Tables/sales"
+  - Clarified query tool type: "Query Tool" → "Empty Query Tool"
+  - Updated report creation navigation: "Explore tab" → "File menu in Sales model page" (new image)
+  - Fixed background slider instruction logic: "Off (enabled)" → "On (disabled)"
+  - Added 2-3 minute replication wait expectation with refresh instructions
+
+- **Getting Started Page**
+  - Added step numbering to Email/Username field for consistency
+  - Added helper note for Fabric free license acknowledgment dialog
+
+### Screenshot Updates
+
+- instructions/media/Lab-01/l1-azuresql-select.png (NEW)
+  - Azure SQL database selection interface
+  
+- instructions/media/Lab-01/l1-connect-server.png (NEW)
+  - Server connection configuration with encryption options
+  
+- instructions/media/Lab-01/l1-new-query.png (NEW)
+  - Query editor toolbar with New Query button
+
+- instructions/media/Lab-05/l5-landingpage.png (NEW)
+  - Storage account blob path landing zone
+
+- instructions/media/Lab-06/l8-sales-model-2.png (NEW)
+  - Sales model page with report creation options
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-04
+
+### Testing Scope
+
+Performed end-to-end validation of the lab instructions, verified UI alignment with current Azure Portal, Microsoft Fabric, pgAdmin4, and Power BI interfaces. Confirmed all navigation paths and credential entry workflows function as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-07-29</summary>
 
 ## Release Date: 2026-07-29
