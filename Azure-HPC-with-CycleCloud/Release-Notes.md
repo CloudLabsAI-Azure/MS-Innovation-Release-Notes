@@ -15,6 +15,55 @@ This repository contains detailed notes about the latest updates and modificatio
 
 `Email Support: cloudlabs-support@spektrasystems.com`
 
+# Release Notes
+
+<details>
+  <summary>2026-08-20</summary>
+
+## Release Date: 2026-08-20
+
+## Summary of Changes
+
+Updated the **Azure HPC with CycleCloud** lab to align the lab documentation with the latest workflow and required screenshot updates identified during testing. The lab instructions were revised across the affected exercises, and related screenshots were refreshed to ensure the documentation provides accurate and clear guidance to learners.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Updated the **Getting Started** section with the required instructions and content changes.
+* Updated **Exercise 1** and **Exercise 2** instructions based on the latest lab workflow.
+* Corrected and improved instructional content where required.
+* Updated the Exercise 2 content to ensure the steps are clear and follow the correct sequence.
+* Improved consistency and clarity across the affected lab sections.
+* Updated content based on findings identified during lab testing.
+
+## Screenshot Updates
+
+* Updated screenshots associated with the affected lab steps.
+* Replaced outdated screenshots with updated visuals where required.
+* Added new screenshots to provide clearer guidance for learners.
+* Updated screenshots in Exercise 2 to accurately reflect the corresponding instructions and workflow.
+* Ensured screenshots are properly aligned with the current lab documentation.
+
+## Testing Notes
+
+* **Testing Date:** 2026-08-20
+
+## Testing Scope
+
+* Performed testing of the **Azure HPC with CycleCloud** lab.
+* Validated the updated instructions and exercise flow.
+* Verified that the updated screenshots match the corresponding lab steps.
+* Reviewed the content for clarity, consistency, formatting, and instructional accuracy.
+* Validated the updated Exercise 2 workflow and related screenshots.
+* Updated the documentation based on issues and improvements identified during the testing cycle.
+
+---
+
+</details>
+
 <details>
   <summary>2026-07-31</summary>
 

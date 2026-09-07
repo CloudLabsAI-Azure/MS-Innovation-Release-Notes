@@ -16,6 +16,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-04</summary>
+
+## Release Date: 2026-09-04
+
+### Summary of Changes
+
+- Updated the lab to align with the latest Microsoft Agent Framework experience and prepare for the retirement of Microsoft Workflows. Restructured Exercise 3, including its scenario, overview, task names, content, and screenshots, to use Microsoft Agent Framework. Updated Exercise 4, Task 2, Step 5 to use 15 as the default minimum row count. Additionally, implemented a TPM policy to restrict users from creating additional models beyond the approved models.
+
+### Infrastructure Changes
+
+- Updated Exercise 3 to use Microsoft Agent Framework instead of Microsoft Workflows in preparation for the planned retirement of Workflows.
+- Implemented a TPM policy to restrict users from creating additional models beyond the approved models.
+
+### Content Changes
+
+- Updated the Architecture to include Microsoft Foundry models.
+- Updated the Getting Started page to replace workflow references with Microsoft Agent Framework.
+- Renamed Exercise 3 to Multi-Agent Orchestration with Microsoft Agent Framework.
+- Updated all three task names in Exercise 3 to align with the revised lab content.
+- Updated the Scenario and Overview sections of Exercise 3 to reflect the Microsoft Agent Framework implementation.
+- Restructured Exercise 3 to use Microsoft Agent Framework instead of workflows and updated the associated content accordingly.
+- Updated Exercise 4, Task 2, Step 5 to change the default number of rows from 10 to 15, aligning with Microsoft's latest update requiring a minimum of 15 rows.
+
+### Screenshot Updates
+
+- Updated Architecture diagram screenshot in gettingstarted page. 
+- Updated all screenshots in Exercise 3 to reflect the transition from workflows to Microsoft Agent Framework.
+- Updated the screenshot in Exercise 4, Task 2, Step 5 to align with the revised content and default value of 15 rows.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-04
+
+### Testing Scope 
+
+Performed end-to-end testing of the updated lab flow, including validation of Exercise 3 using Microsoft Agent Framework. Verified the revised instructions, scenario, overview, task flow, and screenshots, and confirmed that the TPM policy correctly restricts users from creating unapproved models. Also validated the updated default row count of 15 in Exercise 4, Task 2, Step 5 and confirmed the lab is functioning as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-06-28</summary>
 
 ## Release Date: 2026-06-28

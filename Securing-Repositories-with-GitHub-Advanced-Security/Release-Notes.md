@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-28</summary>
+
+## Release Date: 2026-08-28
+
+### Summary of Changes
+
+Updated minor instructions to align with the latest GitHub experience and improve the clarity of the lab guide.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated minor instructions based on the latest GitHub experience.
+- Refined the lab guidance to improve clarity and ensure consistency with the current workflow.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-28
+
+### Testing Scope
+
+- Completed end-to-end testing of the lab successfully.
+- Updated the lab guide to improve clarity and consistency.
+
+---
+</details>
+
+<details>
   <summary>2026-07-27</summary>
 
 ## Release Date: 2026-07-27

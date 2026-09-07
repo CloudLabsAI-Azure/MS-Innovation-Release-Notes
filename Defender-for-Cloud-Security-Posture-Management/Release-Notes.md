@@ -94,6 +94,45 @@ NA
 ### Testing Scope 
 Validated all Microsoft Defender for Cloud lab modules, including instructions, navigation steps, screenshots, and company references, and verified that the screenshots reflect the latest Azure portal experience. The content was also reviewed for grammatical and formatting issues.
 
+  <summary>2026-08-19</summary>
+
+## Release Date: 2026-08-19
+
+### Summary of Changes
+
+Made minor content and formatting updates across several module files to improve clarity and troubleshooting guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- modules/module1-mdcwalkthrough.md
+  - Added a new action step: "You'll create two standards and then review the 'Lowest compliance standard' values to confirm the changes."
+  - Added a troubleshooting note instructing learners to refresh the Security posture page if values don't load.
+  - Minor punctuation and formatting fixes (e.g., changed "Recommendations (1)" to "Recommendations.").
+
+- modules/module2-understanding-your-cloudattack-surface.md
+  - Minor formatting/whitespace adjustment in an explanatory note.
+
+- modules/module3-dashboards.md
+  - Added terminal punctuation (periods) to each completed-item bullet in the lab summary.
+
+- modules/module4-governance-rule.md
+  - Added terminal punctuation (period) to the completed-item summary.
+
+### Screenshot Updates
+
+N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-19
+
+### Testing Scope
+
+Performed content review and validation to ensure updates render correctly and improve learner guidance; verified formatting and troubleshooting text display as intended.
 
 </details>
 

@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-18</summary>
+
+## Release Date: 2026-08-21
+
+## Summary of Changes
+
+Updated the **MS Fabric Foundation for Enterprise Analytics** lab to incorporate the feedback shared by the instructor. The lab guide was reviewed and refined to improve the clarity, accuracy, and overall learner experience.
+
+## Infrastructure Changes
+
+- N/A
+
+## Content Changes
+
+- Incorporated the feedback shared by the instructor across the lab documentation.
+- Refined the lab instructions and guidance based on the feedback received.
+- Improved the clarity and consistency of the lab content and learner instructions.
+- Made necessary updates to ensure the lab flow is clear and easy to follow.
+
+## Screenshot Updates
+
+- Updated screenshots where required based on the instructor feedback.
+- Refreshed visual guidance to improve clarity and alignment with the lab instructions.
+
+## Testing Notes
+
+- **Testing Date:** 2026-08-18
+
+## Testing Scope
+
+- Performed end-to-end testing of the lab after incorporating the instructor feedback.
+- Verified the updated instructions, screenshots, and overall lab flow.
+- Confirmed that the changes were accurately reflected throughout the lab and improved the overall learner experience.
+
+---
+</details>
+
+<details>
   <summary>2026-08-07</summary>
 
 ## Release Date: 2026-08-07

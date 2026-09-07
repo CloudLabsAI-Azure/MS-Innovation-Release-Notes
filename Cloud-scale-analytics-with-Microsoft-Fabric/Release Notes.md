@@ -20,6 +20,97 @@ This repository contains detailed notes about the latest updates and modificatio
 In this section, we will track and list each change introduced in the latest release:
 
 ### Release Date:
+
+<details>
+
+  <summary>2026-08-27</summary>
+
+## Release Date: 2026-08-27
+
+## Summary of Changes
+
+Updates to Microsoft Fabric hands-on lab materials with revised lab scenarios, improved instructions, refreshed screenshots, updated Fabric portal navigation, and content enhancements to align with the latest Microsoft Fabric UI and improve the learner experience.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+  - Added and updated **Lab Scenario**, **Lab Overview**, and **Lab Objectives** sections across multiple exercises.
+  - Updated the **Getting Started** guide with an end-to-end Microsoft Fabric scenario covering data engineering, data warehousing, real-time analytics, data science, Copilot, and Dataflows Gen2.
+  - Updated Microsoft Fabric portal navigation and sign-in instructions.
+  - Added guidance for resizing the Virtual Machine and Lab Guide views.
+  - Updated instructions for workspace, lakehouse, warehouse, semantic model, Eventhouse, notebook, pipeline, and report workflows.
+  - Updated Fabric Copilot instructions and examples for data preparation, analysis, and report generation.
+  - Improved terminology, headings, formatting, and step-by-step instructions across the lab materials.
+  - Updated Dataflows Gen2 instructions and pipeline integration steps.
+  - Updated data warehouse and semantic model instructions to reflect the current Fabric experience.
+  - Updated real-time analytics instructions covering Eventhouse, KQL queries, and streaming data.
+  - Updated data science instructions covering MLflow experiments, model comparison, and model registration.
+
+## Screenshot Updates
+
+  - **Getting Started**:
+      - Updated Microsoft Fabric portal sign-in screenshots
+      - Updated workspace and Fabric navigation screenshots
+      - Added refreshed screenshots for the lab environment and VM view
+      - Updated Fabric trial activation and portal navigation visuals
+
+  - **Exercise 1**:
+      - Updated workspace and lakehouse creation screenshots
+      - Refreshed notebook, pipeline, and SQL query interface screenshots
+      - Updated semantic model and report creation visuals
+      - Updated pipeline monitoring and execution screenshots
+
+  - **Exercise 2**:
+      - Updated data warehouse creation screenshots
+      - Refreshed table creation and SQL query visuals
+      - Updated semantic model relationship screenshots
+      - Updated visual query and report creation screenshots
+
+  - **Exercise 3**:
+      - Updated Eventhouse and KQL database creation screenshots
+      - Refreshed KQL query and query set visuals
+      - Updated Power BI report creation screenshots
+      - Updated Spark Structured Streaming and real-time data visuals
+
+  - **Exercise 4**:
+      - Updated MLflow experiment and run comparison screenshots
+      - Refreshed experiment visualization and model registration visuals
+      - Updated notebook and machine learning workflow screenshots
+
+  - **Exercise 5**:
+      - Updated Spark notebook and lakehouse connection screenshots
+      - Refreshed data analysis and visualization interface visuals
+
+  - **Exercise 6**:
+      - Updated Dataflow Gen2 creation and configuration screenshots
+      - Refreshed destination configuration and schema selection visuals
+      - Updated dataflow publishing and pipeline integration screenshots
+
+  - **Exercise 7**:
+      - Updated Dataflow Gen2 and Copilot interface screenshots
+      - Refreshed column transformation and data preparation visuals
+      - Updated Copilot-generated transformation examples
+
+  - **Exercise 8**:
+      - Updated semantic model navigation screenshots
+      - Refreshed Copilot interface and report generation visuals
+      - Updated sales analysis and executive summary screenshots
+
+## Testing Notes
+
+- **Testing Date**: 2026-08-17
+
+## Testing Scope
+
+Performed end-to-end testing of the lab materials, updated the lab guide with clear instructions, validated the workflows against the latest Microsoft Fabric portal experience, and refreshed the images to reflect the latest UI.
+
+---
+
+</details>
+
 <details>
   <summary>2026-05-03</summary>
 

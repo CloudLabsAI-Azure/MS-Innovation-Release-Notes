@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-21</summary>
+  
+## Release Date: 2026-08-21
+
+### Summary of Changes
+
+Performed end-to-end lab validation for Lab 03 (Deploy a Virtual Machine) and updated content to align with the latest Azure Portal UI changes. Updates included handling the new preview Create-VM experience, a deprecated Disks tab option, and a subnet configuration correction to prevent validation failures.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+  - Added a note in the Basics tab instructing users to click "Click here to access the previous experience" if the Create-VM page opens in the new preview experience, as the Availability set and scale set options are hidden in preview mode and are required to select demolabavaset1.
+  - Updated the Disks tab instruction to replace the deprecated "Use managed disks" checkbox with a step to verify Ephemeral OS disk is set to None (the default), and revised the accompanying note to explain managed disks are now applied automatically.
+  - Emphasized the Networking tab Subnet step to explicitly select demolabsubnet (10.2.0.0/26) instead of the default subnet, since an incorrect subnet causes lab validation to fail.
+   
+### Screenshot Updates
+
+  - Updated the Disks tab screenshot to reflect the new Advanced section showing Ephemeral OS disk (None) in place of the deprecated "Use managed disks" checkbox, with re-numbered callouts.
+  - Added a Basics tab screenshot highlighting the "Click here to access the previous experience" link in the preview banner.
+  - Reviewed and verified all remaining screenshots for accuracy and consistency with the latest Azure Portal UI.
+    
+### Testing Notes
+
+- **Testing Date**: 2026-08-21
+  
+### Testing Scope 
+
+Validation included end-to-end lab execution, verification of the updated Create-VM workflow, step sequencing, content accuracy, and alignment of screenshots with the current Azure Portal experience. Identified and documented three issues (preview Create-VM experience hiding Availability set options, deprecated "Use managed disks" reference, and subnet misconfiguration causing validation failure) and updated the guide accordingly.
+
+---
+</details>
+
+<details>
   <summary>2026-05-05</summary>
   
 ## Release Date: 2026-05-05
