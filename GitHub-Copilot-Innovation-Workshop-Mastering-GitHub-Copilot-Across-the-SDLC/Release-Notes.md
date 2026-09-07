@@ -14,6 +14,26 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-09-01</summary>
+
+## Release Date: 2026-09-01
+### Summary of Changes
+Successfully tested the Lab end-to-end, Good with the steps, copilot prompts and screenshot.
+### Infrastructure Changes
+N/A
+### Content Changes
+- NA
+### Screenshot Updates
+- All screenshots are already updated.
+### Testing Notes
+- **Testing Date:** 2026-09-01
+
+- **Testing Scope:** Verified lab environment setup and GitHub login flow; validated codebase exploration using Copilot Chat in Ask mode; exercised Agent mode for goal-oriented development and test coverage improvement; validated the GitHub Copilot Coding Agent workflow end-to-end (issue creation, assignment to Agent, autonomous PR generation, session log monitoring, and merge); confirmed the implemented feature runs correctly in the local application after syncing; validated the GitHub Advanced Security and CodeQL setup and scan flow.
+---
+</details>
+
 <details>
   <summary>2026-08-21</summary>
 
