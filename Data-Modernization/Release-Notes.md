@@ -18,6 +18,66 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-07</summary>
+
+## Release Date: 2026-09-07
+
+### Summary of Changes
+
+Updated the lab, Migrating SQL Databases to Azure lab to align with the latest migration workflow by replacing Azure Data Studio with SQL Server Management Studio (SSMS) 22, introducing new hands-on exercises, enhancing migration guidance, and refreshing screenshots throughout the lab. The updates provide a more streamlined and realistic migration experience for learners.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Replaced Azure Data Studio-based instructions with SQL Server Management Studio (SSMS) 22 throughout the lab.
+- Added a new Exercise 1 focused on performing database assessments.
+- Added detailed steps for connecting to the virtual machine using RDP.
+- Added instructions for configuring Service Broker and updating database recovery models.
+- Added assessment validation and migration readiness guidance.
+- Added a new Exercise 2 covering end-to-end migration of the WideWorldImporters database to Azure SQL Managed Instance.
+- Added steps to create and configure an SMB network share.
+- Added instructions to update the MSSQLSERVER service account to use the lab user account for backup operations.
+- Added detailed database backup and transaction log backup procedures.
+- Added Azure Blob Storage upload instructions for migration files.
+- Added Storage Blob Data Reader permission assignment steps for the user account and SQL Managed Instance managed identity.
+- Added detailed Azure Database Migration Service (DMS) online migration steps, including migration creation, monitoring, synchronization, and cutover.
+- Added post-migration verification and validation steps using SSMS.
+- Removed outdated MFA walkthrough content from the main lab guide.
+- Added a VM resizing tip to improve the learner experience during lab execution.
+- Improved instruction clarity and overall lab flow across multiple exercises.
+
+### Screenshot Updates
+
+- Updated screenshots throughout the main lab guide to align with the latest Azure portal experience.
+- Added new screenshots supporting the database assessment workflow in Exercise 1.
+- Added new screenshots supporting Azure SQL Managed Instance migration activities in Exercise 2.
+- Updated screenshots related to Azure Database Migration Service configuration and monitoring.
+- Added new screenshots demonstrating SMB share creation and backup configuration steps.
+- Updated Azure portal and environment-related screenshots to reflect the current user experience.
+- Added new screenshots to Exercise 7 (taskstep-1.png and taskstep-2.png).
+- Added a large collection of new media assets, including labguide.png, environment.png, azureportal.png, and multiple task-related screenshots.
+
+### Testing Notes
+
+- Testing Date: 2026-09-07
+
+### Testing Scope
+
+- Conducted end-to-end validation of the updated lab experience.
+- Verified all newly added Exercise 1 instructions and assessment workflows.
+- Verified all newly added Exercise 2 migration steps and task sequencing.
+- Validated backup, SMB share, Azure Blob Storage, and DMS migration workflows.
+- Confirmed all screenshots match the current portal and lab experience.
+- Reviewed image references, formatting, and content consistency across all lab guides.
+- Ensured successful post-migration validation steps using SQL Server Management Studio (SSMS) 22.
+
+---
+
+</details>
+<details>
   <summary>2026-05-21</summary>
 
 ## Release Date: 2026-05-21
