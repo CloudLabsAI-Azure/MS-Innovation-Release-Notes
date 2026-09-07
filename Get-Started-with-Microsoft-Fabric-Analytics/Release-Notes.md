@@ -16,6 +16,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-09-05</summary>
+
+## Release Date: 2026-09-05
+
+### Summary of Changes
+
+Updates to Microsoft Fabric hands-on lab materials with refreshed screenshots and instruction improvements to align with the current Fabric and Power BI UI. Additional clarifications were added for Power BI trial activation, VM clipboard troubleshooting, pipeline configuration, and cross-database query execution to improve the learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01**
+  - Updated Power BI trial activation instructions to guide learners to select Power BI only from the Start Trial dropdown.
+  - Removed an obsolete SQL query editor screenshot/reference from the workflow.
+  - Refined instructions to align with the current Lakehouse, SQL endpoint, semantic model, and report creation experience.
+
+- **Lab 02**
+
+  - Reworked VM clipboard troubleshooting guidance into an IMPORTANT note so learners follow the steps only when copy/paste issues occur.
+  - Refined instructions around SQL queries, semantic models, relationships, visual queries, and report creation to align with the current Fabric experience.
+
+- **Lab 03**
+  - Clarified the pipeline destination configuration to use raw as the folder path and products.csv as the file name.
+  - Updated and emphasized the cross-database query guidance to instruct learners to replace Lakehouse_ with their deployed Lakehouse name before query execution.
+  - Refined pipeline and query instructions for improved clarity. 
+
+### Screenshot Updates
+
+- Refreshed screenshots across **Lab 01**, **Lab 02**, and **Lab 03** to align with the latest Microsoft Fabric experience.
+- Updated screenshots for Fabric trial activation, Lakehouse creation, SQL query window, deployed Fabric items, HTTP connection configuration, and other workflow changes.
+- Added new screenshots where required to match updated instructions and maintain the consistency through the learner flow.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-04
+
+### Testing Scope
+
+- Performed end-to-end validation of all updated labs.
+- Verified updated instructions, screenshots, image references, and formatting.
+- Validated Microsoft Fabric portal navigation, Lakehouse creation, SQL query execution, notebook workflows, Data Pipeline configuration, HTTP connection setup, and deployed Fabric resources.
+- Confirmed numbering consistency, rendering, learner navigation, and overall guide accuracy.
+
+</details>
+
+<details>
 <summary>2026-08-08</summary>
 
 ## Release Date: 2026-08-08
