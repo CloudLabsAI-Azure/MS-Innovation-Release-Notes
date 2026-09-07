@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-07</summary>
+
+## Release Date: 2026-09-07
+
+### Summary of Changes
+
+- Updated the lab guide to improve clarity, engagement, and alignment with the latest UI changes. Added scenario descriptions and relevant emojis across the lab pages, introduced instructions for resizing the virtual machine view, and updated the affected exercise content and screenshots to reflect the current UI.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Added scenario descriptions and relevant emojis across all lab pages to improve context and engagement.
+- Added instructions for resizing the virtual machine view on the Getting Started page.
+- Updated Exercise 1, Task 3, Step 2 to align with the latest UI changes.
+- Updated Exercise 1, Task 4, Steps 2, 13, 15, 17, and 18 to reflect the latest UI changes.
+- Updated Exercise 1, Task 5, Steps 7, 8, 9, and 10 to align with the latest UI changes.
+  
+### Screenshot Updates
+
+- Replaced the Environment Settings tab screenshot on the Getting Started page.
+- Added an updated screenshot demonstrating how to resize the virtual machine view on the Getting Started page.
+- Updated the screenshot for Exercise 1, Task 1, Step 3 to reflect the latest UI.
+- Updated screenshots for Exercise 1, Task 3, Step 2 and Exercise 1, Task 4, Steps 2 and 13 based on the latest UI changes.
+- Updated screenshots for Exercise 1, Task 4, Steps 15, 17, and 18 to match the revised instructions.
+- Updated screenshots for Exercise 1, Task 5, Steps 7, 8, 9, and 10 to reflect the latest UI.
+- Updated the screenshot for Exercise 2, Task 1, Step 2 based on the latest UI update.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-09-07
+
+### Testing Scope 
+
+- Performed end-to-end validation of the updated lab guide to ensure the revised instructions and screenshots align with the latest UI. Verified the updated steps across Exercises 1 and 2, including the virtual machine resizing instructions, and confirmed that the lab flow and content are working as expected.
+ 
+---
+</details>
+
+<details>
   <summary>2026-02-25</summary>
 
 ## Release Date: 2026-02-25
