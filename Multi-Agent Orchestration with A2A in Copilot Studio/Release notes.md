@@ -18,9 +18,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-06-07</summary>
+  <summary>2026-09-07</summary>
 
-## Release Date: 2026-06-07
+## Release Date: 2026-09-07
 ## Summary of Changes
 
 Completed onboarding and end-to-end testing for the **Multi-Agent Orchestration with A2A in Copilot Studio**. All content updates, infrastructure updates, and screenshot changes were completed successfully. The lab was thoroughly reviewed, finalized, and all changes were pushed to production.
