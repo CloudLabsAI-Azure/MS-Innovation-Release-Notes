@@ -27,9 +27,9 @@ Performed end-to-end validation and content updates for the **Migrate and Modern
 
 - Migrated the Azure SQL Managed Instance online migration from the retired **Azure Data Studio (Azure SQL Migration extension)** to the **Azure Portal-based Azure Database Migration Service (DMS)**, which is now used to create, run, and monitor the online migration.
 
-- Introduced an **Azure Blob Storage-based backup flow** for the Managed Instance migration, where the database and transaction log backups are uploaded to a Blob Storage container and consumed by DMS during the online migration and cutover.
+- Standardized the lab to use the latest SQL Server Management Studio 22 (SSMS) for database assessment and migration, replacing the earlier SSMS 20 version.
 
-- Assigned the **Storage Blob Data Reader** role to both the Azure SQL Managed Instance and the lab user, granting DMS the required read access to the backup files in the Blob Storage container.
+- Introduced an **Azure Blob Storage-based backup flow** for the Managed Instance migration, where the database and transaction log backups are uploaded to a Blob Storage container and consumed by DMS during the online migration and cutover.
 
 ### Content Changes
 
