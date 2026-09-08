@@ -18,6 +18,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-31</summary>
+
+## Release Date: 2026-08-31
+
+### Summary of Changes
+
+Updated Lab guides to improve content accuracy, instructional clarity, and learner guidance. The release includes corrections to lab instructions, screenshot reference updates, formatting improvements, and refreshed visual assets across multiple labs to ensure alignment with the latest validated learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refined instructions in the Real-Time Analytics and Data Science lab guides.
+- Corrected step wording, numbering, and screenshot references to improve clarity.
+- Updated the Getting Started guide to explicitly reference Fabric and Power BI trial requirements.
+- Improved markdown formatting and learner guidance throughout the documentation.
+- Performed documentation polish only with no code or infrastructure changes.
+
+### Screenshot Updates
+
+- **Getting Started section**: Updated screenshots and captions to better align with the current onboarding experience.Replaced the existing GS10 image with GS10-1.png.
+
+- **Real-Time Analytics lab**: Corrected screenshot references and formatting.Replaced image references with updated assets, including E1T3S5-3.png.Updated screenshot presentation to better match the current learner workflow.
+
+- **Data Science lab**: Updated screenshot references to reflect the latest validated experience.Replaced existing image links with updated assets, including E2T1S6-2.png.Improved instructional alignment between steps and screenshots.Added new image files such as E1T3S5-3.png and GS10-1.png.Refreshed multiple screenshots across task 5 and task 6 related assets.Replaced outdated visuals to ensure consistency with the current Microsoft Fabric experience.
+
+### Testing Notes
+
+- Testing Date: 2026-08-31  
+  Validation was performed after updating lab guides and screenshots to ensure all content accurately reflects the current lab experience.
+
+### Testing Scope
+
+- Completed end-to-end review of updated lab guides.
+- Verified all modified instructions are accurate and follow the intended learning flow.
+- Confirmed updated screenshot 
+
+</details>
+<details>
   <summary>2026-06-24</summary>
 
 ## Release Date: 2026-06-24
