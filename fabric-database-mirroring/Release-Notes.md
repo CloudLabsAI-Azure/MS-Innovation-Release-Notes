@@ -34,35 +34,16 @@ NA
 
 ### Content Changes
 
-**Lab 01 (Azure SQL Database)**
-- Updated screenshots and image names for clarity
-- Added helpful guidance notes for the mirrored database popup
+# Fabric Database Mirroring - Release Notes Summary (2026-09-04)
 
-**Lab 02 (Azure Cosmos DB)**
-- Improved connection instructions with clearer examples
-- Added guidance for schema navigation
+## Lab Updates
 
-**Lab 03 (Azure SQL Managed Instance)**
-- Updated field labels to match current Azure interface
-- Improved step-by-step navigation instructions for better clarity
-
-**Lab 05 (Azure Storage Explorer)**
-- Enhanced sign-in instructions with clearer credential entry steps
-- Updated screenshots with current interface
-- Improved file upload navigation instructions
-- Updated window titles to match current UI
-
-**Lab 06 (Azure Database for PostgreSQL & Power BI)**
-- Updated server status messaging
-- Improved navigation instructions with correct step sequence
-- Updated database path naming to match current interface
-- Clarified query tool instructions
-- Updated report creation steps with new screenshots
-- Added expectation for replication wait time with refresh guidance
-
-- **Getting Started Page**
-  - Added step numbering to Email/Username field for consistency
-  - Added helper note for Fabric free license acknowledgment dialog
+- **Lab 01 (Azure SQL Database)**: Updated screenshots and added guidance notes for mirrored database popup.
+- **Lab 02 (Azure Cosmos DB)**: Improved connection instructions and schema navigation guidance.
+- **Lab 03 (Azure SQL Managed Instance)**: Updated field labels and navigation instructions.
+- **Lab 05 (Azure Storage Explorer)**: Enhanced sign-in steps, updated screenshots, and improved file upload navigation.
+- **Lab 06 (Azure Database for PostgreSQL & Power BI)**: Updated messaging, navigation, database naming, query tools, report creation, and replication wait time guidance.
+- **Getting Started Page**: Added step numbering and helper note for Fabric free license dialog.
 
 ### Screenshot Updates
 
