@@ -39,7 +39,6 @@ NA
 - Added helpful guidance notes for the mirrored database popup
 
 **Lab 02 (Azure Cosmos DB)**
-- Fixed spelling and grammar errors
 - Improved connection instructions with clearer examples
 - Added guidance for schema navigation
 
