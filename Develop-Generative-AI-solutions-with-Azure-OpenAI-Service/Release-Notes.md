@@ -1,6 +1,6 @@
-# Develop Generative AI solutions with Azure OpenAI Service
+# Develop Generative AI Solutions with Microsoft Foundry
 
-Welcome to the **Develop Generative AI solutions with Azure OpenAI Service** Release-Notes.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Develop Generative AI Solutions with Microsoft Foundry** Release-Notes.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -16,6 +16,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-08-31</summary>
+
+## Release Date : 2026-08-31
+
+### Summary of Changes
+
+Rebranded content from "Azure OpenAI Service" to "Microsoft Foundry". Added lab scenarios, updated lab guides and code examples, refreshed screenshots and UI instructions, and updated model names and configurations to work with Microsoft Foundry.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Replaced all references to "Azure OpenAI Service" with "Microsoft Foundry".
+- Added a "Lab Scenario" section at the start of each lab to describe objectives and outcomes.
+- Updated seven lab guides to reflect Microsoft Foundry workflows and requirements.
+- Updated model name references and clarified instructions where needed.
+- Revised configuration examples and code samples to work with Microsoft Foundry.
+- Updated code examples and configuration snippets so they function with Microsoft Foundry.
+- Replaced legacy model names with the new model names used in the updated platform.
+
+### Screenshot Updates
+
+- Replaced outdated screenshots to match the Microsoft Foundry interface.
+- Updated navigation labels and button names in instructions to match the new portal.
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-31
+
+### Testing Scope
+
+- Performed end-to-end validation of updated labs and guides.
+- Verified updated code examples execute as expected.
+- Checked UI walkthroughs, navigation steps, and inline validations.
+
+--- 
+</details>
 
 <details>
   <summary>2026-04-14</summary>
