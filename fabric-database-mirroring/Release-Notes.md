@@ -34,10 +34,6 @@ NA
 
 ### Content Changes
 
-# Fabric Database Mirroring - Release Notes Summary (2026-09-04)
-
-## Lab Updates
-
 - **Lab 01 (Azure SQL Database)**: Updated screenshots and added guidance notes for mirrored database popup.
 - **Lab 02 (Azure Cosmos DB)**: Improved connection instructions and schema navigation guidance.
 - **Lab 03 (Azure SQL Managed Instance)**: Updated field labels and navigation instructions.
