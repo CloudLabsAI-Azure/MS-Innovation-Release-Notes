@@ -14,6 +14,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+<summary>2026-09-09</summary>
+
+
+## Release Date
+
+2026-09-09
+
+### Summary of Changes
+
+Updated Microsoft Fabric IQ hands-on lab content with refreshed instructions, improved Operations Agent alert validation, and updated screenshots to align with the current Microsoft Fabric and Microsoft Teams experience.
+
+### Infrastructure Changes
+
+ No infrastructure changes.
+
+### Content Changes
+
+- **Exercise 1 - Create a Workspace for Fabric IQ :** Refined the Microsoft Fabric portal access instruction for improved clarity.
+- **Exercise 2 - Generate Ontology Data:** Updated the Lakehouse notebook attachment action from **Connect to Add** to align with the current Fabric UI.
+Added guidance to stop the active notebook session after completing data validation.
+- **Exercise 3 - Create Ontology:** Updated the Lakehouse notebook attachment workflow to use the current Add action.
+- **Exercise 5 - Create Operations Agent:**
+    - Refined the Operations Agent instructions to improve Microsoft Teams alert generation and forecast evaluation.
+    - Updated forecast confidence conditions and latest-record evaluation for more accurate alert processing.
+    - Added KQL-based steps to generate and validate a Critical low-confidence forecast alert.
+    - Improved the Microsoft Teams alert validation and recommended-action workflow.
+    - Added guidance to start the Operations Agent after confirming the configuration is successfully saved.
+   
+### Screenshot Updates
+
+- Refreshed screenshots for file upload, file rename, Eventhouse creation, Lakehouse attachment, table refresh, and notebook session termination.
+- Updated the Lakehouse notebook attachment screenshot to reflect the current Fabric UI.
+- Refreshed screenshots for Operations Agent configuration, connection setup, playbook generation, agent startup, Microsoft Teams integration, KQL validation, alert generation, and recommended-action workflow.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-08
+
+### Testing Scope
+
+- Completed end-to-end testing of the Fabric IQ lab.
+- Testing covered the modified Microsoft Fabric IQ lab workflows, including Fabric portal access, Lakehouse notebook integration, ontology data generation, notebook session handling, Operations Agent configuration, forecast alert validation, and Microsoft Teams notification flow.
+
+---
+</details>
+
 <details>
 <summary>2026-08-12</summary>
 
