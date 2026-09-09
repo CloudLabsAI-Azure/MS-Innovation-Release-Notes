@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 <details>
-  <summary>2026-09-09</summary>
+  <summary>2026-08-12</summary>
 
-## Release Date: 2026-09-09
+## Release Date: 2026-08-12
 
 ### Summary of Changes
 
@@ -59,7 +59,7 @@ N/A
 
 ### Testing Notes
 
-- **Testing Date**: 2026-09-09
+- **Testing Date**: 2026-08-12
 
 ### Testing Scope
 
@@ -72,53 +72,6 @@ N/A
 - Validated lateral movement and credential access indicators returned through incident investigation.
 - Validated generation of an executive investigation summary using natural language.
 - Confirmed the updated Task 4 and Task 5 workflow is functional and aligned with the tested MCP Triage capabilities.
-
-</details>
-
-<details>
-  <summary>2026-08-12</summary>
-
-## Release Date: 2026-08-12
-
-### Summary of Changes
-
-Updated the lab guide to address identified gaps in the Microsoft Sentinel and Security Copilot configuration workflow. The release adds explicit instructions for reviewing the connected Sentinel workspace details and configuring the Microsoft Sentinel plugin in Security Copilot.
-
-### Infrastructure Changes
-
-N/A
-
-### Content Changes
-
-- Updated **Task 1.1** to have learners first verify that the Microsoft Sentinel workspace status is **Connected**.
-- Added steps to open the connected Sentinel workspace and review the **Sentinel workspace name, Subscription name, and Resource group name**.
-- Added guidance for learners to **keep the Sentinel workspace details browser tab open** for reference in the subsequent Security Copilot configuration task.
-- Added **Task 2.2 – Configure the Microsoft Sentinel Plugin**.
-- Added instructions to navigate to **Security Copilot → Sources → Plugins → Microsoft Sentinel → Settings**.
-- Added instructions to configure the Microsoft Sentinel plugin using the workspace details reviewed in **Task 1.1**:
-  - **Configuration Level**
-  - **Default workspace name**
-  - **Default subscription name**
-  - **Default resource group name**
-- Added verification and save steps to ensure the Microsoft Sentinel plugin is configured with the correct lab workspace details.
-- Reviewed the existing **GitHub authentication workflow** and confirmed that it already includes the required **Microsoft Edge InPrivate window** flow for retrieving the GitHub verification code.
-### Screenshot / Architecture Updates
-
-- Added/updated screenshots supporting the Sentinel workspace details review and Microsoft Sentinel plugin configuration workflow.
-- Updated screenshots to reflect the current Security Copilot and Microsoft Sentinel configuration experience.
-
-### Testing Notes
-
-- **Testing Date**: 2026-09-07
-
-### Testing Scope
-
-- Verified that the Sentinel workspace displays **Connected** in the Microsoft Defender portal.
-- Verified that the connected Sentinel workspace details can be accessed and reviewed.
-- Verified that the **workspace name, subscription name, and resource group name** are available for reference.
-- Verified the Microsoft Sentinel plugin configuration flow in Security Copilot.
-- Verified that the workspace details from Task 1.1 can be used to populate the corresponding Microsoft Sentinel plugin settings.
-- Verified that the existing GitHub authentication flow uses an **Edge InPrivate window** for accessing Outlook and retrieving the GitHub verification code.
 
 </details>
 
