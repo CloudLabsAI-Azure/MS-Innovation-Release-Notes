@@ -1,6 +1,6 @@
-# Building an Agentic Legal Research Application with Azure HorizonDB
+# Create advanced Postgres-powered agentic apps with Azure HorizonDB
 
-Welcome to the **Building an Agentic Legal Research Application with Azure HorizonDB** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Create advanced Postgres-powered agentic apps with Azure HorizonDB** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -75,7 +75,7 @@ NA
 
 ## Summary of Changes
 
-Completed end-to-end testing for the **Building an Agentic Legal Research Application with Azure HorizonDB** lab. All content updates, infrastructure updates, and screenshot changes were completed successfully. The lab was thoroughly reviewed, finalized, and all changes were pushed to production.
+Completed end-to-end testing for the **Create advanced Postgres-powered agentic apps with Azure HorizonDB** lab. All content updates, infrastructure updates, and screenshot changes were completed successfully. The lab was thoroughly reviewed, finalized, and all changes were pushed to production.
 
 ## Infrastructure Changes
 
