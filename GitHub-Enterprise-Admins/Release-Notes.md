@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-09-09</summary>
+
+## Release Date: 2026-09-09
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and validated.
+- Updated screenshots to reflect the latest UI.
+- Updated some steps to align with the updated screenshots.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated some steps to perform the task according to the updated screenshots.
+
+### Screenshot Updates
+
+- Updated screenshots with the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-09
+- Performed end-to-end testing successfully.
+
+### Testing Scope
+
+Performed end-to-end testing successfully, everything is up to date and validated the lab guide steps.
+
+---
+</details>
+
+<details>
   <summary>2026-04-03</summary>
 
 ## Release Date: 2026-04-03
