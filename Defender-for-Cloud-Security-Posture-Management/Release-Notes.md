@@ -16,6 +16,84 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-07</summary>
+
+## Release Date: 2026-09-07
+
+### Summary of Changes
+
+Performed comprehensive end-to-end validation of all Microsoft Defender for Cloud lab modules, updated company context for consistency across all lab scenarios (Contoso → Zava), refreshed screenshots to reflect the latest Azure portal experience, and refined instructional wording and grammar throughout the guide for improved clarity and consistency.
+
+
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated instructions and corrected grammatical errors.
+- Refreshed screenshots to match the latest Azure portal experience.
+- Added a note explaining that dashboard numbers may vary depending on the user's environment.
+
+### Screenshot Updates
+
+#### Environment & Setup Navigation (3 Images)
+- **`images/ayl.png`** → "Access Your Lab Guide"
+  - Replaces: `18042026(1).jpg`
+  - Used in: **Lab 00, Accessing Your Lab Environment section**
+  - Shows: VM and lab guide access interface within web browser
+  
+- **`images/env1.png`** → "Explore Lab Resources - Environment Tab"
+  - Replaces: `env.png`
+  - Used in: **Lab 00, Exploring Your Lab Resources section**
+  - Shows: Environment tab displaying Azure credentials for lab access
+
+- **`images/split1.png`** → "Split Window Feature"
+  - Replaces: `split.png`
+  - Used in: **Lab 00, Utilizing the Split Window Feature section**
+  - Shows: Location of Split Window button and split view interface
+
+#### Dashboard & Overview Navigation (3 Images)
+- **`images/wn.png`** → "What's New Release Notes"
+  - Replaces: `L2T1S3.2-2304.png`
+  - Used in: **Lab 02, Task 1: Understanding Microsoft Defender for Cloud Dashboard**
+  - Shows: Latest Microsoft Defender for Cloud release notes and feature updates
+
+- **`images/sp.png`** → "Security Posture - High-Level Summary Numbers"
+  - Replaces: `M1-T1-S5.png`
+  - Used in: **Lab 02, Task 1, Step 4**
+  - Shows: Top menu bar displaying subscriptions count, assessed resources, attack paths discovered, and active security alerts
+  - **Added Note:** "The exact numbers shown for subscriptions, assessed resources, attack paths, and security alerts may vary for each user, depending on their environment's configuration and current security posture."
+
+- **`images/score.png`** → "Security Posture Tile - Secure Score"
+  - Replaces: `M1-T1-S8.png`
+  - Used in: **Lab 02, Task 1, Step 5**
+  - Shows: Current Secure Score with completed controls count and total recommendations
+
+#### Recommendations & Filtering (3 Images)
+- **`images/rec.png`** → "Recommendations Page Overview"
+  - Replaces: `L2T3S1.png`
+  - Used in: **Lab 02, Task 3: Exploring Security Controls and Recommendations, Step 1**
+  - Shows: Recommendations list interface with all recommendation details and filters
+
+- **`images/csv.png`** → "Download CSV Report Button"
+  - Replaces: `L2T3S3.png`
+  - Used in: **Lab 02, Task 3, Step 3**
+  - Shows: Download CSV report option for exporting resource snapshots and health status
+
+- **`images/sapa.png`** → "Storage Account Public Access Recommendation"
+  - Replaces: `L2T3S4-2304.png`
+  - Used in: **Lab 02, Task 3, Step 4**
+  - Shows: Search results highlighting "Storage account public access should be disallowed" security recommendation
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-07
+
+### Testing Scope 
+Validated all Microsoft Defender for Cloud lab modules, including instructions, navigation steps, screenshots, and company references, and verified that the screenshots reflect the latest Azure portal experience. The content was also reviewed for grammatical and formatting issues.
+
   <summary>2026-08-19</summary>
 
 ## Release Date: 2026-08-19
