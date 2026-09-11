@@ -16,6 +16,91 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-11</summary>
+
+## Release Date: 2026-09-11
+
+### Summary of Changes
+
+Updated the **Developing a Custom RAG App Using Microsoft Foundry** lab to align with the latest Microsoft Foundry experience and terminology. The lab now uses the hub-less Foundry resource workflow, **gpt-5-mini**, **AI Search (Foundry IQ)**, updated Microsoft Foundry SDK packages, refreshed telemetry instructions, and ASSERT-based evaluation and regression testing.
+
+### Infrastructure Changes
+
+* Updated the Microsoft Foundry provisioning workflow to create a **Microsoft Foundry resource and default project directly from the Azure portal**, removing the requirement to provision a separate AI Hub.
+* Updated the chat model from **gpt-4.1-mini** to **gpt-5-mini**.
+* Updated model configuration to use **gpt-5-mini** for chat, evaluation, and intent-mapping workloads.
+* Updated the required Microsoft Foundry SDK package versions:
+
+  * `azure-ai-projects==1.0.0b11`
+  * `azure-ai-inference[prompts]==1.0.0b9`
+* Added ASSERT framework dependencies and configuration required for spec-driven RAG evaluation.
+
+### Content Changes
+
+* **Lab Overview and Architecture**
+
+  * Updated terminology from **Azure AI Search** to **AI Search (Foundry IQ)** throughout the lab.
+  * Updated architecture and component descriptions to reflect Microsoft Foundry, AI Search (Foundry IQ), AI models, and the revised RAG workflow.
+  * Refined the repository structure description to provide a simplified folder-level view of the sample repository.
+
+* **Exercise 1 - Developing a Custom RAG App Using Microsoft Foundry**
+
+  * Replaced the AI Hub-based setup with the current **Microsoft Foundry resource and project** provisioning workflow.
+  * Updated model deployment instructions to use **gpt-5-mini** and `text-embedding-ada-002`.
+  * Updated model rate-limit configuration to use **30,000 Tokens per Minute**.
+  * Updated **AI Search (Foundry IQ)** creation and connection instructions to align with the current Foundry experience.
+  * Added instructions to retrieve the AI Search endpoint and primary admin key for application configuration.
+  * Updated the development setup with the required Microsoft Foundry SDK package versions.
+  * Updated `.env` configuration to use `PROJECT_ENDPOINT`, `SEARCH_ENDPOINT`, `SEARCH_KEY`, and **gpt-5-mini** for chat, evaluation, and intent mapping.
+
+* **Exercise 2 - Build a Retrieval-Augmented Generation (RAG) Pipeline**
+
+  * Refreshed prompt-template guidance for the retrieval and grounded-response workflows.
+  * Updated the telemetry workflow to instruct learners to switch **New Foundry** off and use the classic Microsoft Foundry experience for Application Insights tracing,as its not completely available in new portal.
+  * Added guidance for handling the optional Foundry feedback prompt.
+  * Refined the telemetry instructions for generating, refreshing, reviewing, and filtering traces in Microsoft Foundry.
+
+* **Exercise 3 - Evaluate and Optimize RAG Performance with ASSERT**
+
+  * Expanded the evaluation workflow to introduce **ASSERT (Adaptive Spec-driven Scoring for Evaluation and Regression Testing)**.
+  * Added instructions to install and configure ASSERT using the deployed **gpt-5-mini** model.
+  * Added configuration for Azure OpenAI endpoint and authentication values required by ASSERT.
+  * Added `assert_target.py` as the wrapper for invoking the existing RAG application during evaluation.
+  * Added `eval_config.yaml` to define grounding, domain, safety, and expected assistant behaviors.
+  * Added instructions to execute spec-driven evaluation using:
+    `assert-ai run --config eval_config.yaml`
+  * Added guidance for reviewing ASSERT-generated test cases and scored evaluation artifacts.
+  * Retained Azure AI Evaluation metrics for **Groundedness, Relevance, and Coherence** alongside the ASSERT workflow.
+  * Updated the prompt-improvement workflow to re-run ASSERT after modifying `grounded_chat.prompty`.
+  * Added baseline comparison guidance to validate improvements and use ASSERT as a regression check.
+
+### Screenshot Updates
+
+- Refreshed screenshots across the lab to align with the latest Microsoft Foundry portal experience and updated service terminology.
+- Updated visuals for Microsoft Foundry resource creation, model deployment, AI Search (Foundry IQ) configuration, and environment setup.
+- Refreshed RAG pipeline and telemetry screenshots to reflect the current Visual Studio Code and Microsoft Foundry workflows.
+- Added and updated screenshots for the ASSERT evaluation workflow, including configuration, execution, result review, and prompt optimization.
+- Updated supporting screenshots wherever navigation, labels, or UI elements changed.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-10
+
+### Testing Scope
+
+* Microsoft Foundry resource and project provisioning
+* AI model deployment and configuration
+* AI Search (Foundry IQ) provisioning and integration
+* Microsoft Foundry SDK dependency installation
+* RAG indexing, retrieval, and response generation
+* Application Insights telemetry and tracing
+* Azure AI Evaluation metrics
+* ASSERT spec-driven evaluation
+* Prompt optimization and regression validation
+
+</details>
+
+<details>
   <summary>2026-04-22</summary>
 
 ## Release Date: 2026-04-22
