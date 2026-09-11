@@ -20,6 +20,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-04</summary>
+
+## Release Date: 2026-09-04
+
+### Summary of Changes
+
+Enhanced lab instructions with improved clarity, UI alignment, and comprehensive helper notes. Updated documentation for better user experience across all labs, including image references, navigation paths, and credential entry guidance.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- **Lab 01 (Azure SQL Database)**: Updated screenshots and added guidance notes for mirrored database popup.
+- **Lab 02 (Azure Cosmos DB)**: Improved connection instructions and schema navigation guidance.
+- **Lab 03 (Azure SQL Managed Instance)**: Updated field labels and navigation instructions.
+- **Lab 05 (Azure Storage Explorer)**: Enhanced sign-in steps, updated screenshots, and improved file upload navigation.
+- **Lab 06 (Azure Database for PostgreSQL & Power BI)**: Updated messaging, navigation, database naming, query tools, report creation, and replication wait time guidance.
+- **Getting Started Page**: Added step numbering and helper note for Fabric free license dialog.
+
+### Screenshot Updates
+
+Updated all screenshots across Labs 01, 05, and 06 to reflect the latest Microsoft Fabric UI and Azure Portal interfaces.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-04
+
+### Testing Scope
+
+Performed end-to-end validation of the lab instructions, verified UI alignment with current Azure Portal, Microsoft Fabric, pgAdmin4, and Power BI interfaces. Confirmed all navigation paths and credential entry workflows function as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-07-29</summary>
 
 ## Release Date: 2026-07-29

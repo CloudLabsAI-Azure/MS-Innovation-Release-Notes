@@ -16,6 +16,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-09</summary>
+
+## Release Date: 2026-09-09
+
+### Summary of Changes
+
+Updated Lab 2 to replace the deprecated Azure OpenAI Bring Your Own Data workflow with the new Microsoft Foundry with Your Own Data experience.
+
+### Infrastructure Changes
+
+- Updated the Microsoft Foundry ARM template to support the new Foundry project configuration and automated role assignments.
+- Resolved the Foundry project deployment issue by updating the Azure AI Services configuration.
+- Validated GPT-5.4-mini and embedding model deployments.
+- Configured and verified automated RBAC assignments for Microsoft Foundry and Azure AI Search.
+
+### Content Changes
+
+- Updated Lab 2 to use Microsoft Foundry, Foundry IQ, knowledge sources, knowledge bases, and Foundry Agents.
+- Updated the lab tasks and instructions to reflect the current Microsoft Foundry portal experience.
+- Updated the workshop presentation to replace the deprecated Bring Your Own Data content with the new Microsoft Foundry workflow.
+
+### Screenshot Updates
+
+- Updated Lab 2 screenshots to reflect the current Microsoft Foundry experience.
+- Added updated screenshots for knowledge source, knowledge base, and Foundry Agent configuration.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-03
+
+### Testing Scope
+
+- Completed end-to-end testing of the entire hands-on lab.
+- Validated Exercise 1, including Azure AI Document Intelligence resource creation, custom model training, BPA pipeline configuration, managed identity access, and Azure AI Search configuration.
+- Validated Exercise 2, including Microsoft Foundry navigation, File knowledge source and knowledge base creation, Foundry Agent configuration, and interaction with the uploaded Porsche manual.
+- Validated the updated Microsoft Foundry and Foundry IQ workflow.
+- Verified GPT-5.4-mini and embedding model deployments.
+- Verified Microsoft Foundry and Azure AI Search RBAC configuration.
+- Validated the updated ARM template deployment and automated role assignments.
+
+</details>
+
+<details>
   <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-27

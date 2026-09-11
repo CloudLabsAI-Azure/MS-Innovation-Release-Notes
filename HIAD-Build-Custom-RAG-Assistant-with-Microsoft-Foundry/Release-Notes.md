@@ -17,6 +17,34 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-08</summary>
+
+## Summary
+
+No content or infrastructure changes were made to the lab. End-to-end testing and validation were completed to ensure the lab functions as expected and all exercises can be completed successfully.
+
+## Infrastructure Changes
+
+- No infrastructure changes.
+
+## Content Changes
+
+- No content changes.
+
+## Testing Notes
+
+- Testing Date: 2026-09-08
+
+## Testing Scope
+
+- Performed end-to-end validation of all lab challenges and exercises.
+- Verified successful deployment and functionality of the required Azure resources and AI models.
+- Confirmed all lab guide instructions, navigation steps, links, and screenshots are working as expected.
+- Validated the overall learner experience and lab workflow without any issues.
+
+</details>
+
+<details>
   <summary>2026-08-03</summary>
 
 ## Summary
