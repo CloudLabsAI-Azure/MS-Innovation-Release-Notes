@@ -30,12 +30,6 @@ Updated the **Infrastructure and Application Security** lab documentation across
 
 ## Content Changes
 
-* Updated the Lab Introduction content.
-* Updated instructions for Secure Administration and Management.
-* Updated instructions for Secure Application.
-* Updated content for Secure Infrastructure with Azure Firewall Premium.
-* Updated instructions for Protecting Infrastructure with Azure DDoS Protection Plans.
-* Updated content for Network Management and Monitoring  Revisited: Flow Logs and Traffic Analytics.
 * Improved instructional wording and learner guidance across the affected exercises.
 * Updated the documentation based on findings identified during lab testing.
 * Improved consistency and clarity across the lab guide.
