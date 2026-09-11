@@ -18,6 +18,69 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-10</summary>
+
+## Release Date: 2026-09-10
+
+### Summary of Changes
+
+Refreshed the SIEM with Microsoft Sentinel lab guide to align with the current Azure Portal UI. Updated screenshots to match the latest interface, added contextual scenario sections for improved learner understanding, and enhanced overall documentation clarity and consistency.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started (00-GettingStarted.md)**
+  - Added new section: **"Lab Overview"** for better context
+  - Added new section: **"Lab Objectives"** with clear learning goals
+  - Added new section: **"Prerequisites"** for improved preparation guidance
+  - Added new section: **"Getting Started with the Lab"** with welcoming introduction
+  - Enhanced "Accessing Your Lab Environment" with improved navigation clarity
+  - Added "Resize the Virtual Machine View" section with detailed instructions
+  - Improved lab environment setup instructions with better visual references
+
+- **Exercise 1 - Onboarding Azure Sentinel (01.md)**
+  - Added **Scenario** section: Provides real-world context for Microsoft Sentinel deployment
+  - Added **Overview** section: Explains hands-on experience and learning objectives
+ 
+
+- **Exercise 3 - Threat Hunting & Log Analysis (03.md)**
+  - Added **Scenario** section: Provides context for threat hunting and investigation tasks
+  - Added **Overview** section: Explains threat hunting and security log analysis experience
+  
+### Screenshot Updates
+
+ **Navigation Button Screenshots (Renamed for Consistency)**
+  - `aug25-siem-getting-started-7.png` → `np1.png` (Getting Started - Next button)
+  - navigation screenshots → `np2.png` onwards (Exercise navigation buttons)
+
+- **Lab Environment & Access Screenshots (Updated to Current Azure Portal UI)**
+  - `SIEMguide.png` → `SIEM.png` (Lab guide introduction)
+  - `siem-lab-getting-started-new-1.png` → `env.png` (Environment tab reference)
+  - `siem-lab-getting-started-new-2.png` → `split.png` (Split window feature)
+  - `zoominoutt.png` → `zoom.png` (Zoom control interface)
+  - **NEW**: `resize.png` (VM view resizing feature with slider instructions)
+  - `siemportal.png` → `sign.png` (Azure Portal sign-in screen)
+  - **NEW**: `pop.png` (Stay Signed In popup confirmation)
+
+- **Security & Analysis Screenshots (Updated to Current Azure Portal UI)**
+  - `siem-new-updates-39.png` → `activerules.png` (Active rules dropdown in MITRE ATT&CK mapping)
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-10
+
+### Testing Scope
+
+Performed and validated the lab end-to-end and updated the lab guide accordingly to improve the user experience.
+
+---
+</details>
+
+
+<details>
   <summary>2026-06-19</summary>
 
 ## Release Date: 2026-06-19
