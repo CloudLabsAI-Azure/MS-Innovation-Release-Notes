@@ -16,6 +16,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-19</summary>
+
+## Release Date: 2026-09-10
+
+## Summary of Changes
+
+Updated the **Infrastructure and Application Security** lab documentation across all lab exercises based on the latest lab testing findings and required Screenshot updates. The instructions were improved to provide clearer learner guidance, and screenshots were refreshed or added to better align the documentation with the current Azure portal experience and lab workflows.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Improved instructional wording and learner guidance across the affected exercises.
+* Updated the documentation based on findings identified during lab testing.
+* Improved consistency and clarity across the lab guide.
+
+## Screenshot Updates
+
+* Refreshed existing screenshots across the affected exercises.
+* Updated existing screenshots to better align with the current documented workflow.
+* Updated screenshots related to the Azure portal navigation and configuration workflows.
+* Improved visual guidance to help learners follow the updated lab instructions.
+
+## Testing Notes
+
+* **Testing Date:** 2026-09-10
+
+## Testing Scope
+
+* Performed lab testing for the **Infrastructure and Application Security** lab.
+* Validated the updated instructions across all affected lab exercises.
+* Verified the updated workflow and instructional sequence.
+* Validated refreshed and newly added screenshots against the documented steps.
+* Verified documentation formatting, consistency, and learner guidance.
+* Updated the lab guide and screenshots based on findings identified during the testing cycle.
+
+---
+
+</details>
+
+<details>
   <summary>2026-07-16</summary>
 
 ## Release Date: 2026-07-16
