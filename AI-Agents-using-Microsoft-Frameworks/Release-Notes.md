@@ -13,9 +13,41 @@ This repository contains detailed notes about the latest updates and modificatio
 
 For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com
 
-# Release Notes
 
 # Release Notes
+
+<details>
+  <summary>2026-09-10</summary>
+
+## Release Date: 2026-09-10
+ 
+### Summary of Changes
+
+Updated naming conventions across the lab to align with current Microsoft branding, and made corrections for grammar and punctuation throughout the lab content.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated naming conventions across the lab to match current Microsoft branding - "Azure AI Foundry SDK" to "Microsoft Foundry SDK", "Azure AI Agent Service" to "Foundry Agent Service", and "Azure Agent Framework" to "Microsoft Agent Framework".
+- Replaced the outdated Azure AI Foundry logo with the current Microsoft Foundry logo in the getting started page.
+- Corrected grammar and punctuation inconsistencies across the lab guide.
+
+### Screenshot Updates
+- Updated the architecture image with updated openAI logo.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-10
+
+### Testing Scope 
+
+Validated the updated lab content end to end to ensure the naming changes, corrected text, and overall workflow accurately reflect the latest lab flow and user experience.
+
+---
+</details>
 
 <details>
   <summary>2026-08-18</summary>
