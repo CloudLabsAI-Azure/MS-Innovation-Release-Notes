@@ -14,6 +14,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-09-11</summary>
+
+## Release Date: 2026-09-11
+
+### Summary of Changes
+
+Successfully reviewed and updated the lab guide to align with the latest GitHub Copilot user experience. Updated instructions, approval mode terminology, UI references, and lab completion guidance to improve accuracy and learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated approval mode terminology from **Default Approvals** to **Default Permissions** in Lab 3.
+- Updated Agent Mode instructions to reflect the latest approval and automation settings.
+- Added guidance for enabling approval changes through the confirmation dialog.
+- Updated navigation steps and UI references to match the current GitHub Copilot experience.
+- Revised the Instructions settings workflow by replacing **Generate Instructions** with **Generate With AI**.
+- Added completion guidance at the end of Labs 2 through 6 to provide a smoother transition between labs.
+
+### Screenshot Updates
+
+- Updated screenshots across Labs 2 to 7 to reflect the latest product interface and navigation experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-11
+
+- **Testing Scope:** Validated all updated instructions, reviewed UI terminology changes, verified screenshot rendering and placement, confirmed Agent Mode workflow guidance, and tested navigation between labs to ensure content accuracy.
+
+---
+</details>
+
 <details>
   <summary>2026-08-21</summary>
 
