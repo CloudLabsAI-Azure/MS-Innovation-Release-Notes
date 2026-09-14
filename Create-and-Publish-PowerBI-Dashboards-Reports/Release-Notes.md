@@ -18,6 +18,43 @@ This repository contains detailed notes about the latest updates and modificatio
 ## Release Notes
 
 <details>
+  <summary>2026-09-14</summary>
+
+## Release Date: 2026-09-14
+
+### Summary of Changes
+
+Updated the Getting Started page and Lab 01 to align with the latest Power BI Service UI. Added notes for updated navigation paths, additional onboarding pop-ups, and a workaround for opening report files on the lab VM.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started - Power BI Portal - Settings / Admin portal step** - Added a note: if the **Settings** option is not visible, click the **... (three dots)** icon in the top-right corner and select **Settings**.
+- **Lab 01 - Task 1 - Create workspace step** - Added a note: if an **"Introducing task flows"** pop-up appears, click **Got it** to dismiss it.
+- **Lab 01 - Task 1 - Create workspace step** - Added a note: if a **"All paid features of Power BI are yours for 60 days"** pop-up appears, click **Got it** to dismiss it.
+- **Lab 01 - Task 1 - Open DIAD Final Report.pbix step** - Added a note and steps to open the report via **Power BI Desktop → Open → Browse this device** in case the file does not open on double-click.
+
+### Screenshot Updates
+
+- Added screenshots for the Settings (three-dots) menu, the "Introducing task flows" pop-up, the "All paid features of Power BI" pop-up, and the Power BI Desktop Open → Browse this device flow.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-14
+- Performed end-to-end validation of the lab and verified all updated instructions and screenshots against the live environment.
+
+### Testing Scope
+
+- Validated the Power BI Service Settings/Admin portal navigation path.
+- Confirmed the additional onboarding pop-ups appear and are dismissible.
+- Verified the report opens successfully via Power BI Desktop.
+
+</details>
+
+<details>
   <summary>2026-06-21</summary>
 
 ## Release Date: 2026-06-21
