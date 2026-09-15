@@ -17,6 +17,96 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 <details>
+  <summary>2026-09-15</summary>
+
+## Release Date: 2026-09-15
+
+### Summary of Changes
+
+Updated the complete **Snowflake Integration with Microsoft Fabric: Iceberg and Fabric Data Agent** workshop to improve technical accuracy, learner guidance, and alignment with the latest Microsoft Fabric and Snowflake user interfaces. Refined lab scenarios, task instructions, terminology, navigation steps, and screenshots across all five labs. Resolved the `DIM_CUSTOMER` data-loading issue caused by metadata columns in Lab 3 and updated the Snowflake Cortex Agent in Lab 5 to accurately reflect the limitations of self-service trial accounts.
+
+### Infrastructure Changes
+
+- **No infrastructure changes were made.** The updates are limited to lab content, documentation, screenshots, and learner guidance. No changes were made to the underlying lab provisioning, RBAC, resource configuration, or deployment infrastructure.
+
+### Content Changes
+
+* **Lab 1 – Microsoft Fabric Environment Setup**
+  * **Task 2:** Removed redundant Fabric portal navigation steps because accessing the Fabric portal URL directly takes users to the required environment.
+  * **Task 3:** Enhanced Lakehouse creation instructions with clearer guidance for workspace/location and capacity selection.
+  * Added an optional notebook-based data exploration workflow with sample SQL/PySpark guidance.
+
+* **Lab 2 – Snowflake and Fabric Integration with Iceberg**
+  * **Task 1:** Updated Snowflake account creation instructions and clarified the required account configuration, including Enterprise Edition setup as per the latest UI updates in Snowflake.
+  * **Task 2:** Improved Snowflake workspace and SQL file creation guidance.
+  * **Task 3:** Restructured the External Volume and permissions configuration into clearer subsections and improved instructions for obtaining and configuring the required Azure tenant information.
+  * **Task 3.3:** Improved Iceberg table creation instructions and SQL formatting.
+  * **Task 3.4:** Added a notebook-based workflow to handle metadata columns generated with the Parquet files.
+  * Added instructions to remove `METADATA$RL_ROW_ID` and `METADATA$RL_LAST_UPDATED_SEQUENCE_NUMBER` before creating the `dim_customer` Lakehouse table, resolving the Fabric Load to Tables wizard limitation.
+
+* **Lab 3 – Real-Time Intelligence with Snowflake Integration**
+  * Improved Eventstream and Eventhouse creation instructions and removed redundant navigation steps.
+  * **Task 4:** Restructured the Microsoft Entra ID application registration and OAuth configuration steps with clearer permissions and navigation guidance.
+  * Updated the Snowflake Catalog Database configuration and verification steps.
+
+* **Lab 4 – Fabric Data Agents**
+  * **Task 1:** Reworked the administrator configuration section as a **read-only activity**, clearly explaining that learners should review the required tenant settings but should not make changes.
+  * **Task 2:** Improved Data Agent creation, workspace navigation, data source selection, testing, example query creation, and publishing instructions.
+  * Added guidance for the **Skip for now** option in the Data Agent welcome dialog.
+  * Added notes explaining that generated responses may vary.
+
+* **Lab 5 – Snowflake Cortex for AI-Powered Analytics**
+  * Updated the scenario and overview to focus on AI-powered analytics using Snowflake Cortex.
+  * Updated terminology from **Semantic Model** to **Semantic View** to align with the current Snowflake experience.
+  * **Task 1:** Updated Cortex Analyst navigation and semantic view creation steps to reflect the current Snowflake interface.
+  * Updated the database and schema selection flow and clarified the creation of the `CUSTOMER_MODEL` semantic view using the `DIM_CUSTOMER` table.
+  * **Task 2:** Updated Cortex Agent creation and configuration steps to reflect the current Agent Studio interface.
+  * Added guidance for closing the **Agent readiness** dialog after creating the agent.
+  * Updated the configuration flow to **Configuration → Tools → Add semantic view → Add → Save**.
+  * Updated the Cortex Analyst tool configuration to use the `CUSTOMER_MODEL` semantic view.
+  * Updated the Cortex Agent testing section to clearly explain that **Cortex Agent execution is unavailable in the Snowflake self-service trial environment used for the workshop**.
+  * Added explicit guidance that learners should **not add a credit card or convert their trial account to a paid account** to enable Cortex Agent execution.
+  * Converted the Cortex Agent testing portion into a **read-only/reference activity**, allowing learners to understand the expected experience without requiring paid Cortex capabilities.
+  * Added and updated the workshop conclusion to summarize the combined Microsoft Fabric and Snowflake learning experience.
+
+### Screenshot Updates
+
+* Refreshed screenshots across the workshop to align with the latest Microsoft Fabric and Snowflake interfaces.
+* **Lab 1**
+  * Updated Fabric workspace, Lakehouse, and sample data loading screenshots.
+  * Added screenshots supporting the updated Lakehouse and data-loading workflow.
+
+* **Lab 2**
+  * Updated Snowflake account creation and workspace screenshots.
+  * Refreshed External Volume, permissions, and Iceberg table creation screenshots.
+  * Added new screenshots for the notebook-based `DIM_CUSTOMER` data-cleaning and loading workflow.
+  * Added visual guidance for removing the metadata columns before loading the data into the Lakehouse.
+
+* **Lab 3**
+  * Added and refreshed screenshots to align with the updated navigation and configuration steps.
+
+* **Lab 4**
+  * Refreshed screenshots for data source selection, testing, example query creation, and publishing.
+
+* **Lab 5**
+  * Updated Cortex Analyst screenshots to reflect the current **Semantic Views** experience.
+  * Refreshed semantic view creation screenshots for database/schema selection, naming, table selection, and column selection.
+  * Updated Cortex Agent creation and configuration screenshots to reflect the current Agent Studio interface.
+  * Added a screenshot demonstrating the expected Cortex Agent execution limitation in the Snowflake self-service trial environment.
+  * Added a reference screenshot demonstrating the expected Cortex Agent response experience in an environment where the required Cortex capabilities are enabled.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-11
+
+### Testing Scope
+
+Performed a comprehensive review of the complete five-lab workshop to validate the updated documentation, navigation flows, terminology, screenshots, and expected learner experience. . Reviewed screenshots and procedural steps to ensure that the documented instructions align with the current application interfaces and intended lab outcomes.
+
+---
+</details>
+
+<details>
   <summary>2026-06-22</summary>
 
 ## Release Date: 2026-06-22
