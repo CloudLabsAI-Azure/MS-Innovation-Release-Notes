@@ -14,6 +14,59 @@ This **page contains** detailed notes about the latest updates and modifications
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+
+<details>
+<summary>2026-09-16</summary>
+
+### Release Date: 2026-09-16
+
+## Summary of Changes
+
+Updated the lab content to align with the current Microsoft Foundry experience, refreshed screenshots across multiple labs, improved instructional clarity, and standardized learner-facing references to AI Search (Foundry IQ) where applicable.
+
+## Infrastructure Changes
+
+- Updated lab dependencies to the latest supported Microsoft Foundry SDK versions.
+- Updated `requirements.txt` to ensure compatibility with the latest Azure AI packages.
+- No Azure infrastructure or deployment template changes. 
+
+## Content Changes
+
+- **Lab 1:**
+    - Updated Microsoft Foundry setup instructions for improved clarity.
+    - Standardized formatting for the AI Search service name.
+    - Updated the VS Code extension instruction to reference Jupyter/Python extensions instead of only Python.
+- **Lab 2:**
+    - Updated notebook kernel-selection and agent-output references to use refreshed screenshots.
+- **Lab 3:**
+    - Updated AI Search configuration and connected-resource instructions with refreshed screenshots.
+    - Updated learner-facing references from Azure AI Search to AI Search (Foundry IQ) in the lab summary.
+    - Retained the existing RAG workflow for retrieving health plan information through the configured search index.
+- **Lab 4:**
+    - Updated the reference section to use AI Search (Foundry IQ) terminology instead of Azure AI Search.
+
+## Screenshot Updates
+
+- Refreshed screenshots across Labs 1–4 to align with the current Microsoft Foundry, AI Search, VS Code, notebook, and agent experiences.
+- Standardized several screenshot file names to follow the lab/task/step naming convention.
+- Replaced outdated screenshots used for role assignment, AI Search creation, environment configuration, kernel selection, RAG configuration, and agent workflows.
+
+## Validation
+
+- Verified updated screenshot references and image paths.
+Reviewed modified instructions for consistency with the refreshed screenshots.
+- Verified AI Search (Foundry IQ) terminology updates across affected lab content.
+- Confirmed that the changes do not introduce modifications to the existing lab workflow or deployed resources.
+
+## Testing Scope
+
+**Testing Date:** 2026-09-15
+
+- Validated the lab flow and instructions against the latest Microsoft Foundry SDK behaviour and service updates. All validations succeeded.
+
+</details>
+
 <details>
 <summary>2026-07-27</summary>
 
