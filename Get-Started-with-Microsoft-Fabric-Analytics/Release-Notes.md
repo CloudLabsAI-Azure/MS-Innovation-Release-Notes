@@ -16,6 +16,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-09-16</summary>
+
+## Release Date: 2026-09-16
+
+### Summary of Changes
+
+Minor updates to the hands-on lab materials, covering wording and formatting corrections along with refreshed screenshots to align with the current Microsoft Fabric experience. A few clarifications were added to improve step readability and overall learner flow.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01 – Lakehouse**
+  - Minor wording and terminology corrections to align with the current Fabric experience.
+  - Improved consistency of naming and formatting across the guide.
+
+- **Lab 06 – Data Warehouse**
+  - Refined instructions for improved clarity and formatting.
+  - Added a clarification note to help learners execute the script correctly.
+  - Minor formatting corrections for consistency.
+
+- **Overview Page**
+  - Minor formatting and readability improvements.
+
+### Screenshot Updates
+
+- Refreshed screenshots across **Lab 06** and the **Overview Page** to align with the current experience.
+- Replaced the reused query screenshot with a new, task-specific image in Lab 06.
+- Updated the Environment tab screenshot on the Overview Page to maintain consistency through the learner flow.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-15
+
+### Testing Scope
+
+- Performed end-to-end validation of all updated labs.
+- Verified updated instructions, screenshots, image references, and formatting.
+- Validated Lakehouse navigation, semantic model and report creation, query execution, and Overview Page navigation.
+- Confirmed numbering consistency, rendering, learner navigation, and overall guide accuracy.
+
+</details>
+
+<details>
 <summary>2026-09-05</summary>
 
 ## Release Date: 2026-09-05
