@@ -16,6 +16,80 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+
+<summary>2026-09-16</summary>
+
+## Release Date: 2026-09-16
+
+**### Summary of Changes**
+
+The Azure Virtual Desktop lab guides have been updated to align with the latest Microsoft platform experience and documentation standards. This release includes refreshed Azure portal screenshots, updated Microsoft terminology, improved authentication workflows, enhanced instructional clarity, standardized formatting, and updated lab content to provide learners with a consistent and up-to-date hands-on experience.
+
+**### Infrastructure Changes**
+
+N/A
+
+**### Content Changes**
+
+- Replaced all references to **"Azure Active Directory"** with **"Microsoft Entra ID"** across the lab documentation.
+
+- Replaced all references to **"Remote Desktop Client"** and **"AVD Client"** with **"Windows App"** across the lab documentation.
+
+- Updated **"Azure AD DS"** references to **"Microsoft Entra Domain Services"**.
+
+- Updated applicable lab login instructions to use **"Temporary Access Pass"** instead of password-based authentication.
+
+- Enhanced **MFA workflow** instructions with clearer step-by-step guidance.
+
+- Refreshed Azure Virtual Desktop deployment and configuration instructions to improve clarity and alignment with the current Azure portal experience.
+
+- Updated terminology, instructional wording, and navigation guidance across the Azure Virtual Desktop lab guides.
+
+- Standardized heading hierarchy, list formatting, note blocks, and section spacing throughout the documentation.
+
+- Simplified multi-step instructions with clearer action descriptions and improved expected outcomes.
+
+- Enhanced step numbering and instructional structure for a more consistent learner experience.
+
+### Screenshot Updates
+
+- Refreshed Azure portal screenshots across the labs to reflect the latest Azure portal interface.
+
+- Updated screenshots for **Host Pool** creation and management workflows.
+
+- Updated screenshots for **Azure Monitor** and **Log Analytics** configuration and dashboards.
+
+- Updated screenshots for **FSLogix** setup and configuration workflows.
+
+
+#### New Screenshots
+
+- Added troubleshooting screenshots for **Lab 7 – Load Balancing Methods**:
+  - `usererror1.png` - User search and selection workflow
+  - `error2.png` - Edit properties dialog
+  - `error3.png` - Display name validation interface
+
+#### Improvements
+
+- Updated screenshot references throughout the lab guides for consistency and accuracy.
+
+- Improved screenshot alignment with the corresponding instructional steps.
+
+- Ensured visual references reflect the updated Azure portal and Windows App workflows.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-16
+
+### Testing Scope
+
+Conducted end-to-end validation of the updated Azure Virtual Desktop lab content, verified refreshed Azure portal screenshots, confirmed Microsoft Entra ID and AppLocker terminology updates, validated Windows App installation and connection workflows, reviewed authentication and MFA instructions, and tested all documentation links and references for accuracy and learner readiness.
+
+---
+
+</details>
+
+<details>
 <summary>2026-09-03</summary>
 
 ## Release Date: 2026-09-03
