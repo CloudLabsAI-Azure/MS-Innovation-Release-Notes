@@ -16,6 +16,32 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-09-17</summary>
+
+## Release Date: 2026-09-17
+
+### Summary of Changes
+Clarified multiple step instructions and notes in Lab 1 Task 3, and reviewed the instructor presentation deck for lab sequencing, spelling, and content currency against Microsoft documentation.
+
+### Infrastructure Changes
+NA
+
+### Content Changes
+- Lab-1.md
+  - Task 3: Clarified the step 12 instruction for selecting the SupplierCategories query and the resulting credential prompt, and updated the notes for steps 13 and 18 with clearer step guidance.
+
+### Testing Notes
+
+- Testing Date: 2026-09-16
+
+### Testing Scope
+- Review updated Lab 1 Task 3 instructions and notes for steps 12, 13, and 18.
+- Review the presentation deck for lab sequencing, spelling, and currency against Microsoft documentation.
+
+</details>
+
 <details>
   <summary>2026-08-21</summary>
 
