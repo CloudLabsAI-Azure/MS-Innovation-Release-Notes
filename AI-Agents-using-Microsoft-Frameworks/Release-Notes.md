@@ -17,6 +17,39 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-09-15</summary>
+
+## Release Date: 2026-09-15
+ 
+### Summary of Changes
+
+This release focuses on documentation improvements across the workshop labs to enhance clarity, consistency, and learner guidance. Updates include improved section structure and expanded overview content. No application code or lab workflow logic was changed.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Improved formatting and structure for the Scenario, Overview, Objective, and Summary sections in Lab01.md.
+- Added Overview sections to Lab02.md and Lab03.md to provide clearer context and purpose for each lab.
+- Improved overall readability and learner experience across all three labs.
+
+### Screenshot Updates
+NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-15
+
+### Testing Scope 
+
+Validated the updated documentation end to end to ensure the content remains clear, consistent, and correctly aligned with the workshop flow and learner experience.
+
+---
+</details>
+
+<details>
   <summary>2026-09-10</summary>
 
 ## Release Date: 2026-09-10
