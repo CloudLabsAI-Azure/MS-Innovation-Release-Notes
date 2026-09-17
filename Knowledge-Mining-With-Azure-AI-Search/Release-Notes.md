@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+    <summary>2026-09-17</summary>
+
+  ### Summary
+
+  - Updated the lab content to align with the latest **Azure AI Search portal experience and supported features**.
+  - Updated the scenario and lab guide to consistently use **“Contoso Coffee”** as the company name.
+  - Improved the overall formatting, rendering, and presentation of instructions and images for a more consistent learner experience.
+
+  ### Infrastructure
+
+  - Removed the standalone **Foundry resource creation** task, as the sample review set uses the free daily allowance provided by **Foundry Tools** and does not require a dedicated Foundry resource.
+  - Updated the sample storage container access setting to **Private** to align with current storage account defaults and security requirements.
+
+  ### Content
+
+  - Rewrote the **Import data** wizard steps in lab 1 to match the current Azure AI Search portal, including the **Keyword search** scenario, skill tiles, and **Foundry Tools free-tier** option.
+  - Added manual **skillset JSON** configuration steps to enable **sentiment analysis** and configure the **knowledge store**.
+  - Restructured the lab using a consistent **Exercise → Task** heading hierarchy for improved navigation.
+  - Added an **end-to-end architecture diagram** using official Microsoft Azure icons to `gettingstarted.md`.
+  - Updated the **Getting Started**, **Environment**, and other relevant images to reflect the current portal UI.
+  - Refined selected instructions and images to improve clarity, accuracy, and consistency.
+
+  ### Validation
+
+  - Verified the updated instructions against the current Azure AI Search portal workflow.
+  - Validated the revised skillset configuration, including sentiment analysis and knowledge store setup.
+  - Verified the updated architecture diagram, images, formatting, and Exercise → Task structure.
+
+  ### Testing Scope
+
+  - Performed end-to-end testing of all lab tasks to ensure alignment with instructions, successful AI enrichment processing, indexing workflow execution, and query validation scenarios.
+
+</details>
+
+<details>
   <summary>2025-05-27 - Onboarding</summary>
 
 ### Summary
