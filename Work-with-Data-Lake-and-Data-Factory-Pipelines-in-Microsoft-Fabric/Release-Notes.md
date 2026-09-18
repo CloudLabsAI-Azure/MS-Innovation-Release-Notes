@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-18</summary>
+
+## Release Date: 2026-09-01
+
+### Summary of Changes
+
+Updated Microsoft Fabric lab instructions and screenshots based on the current Fabric UI observed during lab testing. The changes remove outdated navigation steps, refresh screenshots, improve instructional clarity, and correct minor wording issues.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated lab guide instructions to align with the current Microsoft Fabric experience.
+- Made minor wording and formatting improvements for better clarity and consistency.
+- Corrected minor instructional and typographical issues identified during lab testing.
+
+### Screenshot Updates
+
+- Updated relevant screenshots across the lab guide to reflect the current Microsoft Fabric UI.
+- Replaced outdated screenshots with the latest UI references where applicable.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-17
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab, and all validations completed successfully without any issues.
+- Validated the updated lab instructions against the current Microsoft Fabric experience.
+- Verified that updated screenshots align with the corresponding lab steps.
+- Reviewed the lab guide for consistency, clarity, and minor content issues.
+- No changes were introduced to the underlying lab functionality or dependencies.
+  
+---
+</details>
+
+<details>
   <summary>2026-09-01</summary>
 
 ## Release Date: 2026-09-01
