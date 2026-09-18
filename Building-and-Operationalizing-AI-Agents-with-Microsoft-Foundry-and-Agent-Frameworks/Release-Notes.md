@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-09-18</summary>
+ 
+## Release Date: 2026-09-18
+ 
+### Summary of Changes
+ 
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+ 
+### Infrastructure Changes
+ 
+N/A
+ 
+### Content Changes
+ 
+- Getting Started Page: Updated Resize the Virtual Machine View in lab guide to follow new format
+- Exercise 1: Improved VS Code execution clarity with additional output validation step, updated output screenshots, and removed outdated UI elements across multiple tasks  
+- Exercise 2: Improved VS Code execution steps with output validation step  
+- Exercise 3: Updated screenshots by removing outdated UI elements (preview option and project names) to align with the latest Foundry UI
+ 
+### Screenshot Updates
+ 
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-09-18
+
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+ 
+### Testing Scope
+ 
+- Performed complete end-to-end lab testing with the new content. Verified all instructions, interactions, and user flows with the latest UI. 
+
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+ 
+</details>
+ 
+
+<details>
   <summary>2026-06-18</summary>
 
 ## Summary of Changes
