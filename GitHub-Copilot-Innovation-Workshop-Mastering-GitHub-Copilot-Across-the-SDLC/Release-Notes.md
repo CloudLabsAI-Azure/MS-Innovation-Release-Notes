@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-08-21</summary>
+
+## Release Date: 2026-08-21
+
+### Summary of Changes
+
+Reviewed and updated the lab guide to improve content accuracy, consistency, and readability. Corrected numbering issues, grammar errors, file path references, filename inconsistencies, and added supporting screenshots to enhance the learner experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Fixed numbered-list sequencing issues, including duplicate, skipped, and out-of-order steps across Step 1, Step 2, and the Prompt Files section.
+- Merged a sentence that was incorrectly split across two bullet points in the Custom Agents section to improve readability.
+- Corrected grammar and language consistency issues throughout the guide.
+- Resolved filename inconsistencies within the Prompt Files section to ensure accurate references.
+- Updated Lab 7 content to align with the latest workflow and navigation experience.
+
+### Screenshot Updates
+
+- Added new screenshots for the Getting Started experience.
+- Added new screenshots for the Custom Agents section to improve guidance and visual clarity.
+
+### Testing Notes
+
+- **Testing Date:** 2026-08-21
+- **Testing Scope:** Validated numbering sequences, reviewed grammar and terminology corrections, verified file paths and filenames, confirmed screenshot placement, and ensured content consistency across all updated sections.
+
+---
+</details>
+
+<details>
   <summary>2026-09-11</summary>
 
 ## Release Date: 2026-09-11
