@@ -18,6 +18,61 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 # Release Notes
 
 <details>
+  <summary>2026-09-21</summary>
+
+## Release Date: 2026-09-22
+
+### Summary of Changes
+
+* Reworked the lab logon task to call the repository's own deployment scripts instead of a duplicated copy, removing ~390 lines of drift-prone logic and the Azure Developer CLI dependency.
+* Fixed nine defects that prevented the lab deployment from completing end to end, most of which were failing silently.
+* Added failure handling and diagnostics so that deployment problems are reported clearly instead of stalling or reporting false success.
+
+### Infrastructure Changes
+
+* Data-plane firewalls (AI Search, Storage, Container Registry, Foundry, Cosmos DB) now allow the lab VM, enabling AI Search ingestion and ontology upload to succeed.
+* Deployment now targets the pre-existing `apim-mcp-aks` resource group explicitly, with a guard for resource group region mismatches.
+* Corrected AKS, Storage and AI Search operations that previously failed when running under a service principal.
+* Container image build and push now validate their results, preventing deployment of a non-existent image.
+* Deployment lookups now select the correct, most recent successful deployment rather than an arbitrary one.
+* Added a provisioning watchdog with progress reporting, so an unresponsive Azure CLI client no longer stalls the lab indefinitely.
+* Deterministic failures (resource name collisions) now stop immediately with guidance, instead of retrying without effect.
+
+### Content Changes
+
+NA
+
+### Screenshot Updates
+
+NA
+
+### Validation and Testing
+
+#### Validation Performed
+
+* Completed multiple end-to-end deployments across several lab subscriptions and tenants, including freshly provisioned environments.
+* Verified Kubernetes rollout, LoadBalancer assignment, AI Search ingestion, and ontology upload.
+* Confirmed generated test configuration files contain correct deployment values.
+* Confirmed storage firewall settings are restored after the ontology upload.
+* Validated syntax of all modified scripts.
+
+### Testing Notes
+
+* **Testing Date**: 2026-09-21
+
+### Testing Scope
+
+* End-to-end lab deployment from logon task through post-provision and ontology upload.
+* Fresh lab environments and redeployment into existing environments.
+* Recovery from transient Azure failures and resource name collisions.
+* Deployment log readability and error reporting.
+
+---
+
+</details>
+
+
+<details>
   <summary>2026-05-27</summary>
 
 ## Release Date: 2026-05-28
