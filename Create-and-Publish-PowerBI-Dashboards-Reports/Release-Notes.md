@@ -24,7 +24,7 @@ This repository contains detailed notes about the latest updates and modificatio
 
 ### Summary of Changes
 
-Updated the Getting Started page and Lab 01 to align with the latest Power BI Service UI. Added notes for updated navigation paths, additional onboarding pop-ups, and a workaround for opening report files on the lab VM.
+Updated the Getting Started page and Lab 01 to align with the latest Power BI Service UI. Added notes for updated navigation paths, additional onboarding pop-ups, and a workaround for opening report files on the lab VM. Updated the architecture diagram and added a Split Window feature image on the Getting Started page.
 
 ### Infrastructure Changes
 
@@ -40,6 +40,8 @@ N/A
 ### Screenshot Updates
 
 - Added screenshots for the Settings (three-dots) menu, the "Introducing task flows" pop-up, the "All paid features of Power BI" pop-up, and the Power BI Desktop Open → Browse this device flow.
+- **Getting Started page** - Updated the architecture diagram image (`Arc-PowerBI.png` → `architecture-diagram.jpg`) with the new architecture photo.
+- **Getting Started page** - Added a new image for the **Split Window** feature (`splitwindow-powerbi.png`).
 
 ### Testing Notes
 
@@ -53,7 +55,6 @@ N/A
 - Verified the report opens successfully via Power BI Desktop.
 
 </details>
-
 <details>
   <summary>2026-06-21</summary>
 
