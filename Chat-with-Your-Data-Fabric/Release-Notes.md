@@ -18,6 +18,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-22</summary>
+
+## Release Date : 2026-09-22
+
+### Summary of Changes
+
+Updated the Microsoft Fabric and Microsoft Copilot Studio lab guides to align with the latest portal experiences. Removed outdated navigation and configuration steps that are no longer available, updated the agent creation flow to the new Copilot Studio entry point, consolidated redundant steps, and refreshed screenshots throughout to match the current user interface.
+
+### Infrastructure Changes
+
+- No infrastructure changes were made as part of this release.
+
+### Content Changes
+
+- **Lab 1:** Removed the Power BI to Fabric navigation step and the associated pop-up note, as the workload switch is no longer required.
+- **Lab 1:** Removed the "Welcome to the Fabric view" dialog step, as this dialog no longer appears in the portal.
+- **Lab 1:** Added a step instructing learners to exit the chat agent before running the OBO authentication setup script.
+- **Lab 2:** Updated the agent creation flow from **Agents → + Create blank agent** to the new **Other ways to build → Agent** entry point.
+- **Lab 2:** Removed **Task 2, Step 18** (Details → Additional details → Credentials to use → End-user credentials), as this configuration option is no longer available in Copilot Studio.
+- **Lab 2:** Removed the "Submit feedback to Microsoft" note and the redundant "fabric-agent page will open" step.
+- **Lab 2:** Consolidated the Knowledge settings and "Close the Settings page" steps into a single instruction.
+- **Lab 2:** Replaced the open-ended agent testing instruction with a specific prompt so learners get a predictable, verifiable result.
+
+### Screenshot Updates
+
+- Updated Microsoft Copilot Studio screenshots to reflect the new agent creation and configuration experience.
+- Updated Microsoft Fabric screenshots to align with the latest portal experience.
+- Removed screenshots associated with deprecated navigation and configuration steps.
+- Refreshed images across navigation, configuration, and exercise execution steps for consistency.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-22
+
+### Testing Scope
+
+- Performed end-to-end validation of the Microsoft Fabric and Microsoft Copilot Studio labs after the step removals and screenshot updates.
+- Verified that the custom AI agent still authenticates and returns results correctly following the removal of the End-user credentials configuration step.
+- Validated the updated agent creation flow through the new Copilot Studio entry point.
+- Confirmed that all updated screenshots accurately reflect the current user interface experience.
+- Verified that learners can successfully complete both labs using the refreshed instructions and guidance.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-03</summary>
 
 ## Release Date : 2026-09-03
