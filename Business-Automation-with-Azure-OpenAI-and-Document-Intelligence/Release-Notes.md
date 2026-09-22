@@ -37,7 +37,7 @@ Reviewed the lab guide, presentation, and supporting artifacts. No additional co
 
 ### Screenshot Updates
 
-- screenshots have been updated as per the latest UI
+- Screenshots have been updated as per the latest UI.
 
 ### Testing Notes
 
