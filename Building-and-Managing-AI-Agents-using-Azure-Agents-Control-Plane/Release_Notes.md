@@ -20,7 +20,7 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 <details>
   <summary>2026-09-21</summary>
 
-## Release Date: 2026-09-22
+## Release Date: 2026-09-21
 
 ### Summary of Changes
 
