@@ -18,6 +18,48 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 # Release Notes
 
 <details>
+  <summary>2026-09-23</summary>
+
+## Release Date: 2026-09-23
+
+### Summary of Changes
+
+* Updated the lab guide to improve the experience by clearly identifying lab tasks that are Read-Only and only require participants to review the provided configurations or information.
+* Added Agent365 integration to the lab infrastructure.
+
+### Infrastructure Changes
+
+* Added Agent365 integration to the lab infrastructure.
+* Updated the disableLocalAuth parameter to false in the infra/main.json file to enable creation of the Chat Completion model during Exercise 3 > Step 3.3.
+* Removed East US 2 and South Central US from the lab environment deployment regions due to:
+  * Azure AI Search (Foundry IQ) capacity constraints.
+  * The Standard SKU for the text-embedding-3-large model not being supported in the South Central US region.
+* Updated the lab file path references in Exercise 1 from C:\LabFiles to C:\LabFiles\azure-agents-control-plane.
+
+### Content Changes
+
+* Updated lab headings to clearly indicate Read-Only steps that only require participants to review the content.
+* Added relevant notes and warnings to lab steps where necessary to provide additional guidance and clarify expected behavior.
+
+### Screenshot Updates
+
+NA
+
+### Testing Notes
+
+* **Testing Date**: 2026-09-23
+
+### Testing Scope
+
+* End-to-end lab deployment, including logon task execution, post-provisioning, and ontology upload.
+* Validation of fresh lab environment deployments and redeployment into existing environments.
+* Validation of recovery from transient Azure service failures and resource name collisions.
+* Verification of deployment log readability and error reporting.
+---
+
+</details>
+
+<details>
   <summary>2026-09-21</summary>
 
 ## Release Date: 2026-09-21
