@@ -30,11 +30,12 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 ### Infrastructure Changes
 
 * Added Agent365 integration to the lab infrastructure.
-* Updated the disableLocalAuth parameter to false in the infra/main.json file to enable creation of the Chat Completion model during Exercise 3 > Step 3.3.
-* Removed East US 2 and South Central US from the lab environment deployment regions due to:
+* Updated the `disableLocalAuth` parameter to false in the **infra/main.json** file to enable creation of the Chat Completion model during **Exercise 3 > Step 3.3**.
+* Removed **East US 2** and **South Central US** from the lab environment deployment regions due to:
   * Azure AI Search (Foundry IQ) capacity constraints.
   * The Standard SKU for the text-embedding-3-large model not being supported in the South Central US region.
-* Updated the lab file path references in Exercise 1 from C:\LabFiles to C:\LabFiles\azure-agents-control-plane.
+* Updated the lab file path references in Exercise 1 from `C:\LabFiles` to `C:\LabFiles\azure-agents-control-plane`.
+* Fixed Foundry authentication from the AKS pod. Updated **next_best_action_agent.py** to use **get_bearer_token_provider** for all Azure OpenAI calls instead of passing the AAD token as an API key. This ensures the Exercise 1 validation test works out of the box.
 
 ### Content Changes
 
