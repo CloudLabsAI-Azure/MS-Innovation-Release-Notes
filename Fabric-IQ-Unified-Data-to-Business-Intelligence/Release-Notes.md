@@ -16,6 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-24</summary>
+
+## Release Date: 2026-09-24
+
+### Summary of Changes
+
+- Updated Exercise 3 by adding instructions for loading the ontology graph data.
+- Updated Exercise 5 with clearer instructions to improve user understanding and added an additional task for initializing the Power Automate environment, ensuring that the Flow Builder functions properly in the subsequent tasks.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Added a new task in Exercise 5 for initializing the Power Automate environment.
+- Updated minor instructions across the lab guide to match the consistency of the lab flow.
+- Included notes for relevant lab instructions for better clarity.
+
+### Screenshot Updates
+
+- Exerise 2, Task 1.2 , step 12, 13, 14 - Updated the screenshots to align with the new steps added to the task.
+- Exercise , Task 1 - Updated the screenshots to align with the new steps introduced in the newly added task.
+- Exercise 5 , Task 3, step 21 - Added screenshots to align with the newly introduced step.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-24
+
+### Testing Scope 
+
+- Performed end-to-end lab testing, with all validations completed successfully. 
+- Updated the lab guide instructions to improve clarity and ease of understanding.
+
+
+---
+</details>
+
+<details>
 <summary>2026-09-09</summary>
 
 
