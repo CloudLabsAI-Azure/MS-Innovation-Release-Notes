@@ -16,6 +16,78 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+# Release Date: 2026-09-23
+
+## Summary of Changes
+
+Minor updates were implemented across the lab guides to improve accuracy, clarity, and the overall learner experience. The updates primarily include refreshed UI screenshots, revised step-by-step instructions, and alignment with the latest Microsoft Foundry interface and model changes.
+
+Several steps were refined to reduce ambiguity and provide clearer navigation guidance for learners.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+### Lab 02
+
+**Task 1**
+
+* **Step 6:** Updated the screenshot to show users how to search for **Foundry**.
+* **Step 7:** Updated the screenshot to display the **Foundry** pane.
+* **Step 11:** Updated the project naming convention from `aoai-vector-lab-<user ID>` and clarified where the user ID must be added. Added instructions for specifying the project name.
+* **Step 12:** Added instructions for reviewing the configuration and creating the project.
+* **Step 13:** Updated the screenshot to reflect the new Foundry view, where users should see **Foundry** instead of the previous OpenAI description.
+* **Step 14:** Updated the home-screen screenshot to show the new **Foundry** logo.
+
+**Task 2**
+
+* **Step 1:** Updated the screenshot to reflect the new Foundry home screen.
+* **Step 2:** Updated the screenshot and instructions to guide users to **Explore Models**.
+* **Steps 3–5:** Removed outdated steps related to navigating the previous Foundry experience.
+* **Step 3:** Added a new screenshot showing the available AI models.
+* **Step 4:** Updated the screenshot to show the expected results when searching for **"text"**.
+
+### Lab 03
+
+**Task 1**
+
+* **Step 5:** Removed the outdated SQL comment indicating that an API key was required.
+* Removed the unnecessary active hyperlink.
+
+**Task 2**
+
+* **Step 1:** Updated the SQL query.
+* **Step 3:** Removed the unnecessary active hyperlink.
+
+### Lab 07
+
+* Replaced references to **ChatGPT-4o** with **ChatGPT-5.1** throughout the lab.
+* Updated all screenshots to reflect the latest **Foundry** experience.
+* **Task 1, Step 6:** Updated the token limit to **30K**.
+* **Task 1, Step 13:** Updated the SQL to align with the latest Foundry experience and deployment of the new GPT model.
+
+## Screenshot Updates
+
+* Refreshed screenshots across the affected labs to reflect the latest UI changes.
+* Reviewed and updated the corresponding instructions to ensure consistency between the screenshots and the documented steps.
+* Removed screenshots associated with outdated navigation flows where applicable.
+
+## Testing Notes
+
+**Testing Date:** 2026-09-23
+
+Testing was completed on the same date to validate the updated content, screenshots, and platform behavior.
+
+### Testing Scope
+
+* Performed complete end-to-end testing of the updated labs.
+* Verified the revised instructions, user interactions, and navigation flows using the latest UI.
+* Validated the updated Microsoft Foundry experience and GPT model changes.
+* Confirmed that screenshots and step-level instructions accurately reflect the current platform behavior.
+* Updated the lab guide content and screenshots wherever discrepancies were identified.
+
 <details>
   <summary>2026-08-07</summary>
 
