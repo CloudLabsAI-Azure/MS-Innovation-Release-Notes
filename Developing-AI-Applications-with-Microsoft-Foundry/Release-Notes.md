@@ -18,6 +18,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-25</summary>
+
+### Release Date: 2026-09-25
+
+### Summary of Changes
+
+- Updated the **Developing AI Applications with Microsoft Foundry** lab to align with the latest Microsoft Foundry and Agent Framework experience.
+- Refreshed content across Labs 1–6 with updated workflows, navigation guidance, screenshots, and model references to improve learner success and overall usability.
+- Enhanced the learning experience by adding detailed instructions, annotated screenshots, workflow explanations, evaluation guidance, and guardrails implementation steps.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+* Updated Labs 1–6 to reflect the latest Microsoft Foundry and Agent Framework user interface and workflows.
+* Revised Lab 1 content to provide a more comprehensive overview of the agent lifecycle, including instructions, tools, knowledge, versioning, evaluation, and publishing.
+* Updated Lab 2 with the latest project creation flow, sign-in guidance, model deployment process, agent creation workflow, and sequential workflow testing instructions.
+* Reworked Lab 3 evaluation exercises, including dataset preparation, custom prompts, evaluator configuration, automated evaluations, and results analysis.
+* Expanded Lab 4 with detailed guidance for multi-agent workflows, agent versioning, evaluation comparisons, workflow publishing, and model performance analysis.
+* Updated Lab 5 with the latest workflow for deploying GPT-5.4-mini, creating a travel assistant, publishing workflows, and endpoint testing.
+* Reworked Lab 6 to provide detailed guidance for implementing AI guardrails, reviewing safety policies, applying custom guardrails, and testing harmful prompts.
+* Added structured safety evaluation exercises covering dataset creation, evaluator setup, field mapping, evaluation execution, and interpretation of safety metrics.
+* Updated model references, terminology, and workflow descriptions throughout the lab.
+* Improved instructional clarity, content consistency, and overall learner guidance.
+
+### Screenshot Updates
+
+* Added a significant number of new annotated screenshots across Labs 1–6.
+* Updated screenshots to reflect the latest Microsoft Foundry portal experience.
+* Added screenshots to support agent creation, workflow configuration, evaluations, publishing, deployment, and guardrails scenarios.
+* Added additional navigation screenshots, including "Next" page guidance, to improve learner progression through exercises.
+* Updated virtual machine resizing screenshots and portal navigation references.
+* Refreshed media assets to align with current instructions and workflows.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-25
+- **Test Validation Summary**: Verified updated instructions, screenshots, navigation flow, agent workflows, evaluation exercises, deployment guidance, and guardrails content across all lab modules.
+
+### Testing Scope
+
+- Validated instructional flow across Labs 1–6.
+- Verified updated screenshots and media references.
+- Confirmed consistency between exercises, portal workflows, and model references.
+- Reviewed agent creation, workflow orchestration, evaluation, deployment, publishing, and guardrails guidance.
+- Verified formatting, navigation flow, and overall learner experience improvements.
+
+---
+
+</details>
+<details>
   <summary>2026-06-22</summary>
 
 ### Release Date: 2026-06-22
