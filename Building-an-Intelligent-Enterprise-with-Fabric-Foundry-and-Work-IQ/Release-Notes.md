@@ -16,6 +16,57 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-09-27</summary>
+
+## Summary of Changes
+
+Bug fixes across Exercises 1–6 resolving Copilot availability, Azure AI Search permissions, Power Automate and Copilot Studio issues, and Activator alert configuration.
+
+## Content Updates
+
+**Exercise 1**: Added a step in Before We Begin to enable the required Copilot settings in Fabric Admin portal > Tenant settings
+
+**Exercise 2**: Resolved Copilot not showing in Power BI (fixed via the Exercise 1 tenant settings step)
+
+**Exercise 3**: Resolved Copilot option disabled in Fabric notebooks (fixed via the Exercise 1 tenant settings step), fixed Activator alert creation in Task 2 (select an empty report area before creating the alert, condition changed to Changes, check frequency set to every 5 minutes)
+
+**Exercise 4**: Resolved the permission error in Task 4, Step 7 (fixed via environment update)
+
+**Exercise 5**: Clarified Send an email dynamic content steps in Flow 1, changed Save draft to Publish for Flows 2 and 3, replaced the custom prompt in Topic 1 to fix empty alert emails, changed the Topic 3 due date to a one-week-from-today formula to fix the Planner BadGateway error
+
+**Exercise 6**: Resolved Activator alert not firing in Tasks 1 and 2 (fixed via the Exercise 3, Task 2 changes)
+
+## Infrastructure Changes
+
+- Enabled system-assigned managed identity on Azure AI Search in the ARM template
+- Added a deployment script to assign the Storage Blob Data Reader role to the Search managed identity on the storage account
+
+## Screenshot Updates
+
+- **Exercise 1**: Added Fabric Admin portal tenant settings with Copilot enabled
+- **Exercise 3**: Updated Activator alert setup in Task 2 (empty report area, Changes condition, 5-minute check)
+- **Exercise 5**: Updated Power Automate steps in Task 4 (Use dynamic content in Flow 1, Publish in Flows 2 and 3) and Copilot Studio topics (Topic 1 prompt, Topic 3 due date formula)
+
+## Testing Notes
+
+- **Testing Date**: 2026-09-26
+
+## Testing Scope
+
+- Verified Copilot availability in Power BI and Fabric notebooks after enabling tenant settings
+- Verified Azure AI Search managed identity and role assignment on a fresh deployment
+- Validated Exercise 4 completes without permission errors
+- Validated Power Automate flows publish and run successfully
+- Verified Copilot Studio alert emails contain content
+- Verified Copilot Studio creates Planner tasks with the correct due date
+- Tested end-to-end crisis injection with the Activator alert firing in Exercise 6
+- Confirmed all screenshots match current UI implementations
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-10</summary>
 
 ## Summary of Changes
