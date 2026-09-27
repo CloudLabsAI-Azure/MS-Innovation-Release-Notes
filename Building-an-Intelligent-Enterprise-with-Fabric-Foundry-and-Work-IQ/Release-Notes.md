@@ -49,7 +49,7 @@ Bug fixes across Exercises 1–6 resolving Copilot availability, Azure AI Search
 
 ## Testing Notes
 
-- **Testing Date**: 2026-09-26
+- **Testing Date**: 2026-09-27
 
 ## Testing Scope
 
