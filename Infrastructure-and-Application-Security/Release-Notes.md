@@ -16,6 +16,55 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-28</summary>
+
+## Release Date: 2026-09-28
+
+## Summary of Changes
+
+Updated the **DevOps with GitHub** lab to improve the overall learner experience and align the lab guide with the latest validated workflows. The documentation was refreshed with clearer instructions, updated navigation steps, and revised screenshots across multiple exercises. Outdated screenshots were replaced, new screenshots were added, and the architecture diagram was updated to reflect the current lab environment. Additional documentation updates were made based on the final round of end-to-end lab testing.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Updated the **Continuous Integration** section with revised instructions and improved step-by-step guidance.
+* Updated the **Security Features** section to align the documented workflow with the latest validated GitHub experience.
+* Updated the **Monitoring and Load Testing** section with revised instructions and navigation steps.
+* Updated **Exercise 2** instructions based on the final lab testing and validated workflow.
+* Updated the **Getting Started with DevOps and GitHub** documentation with clearer instructions and improved learner guidance.
+* Updated **masterdoc.json** to reflect the latest documentation changes.
+* Improved instructional wording, consistency, and clarity across the affected lab sections.
+* Removed or updated outdated content identified during the final round of lab testing.
+
+## Screenshot Updates
+
+* Updated screenshots across the **Continuous Integration, Security Features, Exercise 2, Monitoring and Load Testing, and Getting Started** sections.
+* Added the latest **architecture diagram** and removed the outdated architecture diagram.
+* Updated screenshots based on findings from the final end-to-end lab testing to ensure they accurately match the documented instructions.
+
+## Testing Notes
+
+* **Testing Date:** 2026-09-28
+
+## Testing Scope
+
+* Performed the final round of **end-to-end testing** for the **DevOps with GitHub** lab.
+* Validated the updated instructions against the current GitHub and Azure service experience.
+* Verified the documented workflows across the affected exercises.
+* Validated the updated screenshots against the corresponding lab instructions.
+* Verified that the updated architecture diagram and supporting images accurately represent the current lab environment.
+* Reviewed the instructional sequence, navigation, formatting, and learner guidance.
+* Updated the documentation and screenshots based on issues identified during the final testing cycle.
+* Verified the final documentation changes after incorporating the testing feedback.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-19</summary>
 
 ## Release Date: 2026-09-10
