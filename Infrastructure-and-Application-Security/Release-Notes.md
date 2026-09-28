@@ -26,18 +26,15 @@ Updated the **DevOps with GitHub** lab to improve the overall learner experience
 
 ## Infrastructure Changes
 
-* N/A
+* Updated the GitHub authentication workflow from username and password-based authentication to GitHub Single Sign-On (SSO).
 
 ## Content Changes
 
-* Updated the **Continuous Integration** section with revised instructions and improved step-by-step guidance.
-* Updated the **Security Features** section to align the documented workflow with the latest validated GitHub experience.
-* Updated the **Monitoring and Load Testing** section with revised instructions and navigation steps.
-* Updated **Exercise 2** instructions based on the final lab testing and validated workflow.
-* Updated the **Getting Started with DevOps and GitHub** documentation with clearer instructions and improved learner guidance.
-* Updated **masterdoc.json** to reflect the latest documentation changes.
-* Improved instructional wording, consistency, and clarity across the affected lab sections.
-* Removed or updated outdated content identified during the final round of lab testing.
+Exercise 1 – Continuous Integration: Updated the GitHub Actions CI workflow and revised the instructions based on the latest validated experience.
+Exercise 2 – GitHub Projects and Azure Test Plans: Updated the Azure DevOps/GitHub workflow and added the required Azure DevOps cleanup steps.
+Exercise 3 – GitHub Advanced Security: Updated the GitHub security features and security-related workflows based on the final lab testing.
+Exercise 4 – Monitoring and Load Testing: Updated the Application Insights and Azure Load Testing instructions and navigation steps.
+General: Updated masterdoc.json and refined the lab instructions for improved consistency and learner guidance.
 
 ## Screenshot Updates
 
