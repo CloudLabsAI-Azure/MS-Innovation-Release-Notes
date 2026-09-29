@@ -17,6 +17,56 @@ This repository contains detailed notes about the latest updates and modificatio
 
 # Release Notes
 <details>
+  <summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+Updated the lab to work with the redesigned Copilot Studio Home page. Standard agents are now created through **Other ways to build**, which replaces the previous steps for switching to the Old (Classic) experience.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+**Overview / Login Page**
+* Replaced the steps for turning off the **New experience** toggle, which no longer appears on the current Copilot Studio Home page, with instructions to create standard agents through the new Copilot Studio portal.
+* Refreshed the lab architecture diagram to show all four agents, the channels they're published to, and the knowledge sources and tools each agent uses.
+
+**Lab 02: Build your own Agent**
+* Task 1: Agent creation now starts from **Other ways to build** and **Agents (Standard)**.
+* Task 4: Added a note that switching to **No authentication** turns off the Teams and Microsoft 365 channel. This is expected behavior, and the note explains how to restore Teams access by switching back to **Authenticate with Microsoft**.
+
+**Lab 04: Copilot Studio with Data and Generative AI**
+* Tasks 1 and 2: Agent creation now uses **Agents**, then the **New agent** dropdown, then **Agents (Standard)**, matching the current UI.
+* Task 1: Added a step to select the added website as the source when **Search only selected sources** is turned on.
+* Task 2: Updated the expected document indexing time to match current behavior.
+
+**Lab 05: Tools in Copilot Studio**
+* Task 1: Agent creation uses the same **Agents (Standard)** path as Lab 04.
+* Task 1: Learners now select a specific **Units** value (**Metric** or **Imperial**) instead of typing free text, which prevents connector input errors.
+* Task 2: Renamed from "Calling a tool with a plugin" to **Adding a tool to the agent and calling it from a topic**, to match current Copilot Studio terminology.
+
+### Screenshot Updates
+
+* Added screenshots of the **Other ways to build** option and the **Agents (Standard)** creation path, and replaced the screenshots of the previous New/Old experience toggle.
+* Refreshed agent creation, publishing (**Force newest version**), and channel screenshots across Labs 02–05 to match the current Copilot Studio UI.
+* Replaced the lab architecture diagram.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-29
+
+### Testing Scope
+
+Performed end-to-end validation of the Overview/Login page and Labs 01–05 using standard agents created through the new Copilot Studio portal.
+
+---
+</details>
+
+<details>
   <summary>2026-08-18</summary>
 
 ## Release Date: 2026-08-18
