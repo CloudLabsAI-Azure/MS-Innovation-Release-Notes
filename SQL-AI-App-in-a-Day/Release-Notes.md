@@ -16,6 +16,88 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+<summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+## Summary of Changes
+
+Updates were implemented across the lab guide to improve accuracy, clarity, and the overall learner experience. The changes include infrastructure configuration updates, refreshed screenshots, improved navigation guidance, updated Microsoft Foundry UI instructions, enhanced explanations, and revised SQL examples to align with the latest platform behavior.
+
+## Infrastructure Changes
+
+* Updated the VM size configuration to **Standard D2s_V5**.
+* Updated the OS disk configuration to use **Standard SSD LRS**.
+
+## Content Changes
+
+### Getting Started
+
+* Added icons for each section heading to improve visual navigation.
+* Added an overview section to provide learners with a clear introduction to the lab.
+* Updated the architecture diagram using official **Microsoft Azure icons**.
+* Updated screenshots for the **Environment** tab and lab **zoom in/out** functionality to reflect the current interface.
+* Added additional explanations for the components used in the lab.
+
+### Lab 01
+
+**Task 1**
+
+* **Step 1:** Added a direct URL to access the **Azure Portal**.
+
+**Task 3**
+
+* **Step 2:** Added a screenshot showing learners where and how to execute the SQL query.
+* Refined several instructions to provide clearer guidance and reduce ambiguity.
+
+### Lab 02
+
+**Task 1**
+
+* Updated the task access setting from **Read-only** to **General**.
+* **Step 4:** Updated the instructions to align with the latest **Microsoft Foundry** UI, where the previous **Deployments** section has been changed to **Models**.
+* Updated the corresponding screenshot to reflect the new interface.
+
+### Lab 06
+
+**Task 1**
+
+* **Step 1:** Added a direct URL to access the **Microsoft Foundry Portal**.
+* **Step 2:** Updated the instructions to align with the latest Microsoft Foundry UI, where the previous **Deployments** section has been changed to **Models**.
+* Updated the corresponding screenshot to reflect the new interface.
+
+**Task 4**
+
+* Updated the SQL commands to produce different results for **low** and **high reasoning** scenarios.
+* Added updated screenshots showing the expected results for the revised SQL commands.
+
+## Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots to align with the foundry portal and latest SQL command changes in the guide.
+
+## Testing Notes
+
+**Testing Date:** 2026-09-29
+
+Testing was performed to validate the updated infrastructure configuration, lab content, screenshots, instructions, and Microsoft Foundry UI changes.
+
+### Testing Scope
+
+* Validated the updated VM size and **Standard SSD LRS** disk configuration.
+* Tested the updated Getting Started content, architecture diagram, icons, and screenshots.
+* Verified the revised Azure Portal and Microsoft Foundry navigation instructions.
+* Validated the updated **Models** navigation in the latest Microsoft Foundry UI.
+* Tested the revised SQL commands in Lab 06 and verified the different results for low and high reasoning.
+* Reviewed the updated screenshots and instructions to ensure consistency with the current platform experience.
+
+</details>
+
+<details>
+  <summary>2026-09-23</summary>
+
 ## Release Date: 2026-09-23
 
 ## Summary of Changes
@@ -87,6 +169,8 @@ Testing was completed on the same date to validate the updated content, screensh
 * Validated the updated Microsoft Foundry experience and GPT model changes.
 * Confirmed that screenshots and step-level instructions accurately reflect the current platform behavior.
 * Updated the lab guide content and screenshots wherever discrepancies were identified.
+
+</details>
 
 <details>
   <summary>2026-08-07</summary>
