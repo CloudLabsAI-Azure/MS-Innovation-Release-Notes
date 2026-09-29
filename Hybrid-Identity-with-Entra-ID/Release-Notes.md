@@ -16,6 +16,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+Improved the overall learner experience by adding numbered screenshots, refining instructions to match the current UI, adding helpful notes for password entry and authentication, and enhancing readability with highlighted key phrases and icons.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **All Labs**
+  - Refined the instructions to align with the on-screen details shown in each screenshot.
+  - Added a note clarifying the password requirements so learners provide all required information correctly.
+  - Highlighted key phrases to draw attention to important actions and values.
+  - Added icons to improve readability and visual flow.
+
+- **Lab 02**
+  - Added a note advising learners to retry if an authentication error appears, as the issue typically resolves on the second attempt.
+
+### Screenshot Updates
+
+  - Added numbered screenshots for easier step-by-step navigation.
+
+- **Lab 04**
+  - Updated the screenshot in **Task 3** for the **Log Analytics workspace** to reflect the current UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-29
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab guide.
+- Confirmed that all inject keys work as expected.
+- Verified all updated screenshots against the current UI.
+- Highlighted instructions align with the corresponding steps.
+
+---
+</details>
+
+<details>
   <summary>2026-08-06</summary>
 
 ## Release Date: 2026-08-06
