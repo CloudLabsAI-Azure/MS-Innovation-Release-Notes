@@ -31,16 +31,16 @@ Updated the **DevOps with GitHub** lab to improve the overall learner experience
 
 ## Content Changes
 
-Exercise 1 – Continuous Integration: Updated the GitHub Actions CI workflow and revised the instructions based on the latest validated experience.
-Exercise 2 – GitHub Projects and Azure Test Plans: Updated the Azure DevOps/GitHub workflow and added the required Azure DevOps cleanup steps.
-Exercise 3 – GitHub Advanced Security: Updated the GitHub security features and security-related workflows based on the final lab testing.
-Exercise 4 – Monitoring and Load Testing: Updated the Application Insights and Azure Load Testing instructions and navigation steps.
-General: Updated masterdoc.json and refined the lab instructions for improved consistency and learner guidance.
+* Exercise 1 – Continuous Integration: Updated the GitHub Actions CI workflow and revised the instructions based on the latest validated experience.
+* Exercise 2 – GitHub Projects and Azure Test Plans: Updated the Azure DevOps/GitHub workflow and added the required Azure DevOps cleanup steps.
+* Exercise 3 – GitHub Advanced Security: Updated the GitHub security features and security-related workflows based on the final lab testing.
+* Exercise 4 – Monitoring and Load Testing: Updated the Application Insights and Azure Load Testing instructions and navigation steps.
+* General: Updated masterdoc.json and refined the lab instructions for improved consistency and learner guidance.
 
 ## Screenshot Updates
 
 * Updated screenshots across the **Continuous Integration, Security Features, Exercise 2, Monitoring and Load Testing, and Getting Started** sections.
-* Added the latest **architecture diagram** and removed the outdated architecture diagram.
+* Added the latest **architecture diagram** and removed the outdated architecture diagram, the updated diagram now includes GitHub Projects, Azure test plans and Front Door endpoints.
 * Updated screenshots based on findings from the final end-to-end lab testing to ensure they accurately match the documented instructions.
 
 ## Testing Notes
