@@ -15,6 +15,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+The lab guide has been reviewed and updated to improve clarity, consistency, and overall quality. The instructions were rewritten in formal language, with corrections to grammar, punctuation, spelling, and sentence structure. Several screenshots were updated to reflect the latest Azure portal and tool UI changes, and the corresponding lab guide instructions were revised to match. Some screenshots and instructions were also refined for better understanding, so learners can follow each step more easily and accurately.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated lab guide instructions based on testing observations.
+- Improved wording and guidance in relevant steps for better user understanding.
+- Made minor content refinements to align with the lab flow and expected outcomes.
+
+### Screenshot Updates
+
+- Lab 1 (Part-A), Task 1 , Step 32 : Updated the screenshots to align with the latest UI changes.
+- Lab 1 (Part-C), Task 2 , Step 11 : Updated the screenshots to align with the latest UI changes.
+- Lab 1, Task 3 , Step 1,4 : Updated the screenshots to align with the latest UI changes.
+- Lab 1, Task 4 , Step 1,5 : Updated the screenshots to align with the latest UI changes.
+- Lab 3, Task 3 , Step 2 : Updated the screenshots as per requirement of the lab guide.
+- Lab 3, Task 6 , Step 7 : Updated the screenshots for additional step added.
+
+### Validation
+
+- N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-08-03
+
+### Testing Scope
+
+- Performed end-to-end testing of the lab.
+- Verified the migration workflow and lab instructions for accuracy and consistency.
+- Confirmed that all exercises function as expected with the latest Azure Migrate experience.
+
+---
+</details>
+
+<details>
   <summary>2026-09-03</summary>
 
 ## Release Date: 2026-09-03
@@ -55,14 +100,13 @@ Performed end-to-end validation and content updates for the **Migrate and Modern
 
 ### Testing Notes
 
-- **Testing Date**: 2026-09-03
+- **Testing Date**: 2026-09-29
 
 ### Testing Scope
 
-- Deployed a fresh lab instance and completed end-to-end validation of the updated flow.
-- Verified the SSMS-based assessment and schema migration to Azure SQL Database.
-- Verified the Azure Portal-based DMS online migration to Azure SQL Managed Instance, including the Blob Storage upload, transaction log restore, and cutover.
-- Validated the task sequence, naming conventions, and formatting across all lab guides.
+- Performed end-to-end testing of the lab.
+- Verified the migration workflow and lab instructions for accuracy and consistency.
+- Confirmed that all exercises function as expected with the latest Azure Migrate experience.
 
 ---
 </details>
