@@ -16,6 +16,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-30</summary>
+
+## Release Date: 2026-09-30
+
+### Summary of Changes 
+
+Updated the lab guide to match the current lab environment, notebooks, and portal UI. Updated instructions, section names, and expected outputs to match the notebooks. Added notes to help with common errors and long-running cells, and replaced outdated screenshots across the Getting Started page and Exercises 1–5.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated Exercise 1, Task 1, Step 12 to check first for an existing Azure AI Search connection, with separate steps for each case, so users don't add duplicate connections.
+- Added the missing **Cancel (3)** callout in Exercise 1, Task 1, Step 19.
+- Changed the Exercise 1 summary to say the AI models are verified, not deployed, since they are already deployed.
+- Updated the sign-in pop-up text in Exercise 2, Task 1, Step 8 to match the current wording, and added a note to rerun the cell if an error appears.
+- Changed the expected output text in Exercise 3, Task 1, Step 5 to match the notebook output.
+- Added a note in Exercise 3, Task 2, Step 7 to rerun steps 4 and 6 if a credential error appears.
+- Updated the section name in Exercise 3, Task 3, Step 6 to match the notebook.
+- Explained in Exercise 3, Task 4, Step 5 that the cell shows only a green check mark and no output.
+- Added a note in Exercise 3, Task 4, Step 7 that the model output may differ from the screenshot.
+- Added output and file callouts in Exercise 4, Task 2, Step 4, and a note that the output takes 1–2 minutes to display.
+- Updated the section name in Exercise 4, Task 4, Step 4 to match the notebook.
+
+### Screenshot Update
+
+- Updated the Exploring Your Lab Resources screenshot on the Getting Started page to reflect the latest Environment tab.
+- Updated Exercise 1, Task 1, Steps 12, 17, and 19 screenshots to reflect the latest UI.
+- Updated Exercise 1, Task 2, Step 7 screenshot to reflect the latest Environment tab.
+- Updated Exercise 2, Task 1, Step 8 and Task 2, Step 8 screenshots to reflect the latest UI and output.
+- Updated Exercise 3, Task 3, Step 6 screenshot to reflect the correct notebook section.
+- Updated Exercise 4, Task 1, Step 6; Task 2, Steps 4 and 14; Task 3, Step 11; and Task 5, Step 19 screenshots to reflect the latest outputs.
+- Updated Exercise 5, Task 1, Steps 22 and 26 screenshots to reflect the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-30
+
+### Testing Scope 
+
+- Reviewed the updated lab guide content and verified the changes against the corresponding lab steps.
+- Validated notebook section names, expected outputs, and step references for accuracy.
+- Verified the updated screenshots against the latest lab environment and UI.
+- Performed a content and visual consistency check across the affected exercises.
+
+---
+
+</details>
+
+
+<details>
   <summary>2026-08-24</summary>
 
 ## Release Date: 2026-08-24
