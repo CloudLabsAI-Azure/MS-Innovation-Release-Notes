@@ -15,8 +15,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
 <details>
-  <summary>2026-09-09</summary>
+  <summary>2026-09-30</summary>
+
+## Release Date: 2026-09-30
+
+### Summary of Changes
+
+Updated the lab guide based on End-to-End (E2E) testing. Made minor updates to the lab instructions and refreshed screenshots to align with the current lab experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Completed End-to-End (E2E) testing of the lab.
+- Made minor updates to the lab instructions based on the E2E testing results.
+- Updated the relevant steps and instructions to improve clarity and align with the current lab flow.
+
+### Screenshot Updates
+
+- Updated screenshots based on the latest UI observed during End-to-End testing.
+- Refreshed the relevant screenshots to match the updated instructions and current lab experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-30
+- **Testing Type**: End-to-End (E2E)
+- Completed End-to-End testing of the updated lab flow.
+- Verified the updated instructions and screenshots against the current lab experience.
+
+### Testing Scope 
+
+- End-to-end lab validation completed successfully, verified all updated workflow steps and instruction sequence. Confirmed all screenshots align with the current Microsoft Defender and Security Copilot portal UI, and verified all image references, formatting, and hyperlinks are functioning correctly.
+
+</details>
+
+<details>
+  <summary>2026-09-30</summary>
 
 ## Release Date: 2026-09-09
 
