@@ -54,7 +54,7 @@ N/A
 </details>
 
 <details>
-  <summary>2026-09-30</summary>
+  <summary>2026-09-09</summary>
 
 ## Release Date: 2026-09-09
 
