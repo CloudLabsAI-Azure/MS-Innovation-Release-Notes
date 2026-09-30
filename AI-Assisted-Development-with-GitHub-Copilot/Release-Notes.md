@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-09-30</summary>
+
+## Release Date : 2026-09-30
+
+### Summary of Changes
+
+- Reviewed Exercises 1-7 in the AI-Assisted Development with GitHub Copilot lab and improved overall content quality and consistency.
+- Corrected grammar, spelling, and terminology issues across the lab guide.
+- Standardized product names, commands, and instructional language for a consistent learner experience.
+- Fixed formatting and markdown rendering issues that affected content display and readability.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Corrected grammar, spelling, and terminology issues across Exercises 1-7.
+- Standardized references to Copilot, GitHub, GitHub Actions, VS Code, and NewIssue.md.
+- Fixed an incorrect step reference and duplicated callout numbering.
+
+### Screenshot Updates
+
+- No screenshot updates were required.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-30
+
+### Testing Scope
+
+- Reviewed Exercises 1-7 for instructional accuracy and content consistency.
+- Fixed formatting issues, including heading structure, spacing, notes, and image alignment.
+- Corrected configuration-related issues and validated updated instructions.
+- Verified that all changes render correctly and align with the expected lab workflow.
+
+---
+</details>
+
 ---
 <details>
   <summary>2026-09-21</summary>
