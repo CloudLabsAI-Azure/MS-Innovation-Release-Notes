@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-30</summary>
+
+## Release Date: 2026-09-30
+
+### Summary of Changes
+
+Reviewed and refreshed the lab guide to align with the latest GitHub Copilot experience. Updated content, model references, instructional text, and supporting media assets to improve clarity, consistency, and learner guidance throughout the lab.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated introductory content and copy across Lab 1 to improve readability and better explain the SDLC workflow and GitHub Copilot value proposition.
+- Refreshed GitHub Copilot model references in Lab 2 to align with the current model catalog, including updated examples and model naming.
+- Improved formatting and presentation of example content and image blocks for a more consistent learner experience.
+- Refined instructions and terminology in Labs 3, 4, and 5, including updated descriptions for Agent Mode and Coding Agent concepts.
+- Updated learning objectives and guidance in Labs 6 and 7 to improve clarity and align with current workflows.
+- Revised Microsoft Learn MCP server installation instructions and enhanced custom instructions content related to GitHub Copilot usage scenarios.
+
+### Screenshot Updates
+
+- Updated screenshots and media assets across the lab to reflect the latest UI experience.
+- Refreshed supporting images in the media folders to match current workflows and navigation.
+- Improved image consistency throughout the guide to align with the updated lab flow.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-30
+- **Testing Scope:** Reviewed all updated lab content, validated model references, verified instructional flow and terminology updates, checked screenshot accuracy, and confirmed consistency across the guide and supporting media assets.
+
+---
+</details>
+<details>
   <summary>2026-09-21</summary>
 
 ## Release Date: 2026-09-21
