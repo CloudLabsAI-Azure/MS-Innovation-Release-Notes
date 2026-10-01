@@ -28,7 +28,7 @@ Updated the lab guide content to align with the latest Microsoft terminology and
 
 ### Infrastructure Changes
 
-N/A
+* Updated the VM size from Standard_D2s_v3 to Standard_D2s_v5.
 
 ### Content Changes
 
