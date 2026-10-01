@@ -15,6 +15,46 @@ This **page contains** detailed notes about the latest updates and modifications
 
 # Release Notes
 
+<details>
+<summary>2026-09-29</summary>
+
+### Release Date: 2026-09-29
+
+## Summary of Changes
+
+Added a validation note for the AI Search (Foundry IQ) index name in Lab 3, streamlined the related notebook screenshots, and updated the instructor presentation deck to align with the current lab flow and Microsoft documentation.
+
+## Infrastructure Changes
+
+- No Azure infrastructure or deployment template changes.
+
+## Content Changes
+
+- **Lab 3:**
+    - Task 1, Step 17: Added a note instructing learners to enter the Object name prefix exactly as **health-plan** instead of keeping the default name, so that the task validation succeeds.
+- **Instructor Presentation Deck:**
+    - Updated the Hands-on Lab Exercises and Lab Objectives slides to match the current lab structure, including the pre-deployed models and revised task titles.
+    - Updated the Foundry Models, Role-based access control, Foundry Agent Service, and Summary slides to reflect current Microsoft documentation.
+    - Corrected product names, spelling, and grammar across multiple slides, and replaced placeholder image alt text for accessibility.
+
+## Screenshot Updates
+
+- Lab 3, Task 2: Updated the screenshots from the step that retrieves the AI Search connection and connects to the index.
+
+## Validation
+
+- Verified the updated screenshot references and image paths in Lab 3.
+- Verified that the Lab 3 Task 1 validation succeeds when the index is created with the **health-plan** Object name prefix.
+- Confirmed that the changes do not introduce modifications to the existing lab workflow or deployed resources.
+
+## Testing Scope
+
+**Testing Date:** 2026-09-29
+
+- Validated the end-to-end lab flow and instructions across Labs 1–4 against the current Microsoft Foundry and AI Search (Foundry IQ) experience. All validations succeeded.
+
+</details>
+
 
 <details>
 <summary>2026-09-16</summary>
