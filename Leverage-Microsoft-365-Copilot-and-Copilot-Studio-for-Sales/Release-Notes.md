@@ -19,6 +19,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+Content updates, including clearer UI screenshots and refined instructions to improve understanding and clarity.    
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+Updated the instructions and content for the lab as per the New UI in the Microsoft Copilot Studio portal.
+
+### Screenshot Updates
+
+- **Updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots as per the new UI in the Microsoft Copilot Studio portal.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-09-29
+
+### Testing Scope 
+
+ Performed end-to-end testing of the lab, updated the lab guide with clear instructions, and updated the images as per the new UI.
+
+---
+</details>
+
+<details>
   <summary>2026-07-14</summary>
 
 ## Release Date: 2026-07-14
