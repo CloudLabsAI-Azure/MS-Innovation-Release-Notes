@@ -39,8 +39,7 @@ Added a validation note for the AI Search (Foundry IQ) index name in Lab 3, stre
 
 ## Screenshot Updates
 
-- Lab 3, Task 2: Removed the redundant screenshot `L4T1S5ii.png` from the step that retrieves the AI Search connection and connects to the index.
-- Lab 3, Task 2: Added the updated screenshot `task3.png` before `L4T1S5i.png`.
+- Lab 3, Task 2: Updated the screenshots from the step that retrieves the AI Search connection and connects to the index.
 
 ## Validation
 
