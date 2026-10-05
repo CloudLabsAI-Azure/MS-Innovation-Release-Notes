@@ -16,6 +16,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-01</summary>
+
+## Release Date: 2026-10-01
+
+## Summary of Changes
+
+Updated the **Azure AI Gateway: API Management for Intelligent Services** lab to align the lab instructions and screenshots with the latest portal and MCP Inspector user experience. The lab guide was refreshed across Exercises 1–5, with enhanced instructions for session awareness testing, MCP server configuration and tool execution, updated Microsoft Foundry navigation, and refreshed supporting screenshots.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Exercise 1: Updated session-awareness validation instructions, including package installation and backend region, cookie, and response continuity checks without session affinity.
+* Exercise 3: Updated MCP Inspector configuration and workflow for connecting to the MCP server, listing tools, and executing the get_weather tool.
+* Exercise 4: Updated instructions and navigation references to align with the current user interface and workflow.
+* Exercise 5: Updated Microsoft Foundry navigation from Deployments to Models for accessing the gpt-5.1 model and revised related instructions.
+* Updated page-navigation references across Exercises 1–5.
+
+## Screenshot Updates
+
+* Added new screenshots supporting the updated **Exercise 1** session-awareness workflow.
+* Added new screenshots for the updated **Exercise 3** MCP Inspector workflow.
+* Updated screenshots in Exercises 1, 2, 3, 4, and 5 to align with the revised instructions.
+* Added updated page-navigation screenshots for Exercises 1–5.
+* Refreshed existing screenshots where the previous visuals no longer matched the documented workflow.
+* Updated supporting screenshots related to the environment, guide navigation, and MCP configuration.
+
+## Testing Notes
+
+* **Testing Date:** 2026-10-01
+
+## Testing Scope
+
+* Performed validation of the updated **Azure AI Gateway: API Management for Intelligent Services** lab guide.
+* Validated the updated instructions across **Exercises 1–5**.
+* Verified the session-awareness testing workflow in Exercise 1.
+* Validated the updated MCP Inspector server configuration and tool execution workflow in Exercise 3.
+* Verified the updated Microsoft Foundry navigation in Exercise 5.
+* Validated the newly added and updated screenshots against the corresponding lab instructions.
+* Reviewed page navigation, instructional sequence, and learner guidance across the affected exercises.
+
+---
+
+</details>
+
+<details>
   <summary>2026-07-18</summary>
 
 ## Release Date: 2026-07-18

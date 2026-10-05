@@ -16,7 +16,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-09-30</summary>
+
+## Release Date : 2026-09-30
+
+### Summary of Changes
+
+- Reviewed lab exercises and improved content quality by correcting spelling, terminology, and consistency issues.
+- Standardized product names and instructional text to ensure a consistent learner experience.
+- Applied minor formatting updates to improve readability and presentation.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Corrected spelling and grammar issues across Exercises 1-6.
+- Standardized references to Copilot, GitHub, GitHub Actions, and VS Code.
+- Updated terminology and wording for consistency throughout the lab guide.
+- Applied minor formatting improvements, including button text styling.
+
+### Screenshot Updates
+
+- No screenshot updates were required.
+
+### Testing Notes
+
+- **Testing Date**: 2026-09-30
+
+### Testing Scope
+
+- Reviewed Exercises 1-6 for spelling, terminology, and consistency issues.
+- Validated formatting updates and content presentation.
+- Verified that all changes render correctly and do not impact lab functionality.
+
 ---
+</details>
+
 <details>
   <summary>2026-09-21</summary>
 
