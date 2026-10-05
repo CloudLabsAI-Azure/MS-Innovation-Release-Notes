@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-10-05</summary>
+
+## Release Date: 2026-10-05
+
+### Summary of Changes
+
+Minor content improvements were made across the lab guide to enhance readability, consistency, and the overall learner experience. Several instructions were refined, formatting was standardized, and screenshots were updated to align with the current product interface. Additional guidance was added in certain tasks to improve navigation and reduce ambiguity during lab execution.
+
+### Infrastructure Changes
+
+Updated the ARM template as per the latest requirements.
+
+### Content Changes
+
+- Getting Started Page: Updated onboarding instructions and standardized formatting across introductory steps.
+- Exercise 1: Corrected spelling and grammar issues, improved instructional wording, and updated screenshots to reflect the latest UI.
+- Exercise 2: Refined step-by-step instructions for better clarity, corrected content inconsistencies, and updated screenshots where required.
+- Across the Lab Guide: Removed unnecessary HTML formatting, standardized Markdown styling, and improved content consistency.
+
+### Screenshot Updates
+
+- **Minor updates**: Several screenshots were refreshed to match the current user interface. Associated instructions were reviewed and updated to ensure consistency between the visuals and the documented steps.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-05
+
+  Performed end-to-end validation of the lab after implementing content updates, formatting improvements, and screenshot revisions.
+
+### Testing Scope
+
+- Completed full lab testing to verify all exercises, instructions, and user workflows.
+- Validated the updated content, screenshots, and formatting changes throughout the lab guide.
+- Confirmed that all tasks can be completed successfully with the latest lab content.
+
+</details>
+
+<details>
 <summary>2026-09-18</summary>
  
 ## Release Date: 2026-09-18
@@ -27,9 +65,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
  
 ### Infrastructure Changes
- 
+
 N/A
- 
+
 ### Content Changes
  
 - Getting Started Page: Updated Resize the Virtual Machine View in lab guide to follow new format
