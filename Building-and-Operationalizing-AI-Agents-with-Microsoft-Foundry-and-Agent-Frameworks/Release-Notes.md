@@ -24,11 +24,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor content improvements were made across the lab guide to enhance readability, consistency, and the overall learner experience. Several instructions were refined, formatting was standardized, and screenshots were updated to align with the current product interface. Additional guidance was added in certain tasks to improve navigation and reduce ambiguity during lab execution.
+Updated the ARM template to align with the latest deployment requirements and improved the lab guide to reflect the current UI experience. Additionally, reviewed the cost estimate, updated screenshots and supporting content, and added release notes to document the latest changes.
 
 ### Infrastructure Changes
 
-Updated the ARM template to simplify the Bing connection deployment flow and align the resource configuration with the latest lab requirements. Also updated the associated outputs and VM extension configuration to ensure seamless integration with Azure AI Foundry services.
+Updated the ARM template by replacing the nested Bing connection deployment with a direct Bing connection resource.
 
 ### Content Changes
 
@@ -36,21 +36,25 @@ Updated the ARM template to simplify the Bing connection deployment flow and ali
 - Exercise 1: Corrected spelling and grammar issues, improved instructional wording, and updated screenshots to reflect the latest UI.
 - Exercise 2: Refined step-by-step instructions for better clarity, corrected content inconsistencies, and updated screenshots where required.
 - Across the Lab Guide: Removed unnecessary HTML formatting, standardized Markdown styling, and improved content consistency.
+- Reviewed and verified the lab cost estimate.
+- Updated the PPT with the latest content and screenshots.
+- Added release notes documenting the implemented changes.
 
 ### Screenshot Updates
 
-- **Minor updates**: Several screenshots were refreshed to match the current user interface. Associated instructions were reviewed and updated to ensure consistency between the visuals and the documented steps.
+- Several screenshots were refreshed to match the current user interface. Associated instructions were reviewed and updated to ensure consistency between the visuals and the documented steps.
 
 ### Testing Notes
 
 - **Testing Date**: 2026-10-05
 
-  Performed end-to-end validation of the lab after implementing content updates, formatting improvements, and screenshot revisions.
+  Performed end-to-end validation of the lab after implementing content, infrastructure, and screenshot updates.
 
 ### Testing Scope
 
 - Completed full lab testing to verify all exercises, instructions, and user workflows.
-- Validated the updated content, screenshots, and formatting changes throughout the lab guide.
+- Validated the updated ARM template deployment and related resource configurations.
+- Verified the updated content, screenshots, PPT, and cost estimate.
 - Confirmed that all tasks can be completed successfully with the latest lab content.
 
 </details>
