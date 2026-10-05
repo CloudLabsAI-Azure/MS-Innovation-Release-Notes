@@ -28,7 +28,7 @@ Minor content improvements were made across the lab guide to enhance readability
 
 ### Infrastructure Changes
 
-Updated the ARM template as per the latest requirements.
+Updated the ARM template to simplify the Bing connection deployment flow and align the resource configuration with the latest lab requirements. Also updated the associated outputs and VM extension configuration to ensure seamless integration with Azure AI Foundry services.
 
 ### Content Changes
 
