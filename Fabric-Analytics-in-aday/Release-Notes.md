@@ -18,6 +18,58 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-01</summary>
+
+## Release Date: 2026-10-01
+
+### Summary of Changes
+Updated Labs guides to align with the current Microsoft Fabric and Power BI experience. The release includes refreshed screenshots, improved sign-in workflow guidance, enhanced navigation instructions, clearer data-source configuration steps, and general content refinements to improve learner usability and accuracy.
+
+### Infrastructure Changes
+NA
+
+### Content Changes
+- Lab-1.md
+  - Updated the Power BI/Fabric sign-in workflow to reflect the latest UI prompts, device sign-in confirmation, and completion experience.
+  - Refined navigation instructions and updated screenshots to match the current interface.
+
+- Lab-2.md
+  - Updated screenshots and improved Power Query navigation guidance.
+  - Corrected wording and navigation labels for greater clarity.
+
+- Lab-3.md
+  - Enhanced Lakehouse creation and shortcut configuration instructions.
+  - Updated screenshots to align with the current Fabric experience.
+
+- Lab-4.md
+  - Improved dataflow navigation and action steps.
+  - Clarified Dataverse, ADLS, and Snowflake connection and credential guidance.
+
+- Lab-5.md
+  - Updated pipeline save and execution instructions.
+  - Refreshed screenshots and refined navigation guidance throughout the lab.
+
+- General Updates
+  - Replaced outdated screenshots across all labs.
+  - Corrected typos and improved instructional wording.
+  - Updated UI labels and terminology to align with the current product experience.
+  - Added clearer guidance for data-source authentication and connection configuration.
+
+### Testing Notes
+
+- Testing Date: 2026-10-01
+
+### Testing Scope
+
+- Validate the updated Power BI/Fabric sign-in experience and UI references.
+- Verify all refreshed screenshots match the current Fabric and Power BI interfaces.
+- Review updated navigation paths for Power Query, Lakehouse, shortcuts, dataflows, and pipelines.
+- Validate Dataverse, ADLS, and Snowflake connection instructions and credential guidance.
+- Confirm content formatting, terminology, and instructional flow across Labs 1–5.
+
+</details>
+
+<details>
   <summary>2026-09-17</summary>
 
 ## Release Date: 2026-09-17
