@@ -31,12 +31,13 @@ Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the 
 - No infrastructure changes were made as part of this release.
 
 ### Content Changes
-
+- Updated the architecture diagram on the Getting Started page.
 - Improved content clarity, formatting, and consistency across the lab guides.
 - Incorporated internal QA review feedback and updated learner guidance where required.
 
 ### Screenshot Updates
 
+- Updated the screenshots on the Getting Started page to improve clarity and understanding. The Architecture diagram was also updated accordingly.
 - Refreshed images associated with navigation, configuration, and exercise execution steps.
 - Improved screenshot consistency to better match the current learner experience.
 
