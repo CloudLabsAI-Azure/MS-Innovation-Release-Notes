@@ -16,6 +16,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-10-05</summary>
+
+## Release Date: 2026-10-05
+
+### Summary of Changes
+
+Minor updates to the lab content were implemented, which includes addition of notes and screenshots for new pop-ups for the current Microsoft Fabric experience. These clarifications help learners continue through the lab steps without interruption.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 01 – Create and Ingest Data with a Microsoft Fabric Lakehouse**
+  - Task 1, Step 4: Added a note instructing learners to click **OK** on the **Microsoft Fabric (Free) license assigned** pop-up.
+
+- **Lab 02 – Analyze data in a Data Warehouse**
+  - Task 2, Step 1: Added a note instructing learners to click **Try later** on the **Welcome to your warehouse** pop-up.
+
+- **Lab 03 – Data Engineering – Pipelines and Cross-Database Queries**
+  - Task 1, Step 3: Added a note instructing learners to click **Skip for now** on the **Notebook Copilot Updates and Git Integration Supporting Resources** pop-up.
+
+### Screenshot Updates
+
+- Added **task1.png** in Lab 01, Task 1, Step 4 showing the Microsoft Fabric (Free) license assigned pop-up.
+- Added **task2.png** in Lab 02, Task 2, Step 1 showing the Welcome to your warehouse pop-up.
+- Added **task03.png** in Lab 03, Task 1, Step 3 showing the Notebook Copilot Updates pop-up.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-05
+
+### Testing Scope
+
+- Performed end-to-end validation of Lab 01, Lab 02, and Lab 03.
+- Verified the newly added notes, screenshots, image references, and formatting.
+- Validated workspace and Lakehouse setup, Data Warehouse creation and queries, notebook transformation, and pipeline execution.
+- Confirmed numbering consistency, rendering, learner navigation, and overall guide accuracy.
+
+</details>
+
+<details>
 <summary>2026-09-16</summary>
 
 ## Release Date: 2026-09-16
