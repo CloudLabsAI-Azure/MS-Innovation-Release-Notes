@@ -17,6 +17,49 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 
 # Release Notes
 
+
+<details>
+  <summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+### Summary of Changes
+
+* Updated the lab content to align with the latest platform capabilities and user experience.
+* Added and updated lab exercises based on the latest functionality.
+* Reviewed the complete lab flow and validated the learner experience.
+* Updated outdated instructions and references where required.
+
+### Infrastructure Changes
+
+* Updated the psscript to clone githb repo using PAT.
+* Added deployment script for Role Assignment and policy.
+* Verified the lab environment setup and configuration.
+
+### Content Changes
+
+* Updated and refined lab instructions to reflect the latest platform changes.
+* Simplified instructions to make the lab easier to follow for learners.
+* Updated relevant Microsoft documentation and reference links.
+* Removed or updated outdated steps and content.
+
+### Screenshot Updates
+
+* Replaced outdated screenshots where required.
+
+### Testing Notes
+
+* **Testing Date**: 2026-09-29
+
+### Testing Scope
+
+* End-to-end validation of all lab exercises and complete lab flow.
+* Verification of updated instructions and functional validations.
+* Validation of the lab environment and required resources.
+* Verification of the learner experience from lab launch through completion.
+
+</details>
+
 <details>
   <summary>2026-07-10</summary>
 

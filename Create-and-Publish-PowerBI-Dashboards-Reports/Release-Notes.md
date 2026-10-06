@@ -16,6 +16,44 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 ## Release Notes
+<details>
+  <summary>2026-10-01</summary>
+
+## Release Date: 2026-10-01
+
+### Summary of Changes
+
+Refreshed screenshots across the lab tasks based on the latest Power BI UI observed during lab testing. The lab guide was also updated to reflect minor UI and icon changes, along with fixes for identified content rendering issues.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Lab 1**:
+
+  - **Task 1**: Fixed identified content rendering issues to ensure the instructions display correctly.
+  - **Task 1 to Task 3**: 
+    1. Updated the lab instructions to align with the latest Power BI UI.
+    2. Refreshed guidance to reflect minor icon and UI changes observed in the current experience.
+
+### Screenshot Updates
+
+- Refreshed screenshots across Lab 1 – Task 1 to Task 3 to reflect the latest Power BI UI.
+
+- Updated screenshots to capture minor icon and interface changes in the current Power BI experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-30
+- Performed end-to-end validation of the lab and verified all updated instructions and screenshots against the live environment.
+
+### Testing Scope
+
+- Validated UI navigation, instructions, icons, screenshots, and content rendering against the current Power BI experience.
+
+</details>
 
 <details>
   <summary>2026-09-14</summary>

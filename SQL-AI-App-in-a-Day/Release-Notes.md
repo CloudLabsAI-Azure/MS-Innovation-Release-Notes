@@ -17,6 +17,162 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-09-29</summary>
+
+## Release Date: 2026-09-29
+
+## Summary of Changes
+
+Updates were implemented across the lab guide to improve accuracy, clarity, and the overall learner experience. The changes include infrastructure configuration updates, refreshed screenshots, improved navigation guidance, updated Microsoft Foundry UI instructions, enhanced explanations, and revised SQL examples to align with the latest platform behavior.
+
+## Infrastructure Changes
+
+* Updated the VM size configuration to **Standard D2s_V5**.
+* Updated the OS disk configuration to use **Standard SSD LRS**.
+
+## Content Changes
+
+### Getting Started
+
+* Added icons for each section heading to improve visual navigation.
+* Added an overview section to provide learners with a clear introduction to the lab.
+* Updated the architecture diagram using official **Microsoft Azure icons**.
+* Updated screenshots for the **Environment** tab and lab **zoom in/out** functionality to reflect the current interface.
+* Added additional explanations for the components used in the lab.
+
+### Lab 01
+
+**Task 1**
+
+* **Step 1:** Added a direct URL to access the **Azure Portal**.
+
+**Task 3**
+
+* **Step 2:** Added a screenshot showing learners where and how to execute the SQL query.
+* Refined several instructions to provide clearer guidance and reduce ambiguity.
+
+### Lab 02
+
+**Task 1**
+
+* Updated the task access setting from **Read-only** to **General**.
+* **Step 4:** Updated the instructions to align with the latest **Microsoft Foundry** UI, where the previous **Deployments** section has been changed to **Models**.
+* Updated the corresponding screenshot to reflect the new interface.
+
+### Lab 06
+
+**Task 1**
+
+* **Step 1:** Added a direct URL to access the **Microsoft Foundry Portal**.
+* **Step 2:** Updated the instructions to align with the latest Microsoft Foundry UI, where the previous **Deployments** section has been changed to **Models**.
+* Updated the corresponding screenshot to reflect the new interface.
+
+**Task 4**
+
+* Updated the SQL commands to produce different results for **low** and **high reasoning** scenarios.
+* Added updated screenshots showing the expected results for the revised SQL commands.
+
+## Screenshot Updates
+
+- **Minor updates**: 
+
+    - **Updated UI Screenshots**: Updated the screenshots to align with the foundry portal and latest SQL command changes in the guide.
+
+## Testing Notes
+
+**Testing Date:** 2026-09-29
+
+Testing was performed to validate the updated infrastructure configuration, lab content, screenshots, instructions, and Microsoft Foundry UI changes.
+
+### Testing Scope
+
+* Validated the updated VM size and **Standard SSD LRS** disk configuration.
+* Tested the updated Getting Started content, architecture diagram, icons, and screenshots.
+* Verified the revised Azure Portal and Microsoft Foundry navigation instructions.
+* Validated the updated **Models** navigation in the latest Microsoft Foundry UI.
+* Tested the revised SQL commands in Lab 06 and verified the different results for low and high reasoning.
+* Reviewed the updated screenshots and instructions to ensure consistency with the current platform experience.
+
+</details>
+
+<details>
+  <summary>2026-09-23</summary>
+
+## Release Date: 2026-09-23
+
+## Summary of Changes
+
+Minor updates were implemented across the lab guides to improve accuracy, clarity, and the overall learner experience. The updates primarily include refreshed UI screenshots, revised step-by-step instructions, and alignment with the latest Microsoft Foundry interface and model changes.
+
+Several steps were refined to reduce ambiguity and provide clearer navigation guidance for learners.
+
+## Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+### Lab 02
+
+**Task 1**
+
+* **Step 6:** Updated the screenshot to show users how to search for **Foundry**.
+* **Step 7:** Updated the screenshot to display the **Foundry** pane.
+* **Step 11:** Updated the project naming convention from `aoai-vector-lab-<user ID>` and clarified where the user ID must be added. Added instructions for specifying the project name.
+* **Step 12:** Added instructions for reviewing the configuration and creating the project.
+* **Step 13:** Updated the screenshot to reflect the new Foundry view, where users should see **Foundry** instead of the previous OpenAI description.
+* **Step 14:** Updated the home-screen screenshot to show the new **Foundry** logo.
+
+**Task 2**
+
+* **Step 1:** Updated the screenshot to reflect the new Foundry home screen.
+* **Step 2:** Updated the screenshot and instructions to guide users to **Explore Models**.
+* **Steps 3–5:** Removed outdated steps related to navigating the previous Foundry experience.
+* **Step 3:** Added a new screenshot showing the available AI models.
+* **Step 4:** Updated the screenshot to show the expected results when searching for **"text"**.
+
+### Lab 03
+
+**Task 1**
+
+* **Step 5:** Removed the outdated SQL comment indicating that an API key was required.
+* Removed the unnecessary active hyperlink.
+
+**Task 2**
+
+* **Step 1:** Updated the SQL query.
+* **Step 3:** Removed the unnecessary active hyperlink.
+
+### Lab 07
+
+* Replaced references to **ChatGPT-4o** with **ChatGPT-5.1** throughout the lab.
+* Updated all screenshots to reflect the latest **Foundry** experience.
+* **Task 1, Step 6:** Updated the token limit to **30K**.
+* **Task 1, Step 13:** Updated the SQL to align with the latest Foundry experience and deployment of the new GPT model.
+
+## Screenshot Updates
+
+* Refreshed screenshots across the affected labs to reflect the latest UI changes.
+* Reviewed and updated the corresponding instructions to ensure consistency between the screenshots and the documented steps.
+* Removed screenshots associated with outdated navigation flows where applicable.
+
+## Testing Notes
+
+**Testing Date:** 2026-09-23
+
+Testing was completed on the same date to validate the updated content, screenshots, and platform behavior.
+
+### Testing Scope
+
+* Performed complete end-to-end testing of the updated labs.
+* Verified the revised instructions, user interactions, and navigation flows using the latest UI.
+* Validated the updated Microsoft Foundry experience and GPT model changes.
+* Confirmed that screenshots and step-level instructions accurately reflect the current platform behavior.
+* Updated the lab guide content and screenshots wherever discrepancies were identified.
+
+</details>
+
+<details>
   <summary>2026-08-07</summary>
 
 ## Release Date: 2026-08-07
