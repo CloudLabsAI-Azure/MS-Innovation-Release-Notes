@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-10-05</summary>
+
+## Release Date : 2026-10-05
+
+### Summary of Changes
+
+Updated the Microsoft Copilot and Microsoft Fabric lab guides to align with the latest user interface experience. Refreshed screenshots and related instructions throughout the labs to improve accuracy, consistency, and overall learner experience.
+
+### Infrastructure Changes
+
+- No infrastructure changes were made as part of this release.
+
+### Content Changes
+- Updated the architecture diagram on the Getting Started page.
+- Improved content clarity, formatting, and consistency across the lab guides.
+- Incorporated internal QA review feedback and updated learner guidance where required.
+
+### Screenshot Updates
+
+- Updated the screenshots on the Getting Started page to improve clarity and understanding. The Architecture diagram was also updated accordingly.
+- Refreshed images associated with navigation, configuration, and exercise execution steps.
+- Improved screenshot consistency to better match the current learner experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-05
+
+### Testing Scope
+
+- Performed end-to-end validation of the Microsoft Copilot and Microsoft Fabric labs after updating screenshots and related instructions.
+- Verified that all updated screenshots accurately reflect the current user interface experience.
+- Validated the navigation flow, exercise steps, and instructional content against the latest portal experience.
+- Confirmed that learners can successfully follow the exercises using the refreshed screenshots and guidance.
+
+---
+
+</details>
+
+<details>
   <summary>2026-10-01</summary>
 
 ## Release Date : 2026-10-01
