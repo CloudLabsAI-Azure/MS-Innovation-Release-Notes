@@ -34,7 +34,8 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-- N/A
+- Updated the VM size from D8s_v3 to D8s_v5 in the lab template.
+- Updated the VMSS size from D2s_v3 to D2s_v5 in the lab guide, as the v3 series is approaching end of support.
 
 ### Content Changes
 
