@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Minor updates to the hands-on lab guide, adding notes and screenshots for new pop-ups in the current Microsoft Fabric experience. These clarifications help learners continue through the lab steps without interruption.
+Minor updates to the lab content were implemented, which includes addition of notes and screenshots for new pop-ups for the current Microsoft Fabric experience. These clarifications help learners continue through the lab steps without interruption.
 
 ### Infrastructure Changes
 
