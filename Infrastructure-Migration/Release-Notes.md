@@ -17,6 +17,97 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+
+<summary>2026-10-06</summary>
+
+## Release Date: 2026-10-06
+
+### Summary of Changes
+
+- Updated the Infrastructure Migration lab guide across the Getting Started section, HOL1, HOL2, HOL3, and Business Case exercises to align with the latest UI, lab flow, and learner experience.
+- Added and updated scenarios throughout the lab to provide a consistent SmartHotel storyline and better context for each hands-on exercise.
+- Refreshed screenshots and instructions across the lab to reflect the latest portal experience and updated workflows.
+- Removed Azure Automanage content as the service has been retired and the related tasks were no longer functional.
+- Added new steps for VMSS deployment verification and Microsoft Entra ID (SSO) sign-in for the Red Hat Linux VM.
+- Reviewed and updated exercise durations to better reflect the current lab content.
+- Improved overall learner guidance, readability, and consistency across the lab.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+**Getting Started**
+- Added an updated architecture diagram.
+- Refined the objectives, prerequisites, and component descriptions.
+- Updated the workshop scenario and added an overview of the HOLs.
+- Added updated Environment tab and split-screen screenshots reflecting the latest UI.
+
+**HOL1 – Exercise 1**
+- Added a link in Task 1 – Step 16 for validation.
+- Added screenshots for refreshing the appliance in Step 20 and using another account in Step 24.
+- Added a note in Step 29 instructing learners not to enter spaces in the FQDN.
+- Added the required SQL Authentication and MySQL Server login credential steps to support successful discovery.
+
+**HOL1 – Exercise 2**
+- Updated assessment creation screenshots in Task 1 to reflect the latest UI.
+- Added steps in Task 2 – Steps 1 and 2 to log in to `smarthotelhost` through Hyper-V.
+- Removed the failing validations.
+
+**HOL1 – Exercise 3**
+- Updated the Test Migration, Cleanup, and Migration screenshots in Tasks 3, 4, and 5 based on the latest workflow.
+- Refined instructions for better clarity.
+- Removed the Task 2 validation.
+- Added relevant scenario-based guidance.
+
+**HOL1 – Exercise 4**
+- Added steps to open the Virtual Machine Scale Set after deployment and verify that the instances are running.
+
+**HOL2 – Exercise 3**
+- Added an updated screenshot for Task 4 showing the server migration flow using the latest UI.
+- Added steps to complete Microsoft Entra ID sign-in for the Red Hat Linux VM after installing the SSH login extension:
+  - Verify the extension.
+  - Assign the **Virtual Machine Administrator Login** role.
+  - Connect through **Azure Bastion** using Microsoft Entra ID authentication.
+  - Confirm the signed-in user.
+
+**HOL3 – Exercise 1**
+- Added a screenshot demonstrating PowerShell script execution.
+- Added a note instructing learners to verify the PowerShell script output before proceeding.
+
+**Business Case Exercise**
+- Added objectives to clearly define the expected learning outcomes.
+- Replaced the existing business case screenshot with an updated screenshot showcasing the new workloads.
+
+**Azure Automanage Removal**
+- Removed Azure Automanage tasks and related content from HOL1 and HOL2 because the service has been retired and the tasks were no longer functional.
+
+- Overall refined the instructions throughout the lab guide.
+
+**### Screenshot Updates**
+
+- Added and refreshed screenshots across the Getting Started section and HOL1, HOL2, HOL3, and Business Case exercises.
+- Updated screenshots to reflect the latest Azure portal and lab UI.
+- Added screenshots for appliance refresh, alternate account usage, assessment creation, server migration, PowerShell execution, Test Migration, Cleanup, Migration, VMSS deployment verification, and other updated workflows.
+- Updated the architecture diagram and business case visuals.
+- Added relevant screenshots wherever new steps or scenarios were introduced.
+
+**### Testing Notes**
+
+- **Testing Date**: 2026-10-06
+
+**### Testing Scope**
+
+- Performed validation of the updated lab guide and reviewed the end-to-end flow across the updated exercises.
+- Verified that the updated instructions, screenshots, scenarios, and workflows align with the current lab experience.
+- Reviewed the updated validation logic and removed validations that were failing or no longer applicable.
+- Verified the updated VMSS deployment check and Microsoft Entra ID authentication flow for the Red Hat Linux VM.
+- Confirmed that the retired Azure Automanage content has been removed from the applicable exercises.
+
+</details>
+
+<details>
   <summary>2026-06-30</summary>
 
 ## Release Date: 2026-06-30
