@@ -15,6 +15,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
+Here’s a more polished and professional version of the release notes:
+
+<details>
+  <summary>2026-10-06</summary>
+
+## Release Date: 2026-10-06
+
+### Summary of Changes
+
+- Updated the lab guide to improve clarity, usability, and alignment with the latest UI changes.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated instructions to reflect the latest UI changes and ensure the steps are accurate and easy to follow.
+
+### Screenshot Updates
+
+- Replaced the **Environment Settings** tab screenshot on the **Getting Started** page.
+- Updated screenshots across the lab to reflect minor UI changes and ensure consistency with the current interface.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-06
+
+### Testing Scope
+
+- Performed end-to-end validation of the updated lab guide to ensure that the revised instructions and screenshots align with the latest UI.
+- Verified the updated steps across **Exercises 1 and 2**.
+- Confirmed that the overall lab flow, instructions, and content are working as expected.
+
+---
+</details>
+
 <details>
   <summary>2026-09-07</summary>
 
