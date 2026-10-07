@@ -16,9 +16,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-  <summary>2026-07-14</summary>
+  <summary>2026-10-07</summary>
 
-## Release Date: 2026-07-14
+## Release Date: 2026-10-07
 
 ### Summary of Changes
 
@@ -40,7 +40,7 @@ Enhanced the lab documentation by reorganizing the content, improving instructio
 
 ### Testing Notes
 
-- **Testing Date**: 2026-07-14
+- **Testing Date**: 2026-10-07
 
 ### Testing Scope 
 
