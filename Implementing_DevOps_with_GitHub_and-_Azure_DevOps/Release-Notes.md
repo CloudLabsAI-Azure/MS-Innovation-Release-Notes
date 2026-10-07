@@ -1,6 +1,5 @@
-# Implementing DevOps with GitHub and Azure DevOps
-
-Welcome to the **Implementing DevOps with GitHub and Azure DevOps** Readme.md . In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+# DevOps With GitHub
+Welcome to the  **DevOps With GitHub** Release-Notes.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -11,270 +10,266 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updates to content or documentation
 - Changes to screenshots and visuals used in the lab
 
-`For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
+`For any further details or inquiries, feel free to reach out to the CloudLabs support team.`
+
+`Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
 
 <details>
-  <summary>2026-06-17</summary>
+  <summary>2026-10-07</summary>
 
-### Release Date: 2026-06-17
-
-## Summary of Changes
-
-Enhanced the lab guide by improving scenario consistency, refining instructions, correcting step numbering, and aligning notes with images. Updated screenshots to reflect the latest UI and improved overall clarity and structure for a better learner experience.
-
-## Infrastructure Changes
-
-N/A
-
-## Content Changes
-
-- **Getting Started Page**: Updated scenario for consistency, improved note alignment, refined instructions, corrected numbering, and updated images.
-- **Exercise 01**: Improved note alignment and numbering, updated GitHub UI screenshot, and enhanced clarity of instructions.
-- **Exercise 02**: Refined lab requirements, improved note placement and clarity, added guidance notes, corrected numbering, enhanced headings, and improved instruction clarity across tasks.
-- **Exercise 03**: Corrected numbering and added clarity notes for improved understanding.
-- **Exercise 04**: Improved note alignment and corrected numbering across tasks.
-- **Exercise 05**: Simplified steps, refined instructions, ensured proper numbering alignment, and updated screenshots.
-- Improved overall readability, consistency, and learner guidance across all exercises.
-
-## Screenshot Updates
-
-- Updated multiple screenshots across Getting Started and all exercises to align with the latest Azure DeVops and GitHub UI.
-- Improved step-number alignment within images for better navigation and understanding.
-
-### Testing Notes
-
-- **Testing Date**: 2026-06-17
-
-## Testing Scope
-
-- Executed end-to-end validation of the lab.
-- Verified consistency of updated scenarios and instructions.
-- Validated corrected step numbering and note placements.
-- Ensured all updated screenshots match the latest UI.
-- Confirmed improved clarity, formatting, and overall learner experience.
-
-</details>
-
-<details>
-  <summary>2026-06-07</summary>
-
-### Release Date: 2026-06-07
-
-## Summary of Changes
-
-Updated the lab guide by adding a business-driven lab scenario to provide learners with better context before starting the exercises. Improved overall formatting and readability across the lab, updated screenshots to align with the latest UI, and enhanced link formatting and step annotations for a better learner experience.
-
-## Infrastructure Changes
-
-N/A
-
-## Content Changes
-
-- **Getting Started Page**: Added a lab scenario to provide business context and objectives for the overall lab.
-- **All Labs**: Corrected indentation and formatting inconsistencies throughout the lab guide.
-- **All Labs**: Enhanced link formatting to make URLs easier to identify, copy, and use.
-- Improved overall readability and consistency of instructions across the lab.
-
-## Screenshot Updates
-
-- **Getting Started Page**: Updated the **Zoom In/Out** screenshot to reflect the latest UI.
-- **Lab 04**: Updated a screenshot with the correct step marking to improve learner guidance and navigation.
-
-### Testing Notes
-
-* **Testing Date**: 2026-06-07
-
-## Testing Scope
-
-- Executed thorough end-to-end validation of the lab environment.
-- Verified newly added lab scenario content and formatting.
-- Validated updated screenshots against the current UI.
-- Confirmed links, formatting, indentation, and step annotations were accurate and user-friendly.
-- Ensured overall lab flow and learner experience remained consistent after updates.
-
-</details>
-
-<details>
-<summary>2026-06-01</summary>
-
-## Release Date: 2026-06-01
+## Release Date: 2026-10-07
 
 ### Summary of Changes
 
-Modified Azure DevOps and GitHub lab instructions in accordance with the latest interface changes. Added the Note in the labs as required.
+Updated the lab guide for refining step-by-step instructions, and refreshing screenshots to match the latest product experience.
 
 ### Infrastructure Changes
 
-* No changes
-
+N/A
 
 ### Content Changes
 
-* Added instructions in **Lab 01 - Excercise 2 - Task 1** to do `az login` and updated the Screenshots as well.
-
-* In **Lab 01 - Excercise 2 - Task 1** at Step 6 changed the location from eastus to canadacentral.
-
-* **Lab 01 - All Exercises** Updated the GitHub Scheenshots and Azure Portal Screenshots which relflects new UI.
-
-* **Lab 02 - Set up an Azure DevOps organization** Update the Screenshot at Step 1 with clear instructions.
-
-* **Lab 03** Updated the instructions
-
-* Added additional notes in **Lab 04**,for the clarification of User.
+- Refined instructions across the lab guide for better clarity, consistency, and ease of execution.
 
 ### Screenshot Updates
 
-* Replaced outdated image references with updated screenshots(includes new logo changes) for:
-
-  * GitHub Portal.
-  * Azure DevOps Portal.
+- Added and updated screenshots to support the newly onboarded lab exercises.
 
 ### Testing Notes
 
-* **Testing Date**: 2026-06-01
+- **Testing Date**: 2026-10-07
 
-### Testing Scope
+### Testing Scope 
 
-* End-to-end validation of Azure DevOps and GitHub workflow instructions was completed successfully.
+- Performed end-to-end lab testing and validated the lab exercises and instructions for clarity and functionality.
 
-* Verified updated screenshots, pipeline execution flow, branch policy configuration, self-hosted agent setup, and YAML pipeline onboarding against the latest Azure DevOps and GitHub UI experience.
+---
+</details>
+
+<details>
+  <summary>2026-09-28</summary>
+
+## Release Date: 2026-09-28
+
+## Summary of Changes
+
+Updated the **DevOps with GitHub** lab to improve the overall learner experience and align the lab guide with the latest validated workflows. The documentation was refreshed with clearer instructions, updated navigation steps, and revised screenshots across multiple exercises. Outdated screenshots were replaced, new screenshots were added, and the architecture diagram was updated to reflect the current lab environment. Additional documentation updates were made based on the final round of end-to-end lab testing.
+
+## Infrastructure Changes
+
+* Updated the GitHub authentication workflow from username and password-based authentication to GitHub Single Sign-On (SSO).
+
+## Content Changes
+
+* Exercise 1 – Continuous Integration: Updated the GitHub Actions CI workflow and revised the instructions based on the latest validated experience.
+* Exercise 2 – GitHub Projects and Azure Test Plans: Updated the Azure DevOps/GitHub workflow and added the required Azure DevOps cleanup steps.
+* Exercise 3 – GitHub Advanced Security: Updated the GitHub security features and security-related workflows based on the final lab testing.
+* Exercise 4 – Monitoring and Load Testing: Updated the Application Insights and Azure Load Testing instructions and navigation steps.
+* General: Updated masterdoc.json and refined the lab instructions for improved consistency and learner guidance.
+
+## Screenshot Updates
+
+* Updated screenshots across the **Continuous Integration, Security Features, Exercise 2, Monitoring and Load Testing, and Getting Started** sections.
+* Added the latest **architecture diagram** and removed the outdated architecture diagram, the updated diagram now includes GitHub Projects, Azure test plans and Front Door endpoints.
+* Updated screenshots based on findings from the final end-to-end lab testing to ensure they accurately match the documented instructions.
+
+## Testing Notes
+
+* **Testing Date:** 2026-09-28
+
+## Testing Scope
+
+* Performed the final round of **end-to-end testing** for the **DevOps with GitHub** lab.
+* Validated the updated instructions against the current GitHub and Azure service experience.
+* Verified the documented workflows across the affected exercises.
+* Validated the updated screenshots against the corresponding lab instructions.
+* Verified that the updated architecture diagram and supporting images accurately represent the current lab environment.
+* Reviewed the instructional sequence, navigation, formatting, and learner guidance.
+* Updated the documentation and screenshots based on issues identified during the final testing cycle.
+* Verified the final documentation changes after incorporating the testing feedback.
 
 ---
 
 </details>
 
 <details>
-<summary>2026-05-27</summary>
+  <summary>2026-05-29</summary>
 
-## Release Date: 2026-05-27
+### Release Date: 2026-05-29
 
 ### Summary of Changes
 
-Updated Azure DevOps and GitHub lab instructions to align with the latest Azure DevOps and GitHub UI experience, refreshed screenshots across multiple exercises, improved workflow clarity, and added additional validation guidance for billing configuration, pipeline execution, and branch management scenarios.
+- Added lab scenarios, updated screenshots to reflect the latest UI changes, revised step numbering for better alignment, corrected content inconsistencies, included additional notes to improve user guidance, and updated certain steps in **Exercise 4, Task 2** based on the latest Azure portal updates.
 
 ### Infrastructure Changes
 
-* Updated Lab virtual machine/Selenium VM, OS disk SKU from HDD to SDD.
-
+- NA
 
 ### Content Changes
-
-* Added additional execution validation guidance for pipeline completion before proceeding with dependent tasks.
-
-* **Getting Started Guide**: Updated Environment tab and Split Window screenshots to match the latest UI experience.
-* **Lab 02 - Exercise 0 - Task 1**: Updated Azure DevOps billing configuration steps and added conditional guidance for subscriptions that are already configured.
-
-* Added additional note section, to guide for pipeline completion before proceeding with dependent tasks.
-
-### Screenshot Updates
-
-* **Getting Started Guide**: Updated Environment tab and Split Window screenshots to match the latest UI experience.
-
-* Refreshed existing screenshots and added new screenshots across **Lab 01, Lab 02, Lab 03, and Lab 04** to match the latest Azure DevOps and GitHub UI experience.
-
-* Replaced outdated image references with updated screenshots(includes new logo changes) for:
-
-  * GitHub Portal.
-  * Azure DevOps Portal.
-
-* Standardized screenshot naming conventions across updated exercises.
-
-### Testing Notes
-
-* **Testing Date**: 2026-05-27
-
-### Testing Scope
-
-* End-to-end validation of Azure DevOps and GitHub workflow instructions was completed successfully.
-
-* Verified updated screenshots, pipeline execution flow, branch policy configuration, self-hosted agent setup, and YAML pipeline onboarding against the latest Azure DevOps and GitHub UI experience.
-
----
-
-</details>
-
-
-<details>
-<summary>2026-05-05</summary>
- 
-## Release Date: 2026-05-05
- 
-### Summary of Changes
- 
-Updates have been implemented throughout the guide, incorporating multiple screenshots to enhance clarity and refining instructions to improve overall understanding 
- 
-### Infrastructure Changes
- 
-N/A
- 
-### Content Changes
- 
-Updated the lab guide to ensure consistency in the UI experience and improve overall clarity.
-
-Key improvements include:
-
-- Updated Task and Exercise heading sizes as per the quality checklist recommendations.
-
-- Added architecture diagram and explanation of components to the Getting Started page.
-
-- Removed MFA-related steps from the Getting Started page as they are no longer required.
-
-- Lab 02 – Exercise 4, Task 3: Added steps to update agent configuration, NuGet version, and required .NET dependencies to fix pipeline failures.
-
-- Updated "Review" sections to "Summary" and added a concluding summary at the end of the lab as per the quality checklist.
-
-- Fixed typos, improved phrasing, and enhanced overall readability.
-
-### Screenshot Updates
- 
-**Major updates**: Updated major screenshots by replacing blurred and outdated images with clear ones and aligning them with the latest GitHub and Azure DevOps UI changes.
-
-### Testing Notes
- 
-- **Testing Date**: 2026-05-05
- 
-### Testing Scope
- 
-- Performed complete end-to-end lab testing. Verified all instructions, and user flows with the latest UI. 
- 
-</details>
-
-<details>
-  <summary>2025-07-01</summary>
-
-  **Implementing DevOps with GitHub and Azure DevOps** is a newly onboarded lab inspired from Az 400 and DevOps with GitHub lab 
   
-- **Testing Date**: 2025-05-23
+* Added lab scenarios and included additional notes to improve user guidance and overall lab clarity.
+* **Exercise 1, Task 3, Step 10**: Corrected the step numbering.
+* **Exercise 1, Task 4, Step 11**: Corrected the step numbering in the note section.
+* **Exercise 1, Task 5, Step 3**: Corrected typographical errors.
+* **Exercise 2, Task 2, Step 3**: Corrected a typographical error.
+* **Exercise 2, Task 3, Step 1**: Added a note to guide users on enabling **Test Plans** in Azure DevOps.
+* **Exercise 3, Task 1, Step 5** and **Task 2, Step 1**: Updated the resource names to align with the latest UI changes.
+* **Exercise 3, Task 3, Step 2**: Updated the resource name based on the latest UI updates.
+* **Exercise 4, Task 2, Steps 1, 2, and 6**: Updated the instructions to reflect the latest changes in Azure.
+
+### Screenshot Updates
+
+* In the **Getting Started** page, updated the **Environment** tab screenshot to reflect the latest UI changes.
+* **Exercise 1, Task 2, Step 3**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 3, Step 1**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 3, Step 5**: Updated the screenshot based on the latest UI changes.
+* **Exercise 1, Task 4, Step 8**: Updated the screenshot based on the latest UI changes.
+* **Exercise 2, Task 3, Step 17**: Updated the screenshot to mask the unique ID.
+* **Exercise 3, Task 1, Step 5** and **Task 2, Step 1**: Updated the screenshots to align with the latest UI changes.
+* **Exercise 3, Task 3, Step 2**: Updated the screenshot based on the latest UI changes.
+* **Exercise 4, Task 2, Steps 1, 2, and 6**: Updated the screenshots to reflect the latest workflow and UI updates.
+
+### Validation
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2026-05-29
+- **Test Validation Summary**: Validated the lab guide steps to ensure accuracy and consistency.
+
+### Testing scope
+
+- Validated the complete lab workflow, verified the latest Azure portal UI updates, and updated the lab steps accordingly.
+
+---
+</details>
+
+<details>
+  <summary>2025-11-10</summary>
+
+## Release Date: 2025-11-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content has been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-11-10
+
+### Testing Scope 
+
+- Performed end-to-end lab testing and updated the lab guide for better clarity, fixed deployment issues.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content along with validations have been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end to end lab testing and all validations were successful, updated lab guide for better clarity.
+
+</details>
+
+<details>
+  <summary>2025-09-10</summary>
+
+## Release Date: 2025-09-10
+
+### Summary of Changes
+
+- The lab has been successfully tested, and the lab content, along with validations, has been reviewed and updated.
+
+### Testing Notes
+
+- **Testing Date**: 2025-09-10
+
+### Testing Scope 
+
+- Performed end-to-end lab testing, identified one validation failure, and removed it from the lab guide after receiving confirmation from the TO. Updated the lab guide and script as per the latest updates.
+
+</details>
+
+<details>
+  <summary>2025-07-25</summary>
+
+### Release Date: 2025-07-25
+
+### Summary of Changes
+
+- Conducted end-to-end testing of the lab workflow, validated Azure UI updates, checked application dependencies and framework expirations, and enhanced instructions and screenshots for improved clarity and visibility.
+
+### Infrastructure Changes
+
+- Upgraded OS disk SKU and IP address SKU in the ARM template.
+
+### Content Changes
+  
+- NA
+
+### Screenshot Updates
+
+- Screenshots were updated to enhance the overall user experience. 
+
+### Validation
+
+- NA
+
+### Testing Notes
+
+- **Testing Date**: 2025-07-25
+- **Test Validation Summary**: Validated the lab guide steps.
+
+### Testing scope
+
+- Validated the complete lab workflow, verified Azure UI updates, assessed application dependencies and framework validity, and reviewed instructional clarity and screenshot accuracy.
+
+---
+</details>
+
+<details>
+  <summary>2025-06-10</summary>
+
+### Release Date: 2025-06-10
+
+- **Testing Date**: 2025-06-10
 
 ## Infrastructure Changes
 
 NA
 
 ## Content Changes
-
-### LAB 2
-
-The newly added **Exercise 4** in **Lab 2** introduces the **Implementation of Selenium tests using a self-hosted Azure DevOps agent**.
-
-### Lab 5: Implementing Security and Compliance in an Azure Pipeline
-
-Introduces the integration of **Mend Bolt** to enhance security and compliance by scanning for vulnerabilities within the Azure DevOps pipeline.
   
+Instructions were updated to be more precise and clear.
 
 ## Screenshot Updates
 
-- **Change**: All step-by-step instructions have been documented with corresponding screenshots added for each stage of the process.
+Screenshots were updated to enhance the overall user experience. 
 
 ## Validation
 
-Implemented and tested the lab with validation
+NA
 
 ## Testing Notes
 
-- **Test Validation Summary**: The lab was successfully onboarded and tested end-to-end (E2E) to ensure full functionality and workflow validation.
-
+- **Test Validation Summary**: Validated the lab guide steps.
 
 ---
 </details>
+
+
+
