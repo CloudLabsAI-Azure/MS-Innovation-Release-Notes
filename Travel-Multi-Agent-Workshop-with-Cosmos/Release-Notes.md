@@ -22,21 +22,23 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Enhanced the lab documentation by reorganizing the content, improving instructional clarity, and updating screenshots to align with the latest product interface.
+- Updated the lab experience with refreshed documentation, improved onboarding flow, updated visuals, and additional deployment automation to support a more consistent and reliable lab setup.
 
 ### Infrastructure Changes
 
-- Automated the provisioning of lab virtual machine resources using ARM template.
-- Implemented automated assignment of a custom Azure RBAC role to enable users to provision Azure resources using Terraform.
+- Added ARM template automation for provisioning the virtual machine resources required by the lab.
+- Automated the assignment of a custom Azure RBAC role, enabling users to provision Azure resources directly through VS Code.
+- Added TPM policy enforcement and integrated custom lab validation checks to verify the lab environment.
 
 ### Content Changes
 
-- Standardized the lab guide by improving the accuracy and consistency of the instructions across all exercises.
-- Reorganized the task flow to create a more intuitive and seamless onboarding experience.
+- Reviewed the complete lab guide and refined the instructions for better clarity and consistency.
+- Updated the exercise sequence and task flow to make the hands-on experience easier to follow.
+- Revised the onboarding instructions to provide a smoother transition between the different lab activities.
 
 ### Screenshot Updates
 
-- Updated screenshots throughout the lab guide to align with the latest product interface and enhance the user experience.
+- Added and updated screenshots and supporting instructions across the exercises to ensure they accurately reflect the steps learners will see during the lab.
 
 ### Testing Notes
 
@@ -44,7 +46,9 @@ Enhanced the lab documentation by reorganizing the content, improving instructio
 
 ### Testing Scope 
 
-- Performed end-to-end testing of the lab to verify functionality and ensure a seamless user experience. Updated the lab content to improve clarity and usability.
+- Completed a full end-to-end validation of the lab, including the deployment and exercise workflows.
+- Verified the updated automation, TPM policy, custom validations, and lab instructions.
+- Made the necessary content updates based on the testing results to improve overall usability and consistency.
 
 ---
 </details>
