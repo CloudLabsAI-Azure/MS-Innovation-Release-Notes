@@ -35,7 +35,7 @@ N/A
 
 ### Screenshot Updates
 
-- Added and updated screenshots to support the newly onboarded lab exercises.
+- Updated screenshots across the lab to match the latest UI experience.
 
 ### Testing Notes
 
