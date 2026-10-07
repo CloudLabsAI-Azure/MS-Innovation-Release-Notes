@@ -16,6 +16,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-05</summary>
+
+## Release Date: 2026-10-05
+
+## Summary of Changes
+
+Updated the **How to use Apache Spark in Microsoft Fabric** lab to align with the latest Microsoft Fabric user interface and current lab workflows. Instructions across the Apache Spark, Dataflow Gen2, and Ingest Pipeline labs were refreshed, and supporting screenshots were updated or added to provide accurate visual guidance for learners.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Updated **Lab 01: Apache Spark** instructions to reflect the latest Microsoft Fabric UI and workflow.
+* Updated **Lab 02: Dataflow Gen2** instructions and navigation steps based on the current user experience.
+* Updated **Lab 03: Ingest Pipeline** instructions to align with the latest UI and workflow.
+* Updated the **Apache Spark getting-started** guidance with the latest instructions and navigation.
+* Refreshed instructional content where the previous steps no longer matched the current Microsoft Fabric experience.
+* Improved learner guidance and consistency across the affected lab exercises.
+
+## Screenshot Updates
+
+* Updated screenshots across **Labs 01–03** to match the latest Microsoft Fabric UI.
+* Refreshed screenshots related to Apache Spark, Dataflow Gen2, Ingest Pipeline, and lab setup/navigation.
+* Updated existing screenshots in the `Images2` folders.
+* Added new screenshots to support updated instructions and workflows.
+* Updated screenshots for environment, access, trial status, Fabric welcome experience, notebook, pipeline, and other UI workflows.
+
+## Testing Notes
+
+* **Testing Date:** 2026-10-05
+
+## Testing Scope
+
+* Performed lab testing for the **How to use Apache Spark in Microsoft Fabric** lab.
+* Validated updated instructions against the latest Microsoft Fabric portal experience.
+* Verified the updated workflows for **Apache Spark, Dataflow Gen2, and Ingest Pipeline**.
+* Validated updated and newly added screenshots against the corresponding lab steps.
+* Verified navigation, instructional sequence, and learner guidance across the affected exercises.
+* Updated the lab documentation and screenshots based on findings identified during testing.
+
+---
+
+</details>
+
+<details>
   <summary>09-June-2026</summary>
 
 ## Release Date : 09-June-2026
