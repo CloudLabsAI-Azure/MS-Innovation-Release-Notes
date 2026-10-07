@@ -51,6 +51,8 @@ Updated the Build-A-Fabric Real-Time Intelligence lab guide to align with the la
 - Verified that the overall learner experience is seamless and that no regressions were introduced by the recent changes.
 ---
 
+</details>
+
 <details>
   <summary>2026-09-01</summary>
 
