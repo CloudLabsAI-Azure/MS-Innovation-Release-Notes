@@ -18,6 +18,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-09-25</summary>
+
+## Release Date: 2026-09-25
+
+### Summary of Changes
+
+Updated the Build-A-Fabric Real-Time Intelligence lab guide to align with the latest Microsoft Fabric portal experience. This PR refreshes and replaces outdated screenshots, updates UI labels and workflows to reflect current Fabric wording, standardizes scenario language, and improves instructional clarity and onboarding guidance. All changes are documentation and media updates — no infrastructure changes.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Refined instructions across the lab guide for better clarity, consistency, and ease of execution.
+
+### Screenshot Updates
+
+- Updated screenshots across the lab to match the latest UI experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-09-25
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab to ensure all tasks and exercises execute successfully without issues.
+- Verified that all lab instructions are accurate, sequential, and aligned with the current Microsoft Fabric portal experience.
+- Validated all portal UI changes and confirmed that the screenshots accurately reflect the latest interface.
+- Ensured the lab guide, screenshots, expected outputs, and validation steps remain consistent throughout the lab after incorporating the latest updates.
+- Verified that the overall learner experience is seamless and that no regressions were introduced by the recent changes.
+---
+
+<details>
   <summary>2026-09-01</summary>
 
 ## Release Date: 2026-09-01
