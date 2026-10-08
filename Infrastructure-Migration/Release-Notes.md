@@ -86,7 +86,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 - Overall refined the instructions throughout the lab guide.
 
-**### Screenshot Updates**
+### Screenshot Updates
 
 - Added and refreshed screenshots across the Getting Started section and HOL1, HOL2, HOL3, and Business Case exercises.
 - Updated screenshots to reflect the latest Azure portal and lab UI.
@@ -94,11 +94,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 - Updated the architecture diagram and business case visuals.
 - Added relevant screenshots wherever new steps or scenarios were introduced.
 
-**### Testing Notes**
+### Testing Notes
 
 - **Testing Date**: 2026-10-06
 
-**### Testing Scope**
+### Testing Scope
 
 - Performed validation of the updated lab guide and reviewed the end-to-end flow across the updated exercises.
 - Verified that the updated instructions, screenshots, scenarios, and workflows align with the current lab experience.
