@@ -34,8 +34,7 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 ### Content Changes
  
 * **Introduction and Getting Started**
-   * Created the lab overview and Getting Started pages with this structure: Lab Scenario, Overview, Objectives, Architecture and Explanation of Components.
-   * Rewrote the objectives to cover only the tasks learners actually perform.
+   * Created the lab overview and Getting Started pages with this structure: Lab Scenario, Overview, Objectives, Architecture, and Explanation of Components.
    * Updated the VS Code and GitHub Copilot sign-in steps to match the current VS Code screens.
 * **Exercise 1**
    * Added a scenario and reframed the steps for easy understanding.
