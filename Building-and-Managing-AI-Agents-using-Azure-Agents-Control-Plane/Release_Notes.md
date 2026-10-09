@@ -18,6 +18,67 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 # Release Notes
 
 <details>
+  <summary>2026-10-09</summary>
+
+## Release Date: 2026-10-09
+
+### Summary of Changes
+ 
+* Restructured the lab guide to make the scenario, objectives, and steps easier to follow.
+* Made every review and verification step in Exercise 3 checkable: steps now have clear expected results and pass/fail criteria, and reuse values learners already have.
+ 
+### Infrastructure Changes
+ 
+* Automated A365 deployment required for Exercise 3
+ 
+### Content Changes
+ 
+* **Introduction and Getting Started**
+   * Created the lab overview and Getting Started pages with this structure: Lab Scenario, Overview, Objectives, Architecture and Explanation of Components.
+   * Rewrote the objectives to cover only the tasks learners actually perform.
+   * Updated the VS Code and GitHub Copilot sign-in steps to match the current VS Code screens.
+* **Exercise 1**
+   * Added a scenario and reframed the steps for easy understanding.
+   * Updated the folder trust step (**Manage > Trust**) in VS Code.
+   * Fixed typos in the Copilot prompts. 
+* **Exercise 2**
+   * Added a sample Copilot prompt for creating a new specification (Step B.1, Option 3).
+   * Added a note to Step B.3 on what to do if Copilot blocks public access to the storage account.
+   * Added a note to Step B.5 explaining that agent pods may not be running until the image is pushed in Step B.7.
+* **Exercise 3**
+   * **Step 3.5:** Learners now turn off the Log Analytics **Agent** toggle to reach the KQL editor. Widened the KQL time window from `ago(60m)` to `ago(24h)`, because the 60-minute query returned no results.
+   * **Step 3.6:**
+      * Commands now run directly in a PowerShell terminal and use saved variables, so learners no longer copy and paste IDs.
+      * Added readable table output for the role assignment and workload identity checks.
+      * Updated the expected roles table to match the roles actually deployed.
+      * Added a separate Cosmos DB role check, because Cosmos DB roles don't appear in `az role assignment list`.
+   * **Step 3.7:**
+      * Added `azd env list` for finding the environment name.
+      * Added a note explaining that the app ID and object ID are expected to be identical for agent identities and blueprints.
+      * Added a federation check that compares Subject, Issuer and Audience against the Step 3.6 values.
+   * **Step 3.8:**
+      * Learners now find their agent in the Agent 365 Registry by searching for their deployment ID, then compare the **Entra agent ID** with `AGENT_IDENTITY_APP_ID`.
+ 
+### Screenshot Updates
+ 
+* **Exercise 3:** Added screenshots for:
+   * APIM, Cosmos DB, AI Search and Log Analytics navigation
+   * The knowledge base configuration panel
+   * `azd env list` output
+   * The Entra Agent ID and blueprint federated credentials
+   * The Agent 365 Registry and agent details pane
+ 
+### Testing Notes
+ 
+* Testing Date: 2026-10-08
+ 
+### Testing Scope
+ 
+* End-to-end walkthrough of Exercises 1–3. Verified that the automation for Ex 3 implemented in the ARM is working, and we are able to perform Exercise 3 successfully.
+  
+</details>
+
+<details>
   <summary>2026-09-23</summary>
 
 ## Release Date: 2026-09-23
