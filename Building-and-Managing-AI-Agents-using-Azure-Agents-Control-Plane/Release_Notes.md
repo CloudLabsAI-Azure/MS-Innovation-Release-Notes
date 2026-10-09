@@ -30,6 +30,7 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 ### Infrastructure Changes
  
 * Automated A365 deployment required for Exercise 3
+* Updated the Lab VM SKU to D4s_v5.
  
 ### Content Changes
  
