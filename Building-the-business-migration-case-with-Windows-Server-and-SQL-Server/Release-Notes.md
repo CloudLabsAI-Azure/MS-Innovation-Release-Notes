@@ -18,6 +18,73 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-10-10</summary>
+
+## Release Date : 2026-10-10
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest lab flow and Azure portal experience. Refined the Getting Started section and all four exercises with updated scenarios, objectives, instructions, notes, screenshots, and resource guidance. Updated the VM configuration to use the latest **D2s_v5** size and refreshed the VM image where required.
+
+### Infrastructure Changes
+
+- Updated the VM size in Exercise 02 to **D2s_v5**.
+
+### Content Changes
+
+- **Getting Started:**
+  - Refined the lab scenario, objectives, and overview based on the latest tasks.
+  - Added the Storage Account to the resource/component explanation.
+  - Updated the resource and architecture guidance to provide better context for learners.
+
+- **Exercise 01:**
+  - Refined the scenario overview and summary.
+  - Updated Task 7 in objectives.
+  - Added a note in Task 2 to clarify that learners can skip the SSMS login.
+  - Added screenshots and guidance for the role assignment steps in Task 4.
+  - Updated Task 5, Steps 5 and 6, to clearly instruct learners to select the correct Resource Group.
+  - Added a note explaining that the migration may take a few minutes to complete.
+
+- **Exercise 02:**
+  - Added a step in Task 1 to access the Azure portal.
+  - Updated the VM size to **D2s_v5** and updated the VM image.
+  - Added a step in Task 3, Step 4, to open a new PowerShell script and run the required script.
+  - Updated step numbering and corresponding screenshots for Steps 8 and 9.
+  - Refined notes and instructions across the exercise.
+
+- **Exercise 03:**
+  - Updated the overview, objectives, and summary based on the newly added Task 4.
+  - Added a step to connect to the Hyper-V VM in Task 2.
+  - Updated notes based on the latest documentation.
+  - Refined the instructions for better clarity and learner guidance.
+
+- **Exercise 04:**
+  - Changed Task 1 to read-only and updated its description.
+  - Added a step in Task 3 to select the correct VM.
+  - Corrected the numbering shown in the Task 5 screenshot and updated the image.
+  - Added a note explaining that some options may not be available until the full backup is completed.
+
+### Screenshot Updates
+
+- Updated screenshots across the Getting Started section and all four exercises to reflect the latest UI and workflow.
+- Added screenshots for role assignments, VM configuration, PowerShell script execution, Hyper-V connection, and backup-related steps.
+- Corrected screenshot numbering and replaced outdated images where required.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-10
+
+### Testing Scope
+
+- Performed end-to-end validation of the updated lab flow and revised exercises.
+- Verified the updated instructions, screenshots, VM configuration, and navigation against the current lab environment.
+- Validated the updated task flows and refined learner guidance based on the testing results.
+- Reviewed the updated backup workflow and added appropriate guidance for options that depend on backup completion.
+
+---
+</details>
+
+<details>
   <summary>2026-10-06</summary>
 
 ## Release Date : 2026-10-06
