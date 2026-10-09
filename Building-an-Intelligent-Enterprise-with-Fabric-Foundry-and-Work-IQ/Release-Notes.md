@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-10-07</summary>
+
+## Summary of Changes
+
+Implemented content, workflow, and documentation updates across the workshop labs to align with the latest portal experience, improve instructional clarity, and enhancing the overall learning experience and ensuring greater accuracy for learners.
+
+## Content Updates
+
+- Updated lab guides with the latest portal screenshots and images across the workshop.
+- upgraded all Prompt Flow-related content with the agents, references, and instructions from the lab documentation.
+- upgraded MCP Flow-related steps with the power automate flows and supporting content from applicable exercises.
+- Updated navigation steps, instructions, and supporting guidance to align with the revised lab workflow.
+- Reviewed and refined lab content to ensure consistency following the upgrade of Prompt Flow and MCP Flow sections.
+- Updated workshop titles and duration metadata across lab01, lab02, lab03, and lab07 to better reflect actual completion times.
+- Refined lab scenarios and sample datasets by updating region examples and expanding supported region values within Fabric IQ exercises.
+- Simplified Power Automate guidance in lab05 by removing redundant publishing steps, standardizing save actions, and updating scenario examples.
+- Enhanced AI grounding validation guidance in lab04-new with updated prompts, refreshed screenshots, and clearer explanations of grounded versus fabricated responses.
+- Updated governance and security instructions to use lab-specific user accounts and revised role assignment procedures.
+
+## Documentation and Asset Updates
+
+- Refreshed documentation assets with updated screenshots and images across multiple exercises.
+- Replaced outdated visuals to reflect the latest portal experience and workflow changes.
+- Improved instructional consistency throughout the lab guides following content modernization efforts.
+
+## Testing Notes
+
+- **Testing Date:** 2026-10-07
+
+## Testing Scope
+
+- Validated all lab guides after the upgrade of Prompt Flow and MCP Flow content.
+- Verified updated navigation paths and workflow instructions against the current portal experience.
+- Confirmed revised workshop metadata and duration estimates are reflected correctly across applicable labs.
+- Reviewed Power Automate exercises to ensure updated instructions are accurate and complete.
+- Validated AI grounding exercises and expected response behavior using the updated guidance.
+- Confirmed screenshots and supporting documentation align with the current user interface.
+
+---
+
+</details>
+<details>
   <summary>2026-09-27</summary>
 
 ## Summary of Changes
