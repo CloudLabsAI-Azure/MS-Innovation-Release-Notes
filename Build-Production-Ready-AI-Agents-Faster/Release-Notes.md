@@ -27,6 +27,7 @@ Minor updates were implemented across the guide, including clearer and more accu
 ### Infrastructure Changes
  
 - Updated the azure.yaml file for the hosted agents to fix issues with the code hierarchy and structure through the logon task.
+- Updated the VM SKU size from `Standard_D4s_v3` to `Standard_D4s_v5`.
  
 ### Content Changes
  
@@ -46,7 +47,7 @@ N/A
  
 - Performed complete end-to-end lab testing with the new content. Verified all instructions, interactions, and user flows with the latest UI. And carried out some Infrastructure changes as well.
 
-- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior. Updated the VM SKU as per the requirement.
  
 </details>
  
