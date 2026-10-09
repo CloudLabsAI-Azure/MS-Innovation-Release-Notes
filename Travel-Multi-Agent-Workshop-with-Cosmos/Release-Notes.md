@@ -26,6 +26,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
+N/A
+
+### Content Changes
+
+- Reviewed the complete lab guide and refined the instructions for better clarity and consistency.
+- Updated the lab guide with several screenshots and corresponding instructions to improve clarity and understanding.
+- Added new steps in the Microsoft Fabric portal to ensure the notebooks can be run successfully without errors.
+
+### Screenshot Updates
+
+- Exercise 6, Task 2, step 15: Added screenshots for the newly introduced steps.
+- Exercise 10, Task 3, Step 1,2,3: Added screenshots for the newly introduced steps to ensure the notebook can be run successfully without errors.
+- Exercise 10, Task 5, Step 5: Added a screenshot to align with the newly added note.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-07
+
+### Testing Scope 
+
+- Completed a full end-to-end validation of the lab, including the deployment and exercise workflows.
+- Made the necessary content updates based on the testing results to improve overall usability and consistency.
+
+---
+</details>
+
+<details>
+  <summary>2026-10-07</summary>
+
+## Release Date: 2026-10-07
+
+### Summary of Changes
+
+- Updated the lab experience with refreshed documentation, improved onboarding flow, updated visuals, and additional deployment automation to support a more consistent and reliable lab setup.
+
+### Infrastructure Changes
+
 - Added ARM template automation for provisioning the virtual machine resources required by the lab.
 - Automated the assignment of a custom Azure RBAC role, enabling users to provision Azure resources directly through VS Code.
 - Added TPM policy enforcement and integrated custom lab validation checks to verify the lab environment.
