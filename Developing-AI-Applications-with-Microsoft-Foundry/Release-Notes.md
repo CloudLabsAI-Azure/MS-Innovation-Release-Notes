@@ -1,6 +1,6 @@
 # Developing AI Applications with Microsoft Foundry
 
-Welcome to the **Developing AI Applications with Azure AI Foundry** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Developing AI Applications with Microsoft Foundry** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -24,18 +24,18 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-- Updated the lab with improved Azure AI model deployment guidance, workflow validation instructions, monitoring walkthroughs, and troubleshooting recommendations.
+- Updated the lab with improved Microsoft Foundry model deployment guidance, workflow validation instructions, monitoring walkthroughs, and troubleshooting recommendations.
 - Enhanced learner guidance by simplifying rate-limit handling instructions, refining project creation steps, and adding detailed monitoring explanations.
 - Added new screenshots, annotations, and visual references to better support workflow execution, monitoring, and deployment scenarios.
 
 ### Infrastructure Changes
 
-- Increased the Azure AI model deployment rate limit from **10K TPM** to **50K TPM** to improve the learner experience during workflow testing and validation and also added the restriction policy for openai models.
+- Increased the Microsoft Foundry model deployment rate limit from **10K TPM** to **50K TPM** to improve the learner experience during workflow testing and validation and also added the restriction policy for openai models.
 
 ### Content Changes
 
 * Updated **Exercise 02** by removing the unnecessary note related to disabling recommended resources during project creation and streamlining the project setup instructions.
-* Increased the Azure AI model deployment rate limit guidance from **10K TPM** to **50K TPM**.
+* Increased the Microsoft Foundry model deployment rate limit guidance from **10K TPM** to **50K TPM**.
 * Enhanced workflow preview instructions with numbered callouts for prompt inputs, generated responses, and successful node execution indicators.
 * Simplified rate-limit handling guidance in **Exercise 03** by replacing extended wait-time instructions with a concise retry recommendation.
 * Expanded **Exercise 04** with detailed **Azure Monitor** walkthrough steps and explanations for:
