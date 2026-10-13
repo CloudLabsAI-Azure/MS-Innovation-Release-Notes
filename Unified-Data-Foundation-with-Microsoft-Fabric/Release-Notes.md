@@ -17,6 +17,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-10-13</summary>
+
+## Release Date: 2026-10-13
+
+### Summary of Changes
+
+Started deployment and testing of the Unified Data Foundation with Microsoft Fabric lab. The deployment completed successfully without any issues, and testing proceeded without blockers. During testing, identified that validation IDs were missing from the lab guide and updated the guide to include them. Verified that all validations are working as expected. 
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+* Updated the lab guide by adding the missing validation IDs.
+* Reviewed the validation instructions to ensure they align with the lab workflow and expected outcomes.
+
+### Screenshot Updates
+
+* No screenshot updates were required during this testing cycle.
+
+### Testing Notes
+
+* **Testing Date**: 2026-10-13
+
+Testing activities were performed following the successful deployment of the lab. All validation checks were executed and verified successfully, with no blockers encountered during testing.
+
+### Testing Scope
+
+* Deployed the Unified Data Foundation with Microsoft Fabric lab and confirmed successful deployment without errors.
+* Performed lab testing end to end and verified the exercises and expected outcomes.
+* Identified and added the missing validation IDs to the lab guide.
+* Executed the validations and confirmed that all validation checks were working as expected.
+
+</details>
+
+
+<details>
   <summary>2026-07-30</summary>
 
 ## Release Date: 2026-07-30
