@@ -20,16 +20,17 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-Implemented content, workflow, and documentation updates across the workshop labs to align with the latest portal experience, improve instructional clarity, and enhancing the overall learning experience and ensuring greater accuracy for learners.
+Implemented content, workflow, and documentation updates across the workshop labs to align with the latest portal experience, improve instructional clarity, enhance the overall learning experience, and ensure greater accuracy for learners.
 
 ## Content Updates
 
 - Updated lab guides with the latest portal screenshots and images across the workshop.
-- upgraded all Prompt Flow-related content with the agents, references, and instructions from the lab documentation.
-- upgraded MCP Flow-related steps with the power automate flows and supporting content from applicable exercises.
+- Added a new task with agents, references, and instructions from the lab documentation.
+- Upgraded MCP Flow-related steps with the Power Automate flows and supporting content from applicable exercises.
 - Updated navigation steps, instructions, and supporting guidance to align with the revised lab workflow.
-- Reviewed and refined lab content to ensure consistency following the upgrade of Prompt Flow and MCP Flow sections.
+- Reviewed and refined lab content to ensure consistency following the upgrade of the MCP Flow section.
 - Updated workshop titles and duration metadata across lab01, lab02, lab03, and lab07 to better reflect actual completion times.
+- Updated the lab guide instructions to use a single indexer consistently throughout the lab, improving clarity, reducing confusion, and making the workflow easier for users to follow.
 - Refined lab scenarios and sample datasets by updating region examples and expanding supported region values within Fabric IQ exercises.
 - Simplified Power Automate guidance in lab05 by removing redundant publishing steps, standardizing save actions, and updating scenario examples.
 - Enhanced AI grounding validation guidance in lab04-new with updated prompts, refreshed screenshots, and clearer explanations of grounded versus fabricated responses.
