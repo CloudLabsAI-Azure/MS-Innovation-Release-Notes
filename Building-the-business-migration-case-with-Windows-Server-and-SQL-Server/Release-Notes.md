@@ -18,6 +18,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-10-14</summary>
+
+## Release Date : 2026-10-14
+
+### Summary of Changes
+
+Replaced Azure Bastion with Remote Desktop (RDP) for connecting to the web application VM in Exercise 02, and updated the related content, screenshots, and architecture diagram.
+
+### Infrastructure Changes
+
+- Removed Azure Bastion from the lab flow.
+- The web application VM in Exercise 02 is now created with a public IP address and an inbound RDP (3389) rule.
+- Updated the learner role permissions so that a public IP address can be created for the web application VM.
+
+### Content Changes
+
+- **Getting Started:**
+  - Removed Azure Bastion from the Exercise 02 objective and the architecture description.
+  - Removed the Azure Bastion component, the Bastion resource row, and the AzureBastionSubnet row from the resource and network tables.
+
+- **Exercise 02:**
+  - Updated the Scenario, Overview, Objectives, Task 3, and Summary to remove Azure Bastion and describe the Remote Desktop flow.
+  - Updated the Networking step in Task 1 to create a new public IP address and allow inbound RDP (3389).
+  - Replaced Task 2 "Connect to the virtual machine using Azure Bastion" with "Connect to the virtual machine using Remote Desktop", with steps to download the RDP file, open it, and sign in with the `.\azureuser` account.
+  - Task 3, Step 2: replaced the Bastion screenshot with a new screenshot that reflects the updated RDP flow.
+
+### Screenshot Updates
+
+- Replaced the Bastion-related screenshots in Exercise 02 with new screenshots for the Networking tab and the RDP connection flow.
+- Updated the architecture diagram to remove Azure Bastion and the AzureBastionSubnet from Exercise 02.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-14
+
+### Testing Scope
+
+- Validated the Exercise 02 flow end to end with the Remote Desktop connection.
+- Verified the updated instructions and screenshots against the current lab environment.
+
+---
+</details>
+
+<details>
   <summary>2026-10-12</summary>
 
 ## Release Date : 2026-10-12
