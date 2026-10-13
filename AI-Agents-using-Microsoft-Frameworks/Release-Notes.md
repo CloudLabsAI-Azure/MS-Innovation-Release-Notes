@@ -31,11 +31,11 @@ N/A
 
 ### Content Changes
 
-- Refined punctuation to improve readability and enhance the learner experience.
+- Reviewed and refined punctuation, corrected grammatical errors, and improved sentence structure throughout the lab content to ensure consistency, enhance readability, and provide a clear and seamless learning experience for learners.
 
 ### Screenshot Updates
 
-- Updated the Environment tab screenshot to reflect the latest UI.
+- Updated the Environment tab screenshot to align with the latest UI changes, ensuring the visual documentation accurately reflects the current interface and provides learners with clear and up-to-date guidance.
 
 ### Testing Notes
 
@@ -43,7 +43,7 @@ N/A
 
 ### Testing Scope 
 
-Validated the updated documentation end to end to ensure the content remains clear, consistent, and correctly aligned with the workshop flow and learner experience.
+Conducted end-to-end testing, including validation of templates, policies, and supporting documentation, to ensure content accuracy, consistency, and clarity, while verifying alignment with the workshop flow and ensuring a seamless learner experience.
 
 ---
 </details>
