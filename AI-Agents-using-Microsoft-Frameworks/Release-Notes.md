@@ -17,6 +17,38 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 # Release Notes
 
 <details>
+  <summary>2026-10-12</summary>
+
+## Release Date: 2026-10-12
+ 
+### Summary of Changes
+
+This release focuses on documentation improvements across the workshop labs to enhance clarity, consistency, and learner guidance. Updates include improved section structure and expanded overview content. No application code or lab workflow logic was changed.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Reviewed and refined punctuation, corrected grammatical errors, and improved sentence structure throughout the lab content to ensure consistency, enhance readability, and provide a clear and seamless learning experience for learners.
+
+### Screenshot Updates
+
+- Updated the Environment tab screenshot to align with the latest UI changes, ensuring the visual documentation accurately reflects the current interface and provides learners with clear and up-to-date guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-12
+
+### Testing Scope 
+
+Conducted end-to-end testing, including validation of templates, policies, and supporting documentation, to ensure content accuracy, consistency, and clarity, while verifying alignment with the workshop flow and ensuring a seamless learner experience.
+
+---
+</details>
+
+<details>
   <summary>2026-09-15</summary>
 
 ## Release Date: 2026-09-15
