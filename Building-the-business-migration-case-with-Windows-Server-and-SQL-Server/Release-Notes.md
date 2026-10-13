@@ -18,9 +18,9 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
-  <summary>2026-10-10</summary>
+  <summary>2026-10-12</summary>
 
-## Release Date : 2026-10-10
+## Release Date : 2026-10-12
 
 ### Summary of Changes
 
@@ -72,7 +72,7 @@ Updated the lab guide to align with the latest lab flow and Azure portal experie
 
 ### Testing Notes
 
-- **Testing Date**: 2026-10-10
+- **Testing Date**: 2026-10-12
 
 ### Testing Scope
 
