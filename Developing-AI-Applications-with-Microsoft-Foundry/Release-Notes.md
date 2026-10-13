@@ -1,6 +1,6 @@
 # Developing AI Applications with Microsoft Foundry
 
-Welcome to the **Developing AI Applications with Azure AI Foundry** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Developing AI Applications with Microsoft Foundry** Readme.md. In this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -17,6 +17,59 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-10-08</summary>
+
+### Release Date: 2026-10-08
+
+### Summary of Changes
+
+- Updated the lab with improved Microsoft Foundry model deployment guidance, workflow validation instructions, monitoring walkthroughs, and troubleshooting recommendations.
+- Enhanced learner guidance by simplifying rate-limit handling instructions, refining project creation steps, and adding detailed monitoring explanations.
+- Added new screenshots, annotations, and visual references to better support workflow execution, monitoring, and deployment scenarios.
+
+### Infrastructure Changes
+
+- Increased the Microsoft Foundry model deployment rate limit from **10K TPM** to **50K TPM** to improve the learner experience during workflow testing and validation and also added the restriction policy for openai models.
+
+### Content Changes
+
+* Updated **Exercise 02** by removing the unnecessary note related to disabling recommended resources during project creation and streamlining the project setup instructions.
+* Increased the Microsoft Foundry model deployment rate limit guidance from **10K TPM** to **50K TPM**.
+* Enhanced workflow preview instructions with numbered callouts for prompt inputs, generated responses, and successful node execution indicators.
+* Simplified rate-limit handling guidance in **Exercise 03** by replacing extended wait-time instructions with a concise retry recommendation.
+* Expanded **Exercise 04** with detailed **Azure Monitor** walkthrough steps and explanations for:
+  * Agent Operational Metrics
+  * Tool Calls
+  * Token Consumption
+  * Evaluation Summary Metrics
+* Added deployment troubleshooting guidance for **gpt-5.4-pro**, including instructions to use **Standard** deployment when **Global Standard** deployment is unavailable or quota limits are exceeded.
+* Improved instructional clarity and overall learner guidance throughout the updated exercises.
+
+### Screenshot Updates
+
+* Added new Azure Monitor screenshots to support monitoring and observability exercises.
+* Updated workflow preview screenshots with annotated callouts and visual references.
+* Added new screenshots supporting deployment troubleshooting scenarios.
+* Refreshed media assets to align with the latest instructions and portal experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-08
+- **Test Validation Summary**: Verified updated project creation guidance, model deployment configuration, workflow preview instructions, Azure Monitor walkthroughs, troubleshooting guidance, screenshots, and overall exercise flow.
+
+### Testing Scope
+
+- Validated Exercise 02 project creation and model deployment workflow.
+- Verified workflow preview experience and annotated guidance updates.
+- Confirmed rate-limit handling instructions and expected learner experience.
+- Tested Azure Monitor walkthrough steps and monitoring metrics explanations.
+- Reviewed deployment troubleshooting guidance for gpt-5.4-pro scenarios.
+- Verified updated screenshots, media assets, formatting, and instructional consistency.
+
+---
+
+</details>
 <details>
   <summary>2026-09-25</summary>
 
