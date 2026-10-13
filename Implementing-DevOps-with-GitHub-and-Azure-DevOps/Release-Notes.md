@@ -48,6 +48,10 @@ Updated the Lab Guide for **Implementing DevOps with GitHub and Azure DevOps** t
 
 - **Testing Date:** 2026-10-13
 
+## Last Updated/Tested
+
+- **Last Updated/Tested:** 17-june-2026
+
 ## Testing Scope
 
 - Reviewed and updated the getting-started guide and affected lab documentation.
