@@ -23,7 +23,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-This update enhances the **Microsoft Purview Sandbox** lab by updating instructions and screenshots to align with the latest Microsoft Purview and Microsoft Defender portal experiences. The update includes navigation refinements, UI-based instruction updates, screenshot replacements, and workflow improvements across multiple lab exercises.
+This update enhances the **Data Security with Purview** lab by updating instructions and screenshots to align with the latest Microsoft Purview and Microsoft Defender portal experiences. The update includes navigation refinements, UI-based instruction updates, screenshot replacements, and workflow improvements across multiple lab exercises.
 
 ### Infrastructure Changes
 
