@@ -17,6 +17,49 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-13</summary>
+
+## Release Date: 2026-10-13
+
+### Summary of Changes
+
+This update enhances the **Data Security with Purview** lab by updating instructions and screenshots to align with the latest Microsoft Purview and Microsoft Defender portal experiences. The update includes navigation refinements, UI-based instruction updates, screenshot replacements, and workflow improvements across multiple lab exercises.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Added the missing screenshot in **Lab 01 - Configure Sensitivity Labels** and corrected formatting.
+- Updated the AIP Unified Labeling Client instructions in **Lab 04** to reflect the current labeling experience and permission options.
+- Updated device onboarding and DLP rule configuration steps in **Lab 07** to match the latest Microsoft Purview interface.
+- Updated Microsoft Defender portal navigation instructions in **Labs 11 and 12** to reflect the current permissions management experience.
+- Simplified role group membership configuration steps by removing obsolete actions and aligning instructions with the current UI.
+
+### Screenshot Updates
+
+- Added the missing screenshot in **Lab 01**.
+- Replaced outdated screenshots in **Labs 04, 07, 11, and 12** to reflect the latest Microsoft Purview and Microsoft Defender portal UI.
+- Updated screenshots related to file labeling, device onboarding, DLP rule actions, and permissions management.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-13
+
+### Testing Scope
+
+- Performed end-to-end validation of the updated lab guide.
+- Verified updated screenshots against the current Microsoft Purview and Microsoft Defender portal UI.
+- Validated updated navigation paths, task flows, and configuration steps.
+- Reviewed formatting, screenshot references, and instructional consistency throughout the lab guide.
+- Confirmed the updated procedures function as expected in the current portal experience.
+
+---
+
+</details>
+
+<details>
   <summary>2026-07-14</summary>
 
 ## Release Date: 2026-07-14
