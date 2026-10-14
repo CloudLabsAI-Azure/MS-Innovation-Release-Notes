@@ -16,6 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-14</summary>
+
+## Release Date: 2026-10-14
+
+## Summary of Changes
+
+Updated the **Infrastructure and Application Security** lab guide based on the latest lab testing findings. A lab validation section was added to the Getting Started page, learner guidance was added for the updated Azure portal Logs experience in Exercise 3, and screenshots were refreshed to align with the current Azure portal.
+
+## Infrastructure Changes
+
+* N/A
+
+## Content Changes
+
+* Added a **Lab Validation** section to the Getting Started page explaining how to use the **Validate** button and what to do if a validation fails.
+* Exercise 3, Task 2, Step 18: Added a note explaining how to turn off the **Agent** mode and discard the Observability Agent chat if it opens by default instead of the query editor.
+
+## Screenshot Updates
+
+* Getting Started: Added a screenshot for the **Lab Validation** section.
+* Exercise 3, Task 2, Step 18: Added screenshots showing the **Agent** toggle and the **Discard changes** pop-up.
+* Exercise 3, Task 5, Step 2: Updated the **IP Groups** page screenshot showing **+ Create**.
+* Exercise 3, Task 6.1, Step 2: Updated the **Azure Firewall Policies** page screenshot showing **+ Create**.
+* Exercise 4, Task 1, Step 2: Updated the **DDoS Protection** page screenshot showing **+ Create**.
+
+## Testing Notes
+
+* **Testing Date:** 2026-10-14
+
+## Testing Scope
+
+* Performed end-to-end lab testing for the **Infrastructure and Application Security** lab across all exercises.
+* Validated the new Lab Validation section and screenshot on the Getting Started page.
+* Verified the Exercise 3, Task 2 IDPS log steps with the updated Observability Agent note and screenshots.
+* Validated the updated screenshots in Exercise 3 and Exercise 4 against the current Azure portal.
+* Verified documentation formatting and consistency of the updated sections.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-19</summary>
 
 ## Release Date: 2026-09-10
