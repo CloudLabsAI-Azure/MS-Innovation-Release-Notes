@@ -30,6 +30,7 @@ Updated the **Build A Fabric Real-Time Intelligence Solution in a Day** lab guid
 
 - Updated the lab deployment template to provision and use **F8 Fabric Capacity** for the lab environment.
 - Updated the virtual machine size to **Standard_D2s_v5**.
+- Updated `pyodbc>=5.2.0` in the **Generate_synthetic_web_events** notebook to ensure compatibility with the latest dependency requirements.
 
 ### Content Changes
 
