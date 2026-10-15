@@ -18,6 +18,45 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-15</summary>
+
+## Release Date: 2026-10-15
+
+## Summary of Changes
+
+- Updated the lab guide to align with the HOL checklist, improve clarity, and reflect the latest user interface and lab environment.
+
+## Infrastructure Changes
+
+- Updated the virtual machine SKU to Standard D2s v5.
+
+## Content Changes
+
+- Enhanced the Getting Started page with the updated scenario overview and architecture diagram.
+- Added relevant visuals for the Guide and Environment tabs and refreshed screenshots to match the current UI.
+- Revised the scenario overview, learning objectives, and summary to align with the HOL checklist.
+- Added descriptions for each task and exercise throughout the lab.
+- Refined lab instructions and refreshed the content and screenshots across all exercises to improve clarity and align with the latest UI.
+
+## Screenshot Updates
+
+- Refreshed screenshots to reflect the latest UI and support the updated lab instructions throughout the lab.
+
+## Testing Notes
+
+- **Testing Date**: 2026-10-15
+
+## Testing Scope
+
+- Validated the lab instructions, exercise flow, and updated screenshots across the completed sections.
+- Reviewed the revised content against the HOL checklist to ensure all required updates were covered.
+- Testing of the final two pages remains pending and will be completed separately.
+
+---
+</details>
+
+
+<details>
   <summary>2026-09-07</summary>
 
 ## Release Date: 2026-09-07
