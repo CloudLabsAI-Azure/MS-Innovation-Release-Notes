@@ -18,6 +18,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-14</summary>
+
+## Release Date: 2026-10-14
+
+### Summary of Changes
+
+Updated the **Build A Fabric Real-Time Intelligence Solution in a Day** lab guide to align with the latest Microsoft Fabric experience. This update refreshes screenshots, updates workspace creation and Real-Time Dashboard instructions, adds important configuration guidance for Eventstream setup, removes outdated troubleshooting content, and improves overall consistency and learner experience. The lab template was also updated to use **F8 Fabric Capacity** for the lab environment.
+
+### Infrastructure Changes
+
+- Updated the lab deployment template to provision and use **F8 Fabric Capacity** for the lab environment.
+
+### Content Changes
+
+- Updated workspace creation instructions to include Fabric capacity selection.
+- Clarified the latest Real-Time Dashboard creation workflow.
+- Added a warning in Exercise 2 to keep the **schema-aware eventstream** option disabled during setup.
+- Removed outdated notebook error troubleshooting guidance from Exercise 2.
+- Improved formatting and callout consistency across Exercise 1 and Exercise 4.
+- Refined lab instructions for improved learner clarity and ease of execution.
+
+### Screenshot Updates
+
+- Added a new screenshot in Exercise 2.
+- Refreshed multiple screenshots throughout the lab to reflect the latest Fabric interface and branding.
+- Updated images to align with the current Microsoft Fabric user experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-14
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab to ensure all exercises execute successfully.
+- Verified that workspace creation and Real-Time Dashboard instructions match the current Fabric experience.
+- Confirmed that the schema-aware eventstream warning is correctly placed and easy for learners to follow.
+- Validated that all updated screenshots accurately reflect the latest portal experience.
+- Ensured consistency between instructions, screenshots, expected outputs, and validation steps throughout the lab
+---
+
+</details>
+<details>
   <summary>2026-09-25</summary>
 
 ## Release Date: 2026-09-25
