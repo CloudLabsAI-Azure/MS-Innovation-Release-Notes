@@ -29,6 +29,7 @@ Updated the **Build A Fabric Real-Time Intelligence Solution in a Day** lab guid
 ### Infrastructure Changes
 
 - Updated the lab deployment template to provision and use **F8 Fabric Capacity** for the lab environment.
+- Updated the virtual machine size to **Standard_D2s_v5**.
 
 ### Content Changes
 
