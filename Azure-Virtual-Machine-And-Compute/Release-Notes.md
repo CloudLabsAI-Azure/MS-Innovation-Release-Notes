@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Summary of Changes
 
-Performed content and formatting updates across multiple lab guides. Fixed broken screenshot references, corrected formatting and numbering issues, and verified all screenshot references load correctly.
+Performed content and formatting updates. Fixed broken screenshot references, corrected formatting and numbering issues, and verified all screenshot references load correctly.
 
 ### Infrastructure Changes
 
