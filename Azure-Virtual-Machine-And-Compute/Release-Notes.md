@@ -26,7 +26,7 @@ Performed content and formatting updates. Fixed broken screenshot references, co
 
 ### Infrastructure Changes
 
-N/A
+Updated the virtual machine SKU from **Standard_D2s_v3** to **Standard_D2s_v5** to align with current infrastructure requirements and ensure compatibility with the lab environment.
 
 ### Content Changes
 
