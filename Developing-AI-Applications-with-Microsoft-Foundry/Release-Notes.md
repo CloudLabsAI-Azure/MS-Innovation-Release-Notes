@@ -30,12 +30,13 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-- Increased the Microsoft Foundry model deployment rate limit from **10K TPM** to **50K TPM** to improve the learner experience during workflow testing and validation and also added the restriction policy for openai models.
+- Increased the **gpt-5.4** deployment rate limit from **10K TPM** to **50K TPM** in **Microsoft Foundry** to improve the learner experience during workflow testing and validation.
+- Added a restriction policy for **OpenAI models** to align with lab governance and usage requirements.
 
 ### Content Changes
 
 * Updated **Exercise 02** by removing the unnecessary note related to disabling recommended resources during project creation and streamlining the project setup instructions.
-* Increased the Microsoft Foundry model deployment rate limit guidance from **10K TPM** to **50K TPM**.
+* Increased the **Microsoft Foundry** model deployment rate limit guidance from **10K TPM** to **50K TPM** for **gpt-5.4**.
 * Enhanced workflow preview instructions with numbered callouts for prompt inputs, generated responses, and successful node execution indicators.
 * Simplified rate-limit handling guidance in **Exercise 03** by replacing extended wait-time instructions with a concise retry recommendation.
 * Expanded **Exercise 04** with detailed **Azure Monitor** walkthrough steps and explanations for:
