@@ -16,6 +16,50 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-10-13</summary>
+
+## Release Date: 2026-10-13
+
+## Summary of Changes
+
+Updated the Lab Guide for **Implementing DevOps with GitHub and Azure DevOps** to improve instruction clarity, accuracy, and consistency across the getting-started guide and lab exercises. Updated and added screenshots to align with the revised instructions and provide clearer visual guidance for learners.
+
+## Infrastructure Changes
+
+- Updated the logontask script to automate Azure DevOps project creation using a PowerShell script.
+- Updated the VM size from Standard_D2s_v3 to Standard_D2s_v5 due to the planned retirement of Standard_D2s_v3 from Microsoft.
+
+## Content Changes
+
+- **Getting Started:** Updated setup instructions and initial lab guidance.
+- **Exercise 1:** Revised lab instructions for improved clarity and consistency.
+- **Exercise 2:** Updated instructions to create an Azure DevOps project using a PowerShell script instead of Azure DevOps Generator.
+- **Exercise 3:** Refined lab instructions to improve clarity and align with the updated workflow.
+- **Exercise 4:** Updated lab instructions to reflect the revised steps and workflow.
+- **Exercise 5:** Refined lab instructions for consistency and readability.
+
+## Screenshot Updates
+
+- Updated existing screenshots across the affected lab exercises.
+- Added new screenshots to support revised instructions and key lab steps.
+- Updated the architecture diagram to reflect PowerShell-based Azure DevOps project creation.
+- Refreshed setup, environment configuration, and navigation screenshots to improve learner guidance.
+
+## Testing Notes
+
+- **Testing Date:** 2026-10-13
+
+## Testing Scope
+
+- Reviewed and updated the getting-started guide and affected lab documentation.
+- Validated the consistency of the revised instructions and corresponding screenshots.
+- Reviewed the updated architecture diagram and supporting images.
+- Committed and pushed the changes to the `custom-devOps` branch.
+
+</details>
+
+
+<details>
   <summary>2026-06-17</summary>
 
 ### Release Date: 2026-06-17
