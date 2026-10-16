@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
+ <details>
+<summary>2026-10-16</summary>
+
+## Release Date: 2026-10-16
+
+### Summary of Changes
+
+Minor updates were made across the lab guide to improve clarity, accuracy, and the overall learning experience. Instructions were refined to align with the latest UI changes, and step-level guidance was enhanced across multiple tasks to reduce ambiguity and help learners navigate the lab more smoothly.
+
+### Infrastructure Changes
+
+- Updated the virtual machine SKU from `Standard_D2s_v3` to `Standard_D2s_v5` in preparation for Microsoft's planned retirement of the `Standard_D2s_v3` SKU.
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+- **UI screenshot refresh:** Updated selected screenshots to reflect the latest UI changes. Reviewed and refined the corresponding instructions to ensure consistency between the visuals and the documented steps.
+- **Step numbering enhancements:** Improved step marking in the screenshots and added numbered indicators where they were previously missing to make the instructions easier to follow.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-16
+
+  Testing was performed on this date to validate the updated lab content, screenshots, instructions, and feature behavior.
+
+### Testing Scope
+
+- Performed end-to-end lab testing to validate the updated content, instructions, interactions, and user workflows against the current platform UI.
+- Reviewed and updated the lab guide content and screenshots wherever necessary to align with the latest platform behavior and improve consistency throughout the lab.
+
+</details>
+
 <details>
 <summary>2026-10-06</summary>
  
