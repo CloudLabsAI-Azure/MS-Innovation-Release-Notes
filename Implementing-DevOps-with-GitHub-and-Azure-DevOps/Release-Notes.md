@@ -27,7 +27,7 @@ Updated the Lab Guide for **Implementing DevOps with GitHub and Azure DevOps** t
 ## Infrastructure Changes
 
 - Updated the logontask script to automate Azure DevOps project creation using a PowerShell script.
-- Updated the Vmsize D2s_v3 to D2s_v5.
+- Updated the VM size from Standard_D2s_v3 to Standard_D2s_v5 due to the planned retirement of Standard_D2s_v3 from Microsoft.
 
 ## Content Changes
 
