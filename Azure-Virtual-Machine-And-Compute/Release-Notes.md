@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-16</summary>
+
+## Release Date: 2026-10-16
+
+### Summary of Changes
+
+Performed content and formatting updates. Fixed broken screenshot references, corrected formatting and numbering issues, and verified all screenshot references load correctly.
+
+### Infrastructure Changes
+
+Updated the virtual machine SKU from **Standard_D2s_v3** to **Standard_D2s_v5** to align with current infrastructure requirements and ensure compatibility with the lab environment.
+
+### Content Changes
+
+- Fixed image paths in Lab 01 (0.md), Lab 02 (1.md), and Lab 03 (2.md) to ensure screenshots display correctly.
+- Fixed copy-text formatting issues in Lab 05 (4.md).
+- Corrected step numbering and aligned screenshots and notes with the appropriate steps in Lab 05 (4.md).
+
+### Screenshot Updates
+
+- Corrected broken screenshot references in Lab 01 (0.md), Lab 02 (1.md), and Lab 03 (2.md).
+- Reviewed and verified all 107 screenshot references to ensure they load correctly.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-16
+
+### Testing Scope
+
+Validated content updates, formatting corrections, step numbering, screenshot references, and screenshot alignment across the lab guides. Verified that all 107 screenshot references load successfully and that the updated content displays as expected.
+
+---
+
+</details>
+
+<details>
   <summary>2026-08-21</summary>
   
 ## Release Date: 2026-08-21
