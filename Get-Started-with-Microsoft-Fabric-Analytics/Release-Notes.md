@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-16</summary>
+
+## Release Date: 2026-10-16
+
+## Summary of Changes
+
+Updated the **Get started with Microsoft Fabric Analytics** lab documentation for the Lakehouse and Data Warehouse exercises. The lab guides were refreshed with updated screenshots to improve visual accuracy and help learners follow the documented instructions and navigation steps.
+
+## Infrastructure Changes
+
+- Updated the VM size from Standard_B2s to Standard_D2s_v5 due to the planned retirement of Standard_B2s from Microsoft.
+
+## Content Changes
+
+- Updated the **Lakehouse** lab guide (`01-lakehouse.md`).
+- Updated the **Data Warehouse** lab guide (`06-data-warehouse-msinnovation.md`).
+- Refined the affected documentation to align with the updated screenshots and user interface references.
+
+## Screenshot Updates
+
+- Updated screenshots related to the Lakehouse and Data Warehouse lab workflows.
+- Refreshed screenshots for specific exercise steps and environment setup.
+- Added new page-navigation screenshots to support the lab guide flow.
+- Updated existing screenshots to provide clearer visual guidance for learners.
+
+## Testing Notes
+
+- **Testing Date:** 2026-10-16
+
+## Testing Scope
+
+- Reviewed the updated Lakehouse and Data Warehouse lab documentation.
+- Checked the updated screenshots against the affected lab guide sections.
+- Reviewed the instructional flow and visual references for consistency.
+
+---
+
+</details>
+
+<details>
 <summary>2026-10-05</summary>
 
 ## Release Date: 2026-10-05
