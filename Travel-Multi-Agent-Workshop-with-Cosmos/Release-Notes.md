@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-20</summary>
+
+## Release Date: 2026-10-20
+
+### Summary of Changes
+
+- Updated lab documentation and supporting screenshots to improve clarity, maintain consistency, and align with the latest Azure portal UI.
+
+### Infrastructure Changes
+
+- Resolved the CloudLabs VM shadow issue to improve environment reliability.
+
+### Content Changes
+
+- Exercise 1: Refined the scenario description to improve readability and align with the lab objectives.
+- Exercise 1, Task 1, Step 17: Updated the instructions for improved clarity and consistency.
+- Exercise 5, Task 4, Step 8: Added a note pointer to provide additional guidance.
+- Exercise 8, Task 3, Step 5: Streamlined the instructions for a clearer user experience.
+
+### Screenshot Updates
+
+- Exercise 1, Task 1, Steps 3 and 6: Updated screenshots to reflect the latest Azure portal UI.
+- Exercise 1, Task 5, Step 2: Refreshed the screenshot to align with the current interface.
+- Exercise 10, Task 6, Step 3: Updated the screenshot to reflect the latest Azure portal UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-20
+
+### Testing Scope 
+
+- Validated the CloudLabs VM shadow issue resolution.
+- Reviewed updated lab content and instructions for accuracy and consistency.
+- Verified screenshot alignment with the current Azure portal UI.
+- Performed targeted validation of the modified exercises and steps.
+
+---
+</details>
+
+<details>
   <summary>2026-10-07</summary>
 
 ## Release Date: 2026-10-07
