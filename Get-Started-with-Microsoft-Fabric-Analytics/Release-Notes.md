@@ -26,13 +26,11 @@ Updated the **Get started with Microsoft Fabric Analytics** lab documentation fo
 
 ## Infrastructure Changes
 
-- Updated the VM size from Standard_B2s to Standard_D2s_v5 due to the planned retirement of Standard_B2s from Microsoft.
+- Updated the VM size from Standard_B2s to Standard_D2s_v5 to resolve the user experience and the lagging issued .
 
 ## Content Changes
 
-- Updated the **Lakehouse** lab guide (`01-lakehouse.md`).
-- Updated the **Data Warehouse** lab guide (`06-data-warehouse-msinnovation.md`).
-- Refined the affected documentation to align with the updated screenshots and user interface references.
+- N/A
 
 ## Screenshot Updates
 
