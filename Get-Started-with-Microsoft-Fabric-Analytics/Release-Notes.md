@@ -26,11 +26,14 @@ Updated the **Get started with Microsoft Fabric Analytics** lab documentation fo
 
 ## Infrastructure Changes
 
-- Updated the VM size from Standard_B2s to Standard_D2s_v5 to resolve the user experience and the lagging issued .
+- Updated the VM size from Standard_B2s to Standard_D2s_v5 to resolve the user experience and the lagging issued.
+- Added a 5-minute wait section in the ARM template to allow Microsoft Fabric capacity to be assigned and become available.
 
 ## Content Changes
 
-- N/A
+- Getting Started Page: Added step-by-step instructions for accessing the Microsoft Fabric portal, signing in with the provided credentials, and handling initial welcome and license prompts.
+- Exercise 1: Remove Fabric sign-in and shortcut exploration task.
+- Exercise 2: Refined SQL query execution, DimProduct table creation and data insertion, script editing guidance, and data model relationship instructions.
 
 ## Screenshot Updates
 
