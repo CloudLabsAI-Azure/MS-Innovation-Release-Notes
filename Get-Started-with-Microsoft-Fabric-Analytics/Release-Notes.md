@@ -26,8 +26,7 @@ Updated the **Get started with Microsoft Fabric Analytics** lab documentation fo
 
 ## Infrastructure Changes
 
-- Updated the VM size from Standard_B2s to Standard_D2s_v5 to resolve the user experience and the lagging issued.
-- Added a 5-minute wait section in the ARM template to allow Microsoft Fabric capacity to be assigned and become available.
+- Updated the VM size from Standard_B2s to Standard_D2s_v5 to improve the user experience and reduce performance issues.
 
 ## Content Changes
 
