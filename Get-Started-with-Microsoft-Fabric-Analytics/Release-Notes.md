@@ -16,6 +16,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-16</summary>
+
+## Release Date: 2026-10-16
+
+## Summary of Changes
+
+Updated the **Get started with Microsoft Fabric Analytics** lab documentation for the Lakehouse and Data Warehouse exercises. The lab guides were refreshed with updated screenshots to improve visual accuracy and help learners follow the documented instructions and navigation steps.
+
+## Infrastructure Changes
+
+- Updated the VM size from Standard_B2s to Standard_D2s_v5 to improve the user experience and reduce performance issues.
+
+## Content Changes
+
+- Getting Started Page: Added step-by-step instructions for accessing the Microsoft Fabric portal, signing in with the provided credentials, and handling initial welcome and license prompts.
+- Exercise 1: Remove Fabric sign-in and shortcut exploration task.
+- Exercise 2: Refined SQL query execution, DimProduct table creation and data insertion, script editing guidance, and data model relationship instructions.
+
+## Screenshot Updates
+
+- Updated screenshots related to the Lakehouse and Data Warehouse lab workflows.
+- Refreshed screenshots for specific exercise steps and environment setup.
+- Added new page-navigation screenshots to support the lab guide flow.
+- Updated existing screenshots to provide clearer visual guidance for learners.
+
+## Testing Notes
+
+- **Testing Date:** 2026-10-16
+
+## Testing Scope
+
+- Reviewed the updated Lakehouse and Data Warehouse lab documentation.
+- Checked the updated screenshots against the affected lab guide sections.
+- Reviewed the instructional flow and visual references for consistency.
+
+---
+
+</details>
+
+<details>
 <summary>2026-10-05</summary>
 
 ## Release Date: 2026-10-05
