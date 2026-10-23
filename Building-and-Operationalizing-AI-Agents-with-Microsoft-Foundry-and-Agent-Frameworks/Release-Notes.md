@@ -17,6 +17,85 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+
+<details>
+<summary>2026-10-23</summary>
+
+## Release Date: 2026-10-23
+
+### Summary of Changes
+
+- Refreshed the workshop documentation and screenshots to match the current Azure Portal and Microsoft Foundry experience.
+
+- Updated learner guidance for authentication, VS Code setup, and common execution flow issues.
+
+- Added troubleshooting notes for long-running agent workflows and notebook steps.
+
+- Standardized product naming and descriptions to reflect the latest Foundry terminology and AI Search experience.
+
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated the content in Exercise 01, Exercise 02, and Exercise 03 to align with current Microsoft Foundry terminology.
+
+- Replaced older references to “Azure AI Search” with “AI Search (Foundry IQ)” across the lab guides.
+
+- Added clearer Azure sign-in and authentication steps for VS Code users.
+
+- Added guidance to return to VS Code after browser authentication and confirm successful sign-in.
+
+- Added notes explaining how to uncomment code in VS Code using Ctrl + / before executing setup or cleanup cells.
+
+- Added workflow timing guidance for multi-agent research tasks, including waiting for execution to complete before proceeding.
+
+- Updated exercise summaries to better reflect Microsoft Foundry, Agent Service, Foundry IQ, Bing grounding, and MCP-based enterprise integrations.
+
+- Improved wording and readability to reduce learner confusion and increase clarity during execution.
+
+### Screenshot Updates
+
+Added/updated Getting Started screenshots:
+- Labs/media/zoom.png — updated zoom option screenshot
+- Labs/media/et.png — updated Environment tab screenshot
+- Labs/media/split.png — updated split-window screenshot
+- Labs/media/resize.png — updated VM resize screenshot
+
+Added/updated Exercise 01 screenshots:
+- Labs/media/x.png — VS Code / authentication-related visual
+- Labs/media/x1.png — post-authentication confirmation visual
+- Labs/media/g8.png — Azure sign-in credentials screen
+- Labs/media/g13.png — Temporary Access Pass entry step
+- Labs/media/w109new.png — updated workflow/output screenshot
+
+Updated markdown references to point to the refreshed image assets and ensure the visuals match the current lab environment.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-23
+- Validated the updated lab steps end-to-end for correctness and flow.
+
+- Confirmed the screenshots match the current Azure Portal and lab UI.
+
+- Reviewed the updated instructions for authentication, code execution, and troubleshooting flow.
+
+- Verified the revised content is clearer and easier for learners to follow.
+ 
+
+### Testing Scope
+
+Documentation review for Exercises 01, 02, and 03.
+Screenshot validation for Getting Started and exercise steps
+Authentication flow validation in VS Code and Azure sign-in steps, Troubleshooting note validation for long-running workflow and code uncommenting guidance
+
+
+
+</details>
+
 <details>
 <summary>2026-10-05</summary>
 
