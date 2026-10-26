@@ -20,6 +20,65 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
+Improved the workshop labs with clearer instructions, updated workflows, and refreshed screenshots to better reflect the learner experience and current portal interfaces.
+
+## Content and Workflow Updates
+
+- Added agent-related tasks and supporting instructions, and expanded Power Automate flow guidance.
+- Updated navigation and workflow instructions across the labs, including the AI Search indexer process and governance steps.
+- Refined examples, scenarios, and sample data to improve consistency and clarity.
+- Updated workshop titles and duration estimates across applicable exercises.
+- Improved guidance for validating grounded AI responses and assigning lab-specific user roles.
+
+## Screenshot Updates
+
+### Getting Started
+
+- **Architecture:** Updated the architecture diagram to help learners understand the workshop at a glance.
+- **Sign in to Microsoft Fabric, Step 7:** Added a screenshot showing the Fabric welcome prompt and the action to dismiss it.
+
+### Exercise 1
+
+- **Task 1, Step 1:** Updated the workspace confirmation screenshot.
+- **Task 1, Step 3:** Added a screenshot to guide the File Explorer search.
+- **Task 2, Step 1:** Added the solution architecture diagram.
+- **Task 2, Step 6:** Updated the Microsoft Foundry resource selection screenshot.
+
+### Exercise 2
+
+- **Task 4, Step 3:** Updated the semantic model setup screenshot.
+
+### Exercise 3
+
+- **Task 2, Steps 4, 6, 7, and 9:** Updated the screenshots for creating and configuring data-driven alerts.
+- **Task 3, Steps 9 and 14:** Updated the screenshots for the storage account upgrade workflow.
+- **Task 3, Step 15:** Added a screenshot showing the storage container.
+
+### Exercise 5
+
+- **Task 4, Create the Microsoft Team, Step 3:** Updated the team setup screenshot.
+- **Task 4, Flow 1, Step 5:** Added a screenshot for signing in to the email action.
+- **Task 4, Flow 2, Step 1:** Added a screenshot for creating the Teams notification flow.
+- **Task 4, Flow 3, Step 1:** Added a screenshot for creating the Planner task flow.
+
+## Testing Notes
+
+- **Testing Date:** 2026-10-07
+
+## Testing Scope
+
+- Reviewed lab sequencing and updated instructions for clarity and consistency.
+- Validated the revised navigation and Power Automate guidance against the documented workflows.
+- Checked that updated and added screenshots align with the corresponding learner steps.
+- Reviewed the AI grounding and governance guidance.
+
+</details>
+
+<details>
+  <summary>2026-10-07</summary>
+
+## Summary of Changes
+
 Implemented content, workflow, and documentation updates across the workshop labs to align with the latest portal experience, improve instructional clarity, enhance the overall learning experience, and ensure greater accuracy for learners.
 
 ## Content Updates
