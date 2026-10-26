@@ -36,7 +36,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-NA
+- Changed Vm Size from Standard_D2s_v3 to Standard_D4s_v4
 
 ### Content Changes
 
