@@ -15,6 +15,78 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+
+<details>
+  <summary>2026-10-19</summary>
+
+## Release Date: 2026-10-19
+
+### Summary of Changes
+Reviewed and refreshed the lab guide to align with the current GitHub Copilot experience across VS Code, Copilot Chat, Agent mode, and Coding Agent workflows. This update includes revised content, refreshed image references, updated model, and improved learner guidance throughout the labs.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Refreshed the Lab 3 content to align with the current VS Code terminal navigation, testing workflow, and coverage reporting steps.
+- Updated Lab 3 instructions for permission terminology and approval settings to reflect the current UI labels and behavior.
+- Revised Lab 4 content to update Ask mode vs Agent mode guidance, permission settings, and the implementation plan workflow.
+- Updated Lab 5 instructions for the current Coding Agent and GitHub issue creation experience.
+- Refreshed Lab 6 and Lab 7 instructions to match the latest MCP server setup, custom instructions, and custom agent workflow guidance.
+- Improved phrasing and terminology across labs for clarity, consistency, and alignment with the current GitHub Copilot product experience.
+
+### Screenshot Updates
+
+- Added/updated the Lab 2 screenshot set (l1–l9) to match the new GitHub Copilot and VS Code experience. These screenshots replace older lab visuals and reflect the current model selection, Ask mode, file context, and terminal navigation flow:
+  - **l1:** Added/updated screenshot for model selector in the Auto model state; replaces older switch-model image.
+  - **l2:** Added/updated screenshot for different model selection options in Copilot Chat; replaces older model selector screen.
+  - **l3:** Added/updated screenshot for Ask mode usage; reflects the current interface for conversational prompting.
+  - **l4:** Added/updated screenshot for folder explanation workflow; replaces legacy folder analysis screenshots.
+  - **l5:** Added/updated screenshot showing the file opened in the editor and automatically added to Copilot context.
+  - **l6:** Added/updated screenshot for file analysis in chat after opening the file.
+  - **l7:** Added/updated screenshot for highlighted code explanation workflow.
+  - **l8:** Added/updated screenshot for opening a terminal from the updated VS Code menu flow.
+  - **l9:** Added/updated screenshot for the sample prompts area in the project review workflow.
+- Added/updated the Lab 3 screenshot set (m1–m12) to reflect current testing, coverage, and permission flows:
+  - **m1:** Added/updated screenshot for the test coverage guidance step; replaces older E2S1S3 reference.
+  - **m2:** Added/updated screenshot for opening a terminal using the updated ellipsis menu flow; replaces older terminal launch screenshot.
+  - **m4:** Added/updated screenshot for the code coverage report view.
+  - **m6:** Added/updated screenshot for generated test validation output.
+  - **m8:** Added/updated screenshot for selecting file context and switching to Agent mode when prompting for tests.
+  - **m9:** Added/updated screenshot for Manual Permissions / approval mode settings.
+  - **m10:** Added/updated screenshot for Ask mode reviewing unit tests and suggestions.
+  - **m11:** Added/updated screenshot for test quality best-practices prompt example.
+  - **m12:** Added/updated screenshot for the Allow all / approval configuration step.
+- Added/updated the Lab 4 screenshot set (g1–g10) to reflect the latest Ask/Agent workflow and current GitHub Copilot UX:
+  - **g1:** Added/updated screenshot for switching to Ask mode to generate an implementation plan.
+  - **g2:** Added/updated screenshot for reviewing the implementation plan output.
+  - **g3:** Added/updated screenshot for switching from Ask mode to Agent mode.
+  - **g5:** Added/updated screenshot for permission mode configuration.
+  - **g10:** Added/updated screenshot for the Git push and repo sync flow after implementing changes.
+- Added/updated the Lab 5 screenshot set (a1–a15) to reflect the current Coding Agent and GitHub issue creation experience:
+  - **a1:** Added/updated screenshot for creating a GitHub issue from the lab flow.
+  - **a2:** Added/updated screenshot for validating the implemented Contact Us page in the running app.
+  - **a8:** Added/updated screenshot for selecting Agent mode in GitHub Copilot Chat.
+  - **a10:** Added/updated screenshot for switching to Agent mode in the custom workflow steps.
+  - **a12:** Added/updated screenshot for prompting GitHub Copilot to generate custom instructions.
+  - **a13:** Added/updated screenshot for review of the generated instructions.
+  - **a15:** Added/updated screenshot for creating a custom agent.
+- Added/updated the Lab 6 and Lab 7 screenshot set (n1, n3, n5) to align with the latest MCP and custom agent workflows:
+  - **n1:** Added/updated screenshot for prompt creation flow.
+  - **n3:** Added/updated screenshot for custom agent review in the lab.
+  - **n5:** Added/updated screenshot for the security audit workflow and Copilot output review.
+
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-19
+- **Testing Scope:** Reviewed updated content and screenshots, validated model and permission terminology, checked flow consistency across labs, confirmed screenshot references match current UI, and verified the updated content is aligned with the latest GitHub Copilot experience.
+
+---
+</details>
+
 <details>
   <summary>2026-09-30</summary>
 
