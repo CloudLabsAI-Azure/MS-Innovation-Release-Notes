@@ -23,7 +23,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Infrastructure Changes
 
 - Updated the lab VM size to **Standard_D2s_v5**.
-- Updated resource names in the lab's **template.json** to follow current Microsoft naming conventions.
 
 ### Summary of Changes
 
@@ -61,7 +60,6 @@ Updated the lab guide to match the latest **Azure portal** and **Microsoft Found
 ### Testing Scope
 
 - Validated the deployment on the updated **Standard_D2s_v5** VM size.
-- Confirmed the renamed resources in **template.json** deploy successfully.
 - Validated the updated instructions against the current Azure portal and Microsoft Foundry UI.
 - Confirmed the screenshot numbers match the instruction steps.
 - Confirmed sensitive information is blurred in all updated screenshots.
