@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Infrastructure Changes
 
-- Updated the lab VM size to **Standard_D2s_v5**.
+- Updated the lab VM size to **Standard_D2s_v5** to provide a smoother experience.
 
 ### Summary of Changes
 
@@ -31,7 +31,7 @@ Updated the lab guide to match the latest **Azure portal** and **Microsoft Found
 ### Content Changes
 
 - **Getting Started**:
-  - Updated the **architecture diagram**.
+  - Updated the **Architecture diagram**.
   - Updated the **component explanations** and **prerequisites**.
 - **Exercise 1**:
   - Updated screenshots and instructions to match the new **Azure portal** and **Microsoft Foundry** portal UI.
