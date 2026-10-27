@@ -15,6 +15,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-27</summary>
+
+## Release Date: 2026-10-27
+
+### Summary of Changes
+
+- Updated the hands-on lab instructions and screenshots to improve consistency, accuracy, and the overall learner experience.
+
+### Infrastructure Changes
+
+- Updated the SKU for HostVM from D8s v3 to D8s V5.
+
+### Content Changes
+
+- Hands-on Lab 1 – Exercise 1 – Task 1 – Step 31: Updated the instructions to match the corresponding screenshot.
+- Hands-on Lab 3 – Exercise 1 – Task 6 – Step 5: Added the appropriate inject key to select the region based on the HI deployment.
+
+### Screenshot Updates
+
+- Added the next screenshot at the bottom of page 4 to improve visual guidance and maintain continuity in the lab instructions.
+
+### Validation
+
+- N/A
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-27
+
+### Testing Scope
+
+- Updated lab instructions and screenshot consistency.
+- Region selection logic based on HI deployment.
+- Placement and continuity of the newly added screenshot.
+
+
+---
+</details>
+
+
+<details>
   <summary>2026-09-29</summary>
 
 ## Release Date: 2026-09-29
