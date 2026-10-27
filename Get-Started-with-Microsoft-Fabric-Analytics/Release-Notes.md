@@ -22,7 +22,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Summary of Changes
 
-Updated the **Get started with Microsoft Fabric Analytics** lab documentation for the Lakehouse and Data Warehouse exercises. The lab guides were refreshed with updated screenshots to improve visual accuracy and help learners follow the documented instructions and navigation steps.
+Updated the **Get started with Microsoft Fabric Analytics** lab documentation for the Lakehouse and Data Warehouse exercises. The Lakehouse, Data Warehouse, and Data Engineering lab instructions and refreshed existing screenshots while adding new visual references to improve documentation accuracy, clarity, and consistency across the affected lab workflows.
 
 ## Infrastructure Changes
 
@@ -31,8 +31,9 @@ Updated the **Get started with Microsoft Fabric Analytics** lab documentation fo
 ## Content Changes
 
 - Getting Started Page: Added step-by-step instructions for accessing the Microsoft Fabric portal, signing in with the provided credentials, and handling initial welcome and license prompts.
-- Exercise 1: Remove Fabric sign-in and shortcut exploration task.
-- Exercise 2: Refined SQL query execution, DimProduct table creation and data insertion, script editing guidance, and data model relationship instructions.
+- Exercise 1: Remove Fabric sign-in and shortcut exploration task. the current Microsoft Fabric portal experience. Revised the trial activation steps, clarified the Fabric and Power BI experience selection, updated workspace navigation instructions, and refined guidance for accessing lakehouse features and executing SQL queries.
+- Exercise 2: The instructions with the Microsoft Fabric portal experience. Revised workspace navigation, data warehouse creation, SQL query access, semantic model navigation, and data visualization instructions.insertion, script editing guidance, and data model relationship instructions.
+- Exercise 3: The required documentation changes and improve the consistency of the lab instructions.
 
 ## Screenshot Updates
 
