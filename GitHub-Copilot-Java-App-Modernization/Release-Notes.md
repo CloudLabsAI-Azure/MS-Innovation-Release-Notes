@@ -14,7 +14,52 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-10-26</summary>
 
+## Release Date: 2026-10-26
+
+### Summary of Changes
+
+Updated the GitHub Copilot Java App Modernization Workshop to align with the latest GitHub Copilot, VS Code, and Azure experiences. The release improves learner guidance across environment setup, authentication, modernization planning, containerization, deployment, and permission-handling workflows while refreshing screenshots and lab instructions throughout.
+
+### Infrastructure Changes
+
+- Updated the lab VM size from **Standard_D4s_v3** to **Standard_D4s_v5** for improved performance.
+- Updated the PowerShell provisioning script to download and extract lab assets from a **Storage Account ZIP package** instead of cloning directly from the repository.
+
+### Content Changes
+
+- Added a new **Resize the Virtual Machine View** section with supporting instructions and screenshots.
+- Updated Azure sign-in and authentication guidance, including GitHub Copilot Chat sign-in verification and the latest sign-in experience.
+- Revised VS Code setup instructions to reflect the current **Restricted Mode** and **Workspace Trust** workflow.
+- Updated GitHub Copilot model-selection guidance to use **Claude Sonnet 5.5**.
+- Added guidance for handling permission prompts and session access approvals.
+- Improved Docker Desktop setup instructions and readiness checks.
+- Added guidance for expected wait times during modernization and upgrade operations.
+- Updated Java modernization guidance to target **Java 25** and **Spring Boot 3.5.x**.
+- Enhanced modernization planning, review, execution, containerization, and deployment workflows.
+- Updated AKS, Terraform, and Azure authentication instructions to align with the current experience.
+- Improved overall instructional clarity and learner flow across all exercises.
+
+### Screenshot Updates
+
+- Refreshed screenshots for Azure sign-in, VS Code setup, GitHub Copilot model selection, modernization planning and execution, containerization, deployment, authentication workflows, and VM view resizing.
+- Updated screenshots across the lab to reflect the latest GitHub Copilot and Azure user experience.
+
+### Testing Notes
+
+- **Testing Date:** 2026-10-26
+
+### Testing Scope
+
+- Completed end-to-end lab testing of the lab.
+- Verified environment provisioning, authentication, modernization, containerization, deployment workflows, and all updated screenshots.
+- Confirmed instruction accuracy, sequencing, formatting, and overall learner experience.
+
+---
+
+</details>
 <details>
   <summary>2026-06-06</summary>
 
