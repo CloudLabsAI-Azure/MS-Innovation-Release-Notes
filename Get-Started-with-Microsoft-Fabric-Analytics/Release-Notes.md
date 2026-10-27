@@ -26,7 +26,7 @@ Updated the **Get started with Microsoft Fabric Analytics** lab documentation fo
 
 ## Infrastructure Changes
 
-- Updated the VM size from Standard_B2s to Standard_D2s_v5 to improve the user experience and reduce performance issues.
+N/A
 
 ## Content Changes
 
