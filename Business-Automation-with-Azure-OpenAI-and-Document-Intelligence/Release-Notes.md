@@ -25,7 +25,7 @@ Updated the lab instructions and screenshots to match the current Microsoft Foun
 
 ### Infrastructure Changes
 
-NA
+- Changed the Vm size from Standard D2s_V3 to Standard D2s_V4
 
 ### Content Changes
 
