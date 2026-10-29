@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-10-29</summary>
+
+## Release Date: 2026-10-29
+
+### Summary of Changes
+Updated the lab instructions and screenshots to match the current Microsoft Foundry / Azure portal experience and remove outdated guidance. The refresh also improves clarity around service naming, UI changes.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated Microsoft Foundry terminology in the lab instructions.
+
+- Updated supporting screenshots and referenced image files to maintain consistency with the new instructions.
+
+### Screenshot Updates
+
+- Updated Lab 1 screenshots for the revised task flow and UI references, including `train.png`, `s1.png`, `s3.png`, `s5.png`, `s6.png`, `s7.png`, `s8.png`, `s9.png`, `s10.png`, and `s11.png`.
+- Updated Lab 2 screenshots for the current Foundry experience, including `a1.png`, `a2.png`, `a4.png`, `a5.png`, and `a6.png`.
+- Refreshed environment and navigation visuals such as `env.png`, `rgnew.png`, `np2.png`, and `s2.png`.
+
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-29
+
+### Testing Scope
+
+- Reviewed the updated instructions and screenshots for accuracy and consistency.
+- Verified the revised content reflects the latest Foundry and Azure AI Search navigation and terminology.
+
+
+
+</details>
+
+<details>
   <summary>2026-09-22</summary>
 
 ## Release Date: 2026-09-22
