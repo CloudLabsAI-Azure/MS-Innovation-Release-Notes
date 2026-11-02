@@ -15,7 +15,46 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 
 # Release Notes
+<details>
+  <summary>2026-11-02</summary>
 
+## Release Date: 2026-11-02
+
+### Summary of Changes
+
+This release focuses on improving the learner experience by updating lab instructions, aligning guidance with the latest Microsoft Foundry interface, enhancing troubleshooting documentation, refreshing screenshots throughout the workshop, and incorporating infrastructure updates to support the latest lab requirements. These changes improve clarity, reduce setup friction, and ensure the lab content accurately reflects the current product experience.
+
+### Infrastructure Changes
+
+- Updated the VM size from **Standard_D4s_v3** to **Standard_D4s_v5**.
+- Added Microsoft Foundry model restrictions required for the lab to ensure learners use the supported models during execution.
+
+### Content Changes
+
+- Updated the VS Code repository setup guidance to include workspace trust instructions when launching in Restricted Mode.
+- Revised Microsoft Foundry navigation steps to align with the latest user interface and workflow experience.
+- Added guidance to ensure learners switch to the new Microsoft Foundry experience before proceeding with the lab.
+- Improved troubleshooting documentation for UV timeout issues with clearer setup and recovery instructions.
+- Enhanced Lab 02 `.env` configuration guidance with a more explicit file path reference and supporting visuals.
+- Corrected the sample invoice verification value in the manager workflow instructions from **2275** to **2775** to ensure instructional accuracy.
+
+### Screenshot Updates
+
+- Added new screenshots for the VS Code workspace trust experience.
+- Added a new screenshot highlighting the `AGENT_MODULES` configuration.
+- Added a new MCP server output screenshot to better align with expected results.
+- Refreshed multiple screenshots and media assets across the lab guides to reflect the latest Microsoft Foundry experience and current UI elements.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-02
+
+### Testing Scope
+
+Conducted end-to-end validation of the lab instructions, setup experience, Microsoft Foundry workflows, configuration steps, troubleshooting guidance, infrastructure updates, and updated screenshots to ensure accuracy, consistency, and alignment with the current learner experience and workshop flow.
+
+---
+</details>
 <details>
   <summary>2026-10-12</summary>
 
