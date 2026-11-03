@@ -18,6 +18,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 In this section, we will track and list each change introduced in the latest release:
 
 <details>
+  <summary>2026-10-03</summary>
+
+## Release Date: 2026-10-03
+
+### Summary of Changes
+
+Updated the lab guide content to align with the latest Microsoft terminology and product experience for Microsoft Copilot and Copilot Studio. Reviewed and updated product names, feature terminology, and experience descriptions across the prerequisites and lab exercises to ensure consistency with the current Microsoft documentation and user interface. Added new screenshots and revised the lab guide instructions to reflect the latest changes and improve clarity and understanding. Updated the inject keys that were incorrectly added to ensure they are accurate and properly configured.
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Reviewed and updated terminology across the lab exercises to maintain consistency with the current Microsoft product experience.
+- Refined outdated or inconsistent product descriptions and terminology across the lab guide.
+- Updated the propmpts in Lab 2 and Lab 3
+
+### Screenshot Updates
+
+* Reviewed screenshots across the prerequisites and lab exercises for terminology and UI consistency.
+
+  - Lab - Pre-requisites of Leverage Microsoft Copilot and Copilot Studio for Human Resources, Task 2 , Step 1: Screenshot updated as per new UI update.
+  - Lab - Pre-requisites of Leverage Microsoft Copilot and Copilot Studio for Human Resources, Task 4 , Step 1: Screenshot updated as per new UI update.
+  - Lab 1, Task 5, Step 9 : Screenshot updated as per new UI update
+  - Lab 1, Task 7, Step 3: Screenshot updated as per new UI update
+  - Lab 1, Task 5, Step 33 : Screenshot updated as per new UI update in a newly added note.
+  - Lab 3, Task 3, Step 6 : Screenshot updated as per new UI update in a newly added note.
+  - Lab 4, Task 1, Step 3 : Screenshot updated as per new UI update in a newly added note.
+
+- Updated screenshots where required to align with the current Microsoft product terminology and user interface.
+
+### Testing Notes
+
+* **Testing Date**: 2026-10-03
+
+### Testing Scope
+
+* Validated the updated terminology across the prerequisites and lab exercises.
+* Reviewed Microsoft Copilot and Copilot Studio terminology for consistency with the current product experience.
+* Validated updated instructions and screenshots for terminology and UI consistency.
+* Confirmed that the terminology updates remain consistent across all applicable lab scenarios.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-30</summary>
 
 ## Release Date: 2026-09-30
