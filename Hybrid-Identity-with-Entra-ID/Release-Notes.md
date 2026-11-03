@@ -16,6 +16,67 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-03</summary>
+
+## Release Date: 2026-11-03
+
+### Summary of Changes
+
+Enhanced the lab experience by improving instructional clarity, adding troubleshooting guidance, updating screenshots to reflect the current Microsoft Entra experience, and ensuring learners can complete tasks more efficiently with clearer navigation and configuration guidance.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Getting Started**
+  - Updated the **Last Updated and Tested** date to **03 November 2026**.
+
+- **Lab 01 – Hybrid Identity Setup**
+  - Added troubleshooting guidance advising learners to reload the browser and verify the installation if the **AD DS** setup remains stuck for more than 10 minutes.
+  - Clarified the steps required to locate and launch the downloaded **Azure AD Connect** installer.
+
+- **Lab 03 – Privileged Identity Management (PIM)**
+  - Updated the instructions to clarify that the assignment end date should be set to the **next day's date**.
+
+- **Lab 04 – Monitoring and Auditing**
+  - Added guidance to select **Discard** before switching to **KQL mode** to prevent configuration conflicts.
+
+- **Lab 06 – Access Reviews and External Collaboration**
+  - Clarified that the **Entra roles** option must be enabled before proceeding with the configuration steps.
+
+### Screenshot Updates
+
+- **Lab 01 – Hybrid Identity Setup**
+  - Replaced multiple sign-in and user verification screenshots to align with the current experience.
+
+- **Lab 02 – Self-Service Password Reset (SSPR)**
+  - Updated the password-reset confirmation screenshot.
+
+- **Lab 04 – Monitoring and Auditing**
+  - Replaced sign-in screenshots to reflect the latest user interface.
+
+- **Lab 06 – Access Reviews and External Collaboration**
+  - Updated screenshots in the group setup and external collaboration sections.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-03
+
+### Testing Scope
+
+- Performed end-to-end validation of all updated lab content.
+- Verified that all updated instructions align with the current workflow.
+- Confirmed that new and updated screenshots accurately reflect the current user interface.
+- Validated the troubleshooting guidance and configuration updates.
+- Reviewed formatting, screenshot placement, and overall content consistency across the lab.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-29</summary>
 
 ## Release Date: 2026-09-29
