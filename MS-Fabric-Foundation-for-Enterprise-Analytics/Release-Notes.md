@@ -16,7 +16,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-11-03</summary>
 
+## Release Date: 2026-11-03
+
+### Summary of Changes
+
+Updated Microsoft Fabric lab instructions, screenshots, and troubleshooting guidance based on the current Fabric experience observed during validation. The changes improve learner navigation, address common execution issues, and enhance overall clarity across the lab modules.
+
+### Infrastructure Changes
+
+- Updated VM size from **Standard_D2s_v3** to **Standard_D2s_v5** to align with current lab requirements and improve performance.
+
+### Content Changes
+
+- Updated the sign-in guidance and Temporary Access Pass instructions in the Getting Started guide.
+- Added missing Lakehouse destination steps, pipeline monitoring guidance, and a notebook creation workaround in the Data Engineering lab.
+- Added guidance and a screenshot for handling the **Welcome to your warehouse** dialog in the Data Warehouse lab.
+- Updated KQL database creation instructions, formatting, and report duplication guidance in the Real-Time Analytics lab.
+- Improved Spark capacity error guidance and added MLflow search-runs instructions in the Data Science lab.
+- Added troubleshooting guidance for CSV-loading issues and improved notebook exercise instructions in the Analyze Spark lab.
+
+### Screenshot Updates
+
+- Updated screenshots across the Getting Started, Data Engineering, Data Warehouse, Data Science, and Analyze Spark labs to reflect the current Microsoft Fabric experience.
+- Added new screenshots for Lakehouse destination selection, warehouse welcome dialog, MLflow search-runs examples, notebook execution, data transformations, aggregation, partitioning, and table inspection exercises.
+- Refreshed callouts and visual guidance to improve learner navigation and consistency.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-03
+
+### Testing Scope
+
+- Performed end-to-end validation of the updated lab guides.
+- Verified all updated instructions against the current Microsoft Fabric experience.
+- Confirmed that screenshots align with the corresponding lab steps and expected outcomes.
+- Validated troubleshooting guidance, notebook execution paths, and common learner workflows.
+- Reviewed formatting, navigation flow, and content consistency across all updated modules.
+
+---
+</details>
 <details>
   <summary>2026-09-30</summary>
 
