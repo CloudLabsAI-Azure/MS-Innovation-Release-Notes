@@ -15,6 +15,78 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+<details>
+  <summary>2026-11-04</summary>
+
+## Release Date: 2026-11-04
+
+### Summary of Changes
+
+Reviewed and updated the lab guide to align with the latest GitHub Copilot experience, including the move to usage-based billing (GitHub AI Credits), current VS Code Copilot Chat UI, and updated GitHub MCP server tools. Updated outdated facts, links, terminology, and screenshots, and added learner guidance notes for common sign-in issues.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+**Exercise 1 – Getting Started**
+- Added icons to section headings for better readability.
+- Added an important note on GitHub SSO sign-in, clarifying that learners must enter the GitHub username (not the email address) and use **Sign in with your identity provider**.
+- Added a note for learners who are already signed in to GitHub Copilot and do not see the **Use AI Features** option.
+- Updated the billing section to reflect usage-based billing with GitHub AI Credits, effective June 1, 2026.
+
+**Exercise 2 – Understanding the Project**
+- Updated the GitHub Copilot billing and AI Credits information and the pricing documentation link.
+- Updated the model selection steps and the Ask mode steps to match the numbered screenshots.
+- Updated the auto model selection and supported models documentation links.
+
+**Exercise 3 – Code Editing**
+- Removed the **Bypass Approvals** option, as it is no longer available in the VS Code UI.
+- Updated the VS Code Copilot Chat context documentation link.
+- Updated Next Steps section to align with Exercise 4.
+
+**Exercise 4 – Agent Mode**
+- Updated the content to reflect current GitHub Copilot billing with AI Credits.
+- Updated the VS Code agents documentation link.
+
+**Exercise 5 – Agentic Coding**
+- Removed the **Bypass Approvals** option, as it is no longer available in the VS Code UI.
+- Added TypeScript to the GitHub Code Quality supported languages.
+- Updated the Custom Agents section to reflect that custom agents are now available in VS Code.
+- Updated the Azure DevOps section to reflect that Azure Boards work items can be assigned directly to the Copilot coding agent.
+- Added a note on copying the one-time code from the terminal when signing in with `gh auth login`.
+- Updated a reflection question to reference Copilot code review.
+- Updated the coding agent, code review, security campaigns, and Copilot Autofix documentation links.
+
+**Exercise 6 – MCP Servers**
+- Updated the GitHub MCP server tool name from `get_issue` to `issue_read`.
+- Updated "Azure AD" to "Microsoft Entra ID".
+- Updated the Slack and Azure MCP server documentation links.
+
+**Exercise 7 – Customizing Copilot**
+- Updated the GitHub MCP server tool name from `create_issue` to `issue_write`.
+- Updated "chat modes" to "custom agents" to match current VS Code naming.
+- Aligned the custom instructions steps to refer to the same file location.
+- Updated the path-specific custom instructions documentation link.
+
+Refined instructions across all exercises for better clarity.
+
+### Screenshot Updates
+
+- Updated the GitHub homepage and model selector screenshots in Labs 1 and 2 to reflect the latest UI.
+- Added a new screenshot in Lab 1 showing the Copilot status menu when already signed in.
+- Added a new screenshot in Lab 5 showing the **Authorize your device** page for `gh auth login`.
+- Replaced the GitHub MCP tool documentation screenshot in Lab 7 with the current `issue_write` tool.
+- Updated screenshots in Lab 7 to match the current VS Code customization UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-04
+- **Testing Scope:** Reviewed all lab content against current GitHub and VS Code documentation, validated billing and model references, verified all documentation links and image paths, checked screenshot accuracy against the current UI, and confirmed consistency of instructions and terminology across all labs.
+
+---
+</details>
 
 <details>
   <summary>2026-10-19</summary>
