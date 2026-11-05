@@ -34,7 +34,6 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Content Changes
  
 - Updated all lab pages to the latest format, including a lab scenario, objectives and summary for each lab, and a new architecture diagram on the Getting Started page.
-- Fixed spelling, grammar and step references, and aligned the instructions with the workflow files across all labs.
 - Lab 02: added guidance for opening the deployed web application in the browser.
 - Lab 04: updated the OpenID Connect (OIDC) steps to match the latest Microsoft Entra ID experience.
 - Lab 05: added guidance for configuring environment variables.
