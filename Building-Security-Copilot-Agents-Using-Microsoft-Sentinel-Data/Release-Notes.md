@@ -15,6 +15,46 @@ This Page contains detailed notes about the latest updates and modifications mad
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+  <summary>2026-11-05</summary>
+
+## Release Date: 2026-11-05
+
+### Summary of Changes
+
+Updated the lab guide to improve learner experience, documentation consistency, and screenshot accuracy. This release includes refreshed GitHub Copilot response screenshots, updated Getting Started page images to reflect the current lab environment, and improvements to the GitHub sign-in instructions in Lab 03 to ensure proper Markdown rendering and a more polished learning experience.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Updated the GitHub sign-in instructions in Lab 03 to correctly format screenshots using Markdown blockquotes.
+- Improved the GitHub authentication section to ensure consistent rendering across supported Markdown viewers.
+- Refined instructional content for better readability and usability.
+- Updated lab documentation to align with the current learner experience and workflow.
+
+### Screenshot Updates
+
+- Updated GitHub Copilot response screenshots across the lab guide to reflect the current experience.
+- Refreshed Getting Started page screenshots to align with the latest environment setup workflow.
+- Replaced multiple screenshots under the `media/` and `media/gettingstarted/` folders with updated images.
+- Updated screenshots associated with the GitHub sign-in and authentication experience.
+
+### Testing Notes
+
+- Testing Date: 2026-11-05
+
+### Testing Scope
+
+- Completed end-to-end validation of the lab guide after implementing the documentation updates.
+- Verified the GitHub sign-in instructions render correctly using the updated blockquote formatting.
+- Validated that all updated GitHub Copilot response screenshots display correctly and align with the documented steps.
+- Confirmed that the Getting Started page screenshots accurately reflect the current environment setup experience.
+- Reviewed all updated image references to ensure proper rendering throughout the documentation.
+
+</details>
 
 <details>
   <summary>2026-09-30</summary>
