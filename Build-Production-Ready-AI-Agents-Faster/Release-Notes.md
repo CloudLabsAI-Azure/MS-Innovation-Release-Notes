@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-11-05</summary>
+ 
+## Release Date: 2026-11-05
+ 
+### Summary of Changes
+
+Updated learner instructions and screenshots across Getting Started and Exercises 1–4. Changes clarify navigation and connection steps, refresh visuals for VS Code and Microsoft Foundry, and make terminology and wording more consistent.
+ 
+### Infrastructure Changes
+ 
+NA
+ 
+### Content Changes
+
+- Refreshed the screenshots and Instructions
+
+ 
+### Screenshot Updates
+ 
+- Getting Started – Exploring Your Lab Resources: Added env.png to show the current Environment tab.
+- Exercise 1 – Task 1, opening the integrated terminal (step 5): Added t.png to illustrate opening Ellipsis (...) → Terminal → New Terminal.
+- Exercise 1 – Task 4, Azure AI Search connection: Added con.png at the resource-selection and Connect step, and copy.png at the step for copying the newly created connection name.
+- Exercise 3 – Task 1, Foundry Tracing Application Insights setup: Added con2.png at the step for selecting the Application Insights resource and clicking Connect.
+- Exercise 3 – Deploying Hosted Agents, benefits-advisor-responses (step 1): Added t.png to show how to open a new integrated terminal in VS Code.
+- Exercise 4 – Task 2, Generate a Plan with GitHub Copilot: Added p.png for selecting Plan mode and p1.png for submitting the specification and prompt.
+- Exercise 4 – Task 3, Scaffold the Agent with Copilot Agent Mode: Added a.png for switching to Agent mode and a1.png for submitting the implementation prompt and plan.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-11-05
+ 
+### Testing Scope
+ 
+- Performed end-to-end lab testing and validated the lab exercises and instructions for clarity and functionality.
+ 
+</details>
+
+<details>
 <summary>2026-10-09</summary>
  
 ## Release Date: 2026-10-09
