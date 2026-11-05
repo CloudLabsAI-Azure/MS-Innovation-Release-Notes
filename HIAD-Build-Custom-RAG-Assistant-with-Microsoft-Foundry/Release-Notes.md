@@ -17,6 +17,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-05</summary>
+
+## Summary
+
+- Updated Challenge 05 (Evaluate and Improve RAG Performance with ASSERT) to fix installation and authentication issues that prevented the evaluation from running. End-to-end testing was completed on a fresh lab environment to confirm the updated steps work as expected.
+
+## Infrastructure Changes
+
+- No infrastructure changes.
+
+## Content Changes
+
+- **Challenge 05, Step 1:** Updated the ASSERT install commands.
+  - Added the `mcp` package. The latest `litellm` requires it, and it was not installed because ASSERT is installed with `--no-deps`. This caused every model call to fail with `No module named 'mcp'`.
+  - Removed `cd ASSERT` and installed ASSERT directly from `custom-rag-app` (`".\ASSERT[otel]"`), so users stay in the correct folder for the evaluation steps.
+  - Switched all commands to `python -m pip`, and reordered them so the dependency-conflict error no longer appears during installation.
+  - Merged the separate `pip install click` command into the OpenTelemetry install line.
+- **Challenge 05, Step 2:** Removed the instruction to copy KEY 1. Only the OpenAI endpoint is now required.
+- **Challenge 05, Step 3:** Removed `AZURE_API_KEY` from the `.env` values. Setting both an API key and `ASSERT_AZURE_USE_AAD=1` caused the evaluation to fail with a "mutually exclusive" authentication error. ASSERT now authenticates using Entra ID (AAD) only.
+
+
+## Testing Notes
+
+- Testing Date: 2026-11-05
+
+## Testing Scope
+
+- Performed end-to-end validation of all lab challenges and exercises.
+- Verified successful deployment and functionality of the required Azure resources and AI models.
+- Confirmed all lab guide instructions, navigation steps, links, and screenshots are working as expected.
+- Validated the overall learner experience and lab workflow without any issues.
+
+</details>
+
+<details>
   <summary>2026-09-08</summary>
 
 ## Summary
