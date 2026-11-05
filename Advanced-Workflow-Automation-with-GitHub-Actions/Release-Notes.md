@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-04</summary>
+ 
+## Release Date: 2026-11-04
+ 
+### Summary of Changes
+ 
+- Updated the lab guide to the latest format and standards, with refined instructions, corrected steps and up-to-date UI screenshots for improved clarity.
+- Updated the presentation deck to the latest standard template.
+ 
+### Infrastructure Changes
+ 
+- Improved the lab environment setup to provide a smoother and more reliable experience in Lab 06.
+ 
+### Content Changes
+ 
+- Updated all lab pages to the latest format, including a lab scenario, objectives and summary for each lab, and a new architecture diagram on the Getting Started page.
+- Fixed spelling, grammar and step references, and aligned the instructions with the workflow files across all labs.
+- Lab 02: added guidance for opening the deployed web application in the browser.
+- Lab 04: updated the OpenID Connect (OIDC) steps to match the latest Microsoft Entra ID experience.
+- Lab 05: added guidance for configuring environment variables.
+ 
+### Screenshot Update
+ 
+- Updated multiple screenshots to match the latest UI and aligned the callouts with the instructions.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-11-04
+ 
+### Testing Scope
+ 
+- Performed end-to-end all labs, including lab flow continuity, content accuracy and screenshot alignment with the latest UI.
+ 
+-------------
+ 
+</details>
+
+<details>
   <summary>2026-02-21</summary>
  
 ## Release Date: 2026-02-21
