@@ -16,6 +16,40 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-05</summary>
+
+## Release Date: 2026-11-05
+
+### Summary of Changes
+
+- Updated lab instructions and screenshots to align with the latest Azure Portal and Microsoft Foundry UI, ensuring a consistent and accurate learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- **Exercise 1**: Updated the instructions to reflect the latest Azure Portal UI and navigation changes.
+
+- **Exercises 2 & 4**: Updated the instructions to align with the latest Microsoft Foundry Portal UI and navigation changes.
+
+### Screenshot Updates
+
+- Refreshed screenshots to improve clarity and provide better visual guidance to learners.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-29
+
+### Testing Scope 
+
+Performed end-to-end testing of the updated lab flow, including validation of Exercise 3 using Microsoft Agent Framework. Verified the revised instructions, scenario, overview, task flow, and screenshots, and confirmed that the TPM policy correctly restricts users from creating unapproved models. Also validated the updated default row count of 15 in Exercise 4, Task 2, Step 5 and confirmed the lab is functioning as expected.
+
+---
+</details>
+
+<details>
   <summary>2026-09-04</summary>
 
 ## Release Date: 2026-09-04
