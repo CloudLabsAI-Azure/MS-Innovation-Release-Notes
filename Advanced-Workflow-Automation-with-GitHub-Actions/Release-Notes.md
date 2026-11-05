@@ -25,11 +25,11 @@ This Page contains detailed notes about the latest updates and modifications mad
 ### Summary of Changes
  
 - Updated the lab guide to the latest format and standards, with refined instructions, corrected steps and up-to-date UI screenshots for improved clarity.
-- Updated the presentation deck to the latest standard template.
  
 ### Infrastructure Changes
  
-- Improved the lab environment setup to provide a smoother and more reliable experience in Lab 06.
+- Replaced the **Contributor** role on the service principal with a least-privilege custom role scoped to the `github-action` resource group. It allows only managing Azure Container Instances and pushing and pulling images in Azure Container Registry. Validated with the Lab 02 workflow.
+- Updated `bootcamp.py` to add the learner (`odl-user-<DeploymentID>_clabs`) as an owner when the `devops-org-<date>-<DeploymentID>` organization is created. The script waits for the learner's GitHub account and handles an existing organization on reruns. Previously the organization was created without the learner, so it wasn't visible in Lab 06.
  
 ### Content Changes
  
@@ -40,7 +40,8 @@ This Page contains detailed notes about the latest updates and modifications mad
  
 ### Screenshot Update
  
-- Updated multiple screenshots to match the latest UI and aligned the callouts with the instructions.
+- Updated multiple screenshots in Labs 01–06 to match the latest UI, and aligned the callout numbers with the instructions.
+- Added the latest Getting Started images (Resize the Virtual Machine View and the Next button).
  
 ### Testing Notes
  
