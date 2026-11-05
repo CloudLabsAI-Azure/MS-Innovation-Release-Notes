@@ -41,7 +41,7 @@ This Page contains detailed notes about the latest updates and modifications mad
  
 ### Screenshot Update
  
-- Updated multiple screenshots in Labs 01–03 to match the latest UI, and aligned the callout numbers with the instructions.
+- Updated multiple screenshots in Labs 01–06 to match the latest UI, and aligned the callout numbers with the instructions.
 - Added the latest Getting Started images (Resize the Virtual Machine View and the Next button).
  
 ### Testing Notes
