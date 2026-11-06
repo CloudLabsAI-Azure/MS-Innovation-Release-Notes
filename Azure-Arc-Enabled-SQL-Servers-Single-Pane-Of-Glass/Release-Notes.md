@@ -17,6 +17,54 @@ Email Support: cloudlabs-support@spektrasystems.com`
 ## Release Notes
 
 <details>
+  <summary>2026-11-06</summary>
+  
+## Release Date: 2026-11-06
+
+### Summary of Changes
+
+Updated the Getting Started page and all exercises for accuracy, clarity, and consistency with the latest Azure portal experience. The architecture diagram now reflects the latest lab flow, and validation steps have been added for Exercise 2. The infrastructure has also been updated so that all lab steps can be completed with the lab user's permissions.
+
+### Infrastructure Changes
+
+- Updated the LabVM size to **Standard_D8s_v5**.
+- Added the role assignments required to enable the best practices assessment.
+- Updated the custom RBAC role and ARM policy to match the lab steps.
+- Fixed the logon task so that it runs only once.
+- Added validations for exercise 2 Task 2 and Task 3.
+### Content Changes
+
+- **Getting Started**: Updated the Lab Scenario, Overview, Objective, Architecture, and Explanation of Components sections to match the lab.
+- **Exercise 1**:
+  - Updated the Scenario, Overview, and task descriptions.
+  - Added notes for starting the Hyper-V VM and approving the sign-in.
+  - Improved the device login step.
+- **Exercise 2**:
+  - Applied the same updates as Exercise 1.
+  - Fixed typos.
+- **Exercise 3**:
+  - Updated the task names and descriptions to match the dashboard tiles.
+  - Updated the chart tile steps for the new Azure portal experience.
+
+### Screenshot Updates
+
+- Updated the architecture diagram with the latest lab flow.
+- Added screenshots for starting the Hyper-V VM and approving the sign-in.
+- Updated the Exercise 3 screenshots with the new UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-06
+
+### Testing Scope
+
+- Verified the deployment and the lab user's permissions.
+- Verified all exercises and validation steps end to end.
+- Validated formatting and content rendering in the lab guide.
+
+</details>
+
+<details>
   <summary>2026-08-19</summary>
   
 ## Release Date: 2026-08-19
