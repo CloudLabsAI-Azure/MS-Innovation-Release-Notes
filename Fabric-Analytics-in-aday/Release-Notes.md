@@ -30,6 +30,10 @@ Updated Labs guides to align with the current Microsoft Fabric and Power BI expe
 
 NA
 
+### Content Changes
+
+N/A
+
 ### Screenshot Updates
 
 Lab 3, Task 3, Step 3 : Screenshot updated as per new UI updates
