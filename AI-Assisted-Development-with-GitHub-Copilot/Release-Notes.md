@@ -17,9 +17,60 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-11-10</summary>
+
+## Release Date: 2026-11-10
+
+### Summary of Changes
+
+Updated the lab guide to align with the latest GitHub Copilot and Microsoft Foundry experience by refreshing agent workflows, updating Claude model references, improving environment setup instructions, standardizing configuration variables, enhancing validation guidance, correcting Markdown formatting, and updating screenshots throughout the lab to reflect the current user experience.
+
+### Infrastructure Changes
+
+- Updated VM size from `Standard_D2s_v3` to `Standard_D2s_v5` to align with current lab infrastructure requirements and improve environment consistency.
+
+### Content Changes
+
+- Updated all references from Claude Opus 4.8 to Claude Opus 5.5 across the lab guide.
+- Refreshed GitHub Copilot Agent workflows in Exercise 02 to align with the latest approval and prompt experience.
+- Added clearer guidance for approval prompts, environment setup, dependency installation, and `.env` configuration.
+- Improved application testing and validation instructions, including localhost verification and browser-based testing.
+- Updated Microsoft Foundry navigation and configuration steps to reflect the current portal experience.
+- Standardized environment variable names and clarified configuration consistency between local and Azure environments.
+- Revised custom agent creation and testing instructions, including updates to the `.github/agents` workflow.
+- Enhanced the GitHub issue generation process with additional validation and save guidance.
+- Corrected Markdown formatting, note placement, and instructional callouts throughout the documentation.
+
+### Screenshot Updates
+
+- Refreshed screenshots across the lab to align with the latest GitHub Copilot, Microsoft Foundry, and Azure experiences.
+- Updated screenshots related to:
+  - Claude model selection and recommendations
+  - GitHub Copilot Agent workflows
+  - Permission approval dialogs
+  - Python environment setup
+  - Application testing and validation
+  - Microsoft Foundry navigation
+  - API key and endpoint configuration
+  - Custom agent creation and testing
+  - GitHub issue generation workflow
+  - Updated portal experiences and UI changes
+- Added new screenshots and replaced outdated media assets throughout the lab documentation to improve accuracy and learner experience.
+
+### Testing Notes
+
+- Testing Date: 2026-11-06
+
+### Testing Scope
+
+Performed end-to-end validation of the complete lab using the latest GitHub Copilot and Microsoft Foundry experiences. Validated environment setup, approval workflows, dependency installation, application execution, Microsoft Foundry configuration, custom agent creation, issue generation workflows, and overall lab completion flow. Verified that screenshots, instructions, configuration values, and validation checkpoints accurately reflect the current product experience and infrastructure configuration.
+
+---
+</details>​‌
+<details>
   <summary>2026-09-30</summary>
 
-## Release Date : 2026-09-30
+## Release Date: 2026-09-30
 
 ### Summary of Changes
 
