@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-10</summary>
+
+## Release Date: 2026-11-10
+
+### Summary of Changes
+
+Updated Labs guides to align with the current Microsoft Fabric and Power BI experience. The release includes refreshed screenshots, improved sign-in workflow guidance, enhanced navigation instructions, clearer data-source configuration steps, and general content refinements to improve learner usability and accuracy.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+N/A
+
+### Screenshot Updates
+
+Lab 3, Task 3, Step 3 : Screenshot updated as per new UI updates
+Lab 6, Task 1, Step 4 : Screenshot updated as per new UI updates
+Lab 2, Task 1, Step 12 : Screenshot updated as per new UI updates
+Lab 7, Task 1, Step 2 : Screenshot updated as per new UI updates
+
+### Testing Notes
+
+- Testing Date: 2026-11-10
+
+### Testing Scope
+
+- Validate the updated Power BI/Fabric sign-in experience and UI references.
+- Verify all refreshed screenshots match the current Fabric and Power BI interfaces.
+- Review updated navigation paths for Power Query, Lakehouse, shortcuts, dataflows, and pipelines.
+- Validate Dataverse, ADLS, and Snowflake connection instructions and credential guidance.
+
+</details>
+
+
+<details>
   <summary>2026-10-01</summary>
 
 ## Release Date: 2026-10-01
