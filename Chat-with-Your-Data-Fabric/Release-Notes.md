@@ -18,6 +18,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-06</summary>
+
+## Release Date : 2026-11-06
+
+### Summary of Changes
+
+Guide is updated with the Microsoft Copilot and Microsoft Fabric lab guides to reflect the latest user interface changes. Revised screenshots and corresponding instructions across the labs to ensure the content remains accurate, consistent, and easy for learners to follow.
+
+### Infrastructure Changes
+
+- No infrastructure modifications were required or implemented as part of this release.
+
+### Content Changes
+
+- Refined the content, formatting, and instructions across the lab guides to improve readability and maintain consistency.
+
+- Incorporated feedback from internal QA reviews and enhanced learner guidance wherever necessary.
+
+- In Lab 1, Task 3: Test the Deployed AI Agent from the Command Line and Configure OBO Authentication, the OBO authentication section has been made READ-ONLY because it requires elevated permissions at the Microsoft Entra ID level.
+
+### Screenshot Updates
+
+- Replaced outdated screenshots related to navigation, configuration, and exercise execution with updated visuals.
+
+- Standardized screenshots across the lab guides to ensure alignment with the current portal interface and provide a consistent learning experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-06
+
+### Testing Scope
+
+- Conducted end-to-end validation of the Microsoft Copilot and Microsoft Fabric labs following the screenshot and instructional updates.
+
+- Reviewed the updated screenshots to ensure they accurately represent the current user interface.
+
+- Verified navigation paths, exercise workflows, and instructional steps against the latest portal experience.
+
+- Confirmed that the revised instructions and screenshots provide learners with clear guidance for completing the lab exercises successfully.
+
+---
+
+</details>
+
+<details>
   <summary>2026-10-05</summary>
 
 ## Release Date : 2026-10-05
