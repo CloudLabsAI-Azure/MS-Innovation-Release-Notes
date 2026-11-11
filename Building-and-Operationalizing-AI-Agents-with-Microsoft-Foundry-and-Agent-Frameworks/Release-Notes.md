@@ -16,7 +16,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 **This is a newly onboarded lab.**
 
 # Release Notes
+<details>
+<summary>2026-11-12</summary>
 
+## Release Date: 2026-11-12
+
+### Summary of Changes
+
+Updated the workshop lab guides to align with the latest Microsoft Foundry portal experience. The release includes streamlined instructions, enhanced AI agent and Bing grounding best practices, updated navigation guidance, improved formatting consistency, and refreshed screenshots throughout the lab.
+
+### Content Changes
+
+- Removed duplicate cleanup instructions from Exercise 1 and Exercise 3 to simplify the learner experience.
+- Streamlined the workflow after agent and evaluation creation.
+- Added Best Practices guidance for AI agents, including financial AI safety, data handling, compliance, security, and Bing grounding recommendations.
+- Updated instructions and navigation paths to match the latest Microsoft Foundry portal experience, including Foundry MCP Server (preview).
+- Improved markdown formatting consistency, callouts, notes, portal labels, and overall content readability.
+- Refreshed supporting screenshots and media assets to align with the updated lab flow and portal UI.
+
+### Screenshot Updates
+
+- Updated screenshots throughout the lab to reflect the latest Microsoft Foundry portal interface and workflow.
+- Verified alignment between screenshots and corresponding instructions.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-12
+
+  Performed end-to-end validation of the lab after implementing content, formatting, navigation, and screenshot updates.
+
+### Testing Scope
+
+- Completed full lab validation from start to finish.
+- Verified updated Microsoft Foundry portal navigation and workflows.
+- Confirmed screenshot accuracy and content consistency.
+- Validated that all instructions, links, and exercises function as expected.
+
+</details>
 
 <details>
 <summary>2026-10-23</summary>
