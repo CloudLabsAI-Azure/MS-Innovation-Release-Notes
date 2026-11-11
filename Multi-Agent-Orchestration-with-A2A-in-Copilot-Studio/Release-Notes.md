@@ -18,6 +18,54 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-11</summary>
+
+## Release Date: 2026-11-11
+## Summary of Changes
+
+Completed a content and environment refresh for the **Multi-Agent Orchestration with A2A in Copilot Studio** lab. Screenshots, instructions, and the lab environment were updated to match the latest Microsoft Copilot Studio and Microsoft Fabric experience.
+
+## Infrastructure Changes
+
+- Replaced the broad access role with a least-privilege custom role for the lab user, with read access to all lab resources.
+- Added the Foundry User role assignment for the lab user on the lab resource group.
+- Added a custom policy that limits the resource types, SKUs, and model deployments allowed in the lab resource group.
+- Updated the lab to use the **gpt-5.4** model in place of **gpt-4o**.
+- Updated the VM sku from **d2s_v3** to **d2s_v5**
+
+## Content Changes
+
+- Updated the instructions across all exercises to match the latest Microsoft Copilot Studio and Microsoft Fabric UI.
+- Added inject keys wherever possible so that lab-specific values appear directly in the guide.
+- Added the Architecture and Architecture Diagram sections to the Getting Started page.
+- Updated the Agent2Agent connection steps to use the agent message endpoint.
+- Added the missing formula step to the business hours guardrail topic.
+- Added a lab summary, reference links, and a closing section at the end of the lab.
+- Removed the final deployment exercise. The lab now contains seven exercises.
+- Corrected grammar, punctuation, and formatting, and applied a consistent heading style across the lab guide.
+
+## Screenshot Updates
+
+- Updated all screenshots to the latest Microsoft Copilot Studio and Microsoft Fabric UI.
+- Blurred the Deployment ID, user ID, and other sensitive information in the screenshots.
+- Updated the Agent2Agent connection screenshot to match the revised steps.
+- Added a screenshot for the guardrail formula step.
+
+## Testing Notes
+
+- **Testing Date**: 2026-11-11
+
+## Testing Scope
+
+- Completed a full walkthrough of the lab environment to ensure seamless end-to-end execution.
+- Mapped and confirmed that all screenshots align with the updated interface for visual clarity.
+- Verified all step-by-step navigation paths and learner instructions against the latest live UI elements.
+- Verified that the lab user can complete all exercises with the updated role and policy.
+
+---
+</details>
+
+<details>
   <summary>2026-09-07</summary>
 
 ## Release Date: 2026-09-07
