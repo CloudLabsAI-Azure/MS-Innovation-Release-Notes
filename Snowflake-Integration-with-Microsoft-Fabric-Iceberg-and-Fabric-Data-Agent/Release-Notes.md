@@ -17,6 +17,43 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Notes
 
+<details>
+<summary>2026-11-11</summary>
+
+## Release Date: 2026-11-11
+
+### Summary of Changes
+
+- Updated the deployment script to assign the Fabric Admin role correctly, addressing issues with the previous script that prevented the role from being assigned properly.
+
+### Infrastructure Changes
+
+- Modified the deployment script to ensure the Fabric Admin role is assigned successfully during deployment.
+
+### Content Changes
+
+- Lab 02 – Task 1, Step 3: Added an important note guiding users to select the appropriate cloud provider.
+- Lab 02 – Task 2, Step 1: Updated the instructions to reflect the latest UI changes in the Snowflake portal.
+- Lab 03 – Task 3, Step 4: Corrected Markdown formatting to ensure consistent content alignment.
+- Lab 03 – Task 4, Steps 1–7: Resolved formatting and layout inconsistencies to ensure proper alignment and eliminate rendering issues.
+
+### Screenshot Updates
+
+- Lab 02 – Task 2, Step 1: Updated the screenshot to reflect the latest UI changes in the Snowflake portal.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-11
+
+### Testing Scope
+
+- Verified the updated deployment script for proper Fabric Admin role assignment.
+- Reviewed the updated lab instructions for accuracy and consistency.
+- Checked indentation, alignment, and rendering across the updated lab steps.
+- Verified that the updated screenshot reflects the latest Snowflake portal UI.
+
+</details>
+
  <details>
 <summary>2026-10-16</summary>
 
