@@ -1,4 +1,4 @@
-  # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)
+# Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)
 
 Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
