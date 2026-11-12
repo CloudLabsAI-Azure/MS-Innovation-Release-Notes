@@ -1,6 +1,6 @@
-  # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search 
+  # Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)
 
-Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
+Welcome to the **Enterprise Knowledge Base Search and Query with Microsoft Foundry and Azure AI Search (Foundry IQ)** Readme.md. On this page, we will document the changes made during the last testing cycle, including updates related to the infrastructure, content, screenshots, and other relevant changes for the lab.
 
 ## Overview
 
@@ -14,6 +14,93 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-11-12</summary>
+
+## Release Date: 2026-11-12
+
+### Infrastructure Changes
+
+- Updated the deployment script so the Foundry model restriction policy is assigned at the resource group scope where the Foundry resource is created, instead of at subscription scope.
+
+### Summary of Changes
+
+- Moved the Foundry model restriction policy assignment from subscription scope to the resource group scope of the Foundry deployment, so the restriction applies only to the lab's Foundry resource and not the whole subscription.
+- Renamed Azure AI Search to **Azure AI Search (Foundry IQ)** on the Getting Started page so the label matches the Foundry IQ naming.
+
+### Content Changes
+
+- **Getting Started page:** Renamed "Azure AI Search" to "Azure AI Search (Foundry IQ)".
+
+### Screenshot Updates
+
+- None.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-12
+
+### Testing Scope
+
+- Checked formatting, alignment, and rendering across the updated lab steps.
+
+---
+
+</details>
+
+<details>
+  <summary>2026-10-23</summary>
+
+## Release Date: 2026-10-23
+
+### Infrastructure Changes
+
+N/A
+
+### Summary of Changes
+
+Updated the lab guide to match the latest **Azure portal** and **Microsoft Foundry** portal experience. Refreshed screenshots, revised instructions, highlighted key terms, and added numbered callouts so learners can follow each step more easily.
+
+### Content Changes
+
+- **Getting Started**:
+  - Updated the **Architecture diagram**.
+  - Updated the **component explanations** and **prerequisites**.
+- **Exercise 1**:
+  - Updated screenshots and instructions to match the new **Azure portal** and **Microsoft Foundry** portal UI.
+  - Highlighted key terms in the instructions.
+  - Updated the exercise **summary** to match the revised steps.
+  - **Task 3, Step 3**: Added a note explaining exactly what the **deployment script** deploys.
+  - **Task 3**: Updated instructions as per names to the latest Microsoft naming conventions.
+  - Added matching numbers to the screenshots and the instructions.
+- **Exercise 2**:
+  - Refined the instructions and highlighted key terms.
+  - Updated screenshots to match the current **Azure portal** UI.
+- **Overall**:
+  - Highlighted key terms in the **lab scenario** and **overview** on all pages.
+  - Refined instructions and updated images across the guide to match the latest UI.
+
+### Screenshot Updates
+
+- Updated the **Getting Started** architecture diagram.
+- Refreshed screenshots in **Exercise 1** to match the new Azure portal and Microsoft Foundry portal UI, with matching numbers in the images and steps.
+- Updated screenshots in **Exercise 2** to match the current Azure portal, and **blurred sensitive information**.
+
+### Testing Notes
+
+- **Testing Date**: 2026-10-23
+
+### Testing Scope
+
+- Validated the updated instructions against the current Azure portal and Microsoft Foundry UI.
+- Confirmed the screenshot numbers match the instruction steps.
+- Confirmed sensitive information is blurred in all updated screenshots.
+- Reviewed the overall lab flow for consistency and clarity.
+
+---
+
+</details>
 
 <details>
   <summary>2026-08-06</summary>
