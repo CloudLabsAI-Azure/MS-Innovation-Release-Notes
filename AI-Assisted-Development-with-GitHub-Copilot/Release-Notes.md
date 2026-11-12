@@ -17,7 +17,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
-<summary>2026-11-10</summary>
+  <summary>2026-11-10</summary>
 
 ## Release Date: 2026-11-10
 
@@ -66,6 +66,7 @@ Updated the lab guide to align with the latest GitHub Copilot and Microsoft Foun
 Performed end-to-end validation of the complete lab using the latest GitHub Copilot and Microsoft Foundry experiences. Validated environment setup, approval workflows, dependency installation, application execution, Microsoft Foundry configuration, custom agent creation, issue generation workflows, and overall lab completion flow. Verified that screenshots, instructions, configuration values, and validation checkpoints accurately reflect the current product experience and infrastructure configuration.
 
 ---
+
 </details>​‌
 <details>
   <summary>2026-09-30</summary>
