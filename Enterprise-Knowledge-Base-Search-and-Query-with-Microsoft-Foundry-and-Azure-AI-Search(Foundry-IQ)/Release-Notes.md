@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-12</summary>
+
+## Release Date: 2026-11-12
+
+### Infrastructure Changes
+
+- Updated the deployment script so the Foundry model restriction policy is assigned at the resource group scope where the Foundry resource is created, instead of at subscription scope.
+
+### Summary of Changes
+
+- Moved the Foundry model restriction policy assignment from subscription scope to the resource group scope of the Foundry deployment, so the restriction applies only to the lab's Foundry resource and not the whole subscription.
+- Renamed Azure AI Search to **Azure AI Search (Foundry IQ)** on the Getting Started page so the label matches the Foundry IQ naming.
+
+### Content Changes
+
+- **Getting Started page:** Renamed "Azure AI Search" to "Azure AI Search (Foundry IQ)".
+
+### Screenshot Updates
+
+- None.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-12
+
+### Testing Scope
+
+- Checked formatting, alignment, and rendering across the updated lab steps.
+
+---
+
+</details>
+
+
+<details>
   <summary>2026-10-23</summary>
 
 ## Release Date: 2026-10-23
