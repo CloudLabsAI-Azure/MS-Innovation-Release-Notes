@@ -16,6 +16,75 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-16</summary>
+
+## Summary of Changes
+
+Improved the workshop labs with clearer instructions, updated workflows, and refreshed screenshots to better reflect the learner experience and current portal interfaces.
+
+## Content and Workflow Updates
+
+- The lab guide instructions have been updated across all exercises to reflect the latest UI changes. 
+
+## Screenshot Updates
+
+### Exercise 1
+
+- Added inject keys for the workspace created and updated the screenshots accordingly.
+- Task 1, Step 1 : Screenshot updated as per new UI update.
+- Task 2, Step 6 : Screenshot updated as per new UI update.
+
+### Exercise 2
+
+- Added inject keys for the workspace created and updated the screenshots accordingly.
+- Task 2, Step 5 : Screenshot updated as per new UI update.
+
+### Exercise 3
+
+- Task 2, Step 1 : Screenshot updated as per new UI update.
+- Task 2, Step 4 : Screenshot updated as per new UI update.
+- Task 2, Step 5 : Screenshot updated as per new UI update.
+- Task 1, Step 6 : Screenshot updated as per new UI update.
+- Task 1, Step 8 : Screenshot updated as per new UI update.
+
+### Exercise 4
+
+- Task 1, Step 7 : Screenshot updated as per new UI update.
+- Task 3, Step 2 : Screenshot updated as per new UI update.
+- Task 4, Step 16 : Screenshot updated as per new UI update.
+
+### Exercise 5
+
+- Task 1, Step 12 : Screenshot updated as per new UI update.
+- Task 4, Step 5 : Screenshot updated as per new UI update.
+- Task 4 (Flow 3 , Topic 1), Step 8 : Screenshot updated for clarity.
+
+### Exercise 6
+
+- Added inject keys for the workspace created and updated the screenshots accordingly.
+
+### Exercise 7
+
+- Added inject keys for the workspace created and updated the screenshots accordingly.
+- Task 1, Step 4 : Screenshot updated as per new UI update.
+- Task 2, Step 5 : Screenshot updated as per new UI update.
+- Task 2, Step 5 : Screenshot updated as per new UI update.
+
+
+
+## Testing Notes
+
+- **Testing Date:** 2026-11-16
+
+## Testing Scope
+
+- Reviewed lab sequencing and updated instructions for clarity and consistency.
+- Checked that updated and added screenshots align with the corresponding learner steps.
+
+
+</details>
+
+<details>
   <summary>2026-10-07</summary>
 
 ## Summary of Changes
