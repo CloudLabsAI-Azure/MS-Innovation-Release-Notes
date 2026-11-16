@@ -20,14 +20,15 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ## Release Date: 2026-11-12
 
-### Infrastructure Changes
-
-- Updated the deployment script so the Foundry model restriction policy is assigned at the resource group scope where the Foundry resource is created, instead of at subscription scope.
-
 ### Summary of Changes
 
-- Moved the Foundry model restriction policy assignment from subscription scope to the resource group scope of the Foundry deployment, so the restriction applies only to the lab's Foundry resource and not the whole subscription.
+Minor updates were implemented across the guide, including clearer and more accurate UI screenshots. Several instructions were refined to improve clarity, align with the latest interface changes, and enhance the overall user experience for learners. Step-level guidance has been improved in multiple tasks to reduce ambiguity and ensure smoother navigation during the lab.
+
 - Renamed Azure AI Search to **Azure AI Search (Foundry IQ)** on the Getting Started page so the label matches the Foundry IQ naming.
+
+### Infrastructure Changes
+
+N/A
 
 ### Content Changes
 
@@ -35,15 +36,18 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 ### Screenshot Updates
 
-- None.
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
 
 ### Testing Notes
 
 - **Testing Date**: 2026-11-12
 
+  Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+
 ### Testing Scope
 
-- Checked formatting, alignment, and rendering across the updated lab steps.
+- Performed complete end-to-end lab testing with the new content. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
 
 ---
 
