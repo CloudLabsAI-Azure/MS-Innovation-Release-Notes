@@ -26,8 +26,6 @@ Updated the AI-Powered Cloud Operations on Azure – Azure GameDay Hack lab base
 
 ### Infrastructure Changes
 
-### Infrastructure Changes
-
 - Automated the Defender for Endpoint onboarding and incident generation for Challenge 03, replacing the manual post-deployment steps. The deployment status stays Pending until this completes.
 - Configured Azure AI Search with a managed identity and the required data access roles for the search service and the lab user, so the Import data wizard and Search explorer work without permission errors.
 - The hotel sample data is now uploaded to a dedicated `hotels-sample` blob container for Challenge 06.
