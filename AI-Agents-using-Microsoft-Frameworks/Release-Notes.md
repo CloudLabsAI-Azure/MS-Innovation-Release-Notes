@@ -16,9 +16,9 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 # Release Notes
 <details>
-  <summary>2026-11-02</summary>
+  <summary>2026-11-03</summary>
 
-## Release Date: 2026-11-02
+## Release Date: 2026-11-03
 
 ### Summary of Changes
 
@@ -47,7 +47,7 @@ This release focuses on improving the learner experience by updating lab instruc
 
 ### Testing Notes
 
-- **Testing Date**: 2026-11-02
+- **Testing Date**: 2026-11-03
 
 ### Testing Scope
 
