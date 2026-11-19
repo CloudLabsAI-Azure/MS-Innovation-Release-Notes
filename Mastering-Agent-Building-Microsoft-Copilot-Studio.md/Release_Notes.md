@@ -25,7 +25,8 @@ Updated the Copilot Studio lab guides to align with the latest UI experience, im
 
 ### Infrastructure Changes
 
-- NA
+- Updated the PowerShell script to automatically download and extract the required ZIP package.
+- Added automation to clone and place lab assets in the correct path: `C:\Users\Public\Desktop\recruit-nextgen`.
 
 ### Content Changes
 
