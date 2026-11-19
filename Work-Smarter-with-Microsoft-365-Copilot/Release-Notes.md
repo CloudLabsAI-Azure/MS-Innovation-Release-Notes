@@ -15,6 +15,61 @@ This Page contains detailed notes about the latest updates and modifications mad
 **This is a newly onboarded lab.**
  
 # Release Notes
+
+<details>
+  <summary>2026-11-19</summary>
+
+## Release Date: 2026-11-19
+ 
+## Summary of Changes
+ 
+Completed end-to-end testing of the **Work Smarter with Microsoft 365 Copilot** lab. The lab was authored as a four-hour guided experience covering Microsoft 365 Copilot's in-app editing capabilities across Word, Excel, PowerPoint, and Outlook, followed by a cross-application workflow exercise. Content was created across six exercises, screenshots were captured against the current Microsoft 365 interface, licensing and environment requirements were validated, and the lab was tested end-to-end and finalized for production.
+ 
+## Infrastructure Changes
+ 
+N/A
+
+## Content Changes
+
+- Updated the lab guide instructions to align with the latest UI changes.
+ 
+## Screenshot Updates
+
+- Exercise 1
+ 
+  - Task 1 , Step 1-7 : Added new screenshots aligning with the new instructions added.
+
+- Exercise 2
+
+  - Task 1 , Step 7-12 : Screenshots updated as per new UI updates.
+  - Task 2 , Step 3 : Screenshots updated as per new UI updates.
+
+- Exercise 3
+
+  - Task 1 , Step 5 : Screenshots updated as per new UI updates.
+
+- Exercise 4
+
+  - Task 1 , Step 3 : Screenshots updated as per new UI updates.
+  - Task 2 , Step 3 : Screenshots updated as per new UI updates.
+
+
+## Testing Notes
+ 
+- **Testing Date**: 2026-11-19
+
+## Testing Scope
+ 
+- Validated the lab end-to-end across all six exercises.
+- Verified SharePoint site creation, source file upload, and grounded content retrieval
+- Confirmed Copilot in-app editing behaviour in Word, Excel, PowerPoint, and Outlook, including source attachment and iterative refinement
+- Verified generated outputs including reports, forecast worksheets, Python-based analysis, presentations, and email drafts
+- Confirmed the cross-application workflow produced all expected deliverables from a single source document
+- Confirmed content accuracy, sequencing, formatting, and expected outputs
+- Verified screenshots align with the latest Microsoft 365 and Copilot UI
+- Successfully pushed all finalized changes to production
+---
+</details>
  
 <details>
   <summary>2026-06-10</summary>
