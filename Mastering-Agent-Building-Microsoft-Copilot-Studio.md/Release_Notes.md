@@ -14,7 +14,48 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
+<summary>2026-11-19</summary>
 
+## Release Date: 2026-11-19
+
+### Summary of Changes
+
+Updated the Copilot Studio lab guides to align with the latest UI experience, improve instruction accuracy, refresh screenshots, and enhance the overall learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated all asset paths to `C:\Users\Public\Desktop\recruit-nextgen`.
+- Aligned lab instructions with the latest Copilot Studio UI and workflow changes.
+- Corrected step numbering, callouts, and screenshot references across the lab.
+- Added troubleshooting guidance for Dataverse provisioning and Work IQ scenarios.
+- Updated model references and file upload instructions.
+- Improved Exercise 3 skill setup and configuration guidance.
+- Enhanced Exercise 4 workflow configuration, testing instructions, and expected response validation.
+- Updated Exercise 5 publishing and validation guidance.
+
+### Screenshot Update
+
+ Refreshed and added screenshots across Prerequisites and Exercises 1–5 to reflect the current Copilot Studio experience.
+
+### Testing Notes
+
+- Testing Date: 2026-11-19
+
+### Testing Scope
+
+- Validated all lab instructions and learner workflows end-to-end.
+- Verified file paths, callouts, step sequencing, and screenshot alignment.
+- Confirmed Exercise 3 skill configuration scenarios.
+- Tested Exercise 4 workflow execution and expected responses.
+- Reviewed publishing and validation steps in Exercise 5.
+
+---------------
+</details>
 <details>
   <summary>2026-10-07</summary>
 
