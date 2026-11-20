@@ -16,6 +16,81 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-19</summary>
+
+## Release Date: 2026-11-19
+
+## Summary of Changes
+
+Tested the **How to use Apache Spark in Microsoft Fabric** lab end to end against the current Microsoft Fabric portal and updated it. The getting-started guide and the Apache Spark, Dataflow Gen2, and Ingest Pipeline labs were updated where steps, dialog names, or screenshots no longer matched the portal.
+
+## Infrastructure Changes
+NA
+
+## Content Changes
+
+* **Getting started (gs-apache-spark.md):**
+  * Updated the sign-in page heading to **Enter your work or school email, we'll check if you need to create a new account**.
+  * Made the **Welcome to the Fabric view** dialog step optional, with a note that it doesn't appear for every account.
+* **Lab 01: Apache Spark (01-apache-spark.md):**
+  * Updated the trial activation dialog name to **Activate your 60-day free Fabric and Power BI trial**.
+  * Added a note for the **Quickly expand and collapse** tip on the Workspaces pane.
+  * Added a step to dismiss the new **FABRIC CAPACITY SETTINGS** tip.
+  * Updated the workspace capacity selection to **capacity&lt;DeploymentID&gt;** and merged the workspace type, Details, and Apply actions into one step.
+  * Made the **Introducing task flows** dialog step optional.
+  * Added a step to use the back arrow after the service principal is added, to return to **Manage access**.
+  * Updated the lakehouse step to clear the **Lakehouse schemas** checkbox, which is now selected by default.
+  * Noted that the **Notebook Copilot Updates and Git Integration** dialog can take a few seconds to appear.
+  * Explained why the generated **Load data** code fails with **UNRESOLVED_COLUMN** and told learners to replace it with the code in the guide.
+  * Renamed every **+ Code** reference to **+ Add cell** to match the current notebook UI.
+* **Lab 02: Dataflow Gen2 (02-dataflow-gen2.md):**
+  * Updated the **New item** search steps, which no longer show a **Get data** section.
+  * Added a note to dismiss the **Try the dynamic expression editor** tip.
+  * Added a note that the **MonthNo** row starts unchecked with type **Any** until you set its Source type.
+  * Added a note to click **Run** again if the pipeline doesn't start after **Save**.
+  * Added numbered markers to the pipeline **Output** verification step.
+* **Lab 03: Ingest Pipeline (03-ingest-pipeline.md):**
+  * Replaced **My workspace** navigation with the **fabric-&lt;DeploymentID&gt;** workspace icon in four steps.
+  * Updated the Copy assistant steps for the new **Copy job** wizard, including the **Url** field label.
+  * Added notes on the **Row delimiter** default and choosing **Files** instead of **Tables** as the destination root folder.
+  * Added a **Choose data destination** connection step that keeps the connection set to **(none)**.
+  * Moved the notebook rename step to right after **Run all**, so learners no longer go back through the workspace.
+  * Added a **Stop session** step with an Important note and Monitor cancel steps. If the notebook session stays open, the pipeline's Notebook activity never starts on the trial capacity.
+  * Updated the lakehouse picker step to use the **OneLake catalog** tab.
+  * Updated the **Base parameters** step. Fabric now auto-imports **table_name = sales**, so learners must change the value to **new_sales**.
+  * Expanded the run duration note, including how to refresh the **Output** tab.
+* Added `CHANGELOG-2026-11-19.md`, which lists every change and the screenshots the reviewer chose to keep.
+
+## Screenshot Updates
+
+* Replaced about 40 screenshots across the getting-started guide and **Labs 01 to 03** with current Microsoft Fabric UI captures. Each kept its original filename in the `Images` and `Images2` folders.
+* Added new screenshots: `capacity-tip.png`, `back-arrow.png`, and `e3-dest-connection.png`.
+* Refreshed screenshots for:
+  * Sign-in and Temporary Access Pass
+  * Trial activation
+  * Workspace creation and access
+  * Lakehouse upload
+  * Notebook menus and output
+  * Dataflow destination and pipeline activities
+  * Copy job wizard steps
+  * Delete data and Notebook activity settings
+  * Table previews
+
+## Testing Notes
+
+* **Testing Date:** 2026-11-19
+
+## Testing Scope
+
+* Performed end-to-end testing of the **How to use Apache Spark in Microsoft Fabric** lab on a CloudLabs deployment in the live Microsoft Fabric portal.
+* Validated the getting-started guide and the **Apache Spark, Dataflow Gen2, and Ingest Pipeline** labs against the current portal experience.
+* Reproduced and documented the trial capacity issue where an open notebook session blocks the pipeline's Notebook activity, and verified the fix in the new Stop session step.
+* Validated updated and newly added screenshots against their lab steps.
+* Verified navigation, step order, and learner guidance across all affected exercises.
+
+---
+
+<details>
   <summary>2026-10-05</summary>
 
 ## Release Date: 2026-10-05
