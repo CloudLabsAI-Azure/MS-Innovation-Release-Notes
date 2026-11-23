@@ -52,12 +52,8 @@ Updated the GitHub Actions lab guide to align with the new Azure DevOps portal u
 - Performed end-to-end validation of the GitHub Actions lab after the Azure DevOps portal UI updates.
 - Verified the Azure Boards app installation prompt and organization selection flow.
 - Verified that all updated screenshots accurately reflect the current Azure DevOps portal experience.
-
----
-
+-------------
 </details>
-
-
 
 <details>
   <summary>2026-11-04</summary>
@@ -379,6 +375,7 @@ NA
 - 
 ---
 </details>
+
 
 
 
