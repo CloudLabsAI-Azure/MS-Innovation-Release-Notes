@@ -18,6 +18,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-23</summary>
+
+## Release Date : 2026-11-23
+
+### Summary of Changes
+
+Updated the GitHub Actions lab guide to align with the new Azure DevOps portal user interface. Added the missing Azure Boards app installation step, corrected the work item creation flow, and refreshed the related screenshots.
+
+### Infrastructure Changes
+
+- No infrastructure changes were made as part of this release.
+
+### Content Changes
+
+- **Lab 06:** Added a note instructing learners to click **Install** if the Azure Boards app installation option appears before selecting the DevOps organization.
+- **Lab 06:** Updated the work item creation flow from the previous kanban-style **New item → Add to top** action to the new **New Work Item → Issue → Save** dialog.
+- **Lab 06:** Split the work item creation into two separate steps to match the new portal flow.
+- **Lab 06:** Added a numbered callout to the work item **ID** reference for improved clarity.
+
+### Screenshot Updates
+
+- Added new screenshots for the Azure Boards app installation prompt and the New Work Item dialog.
+- Updated existing Azure Boards screenshots to reflect the new Azure DevOps portal user interface.
+- Refreshed images associated with work item creation and work item ID identification steps.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-23
+
+### Testing Scope
+
+- Performed end-to-end validation of the GitHub Actions lab after the Azure DevOps portal UI updates.
+- Verified the Azure Boards app installation prompt and organization selection flow.
+- Verified that all updated screenshots accurately reflect the current Azure DevOps portal experience.
+-------------
+</details>
+
+<details>
   <summary>2026-11-04</summary>
  
 ## Release Date: 2026-11-04
@@ -337,6 +375,8 @@ NA
 - 
 ---
 </details>
+
+
 
 
 
