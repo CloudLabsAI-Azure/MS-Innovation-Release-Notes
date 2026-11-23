@@ -23,7 +23,7 @@ Email Support: cloudlabs-support@spektrasystems.com`
 
 ### Summary of Changes
 
-Refreshed the lab guide with current screenshots across Getting Started and all six exercises to match the latest VS Code, GitHub Copilot Chat, and CloudLabs environment UI.
+Refreshed the lab guide with current screenshots across Getting Started and all six exercises to match the latest VS Code, GitHub Copilot Chat, and CloudLabs environment UI. Also fixed grammar, punctuation, and terminology throughout the lab guide.
 
 ### Infrastructure Changes
 
@@ -35,6 +35,11 @@ N/A
 - **Exercise 1 - Task 1 - Step 2:** Added a note to close the VS Code "Make It Yours" popup if it appears.
 - **Exercise 1 - Task 2 - Step 5:** Added a note to click Yes/Keep if chat asks to keep the changes.
 - **Exercise 5 - Task 1 - Step 18:** Added the PR title and description in copyable code blocks, replacing the screenshot-only step.
+- **Getting Started and Exercises 1–6:** Fixed grammar, punctuation, and terminology:
+  - Updated terms to Microsoft Entra ID, Temporary Access Pass, "sign in", Microsoft Edge, VS Code, GitHub, and Copilot Chat.
+  - Renamed the Getting Started section "Login to GitHub" to "Sign in to GitHub".
+  - Added missing full stops, including all Key Points bullets, and fixed typos such as "Permision".
+  - Fixed the example repository URL in Exercise 5, Task 1.
 
 ### Screenshot Updates
 
@@ -43,8 +48,8 @@ N/A
   - **Exploring Your Lab Resources:** Updated the Environment tab screenshot.
   - **Utilizing the Split Window Feature:** Updated the Split Window button screenshot.
   - **Resize the Virtual Machine View:** Updated the VM/guide resize slider screenshot.
-  - **Login to GitHub - Step 1:** Updated the Microsoft Edge on the desktop screenshot.
-  - **Login to GitHub - Step 9:** Updated the GitHub homepage after sign-in screenshot.
+  - **Sign in to GitHub - Step 1:** Updated the Microsoft Edge on the desktop screenshot.
+  - **Sign in to GitHub - Step 9:** Updated the GitHub homepage after sign-in screenshot.
 
 - **Exercise 1**
   - **Task 1 - Step 2:** Added a screenshot of the VS Code "Make It Yours" popup.
@@ -92,6 +97,7 @@ N/A
 - Verified the placement of the new notes in each task.
 - Confirmed the Exercise 5 PR title and description copy correctly.
 - Reviewed all updated screenshots for accuracy against the current UI.
+- Proofread all instruction text for grammar, punctuation, and terminology consistency.
 
 </details>
 
