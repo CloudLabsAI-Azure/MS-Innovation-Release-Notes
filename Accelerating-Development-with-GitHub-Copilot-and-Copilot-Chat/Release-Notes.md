@@ -17,6 +17,85 @@ Email Support: cloudlabs-support@spektrasystems.com`
 # Release Notes
 
 <details>
+<summary>2026-11-23</summary>
+
+## Release Date: 2026-11-23
+
+### Summary of Changes
+
+Refreshed the lab guide with current screenshots across Getting Started and all six exercises to match the latest VS Code, GitHub Copilot Chat, and CloudLabs environment UI.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- **Exercises 1–6:** Added a note after the Copilot Chat prompts in every task stating that AI-generated responses may vary between runs.
+- **Exercise 1 - Task 1 - Step 2:** Added a note to close the VS Code "Make It Yours" popup if it appears.
+- **Exercise 1 - Task 2 - Step 5:** Added a note to click Yes/Keep if chat asks to keep the changes.
+- **Exercise 5 - Task 1 - Step 18:** Added the PR title and description in copyable code blocks, replacing the screenshot-only step.
+
+### Screenshot Updates
+
+- **Getting Started Page**
+  - **Accessing Your Lab Environment:** Updated the lab environment overview screenshot.
+  - **Exploring Your Lab Resources:** Updated the Environment tab screenshot.
+  - **Utilizing the Split Window Feature:** Updated the Split Window button screenshot.
+  - **Resize the Virtual Machine View:** Updated the VM/guide resize slider screenshot.
+  - **Login to GitHub - Step 1:** Updated the Microsoft Edge on the desktop screenshot.
+  - **Login to GitHub - Step 9:** Updated the GitHub homepage after sign-in screenshot.
+
+- **Exercise 1**
+  - **Task 1 - Step 2:** Added a screenshot of the VS Code "Make It Yours" popup.
+  - **Task 1 - Step 7:** Updated the screenshot for selecting the bookbuddy-mvp folder.
+  - **Task 1 - Step 11:** Updated the screenshot for the Copilot icon and Use AI Features button.
+  - **Task 1 - Step 21:** Updated the screenshot of the project planning prompt response.
+  - **Task 1 - Step 22:** Updated the screenshot for clicking Keep on the response.
+  - **Task 1 - Step 26:** Updated the screenshot of committing the project brief.
+  - **Task 1 - Step 27:** Updated the screenshot of the Postgres vs SQLite tradeoff response.
+  - **Task 1 - Step 28:** Updated the screenshot of the team-consistency prompt response.
+
+- **Exercise 2**
+  - **Task 2 - Step 6:** Updated the screenshot of Copilot explaining project context.
+  - **Task 2 - Step 7:** Updated the screenshot of the improved /me endpoint response.
+  - **Task 3 - Step 2:** Updated the screenshot of the security review response.
+  - **Task 3 - Step 7:** Updated the screenshot of the license/public code check response.
+
+- **Exercise 3**
+  - **Task 1 - Step 3:** Updated the screenshot of Chat parsing repository context.
+  - **Task 1 - Step 5:** Updated the screenshot of the performance optimization response.
+  - **Task 1 - Step 8:** Updated the screenshot of the function explanation response.
+  - **Task 2 - Step 3:** Updated the screenshot of the bug review response.
+
+- **Exercise 4**
+  - **Task 1 - Step 3:** Updated the screenshot of the generated unit tests.
+  - **Task 2 - Step 2:** Updated the screenshot of the TDD implementation response.
+
+- **Exercise 5**
+  - **Task 1 - Step 14:** Updated the Compare & pull request banner screenshot.
+  - **Task 1 - Step 18:** Updated the pull request form screenshot to show the new title and description.
+  - **Task 2 - Step 4:** Updated the screenshot of the BookBuddy API user guide response.
+
+- **Exercise 6**
+  - **Task 1 - Step 2:** Updated the screenshot of the Pino structured logging response.
+  - **Task 1 - Step 3:** Updated the screenshot of the local metrics collection response.
+  - **Task 2 - Step 5:** Updated the screenshot of the incident log analysis response.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-23
+
+### Testing Scope
+
+- Validated the lab flow end-to-end after the updates.
+- Verified the placement of the new notes in each task.
+- Confirmed the Exercise 5 PR title and description copy correctly.
+- Reviewed all updated screenshots for accuracy against the current UI.
+
+</details>
+
+<details>
 <summary>2026-11-09</summary>
 
 ## Release Date: 2026-11-09
