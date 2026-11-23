@@ -16,7 +16,7 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
-  <summary>2026-11-16</summary>
+  <summary>2026-11-17</summary>
 
 ## Summary of Changes
 
@@ -24,7 +24,7 @@ Improved the workshop labs with clearer instructions, updated workflows, and ref
 
 ## Content and Workflow Updates
 
-- The lab guide instructions have been updated across all exercises to reflect the latest UI changes. 
+- The lab guide instructions have been updated across all exercises to reflect the latest UI changes and added inject keys wherever required.
 
 ## Screenshot Updates
 
@@ -65,16 +65,14 @@ Improved the workshop labs with clearer instructions, updated workflows, and ref
 
 ### Exercise 7
 
-- Added inject keys for the workspace created and updated the screenshots accordingly.
 - Task 1, Step 4 : Screenshot updated as per new UI update.
 - Task 2, Step 5 : Screenshot updated as per new UI update.
 - Task 2, Step 5 : Screenshot updated as per new UI update.
-
-
+  
 
 ## Testing Notes
 
-- **Testing Date:** 2026-11-16
+- **Testing Date:** 2026-11-17
 
 ## Testing Scope
 

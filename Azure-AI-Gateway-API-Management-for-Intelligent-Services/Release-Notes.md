@@ -15,6 +15,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 
 # Release Notes
 
+ <details>
+  <summary>2026-11-20</summary>
+
+## Release Date: 2026-11-20
+
+### Summary of Changes
+
+- Performed end-to-end testing of the lab and added a dependency installation step in Exercise 1, Task 1.
+
+### Infrastructure Changes
+
+- Upgraded the VM size from **D2s_v3 to D2s_v5** to prevent potential deployment failures associated with the D2s_v3 VM size.
+- Updated the pre-provided notebook in Exercise 1, Task 1, to include a cell for installing the required dependencies.
+
+### Content Changes
+
+- Updated instructions across all labs to use **Initialize notebook variables**, ensuring consistency with the updated notebook workflow.
+
+### Screenshot Updates
+
+- Updated the screenshot in Exercise 1, Task 1, to reflect the new dependency installation instruction.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-20
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab.
+- Verified the dependency installation step in the provided notebook.
+- Validated the updated instructions across all labs.
+- Confirmed that the lab workflow is functioning as expected.
+
+---
+</details>
+
 <details>
   <summary>2026-10-01</summary>
 

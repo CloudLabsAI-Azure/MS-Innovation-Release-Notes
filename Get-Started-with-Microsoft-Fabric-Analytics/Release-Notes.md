@@ -14,7 +14,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 `For any further details or inquiries, feel free to reach out to the CloudLabs support team. Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+<details>
 
+<summary>2026-11-20</summary>
+
+## Release Date
+2026-11-20
+
+## Summary of Changes
+
+Updated Microsoft Fabric lab guides to align with the current Fabric experience, improve instruction clarity, and enhance learner navigation. The update includes workflow refinements, screenshot refreshes, corrected runtime guidance, and infrastructure updates to support the latest lab environment configuration.
+
+## Infrastructure Changes
+
+Updated the deployment template, parameter file, and lab environment to use **F4 Fabric Capacity**, providing a more learner-friendly experience by improving **notebook code cell execution performance** and helping reduce **pipeline execution times** during lab activities.
+
+## Content Changes
+
+- Lab 01 – Lakehouse: Updated the Lakehouse exercise to use the pre-configured Fabric capacity instead of Fabric trial activation, corrected the task flow pop-up note placement and formatting, and refined instructions and terminology to align with the current Microsoft Fabric experience.
+
+- Lab 03 – Pipelines and Cross-Database Queries: Updated the Pipelines and Cross-Database Queries exercise by replacing **+ Code** with **+ Add Cell**, improving Script activity and Lakehouse configuration guidance, adding a pipeline validation completion step, and updating the expected pipeline run time from **2–4 minutes** to **5–8 minutes** to reflect the current experience.
+
+- Lab 06 – Data Warehouse: Updated the Data Warehouse exercise by relocating the **"Welcome to your warehouse"** pop-up note to the correct task, clarifying **Part 1** and **Part 2** SQL script execution guidance, enhancing the view creation workflow with separate execution and verification steps, and adding additional guidance and screenshots for the **View Creation** and **Visual Query** experiences.
+
+## Screenshot Updates
+
+- Added **4 new screenshots** to support updated workflows and learner verification steps.
+- Refreshed and optimized approximately **19 existing screenshots** across the affected labs to align with the current Microsoft Fabric experience.
+
+## Testing Notes
+
+**Testing Date:** 2026-11-20
+
+### Testing Scope
+
+- Performed end-to-end testing and validation of all updated lab exercises.
+- Verified updated instructions, screenshots, notes, and image references.
+- Validated Lakehouse creation and navigation using the pre-configured Fabric capacity.
+- Verified Data Warehouse script execution, view creation, and visual query workflows.
+- Validated Pipeline and Cross-Database Query exercises, including Script activity configuration and pipeline execution.
+
+</details>
 <details>
 <summary>2026-10-05</summary>
 

@@ -16,6 +16,47 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-19</summary>
+
+## Summary of Changes
+
+Refreshed the entire lab guide, including content, screenshots, architecture, and step-by-step instructions, to align with the latest platform updates and improve the overall user experience.
+
+## Infrastructure Changes
+
+- Updated the VM SKU to **D2s v5**.
+
+## Content Changes
+
+- Refreshed the entire lab guide with updated content and additional scenarios.
+- Updated the architecture to reflect the latest design.
+- Revised lab instructions and steps for better clarity and ease of execution.
+- Enhanced screenshot quality and updated visuals to match the current UI.
+- Improved the overall flow and readability to make the lab easier for users to follow.
+
+## Screenshot Updates
+
+- Refreshed screenshots to reflect the latest UI changes.
+- Reviewed and updated the corresponding instructions to ensure consistency between the screenshots and the documented steps.
+- Enhanced screenshot quality and clarity for better visibility and understanding.
+
+## Testing Notes
+
+- **Testing Date:** 2026-11-19
+- **Testing Status:** End-to-end testing performed.
+
+Testing activities were carried out to validate the updated content, screenshots, and feature behavior.
+
+## Testing Scope
+
+- Performed complete end-to-end testing of the lab with the updated content.
+- Verified all instructions, interactions, and user workflows against the latest UI.
+- Updated the lab guide content and screenshots wherever necessary to ensure alignment with current platform behavior.
+
+---
+</details>
+
+<details>
   <summary>3 December 2025</summary>
 
 ## Summary of Changes
