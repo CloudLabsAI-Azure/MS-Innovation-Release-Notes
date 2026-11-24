@@ -16,6 +16,44 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-11-24</summary>
+ 
+## Release Date: 2026-11-24
+ 
+### Summary of Changes
+
+Updated lab content and screenshots to reflect the latest Azure and VS Code UI changes and improve user guidance.
+ 
+### Infrastructure Changes
+ 
+NA
+ 
+### Content Changes
+
+- Exercise 1, Task 1, Steps 13 and 14 – Updated instructions to reflect the latest Azure UI changes.
+- Exercise 4, Task 2, Step 1 – Added a step to switch the delegate session from Copilot to Local.
+- All exercises – Updated instructions to guide users on selecting the kernel in VS Code.
+
+ 
+### Screenshot Updates
+ 
+- Exercise 1, Task 1, Steps 13, 14, and 15 – Updated screenshots to reflect the latest Azure UI.
+- Exercise 1, Task 2, Step 5 – Updated the screenshot to reflect the latest VS Code UI.
+- Exercise 4, Task 2, Step 1 – Added a screenshot to guide users through selecting the Local delegate session.
+ 
+### Testing Notes
+ 
+- **Testing Date**: 2026-11-24
+
+Testing activities were carried out on the same date to validate the latest content, screenshots, and feature behavior.
+ 
+### Testing Scope
+ 
+- Performed end-to-end lab testing and validated the lab exercises and instructions for clarity and functionality.
+ 
+</details>
+
+<details>
 <summary>2026-11-05</summary>
  
 ## Release Date: 2026-11-05
