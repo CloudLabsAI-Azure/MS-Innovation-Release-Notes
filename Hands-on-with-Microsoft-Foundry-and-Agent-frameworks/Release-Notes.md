@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-05</summary>
+
+## Release Date: 2026-11-05
+
+### Summary of Changes 
+
+Updated the lab guide to match the current lab environment, notebooks, and portal UI. Updated instructions, section names, and expected outputs to match the notebooks. Added notes to help with common errors and long-running cells, and replaced outdated screenshots across all the labs.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Updated the lab guide instructions to match the latest terminologies.
+
+### Screenshot Update
+
+- Updated the lab guide images to match the latest UI.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-05
+
+### Testing Scope 
+
+- Reviewed the updated lab guide content and verified the changes against the corresponding lab steps.
+- Validated notebook section names, expected outputs, and step references for accuracy.
+- Verified the updated screenshots against the latest lab environment and UI.
+- Performed a content and visual consistency check across the affected exercises.
+
+---
+
+</details>
+
+<details>
   <summary>2026-09-30</summary>
 
 ## Release Date: 2026-09-30

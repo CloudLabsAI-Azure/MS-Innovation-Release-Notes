@@ -16,6 +16,39 @@ This repository contains detailed notes about the latest updates and modificatio
 `Email Support: cloudlabs-support@spektrasystems.com`
 
 # Release Notes
+
+<details>
+  <summary>2026-11-05</summary>
+
+## Release Date: 2026-11-05
+
+### Summary of Changes
+
+Updated the lab to work with the redesigned Copilot Studio Home page. Standard agents are now created through **Other ways to build**, which replaces the previous steps for switching to the Old (Classic) experience.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Updated the lab guide instructions to match the latest terminologies.
+
+### Screenshot Updates
+
+- Updated the lab guide images to match the latest UI.
+  
+### Testing Notes
+
+- **Testing Date**: 2026-11-05
+
+### Testing Scope
+
+Performed end-to-end validation of the Overview/Login page and Labs 01–05 using standard agents created through the new Copilot Studio portal.
+
+---
+</details>
+
 <details>
   <summary>2026-09-29</summary>
 

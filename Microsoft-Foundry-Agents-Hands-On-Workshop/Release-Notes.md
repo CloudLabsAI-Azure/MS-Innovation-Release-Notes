@@ -16,6 +16,41 @@ This **page contains** detailed notes about the latest updates and modifications
 # Release Notes
 
 <details>
+<summary>2026-11-06</summary>
+
+### Release Date: 2026-11-06
+
+## Summary of Changes
+
+Updated the lab guide with updated screenshots, and updated the instructor presentation deck to align with the current lab flow and Microsoft documentation.
+
+## Infrastructure Changes
+
+- No Azure infrastructure or deployment template changes.
+
+## Content Changes
+
+- Updated the lab guide with latest UI changes and refreshed screenshots.
+- Corrected product names, spelling, and grammar across all the lab exercises.
+
+## Screenshot Updates
+
+- Updated the screenshots to match the latest UI changes for all exercises.
+
+## Validation
+
+- Verified the updated screenshot references across all exercises.
+- Confirmed that the changes do not introduce modifications to the existing lab workflow or deployed resources.
+
+## Testing Scope
+
+**Testing Date:** 2026-11-06
+
+- Validated the end-to-end lab flow and instructions across all labs against the current Microsoft Foundry and AI Search (Foundry IQ) experience. All validations succeeded.
+
+</details>
+
+<details>
 <summary>2026-09-29</summary>
 
 ### Release Date: 2026-09-29

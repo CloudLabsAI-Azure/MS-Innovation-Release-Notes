@@ -17,6 +17,51 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-18</summary>
+
+## Release Date: 2026-11-18
+
+### Summary of Changes
+
+- Updated the lab guides to align with the current Microsoft Defender, Microsoft Sentinel, Microsoft Purview, and Microsoft Teams experiences.
+- Refined instructions, corrected step numbering, improved task flow, and updated screenshots to provide a more accurate and seamless learner experience.
+
+### Infrastructure Changes
+
+- NA
+
+### Content Changes
+
+- Updated instructions across all the exercises to reflect current portal navigation and workflows.
+- Corrected step numbering, callouts, and screenshot references to ensure consistency between instructions and UI.
+- Updated incident management steps to use the current **Manage Case** experience.
+- Revised Microsoft Teams sign-in and SOC team creation steps to align with the latest Teams client.
+- Updated Logic App, Automation Rule, and Analytics Rule creation workflows based on the current Sentinel experience.
+- Replaced legacy Cloud App Security file policy steps with the Microsoft Purview DLP workflow.
+- Added and refined notes, guidance, and learner-facing instructions for improved clarity.
+
+### Screenshot Update
+
+- Added and refreshed screenshots across the lab to match the current Microsoft Defender, Sentinel, Purview, and Teams user interfaces.
+- Updated screenshot callouts and visual references to align with the latest instructions.
+- Added new screenshots for steps that previously relied on text-only guidance.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-18
+
+### Testing Scope
+
+- Performed end-to-end validation of the lab after implementing all updates.
+- Verified Exercises against the latest portal experience.
+- Confirmed that instructions, navigation paths, and screenshots are aligned and accurate.
+- Validated Microsoft Defender XDR, Microsoft Sentinel, Microsoft Purview, and Microsoft Teams workflows.
+- Reviewed updated content for formatting, consistency, and usability.
+
+-------------
+
+</details>
+<details>
   <summary>2026-03-10</summary>
 
 ## Release Date: 2026-03-10

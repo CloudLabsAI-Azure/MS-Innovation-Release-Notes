@@ -16,6 +16,41 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-02</summary>
+
+## Release Date: 2026-11-02
+
+### Summary of Changes
+
+Performed comprehensive end-to-end validation of all Microsoft Defender for Cloud lab modules, updated company context for consistency across all lab scenarios (Contoso → Zava), refreshed screenshots to reflect the latest Azure portal experience, and refined instructional wording and grammar throughout the guide for improved clarity and consistency.
+
+### Infrastructure Changes
+
+NA
+
+### Content Changes
+
+- Updated instructions and corrected grammatical errors.
+- Refreshed screenshots to match the latest Azure portal experience.
+- Added a note explaining that dashboard numbers may vary depending on the user's environment.
+
+### Screenshot Updates
+
+- Updated the lab guide images to match the latest UI.
+- Refreshed screenshots to match the latest Azure portal experience.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-02
+
+### Testing Scope
+
+Validated all Microsoft Defender for Cloud lab modules, including instructions, navigation steps, screenshots, and company references, and verified that the screenshots reflect the latest Azure portal experience. The content was also reviewed for grammatical and formatting issues.
+
+----
+</details>
+
+<details>
   <summary>2026-09-07</summary>
 
 ## Release Date: 2026-09-07
@@ -94,6 +129,10 @@ NA
 ### Testing Scope 
 Validated all Microsoft Defender for Cloud lab modules, including instructions, navigation steps, screenshots, and company references, and verified that the screenshots reflect the latest Azure portal experience. The content was also reviewed for grammatical and formatting issues.
 
+----
+</details>
+
+<details>
   <summary>2026-08-19</summary>
 
 ## Release Date: 2026-08-19
