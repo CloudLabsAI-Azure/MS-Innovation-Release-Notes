@@ -16,6 +16,39 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-24</summary>
+
+## Release Date: 2026-11-24
+
+### Summary of Changes
+
+Updated the lab guide to improve the overall lab experience by enhancing the lab scenarios, refining the step-by-step instructions, refreshing screenshots to reflect the latest product experience, and introducing the lab validation feature. Performed negative testing to validate the feature and documented the validation workflow.
+
+### Infrastructure Changes
+
+- Updated the Azure Policy to allow the deployment of the **Standard_D2s_v5** VM SKU, replacing the previously used **Standard_D2s_v3**, which is now deprecated.
+
+### Content Changes
+
+- Updated the lab guide instructions to align with the latest UI changes.
+
+ ### Screenshot Updates
+
+- Exercise 1 , Task 1 , Step 9 : Screenshot updated as per UI Updates.
+- Exercise 3 , Task 2 , Step 4-7  : Screenshot updated as per UI Updates.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-24
+
+### Testing Scope 
+
+- Performed comprehensive end-to-end testing to validate the complete lab workflow. Conducted negative testing for the Lab Validation feature, Custom RBAC, and Custom Azure Policy to verify their expected behavior and functionality. Updated the lab content to improve clarity, accuracy, and the overall user experience.
+
+---
+</details>
+
+<details>
   <summary>2026-07-20</summary>
 
 ## Release Date: 2026-07-20
