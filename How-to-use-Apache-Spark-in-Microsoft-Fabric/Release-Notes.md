@@ -89,7 +89,7 @@ NA
 * Verified navigation, step order, and learner guidance across all affected exercises.
 
 ---
-
+</details>
 <details>
   <summary>2026-10-05</summary>
 
