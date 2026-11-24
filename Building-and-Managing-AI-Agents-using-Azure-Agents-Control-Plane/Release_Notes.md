@@ -18,6 +18,47 @@ Email Support: [cloudlabs-support@spektrasystems.com](mailto:cloudlabs-support@s
 # Release Notes
 
 <details>
+  <summary>2026-11-24</summary>
+
+## Release Date: 2026-11-24
+
+### Summary of Changes
+
+* Made the lab guide easier to scan: added icons to the main section headings on the Introduction and Getting Started pages and in Exercises 1–3.
+* Simplified GitHub sign-in: learners now copy their GitHub username directly from the guide instead of building it from the deployment ID.
+* Fixed the Exercise 3 Agent ID federation check, which failed with `argument --id: expected one argument`. Learners can now finish the Subject, Issuer and Audience comparison without errors, and the guide tells them what to record if Agent ID isn't onboarded.
+* Refreshed screenshots so they match the current portal and VS Code screens.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+* **Introduction and Getting Started**
+   * Added icons to the section headings on the Lab Introduction and Getting Started pages.
+   * Getting Started, **Accessing GitHub**: the GitHub username now uses the `GitHub User Name` inject key with a copy button, instead of a username built from the deployment ID.
+* **Exercises 1, 2 and 3**
+   * Added icons to the **Scenario**, **Overview**, **Objectives** and **Completion Checklist** headings.
+* **Exercise 3**
+   * **Step 3.7, Verify Secretless Federation:** the script now reads `$bpAppId` from `AGENT_IDENTITY_BLUEPRINT_APP_ID` in the azd environment. Before this fix the variable was never set, so the command failed.
+   * Updated the note under the federation check. It explains that if the `--id` error still appears, Agent ID onboarding hasn't completed and the learner should record **not onboarded**.
+
+### Screenshot Updates
+
+* Updated a few screenshots in the lab guide to make the steps easier to follow.
+
+### Testing Notes
+
+* Testing Date: 2026-11-24
+
+### Testing Scope
+
+* End-to-end walkthrough of the Getting Started page and Exercises 1–3. Verified that the GitHub username inject key displays correctly, the updated screenshots match the current portal and VS Code screens, and the Exercise 3 federation check runs without errors.
+
+</details>
+
+<details>
   <summary>2026-10-09</summary>
 
 ## Release Date: 2026-10-09
