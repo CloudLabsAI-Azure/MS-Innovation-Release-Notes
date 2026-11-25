@@ -26,7 +26,7 @@ Updated the lab guide to improve the overall lab experience by enhancing the lab
 
 ### Infrastructure Changes
 
-- Updated the Azure Policy to allow the deployment of the **Standard_D2s_v5** VM SKU, replacing the previously used **Standard_D2s_v3**, which is now deprecated.
+- Updated the Azure Policy to allow the deployment of the **Standard_D2s_v5** VM SKU, replacing the previously used **Standard_D2s_v3**.
 
 ### Content Changes
 
