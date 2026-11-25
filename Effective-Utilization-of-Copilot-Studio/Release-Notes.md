@@ -18,6 +18,65 @@ This repository contains detailed notes about the latest updates and modificatio
 # Release Notes
 
 <details>
+  <summary>2026-11-25</summary>
+
+## Release Date: 2026-11-25
+
+### Summary of Changes
+
+Updated the lab to match the current Copilot Studio portal. Standard agents are now created from the **Explore what else is possible with agents** card on the Home page (also reachable from **Agents > New agent dropdown > Agent (Standard)**), which replaces the previous **Other ways to build** wording. The guides for the Getting Started page and Labs 01–05 were re-tested end to end and updated with the current steps, labels and screenshots.
+
+### Infrastructure Changes
+
+N/A
+
+## Content Changes
+
+- Updated the lab guide instructions to match the latest terminologies (**Explore what else is possible with agents**, **Agent (Standard)**, **Conversational boosting**, **Add from description with Copilot**, **+ New option**, **No authentication**).
+- Getting Started: corrected the sign-in step numbering, described the new Home page cards (including the Workflow and App (preview) cards that are not used), and updated the support link.
+- Lab 02: added the current steps to open the Greeting topic from the test activity view, a note for when **Save** only closes the editor, and the overflow tab (**+N**) note for reaching **Channels**; renumbered steps and fixed broken image references.
+- Lab 02 (Teams and demo website): updated the **See agent in Teams** step, the **No authentication** note, and added a tip to keep the demo-site welcome message short.
+- Lab 03 to Lab 05: aligned labels and steps with the current UI (for example the **Conversational boosting** system topic and the tool **Completion** settings).
+
+### Screenshot Updates
+
+- Updated the lab guide images to match the latest UI. The screenshots were retaken in the new Copilot Studio portal (the redesigned Home page, the **Agents** page and the current Test your agent, Topics, Channels and tool screens) because the earlier images showed the old layout, the Old (Classic) experience or labels that have since changed.
+- Three images are new (Lab 02 Task 3): they support the Teams channel steps, which previously had no screenshot.
+- Getting Started, Step 8: updated the screenshot (Home page **Explore what else is possible with agents** card).
+- Lab 02, Task 1, Step 1: updated the screenshot (Home page card used to start a standard agent).
+- Lab 02, Task 1, Step 2: updated the screenshot (**Agent (Standard)** option).
+- Lab 02, Task 1, Step 4: updated the screenshot (testing the agent).
+- Lab 02, Task 1, Step 6: updated the screenshot (Greeting topic opened from the test activity view).
+- Lab 02, Task 1, Step 10: updated the screenshot (Topics page and overflow tab menu).
+- Lab 02, Task 3, Step 3: updated the screenshot (Channels, Microsoft 365 and Microsoft Teams).
+- Lab 02, Task 3, Step 4: added the screenshot (new image, Microsoft 365 channel pane).
+- Lab 02, Task 3, Step 5: added the screenshot (new image, **See agent in Teams**).
+- Lab 02, Task 4, Step 8: updated the screenshot (Demo Website welcome message and conversation starter).
+- Lab 02, Task 4, Step 10: updated the screenshot (demo website chat response).
+- Lab 03, Task 1, Step 6: updated the screenshot (message node with a variable).
+- Lab 03, Task 2, Step 13: updated the screenshot (entity and prompt settings).
+- Lab 04, Task 1, Step 1: updated the screenshot (**New agent** dropdown, **Agent (Standard)**); the same screenshot is also used in Lab 04 Task 2 Step 1 and Lab 05 Task 1 Step 1.
+- Lab 04, Task 1, Step 5: updated the screenshot (model selection).
+- Lab 04, Task 1, Step 14: updated the screenshot (**System** topics list).
+- Lab 04, Task 1, Step 17: updated the screenshot (generative answers prompt box).
+- Lab 04, Task 1, Step 24: updated the screenshot (fallback response in **Test your agent**).
+- Lab 05, Task 1, Step 6: updated the screenshot (Trigger node description).
+- Lab 05, Task 1, Step 14: updated the screenshot (tool node inputs).
+- Lab 05, Task 2, Step 8: updated the screenshot (tool **Completion** settings).
+- Lab 05, Task 2, Step 15: updated the screenshot (Weather agent asking for the location).
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-24
+
+### Testing Scope
+
+Performed end-to-end validation of the Overview/Login page and Getting Started plus Labs 01–05 using standard agents created through the new Copilot Studio portal, on two lab instances (a second instance was used to cross-verify).
+
+---
+</details>
+
+<details>
   <summary>2026-11-05</summary>
 
 ## Release Date: 2026-11-05
