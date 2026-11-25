@@ -17,6 +17,56 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-24</summary>
+
+## Release Date: 2026-11-24
+
+### Summary of Changes
+
+This update enhances the **Microsoft Purview** lab by updating instructions and screenshots to align with the latest Microsoft Purview, Exchange admin center, and OneDrive experiences. The update includes navigation refinements, role group configuration updates, new troubleshooting notes for pop-ups learners may encounter, screenshot additions and replacements, and formatting fixes across Labs 01–12.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+- Corrected callout numbering in **Lab 01 - Configure Sensitivity Labels** and fixed screenshot formatting in **Lab 02 - Creating Labeling Policies**.
+- Expanded the transport rule completion steps in **Lab 03 - Configure Message Encryption** to include the **Finish** and **Done** actions and the success confirmation.
+- Added the **Apply** and **Work finished** > **Close** steps to the AIP Unified Labeling Client instructions in **Lab 04**.
+- Added a note in **Lab 05** for the **Your privacy matters** pop-up that may appear when Outlook opens.
+- Updated the Security Administrator role group assignment in **Lab 06** to follow the current **Members** tab experience (**Add member** > **Choose users**).
+- Updated the navigation path to **Setup & configuration > Settings > Endpoints** in **Lab 07**, and rewrote the OneDrive setup wizard steps screen by screen.
+- Updated role group membership steps in **Labs 11 and 12** to match the current Insider Risk Management permissions experience.
+- Added notes for the optional **Warning** confirmation pop-up in **Labs 06, 11, and 12**.
+- Clarified the simulation confirmation step in **Lab 10**.
+- Corrected task wording and title spacing in **Labs 08 and 09**.
+
+### Screenshot Updates
+
+- Added new screenshots for transport rule completion in **Lab 03**.
+- Added new screenshots for the Apply and Work finished steps in **Lab 04** and the Outlook privacy pop-up in **Lab 05**.
+- Added new screenshots for the role group configuration steps in **Labs 06, 11, and 12**.
+- Added new screenshots for the OneDrive setup wizard in **Lab 07**.
+- Replaced outdated screenshots in **Getting Started** and **Labs 01, 03, 05, 07, and 12** to reflect the latest portal UI.
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-24
+
+### Testing Scope
+
+- Performed end-to-end testing and validation of the updated lab guide.
+- Verified updated screenshots against the current Microsoft Purview, Exchange admin center, and OneDrive UI.
+- Validated updated navigation paths, task flows, and configuration steps.
+- Reviewed formatting, callout numbering, screenshot references, and instructional consistency throughout the lab guide.
+- Confirmed the updated procedures function as expected in the current portal experience.
+
+---
+
+</details>
+
+<details>
   <summary>2026-10-13</summary>
 
 ## Release Date: 2026-10-13
