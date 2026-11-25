@@ -16,6 +16,120 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-25</summary>
+
+## Release Date: 2026-11-25
+
+### Summary of Changes
+
+Updated the Lab 01 (Use Delta tables in Apache Spark) and Lab 02 (Ingest data with a pipeline) guides and the lab overview page to match the current Microsoft Fabric UI. The update renames outdated UI terms and adds steps for new pop-ups and wizard pages.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+**Lab Overview (overview-01.md)**
+- Updated terminology to current Microsoft Fabric naming: OneLake, lakehouse, pipelines, and the Microsoft Fabric (Free) license prerequisite.
+- Clarified the architecture and component descriptions; OneLake replaces the generic "Data Lake" component.
+- Fixed wording in the Getting Started section, for example **Start, Stop, or Restart (2)** and "in the top-right corner".
+
+**Lab 01 – Use Delta tables in Apache Spark**
+- **Task 1 (Create a workspace):**
+  - Clearer sign-in step and a conditional **Stay signed in?** step.
+  - New step for the **Microsoft Fabric (Free) license assigned** pop-up.
+  - Steps updated for the new left navigation.
+  - **License mode** is now **Workspace type: Fabric**, **Advanced** is expanded by default, and **Add people and groups** is now **Add people or groups**.
+- **Task 2 (Create a lakehouse and upload data):**
+  - Added a New item filter step.
+  - **Lakehouse Scheme** is now **Lakehouse schemas** (learners clear the checkbox).
+  - Added a note about the new Context and SystemContext folders.
+- **Task 3 (Explore data in a dataframe):**
+  - **Skip tour** is now **Skip for now**.
+  - Hover-then-ellipsis steps for **Load data**.
+- **Task 4 (Create delta tables):**
+  - **+ Code** is now **+ Add cell**.
+  - The Explorer heading **Items** is now **OneLake**.
+  - Hover-then-ellipsis step for **Copy ABFS path**.
+- **Task 6 (Streaming):** Added a note to stop the Spark session before starting Lab 02.
+
+**Lab 02 – Ingest data with a pipeline**
+- **Task 1 (Create a pipeline):**
+  - The **Copy data** wizard is now the **Copy job** wizard.
+  - Steps now use the **OneLake catalog** tab.
+  - New **Connection settings** step: leave it set to **(none)**.
+  - **Row delimiter** now defaults to **Default (\r,\n, or \r\n)**.
+  - Updated the **Settings**, **Map to destination**, **Review + save**, and **Create succeeded** steps.
+  - Restored the **Run** and **Save and run** steps and the "Copy job connection is required" Note, which sends learners to Step 25 when there is no error.
+  - The connection fix is a set of numbered steps: **Settings** > **Connection** > **Browse all** > **Copy job** > sign in > **Connect** > **Run** > **Save and run**.
+- **Task 2 (Create a notebook):**
+  - New first step to stop the Lab 01 Spark session from **Monitor**.
+  - Added a troubleshooting note on **Run all**.
+  - Updated the **+ Add cell**, **Toggle parameter cell**, and notebook **Settings** rename steps.
+- **Task 3 (Modify the pipeline):**
+  - The **Delete data** activity is now added from the **...** menu.
+  - **Enable logging** is selected by default, so learners now clear it.
+  - **Base parameters** now adds `table_name` automatically, so learners only change **Value** to `new_sales`.
+
+### Screenshot Updates
+
+All screenshots use the existing annotation style: 3 px red boxes on the element border, numbered corner badges, and a 2 px gray border. Deployment IDs, user names, and run IDs are blurred, and no mouse cursor is shown.
+
+**Lab 01 – Use Delta tables in Apache Spark (12)**
+
+| Screenshot | Task / Step | Change |
+|---|---|---|
+| `fab-ms-ex1-g1.png` | Task 1 – Enter sign-in details | Updated |
+| `fab-license-popup.png` | Task 1 – Microsoft Fabric (Free) license assigned pop-up | **New** |
+| `fabrichome.png` | Task 1 – Microsoft Fabric Home page and left navigation | Updated |
+| `L1T1S6c-2506.png` | Task 1 – Workspaces > + New workspace | Updated |
+| `L1T1S13.1-2302.png` | Task 1 – Create a workspace pane details | Updated |
+| `L1T1S9-2506.png` | Task 1 – New empty workspace with task flows | Updated |
+| `L1T2S1-2506.png` | Task 2 – + New item in the workspace | Updated |
+| `L1T2S4-2506.png` | Task 2 – Lakehouse explorer view | Updated |
+| `fab-ms-ex1-g19.png` | Task 3 – Notebook pop-up, Skip for now | Updated |
+| `fab-ms-ex1-g20.png` | Task 3 – Files > products folder | Updated |
+| `loaddata.png` | Task 3 – products.csv > ... > Load data | Updated |
+| `E1T4S1.png` | Task 4 – + Add cell for the managed table | Updated |
+| `cpabfs.png` | Task 4 – Files > ... > Copy ABFS path | Updated |
+
+**Lab 02 – Ingest data with a pipeline (16)**
+
+| Screenshot | Task / Step | Change |
+|---|---|---|
+| `L2T1S1-2506.png` | Task 1 – Open the workspace from the left navigation | Updated |
+| `E1T4S8i.png` | Task 1 – Copy job wizard: verify sampled data settings | Updated |
+| `l2T1S9a.png` | Task 1 – Choose data destination: Connection settings (none) | **New** |
+| `E1T4S12.png` | Task 1 – File format settings | Updated |
+| `l2T1S12.png` | Task 1 – Review + save | Updated |
+| `L2T1S14-1709.png` | Task 1 – Create succeeded, Copy job on canvas | Updated |
+| `upfab-ric-cor-g6.png` | Task 1 – Copy job connection: signed in, Connect | **New** |
+| `l2T1S14.png` | Task 1 – Output tab, Pipeline status Succeeded | Updated |
+| `L2T2-stopsession.png` | Task 2 – Monitor: stop the Lab 01 Spark session | **New** |
+| `L2T2-stopconfirm.png` | Task 2 – Confirm stopping the Spark session | **New** |
+| `ns-fab-g3.png` | Task 2 – Cell ... > Toggle parameter cell | Updated |
+| `fab-ms-ex1-g46.png` | Task 2 – + Add cell below the parameters cell | Updated |
+| `fab-ms-ex1-g50.png` | Task 2 – Notebook Settings: rename to Load Sales | Updated |
+| `L2T3S4.2-2302.png` | Task 3 – Delete data activity Source settings | Updated |
+| `L2T3S8b-2506.png` | Task 3 – Notebook activity settings and Base parameters | Updated |
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-25
+
+### Testing Scope 
+
+- Performed end-to-end testing of the lab, and all validations completed successfully without any issues.
+- Validated the updated lab instructions against the current Microsoft Fabric experience.
+- Verified that updated screenshots align with the corresponding lab steps.
+- Reviewed the lab guide for consistency, clarity, and minor content issues.
+- No changes were introduced to the underlying lab functionality or dependencies.
+
+---
+</details>
+
+<details>
   <summary>2026-09-18</summary>
 
 ## Release Date: 2026-09-01
