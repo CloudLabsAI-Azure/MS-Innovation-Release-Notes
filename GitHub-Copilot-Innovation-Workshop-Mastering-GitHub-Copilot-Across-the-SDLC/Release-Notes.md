@@ -16,6 +16,147 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-27</summary>
+
+## Release Date: 2026-11-27
+
+### Summary of Changes
+
+Updated the lab guide to match the current GitHub Copilot Chat UI in VS Code and the GitHub Agents page. Mode-switching steps now use the agent picker, the permission levels now match **Default permissions**, **Allow all** and **Autopilot (Preview)**, and the terminal steps follow the current menu path. Also clarified step wording across all exercises and replaced outdated screenshots with 53 new captures.
+
+### Infrastructure Changes
+
+N/A
+
+### Content Changes
+
+**Exercise 1 – Getting Started**
+- Fixed a formatting typo in the repository creation step ("selections :" → "selections:").
+
+**Exercise 2 – Understanding the Project**
+- Clarified how to find the **components** folder (**eCommApp (1)** → **src (2)**).
+- Added a check that the **components** folder appears in the chat input before learners submit the prompt.
+- Updated the "open a terminal" hint to the current menu path: **ellipse (...) (1)** → **Terminal (2)** → **New Terminal (3)**.
+
+**Exercise 3 – Code Editing**
+- Updated the Ask mode step to use the **agent picker**.
+- Updated the terminal step to the **ellipse (...)** → **Terminal** → **New Terminal** menu path.
+- Rewrote the permission levels table to match the current UI: **Default permissions** (recommended), **Allow all** and **Autopilot (Preview)**. These replace **Manual**, **Assisted** and **Allow all**.
+- Replaced the Autopilot note to explain that **Autopilot (Preview)** appears as a permission level in the Local harness, unlike the Copilot harness.
+- Updated the permissions step: select **Default permissions** at the bottom of the Chat view and keep it selected for the exercise.
+- Simplified the test review step to **Agent (1)** → **Ask (2)**.
+- Clarified the Ask → Agent switch and the **Default permissions** → **Allow all** step.
+- Moved the generated tests screenshot inside the solution section.
+
+**Exercise 4 – Agent Mode**
+- Updated the Plan mode step to **Agent (1)** → **Plan (2)**.
+- Added guidance to stay in the same chat when switching from Plan to Agent, so the agent can see the plan.
+- Clarified the Autopilot step: **Allow all (1)** → **Autopilot (Preview) (2)**.
+- Updated the pre-push step: confirm **Autopilot (Preview)** is selected, then switch to **Allow all** so Copilot can run Git commands without asking for approval.
+- Updated a reflection question to refer to "Autopilot".
+
+**Exercise 5 – Agentic Coding**
+- Split the GitHub issue content into separate **Add a title** and **Add a description** blocks.
+- Added the repository's **Agents** tab as another way to monitor cloud agent sessions.
+- Updated the Agents page steps: pick the repository through **Chat (Personal)** → **Work in a repository**.
+- Renamed **Active Tasks** to **Sessions** to match the current Agents page.
+- Moved the `gh auth login` screenshot below its command block.
+
+**Exercise 6 – MCP Servers**
+- Rewrote the MCP introduction to explain that MCP is an open standard, that MCP servers expose tools, and that GitHub Copilot (the MCP client) calls those tools in Agent mode.
+- Updated the mode-switch step to **Ask (1)** → **Agent (2)**.
+
+**Exercise 7 – Customizing Copilot**
+- Updated the Agent mode step to check that **Agent** is selected, and to switch to it from the dropdown if not.
+- Updated the Plan mode step to **Agent (1)** → **Plan (2)**.
+- Updated the custom agent step to **Agent (1)** → **Security Reviewer (2)**.
+
+Removed the old **+** → **Agent** menu steps throughout and refined instructions across all exercises for clarity.
+
+### Screenshot Updates
+
+Added 53 new screenshots under `media/` to replace outdated images across Labs 1–7. Every new screenshot is referenced in the lab guides, and every image path resolves to an existing file.
+
+**Lab 1 – Getting Started**
+- `resize.png`: Slider between the Virtual Machine and Lab Guide panes, used to adjust the layout (replaces `new/resize-vm-guide.png`).
+- `h.png`: GitHub homepage after signing in (replaces `new/e1-homepage-3.png`).
+- `1.png`: **Use this template** button on the repository (moved from `new/1.png`).
+- `gsnew.png`: VS Code color theme pop-up with **Get Started** (replaces `gs.png`).
+- `gcr.png`: **Clone Git Repository...** under **Start** in VS Code (replaces `new/Image_6.png`).
+- `n.png`: Pasting the repository URL and selecting **Clone from URL** (replaces `new/8-n.png`).
+
+**Lab 2 – Understanding the Project**
+- `mp.png`: **Model Picker** at the bottom of Copilot Chat showing the available AI models (replaces `switch-model1-2707-1-new.png`).
+- `ds.png`: **Delegate session** set to **Local** (replaces `delegate-session.png`).
+- `ms.png`: Choosing a different model to compare responses (replaces `models-selector1.png`).
+- `sa.png`: **Set Agent (1)** → **Ask (2)** (replaces `askmode-n.png`).
+- `c1.png`: Dragging the **components** folder into the Chat input as context (replaces `E2T2S2-2707.png`).
+- `c2.png`: Copilot's response to "Explain the contents of this folder" (replaces `E2T2S3-2707.png`).
+- `c3new.png`: Copilot's response to "Explain what this file contains" (replaces `E2T2S5-2707.png`).
+- `fp1.png`: Copilot's response to "Explain these lines of code" (replaces `E2T2S6-2707.png`).
+- `a7.png`: **ellipse (...)** → **Terminal** → **New Terminal** menu path in the hint (replaces `new/a7-n.png`).
+
+**Lab 3 – Code Editing**
+- `a7.png`: **ellipse (...)** → **Terminal** → **New Terminal** before running the tests (replaces `new/a7-n.png`).
+- `npm.png`: Output of `npm test` (replaces `E3S1S4-2707.png`).
+- `cc.png`: Code coverage report with the statements, branches, functions and lines metrics (replaces `code-coverage.png`).
+- `a10.png`: Running `npm test` after the first generated test (moved from `new/a10.png`).
+- `cp.png`: Using the `@CartPage.tsx` file reference in the prompt (replaces `E3S3S2-2707-1.png`). Also used in the agent mode prompt step (replaces `agent-mode.png`).
+- `am.png`: Switching from **Ask (1)** to **Agent (2)** mode (replaces `agent-mode-1-n.png`). Also added to the step that switches to Agent mode to apply the review suggestions.
+- `dp.png`: **Default permissions** menu showing the available permission levels (replaces `perm-2-new.png`).
+- `gr.png`: Generated CartPage unit tests, shown in the solution section (replaces `new/E3S3S3.png`).
+- `sa.png`: **Agent (1)** → **Ask (2)** to review the unit tests (replaces `switch-model2-2707-2.png` and `E7S3S11-n.png`).
+- `pp.png`: Testing best practices review prompt (replaces `exc3-best-practices-prompt.png`).
+- `aa.png`: **Default permissions (1)** → **Allow all (2)** (replaces `new/allow-1.png`).
+
+**Lab 4 – Agent Mode**
+- `npt.png`: **New:** baseline output of `npm run test:coverage` before delegating to the agent.
+- `plan.png`: **Agent (1)** → **Plan (2)** to switch to Plan mode (replaces `switch-model2-2707-2.png` and `E4S2S1-2707-n.png`).
+- `crp.png`: Implementation plan generated by Copilot for the code coverage improvement (replaces `E4S2S2-2707.png`).
+- `auto.png`: **Allow all (1)** → **Autopilot (Preview) (2)** (replaces `new/auto-1.png`).
+- `cov.png`: Coverage report after the agent's changes, showing the 80% goal (replaces `coverage-80-perc-2707.png`).
+- `a2a.png`: **New:** switching from **Autopilot (Preview)** to **Allow all** before running the Git commands.
+- `gp.png`: Commit and push of the changes (replaces `git-push-2707.png`).
+
+**Lab 5 – Agentic Coding**
+- `c7.png`: Copilot's `👀` reaction on the assigned issue (moved from `new/c7.png`).
+- `pr.png`: Pull Request link in the **Development** section of the issue sidebar (replaces `new/E5S2S2-2707.png`).
+- `pr1.png`: Draft Pull Request with the description Copilot generated (replaces `new/E5S2S3-2707.png`).
+- `vs.png`: **View Session** button in the Pull Request timeline (replaces `new/E5S2S4-2707.png`).
+- `np.png`: Agent mode pulling the latest changes into the local repository (replaces `new/pull-2707.png`).
+- `ra.png`: Running the application with the new Contact Us page (replaces `new/E5S2S10a-2707.png`).
+- `ngh.png`: Creating the FAQ page GitHub issue from VS Code and assigning it to the cloud agent (replaces `new/gh-issue1-2707.png`).
+- `gha.png`: GitHub Agents page at `github.com/copilot/agents` (replaces `e5-agent-page-new.png`).
+- `gha2.png`: **Chat (Personal) (1)** → repository under **Work in a repository (2)** (replaces `new/e5-copilot-agent.png`).
+- `gha3.png`: Task description text box (replaces `new/e5-copilot-agent2.png`).
+- `gha4.png`: Submitting the "Add a search bar" task (replaces `new/e5-copilot-agent3.png`).
+- `gha5.png`: Task in progress in the **Sessions** section (replaces `new/e5-copilot-agent4.png`).
+- `gha6.png`: Completed task with changes ready for a pull request (replaces `new/agents2-2707.png`).
+
+**Lab 6 – MCP Servers**
+- `e5.png`: GitHub MCP registry at `github.com/mcp` (moved from `new/e5.png`).
+- `q6.png`: GitHub server **Install (1)** → **Install in VS Code (2)** (moved from `new/q6.png`).
+- `am.png`: Switching from **Ask (1)** to **Agent (2)** mode (replaces `switch-model2-2707-2.png`).
+
+**Lab 7 – Customizing Copilot**
+- `agent.png`: **Agent** selected as the chat mode (replaces `switch-model2-2707-2.png`).
+- `ins.png`: **Open customization** → **Instructions** → **Generate** (replaces `new/create-instructions.png`).
+- `plan.png`: **Agent (1)** → **Plan (2)** (replaces `switch-model2-2707-2.png` and `E4S2S1-2707-n.png`).
+- `pl1.png`: Plan for the favorite products feature (replaces `new/E7S3S1a-2707.png`).
+- `pro.png`: **Open customization** → **Prompts** → **Generate with AI** (replaces `new/create-prompt-2707.png`).
+- `ca.png`: **Open customization** → **Agents** → **Generate With AI** (replaces `new/create-agent-1-2707.png`).
+- `sm.png`: **Agent (1)** → **Security Reviewer (2)** custom agent (replaces `switch-model2-2707-2.png` and `secreview.png`).
+- `sec.png`: Security Reviewer's vulnerability review of the application (replaces `security-audit-2707-new.png`).
+
+### Testing Notes
+
+- **Testing Date:** 2026-11-27
+- **Testing Scope:** Checked that the updated instructions match the current VS Code GitHub Copilot Chat and GitHub Agents page UI. Confirmed the steps are in the correct order and their numbered callouts match the new screenshots. Verified that every image path in Labs 1–7 points to an existing file and that all new screenshots are referenced. Checked the formatting and terminology for consistency across all labs.
+
+---
+</details>
+
+<details>
   <summary>2026-11-04</summary>
 
 ## Release Date: 2026-11-04
