@@ -15,6 +15,48 @@ For any further details or inquiries, feel free to reach out to the CloudLabs su
 
 
 # Release Notes
+
+<details>
+  <summary>2026-11-26</summary>
+
+## Release Date: 2026-11-26
+
+### Summary of Changes
+
+This release improves the learner experience by aligning the lab guide with the latest Microsoft Foundry interface, adding a lab overview to every lab, improving readability across the workshop, and correcting a few instruction and sample-code issues so learners can complete each task smoothly.
+
+### Infrastructure Changes
+
+- N/A
+
+### Content Changes
+
+- Added a **Lab Overview** section to Lab 01, Lab 02, and Lab 03 so learners know what they will build before they start.
+- Improved readability across all labs by highlighting key terms and breaking long steps into short, easy-to-follow points.
+- Getting Started: Updated the prerequisites, simplified the architecture description, and corrected the step numbering.
+- Lab 01 > Task 1: Updated the Microsoft Foundry navigation steps to match the latest portal experience.
+- Lab 01: Updated terminology to **OpenAI Python SDK** to accurately describe the tool used in the lab.
+- Lab 02 > Exercise 2: Corrected a tool name in the multi-agent workflow instructions.
+
+### Screenshot Updates
+
+- Updated the navigation page diagram. 
+- Getting Started: Refreshed the architecture diagram
+- Lab 01 > Task 1: Updated the Microsoft Foundry screenshots (Steps 2 to 5) to reflect the latest portal experience.
+- Lab 03 > Task 1: Refreshed the `.env` configuration screenshot.
+- Sensitive details such as IDs, endpoints, and subscription information are masked in all updated screenshots.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-24
+
+### Testing Scope
+
+Validated the lab environment, sign-in experience, and Microsoft Foundry portal steps against the current product experience, and confirmed that the updated instructions, sample code, and screenshots are accurate and consistent with the workshop flow.
+
+---
+</details>
+
 <details>
   <summary>2026-11-03</summary>
 
