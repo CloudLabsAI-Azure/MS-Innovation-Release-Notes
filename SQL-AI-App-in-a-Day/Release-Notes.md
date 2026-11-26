@@ -17,6 +17,113 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+<summary>2026-11-26</summary>
+
+## Release Date: 2026-11-26
+
+## Summary of Changes
+
+Updates were made to the lab environment and the lab guide to fix deployment issues, correct inaccurate content, align with the latest Microsoft Foundry UI, and refresh screenshots.
+
+## Infrastructure Changes
+
+* Updated the VM size to **Standard_D2ds_v5**. This removes the paging-file warning learners saw at VM sign-in.
+* Fixed the model quota check, which reported **Insufficient quota** even when quota was available. It now checks only the lab's deployment region and works on shared subscriptions.
+
+## Content Changes
+
+### Getting Started
+
+* **Sign in to the Azure Portal:** Improved the sign-in steps.
+* **Overview, Objectives and Architecture:** Updated these sections to cover all six labs.
+* **Architecture diagram:** Updated with corrected labels and current official icons.
+
+### Lab 01
+
+**Task 1**
+
+* **Step 1:** Points learners to the Azure portal tab they signed in to on the Getting Started page.
+
+**Task 5**
+
+* **Example 3, Step 11:** Corrected the explanation of which clinical cases text search misses, to match the lab data.
+* **Example 4, Step 13:** Corrected the explanation of which unrelated diagnoses `LIKE '%MI%'` matches.
+
+### Lab 02
+
+**Task 1**
+
+* **Step 2:** Updated for the latest **Microsoft Foundry** UI.
+* **Step 5:** Clarified that the Foundry endpoint must keep the trailing slash.
+
+**Tasks 3 and 4**
+
+* Clarified that the endpoint must keep the trailing slash and match the credential name.
+
+### Lab 03
+
+**Task 1**
+
+* **Steps 4–5:** Added the instruction to click **Execute** and changed the expected result to match the screenshot.
+
+### Lab 04
+
+**Task 3**
+
+* **Step 2:** Added the instruction to click **Execute**.
+
+**Task 5**
+
+* **Examples 2 and 3:** Corrected SQL comments and result descriptions to match the lab data. Added a note explaining the difference between the vector search results and the text-based search results.
+
+### Lab 05
+
+**Task 1**
+
+* **Step 4:** Corrected a misleading comment in the stored procedure.
+
+**Task 3**
+
+* **Steps 1–2:** Clarified the instructions and corrected the similarity formula (`1 - distance`).
+
+**Task 4**
+
+* **Step 1:** Now states the weights explicitly.
+* **Steps 2 and 4:** Added score-column screenshots and an explanation of keyword-only matches.
+
+### Lab 06
+
+**Task 1**
+
+* **Steps 2–3:** Updated the screenshots to the latest Microsoft Foundry UI.
+* **Step 4:** Clarified that the endpoint must keep the trailing slash.
+
+**Task 4**
+
+* **Steps 2 and 4:** Added explicit **Execute** steps for the low and high reasoning runs.
+* **Step 5:** Clarified how to compare the results when a run is rate limited.
+
+## Screenshot Updates
+
+* Updated screenshots to the new Microsoft Foundry UI.
+* Re-captured or blurred screenshots that showed sensitive details.
+* Re-captured incomplete result screenshots, and added new score-column screenshots in Lab 05.
+
+## Testing Notes
+
+**Testing Date:** 2026-11-26
+
+### Testing Scope
+
+* Validated the lab deployment with the updated **Standard_D2ds_v5** VM size and confirmed that the paging-file warning no longer appears.
+* Validated that the quota check reports the correct quota for the deployment region.
+* Tested the lab end-to-end, from Getting Started through Lab 06.
+* Updated the lab guide and verified that the instructions, task and step numbers, and screenshots match the current Azure portal and Microsoft Foundry UI.
+* Verified that the query results described in the guide match the lab data and that all images.
+
+</details>
+
+<details>
 <summary>2026-09-29</summary>
 
 ## Release Date: 2026-09-29
