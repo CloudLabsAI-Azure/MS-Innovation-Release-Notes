@@ -26,7 +26,7 @@ Updated the Lab 01 (Use Delta tables in Apache Spark) and Lab 02 (Ingest data wi
 
 ### Infrastructure Changes
 
-N/A
+- Updated the VM size from **Standard_B2s** to **Standard_D2s_v5**.
 
 ### Content Changes
 
