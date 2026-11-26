@@ -18,6 +18,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-26</summary>
+
+## Release Date : 2026-11-26
+
+### Summary of Changes
+
+Updated the Getting Started guide and Lab 1 and Lab 2 instructions. In Lab 2, replaced six screenshots to reflect the current Fabric Data Agent and Copilot Studio interfaces.
+
+### Infrastructure Changes
+
+- No infrastructure files were changed.
+
+### Content Changes
+
+- **Getting Started:** Updated the lab objectives, architecture description, and core components list, added a prerequisite, and made minor wording and formatting corrections.
+
+- **Lab 1:** Updated the overview, objectives, task descriptions, and summary. Made wording, capitalization, punctuation, and formatting corrections in the lab instructions.
+
+- **Lab 2:** Updated Copilot Studio navigation instructions and the closing summary, and made wording and formatting corrections across the guide.
+
+### Screenshot Updates
+
+- **Lab 2 — Task 1: Create and Configure a Microsoft Fabric Data Agent**
+  - `fab8.png` — selecting tables in the Data Agent Explorer.
+  - `publish.png` — publishing the Data Agent.
+  - `l2t1s11.png` — validating the Data Agent with an order-count prompt.
+
+- **Lab 2 — Task 2: Implement and Validate an End-to-End Copilot Agent with Fabric Data Agent Integration**
+  - `oct-26-updates-5.png` — choosing the agent-building option in Copilot Studio.
+  - `nov26-chat-with-data-fabric-19.png` — selecting the standard agent.
+  - `lab2-40.png` — validating the agent with an order-count prompt.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-26
+
+### Testing Scope
+
+- Reviewed the updated Getting Started guide, Lab 1, and Lab 2 instructions for accuracy, wording, and formatting.
+
+- Reviewed the six replaced Lab 2 screenshots to ensure they accurately represent the current Fabric Data Agent and Copilot Studio interfaces.
+
+---
+
+</details>
+
+<details>
   <summary>2026-11-06</summary>
 
 ## Release Date : 2026-11-06
