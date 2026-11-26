@@ -16,6 +16,42 @@ This Page contains detailed notes about the latest updates and modifications mad
 # Release Notes
 
 <details>
+  <summary>2026-11-26</summary>
+
+## Release Date: 2026-11-26
+
+### Summary of Changes
+
+- Refreshed the lab guide, architecture diagram, and screenshots to align with the latest Microsoft Fabric portal UI and terminology. Performed end-to-end testing across the lab to validate the updated content and workflow.
+
+### Infrastructure Changes
+
+- Updated the VM SKU from **Standard D2s v3** to **Standard D2s v5.**
+
+### Content Changes
+
+- Updated lab instructions across the exercises to reflect the latest Microsoft Fabric portal UI changes.
+- Refreshed the lab guide to align with the latest Microsoft terminology.
+- Updated the architecture diagram to reflect the latest terminology and naming conventions.
+
+### Screenshot Updates
+
+- **Minor updates**: A few screenshots were refreshed to reflect the latest UI changes. Corresponding instruction text was reviewed and adjusted to match the updated visuals, ensuring consistency between steps and images.
+      
+### Testing Notes
+
+- **Testing Date**: 2026-11-26
+
+### Testing Scope 
+
+- Performed complete end-to-end lab testing with the new content. Verified all instructions, interactions, and user flows with the latest UI. 
+- Updated the lab guide content and screenshots where necessary to ensure full compatibility with current platform behavior.
+
+---
+</details>
+
+
+<details>
   <summary>2026-05-28</summary>
 
 ## Release Date: 2026-05-28
