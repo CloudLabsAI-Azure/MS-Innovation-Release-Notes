@@ -18,6 +18,53 @@ This Page contains detailed notes about the latest updates and modifications mad
 ## Release Notes
 
 <details>
+  <summary>2026-11-26</summary>
+
+## Release Date : 2026-11-26
+
+### Summary of Changes
+
+Updated the Getting Started guide and Lab 1 and Lab 2 instructions. In Lab 2, replaced six screenshots to reflect the current Fabric Data Agent and Copilot Studio interfaces.
+
+### Infrastructure Changes
+
+- No infrastructure files were changed.
+
+### Content Changes
+
+- **Getting Started:** Updated the lab objectives, architecture description, and core components list, added a prerequisite, and made minor wording and formatting corrections.
+
+- **Lab 1:** Updated the overview, objectives, task descriptions, and summary. Made wording, capitalization, punctuation, and formatting corrections in the lab instructions.
+
+- **Lab 2:** Updated Copilot Studio navigation instructions and the closing summary, and made wording and formatting corrections across the guide.
+
+### Screenshot Updates
+
+- Lab 2, Task 1, Step 6: Updated the screenshot to reflect the current Data Agent Explorer interface for selecting tables.
+
+- Lab 2, Task 1, Step 7: Updated the screenshot to reflect the current Publish option for the Data Agent.
+
+- Lab 2, Task 1, Step 11: Updated the screenshot to show the correct response for the order-count prompt in the Data Agent.
+
+- Lab 2, Task 2, Step 3: Updated the screenshot to reflect the current Copilot Studio Home screen option for building an agent.
+
+- Lab 2, Task 2, Step 4: Updated the screenshot to reflect the current Agent (Standard) selection screen.
+
+- Lab 2, Task 2, Step 33: Updated the screenshot to show the correct response for the order-count prompt in the Copilot agent in Teams.
+
+### Testing Notes
+
+- **Testing Date**: 2026-11-26
+
+### Testing Scope
+
+- Reviewed the updated Getting Started guide, Lab 1, and Lab 2 instructions for accuracy, wording, and formatting.
+
+---
+
+</details>
+
+<details>
   <summary>2026-11-06</summary>
 
 ## Release Date : 2026-11-06
